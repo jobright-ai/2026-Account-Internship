@@ -61,13 +61,13 @@ For a complete list, click the following sortable link below:
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Tax Intern – Business & Financial Analysis](https://jobright.ai/jobs/info/69505c4ece13cd10565845f7?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I](https://jobright.ai/jobs/info/69504c7e29655e4dd65992b5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 27 |
 | **[Cronus Capital Management LLC](www.cronusam.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/695049cb29655e4dd6599295?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 27 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Finance Intern - Talent Pool](https://jobright.ai/jobs/info/695049baa2668b7f54534c19?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 27 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Financial Analysis Intern](https://jobright.ai/jobs/info/69503c3229655e4dd659775b?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 27 |
 | ↳ | **[Financial Analysis Intern](https://jobright.ai/jobs/info/695037c1ce13cd105658278d?utm_campaign=1052&utm_source=git)** | 135 South LaSalle Street, Suite 2250, Chicago, Illinois, 60604, US | On Site | Dec 27 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Trade Support Analyst](https://jobright.ai/jobs/info/69502d6cce13cd105658222a?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
 | ↳ | **[2026 Summer Intern - Capital Markets Group Analyst](https://jobright.ai/jobs/info/69502bff29655e4dd6596f3f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Fyntrix One](fyntrixone.us)** | **[Tax Intern](https://jobright.ai/jobs/info/69502981a2668b7f545327e2?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Dec 27 |
 | **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Accounting Intern](https://jobright.ai/jobs/info/695022e629655e4dd6596ed5?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 27 |
+| **[Wiss](http://www.wiss.com)** | **[Intern, CAAS Advisory (Spring 2027)](https://jobright.ai/jobs/info/6950b92429655e4dd659f5ff?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Dec 27 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Winter](https://jobright.ai/jobs/info/6916f4526f36db06ef05b757?utm_campaign=1052&utm_source=git)** | Cobden, Ontario, Canada | On Site | Dec 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/6933685ca0dde7020e2ed968?utm_campaign=1052&utm_source=git)** | Enfield, Nova Scotia, Canada | On Site | Dec 27 |
 | **[Thrivent](https://www.thrivent.com)** | **[Financial Services Field Internship](https://jobright.ai/jobs/info/69335168f131d96e48461de4?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 27 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Dec 27 |
 | **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Accounting Intern-Summer 2026](https://jobright.ai/jobs/info/694f9300a2668b7f5452bc2b?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Dec 27 |
 | **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Finance Department Intern](https://jobright.ai/jobs/info/694f6eaf29655e4dd658f3d7?utm_campaign=1052&utm_source=git)** | Orlando, Florida, USA | On Site | Dec 26 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6950b92929655e4dd659f637?utm_campaign=1052&utm_source=git)** | Davenport, IA | Hybrid | Dec 26 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/694469aadd382f5f566a894c?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Accounting - Accounting Intern](https://jobright.ai/jobs/info/694f46fdce13cd10565771c2?utm_campaign=1052&utm_source=git)** | Chippewa Falls, WI | On Site | Dec 26 |
 | ↳ | **[Accounting - Accounting Intern](https://jobright.ai/jobs/info/694f4481a2668b7f5452775a?utm_campaign=1052&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | On Site | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Financial Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/6914cf29286ccf0a151288f9?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Dec 26 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/68f9029da628d10664e87cf9?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[Internship - Summer 2026](https://jobright.ai/jobs/info/68bf8889702aa35207aa732b?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
-| **[South Jersey Industries](https://www.sjindustries.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/68db07216df7b8311bb157e2?utm_campaign=1052&utm_source=git)** | Folsom, NJ | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

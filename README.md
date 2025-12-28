@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Accounting Intern](https://jobright.ai/jobs/info/69515f52a2668b7f5454277b?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 28 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/6951532c29655e4dd65a5121?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 28 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Internship](https://jobright.ai/jobs/info/695150fcce13cd1056590381?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 28 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/6951502a29655e4dd65a50f2?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 28 |
@@ -66,9 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance Internship](https://jobright.ai/jobs/info/69513e1229655e4dd65a4fc1?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | On Site | Dec 28 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69513ded29655e4dd65a4fbb?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
 | ↳ | **[Owner Services and Global Rental Operations Accounting Intern](https://jobright.ai/jobs/info/69513d28a2668b7f54540a7d?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Finance Intern](https://jobright.ai/jobs/info/69513d00a2668b7f54540a72?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Dec 28 |
 | **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/69513c87a2668b7f54540a4c?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 28 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Internship](https://jobright.ai/jobs/info/6951387aa2668b7f545409a6?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 28 |
 | **[BMO](http://www.bmo.com)** | **[Commercial Banking Credit Analyst Internship, Summer 2026, Halifax](https://jobright.ai/jobs/info/69513404ce13cd105658ff86?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Dec 28 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Internship: Credit](https://jobright.ai/jobs/info/6918884445fb6f5ead8a5c42?utm_campaign=1052&utm_source=git)** | Denton, TX | On Site | Dec 28 |
 | **[BMO](http://www.bmo.com)** | **[Commercial Banking Credit Analyst Internship, Summer 2026, Halifax](https://jobright.ai/jobs/info/695132c1a2668b7f54540871?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a49243541cc3479840c593?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Dec 27 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69337b59f131d96e48463b94?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Dec 27 |
 | **[Idaho Forest Group](https://idfg.com/)** | **[Accounting Internship (Coeur d'Alene)](https://jobright.ai/jobs/info/68fab619edd19014423902e6?utm_campaign=1052&utm_source=git)** | Coeur d'Alene, ID | On Site | Dec 27 |
+| **[AirBorn International Ltd](https://www.airborn.com/)** | **[AirBorn (Molex) Finance & Data Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68f9c2466de2db04dc3ebd23?utm_campaign=1052&utm_source=git)** | Lake City, PA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

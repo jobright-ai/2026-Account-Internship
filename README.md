@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Scion Group](http://thesciongroup.com)** | **[Revenue Analytics Intern](https://jobright.ai/jobs/info/694a0ee97d506e3808f53f0b?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 27 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern – Trading Analyst, US](https://jobright.ai/jobs/info/69507f46a2668b7f5453617a?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Tax Intern – Business & Financial Analysis](https://jobright.ai/jobs/info/69505c4ece13cd10565845f7?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I](https://jobright.ai/jobs/info/69504c7e29655e4dd65992b5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 27 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Trade Support Analyst](https://jobright.ai/jobs/info/69502d6cce13cd105658222a?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
 | ↳ | **[2026 Summer Intern - Capital Markets Group Analyst](https://jobright.ai/jobs/info/69502bff29655e4dd6596f3f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Fyntrix One](fyntrixone.us)** | **[Tax Intern](https://jobright.ai/jobs/info/69502981a2668b7f545327e2?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Dec 27 |
-| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Accounting Intern](https://jobright.ai/jobs/info/695022e629655e4dd6596ed5?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 27 |
 | **[Wiss](http://www.wiss.com)** | **[Intern, CAAS Advisory (Spring 2027)](https://jobright.ai/jobs/info/6950b92429655e4dd659f5ff?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Dec 27 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Winter](https://jobright.ai/jobs/info/6916f4526f36db06ef05b757?utm_campaign=1052&utm_source=git)** | Cobden, Ontario, Canada | On Site | Dec 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/6933685ca0dde7020e2ed968?utm_campaign=1052&utm_source=git)** | Enfield, Nova Scotia, Canada | On Site | Dec 27 |
@@ -134,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6950b92929655e4dd659f637?utm_campaign=1052&utm_source=git)** | Davenport, IA | Hybrid | Dec 26 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/694469aadd382f5f566a894c?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Accounting - Accounting Intern](https://jobright.ai/jobs/info/694f46fdce13cd10565771c2?utm_campaign=1052&utm_source=git)** | Chippewa Falls, WI | On Site | Dec 26 |
-| ↳ | **[Accounting - Accounting Intern](https://jobright.ai/jobs/info/694f4481a2668b7f5452775a?utm_campaign=1052&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | On Site | Dec 26 |
+| ↳ | **[Accounting - Accounting Intern](https://jobright.ai/jobs/info/694f445ba2668b7f54527751?utm_campaign=1052&utm_source=git)** | Corporate Office, 1251 1st Avenue, Chippewa Falls, Wisconsin, United States of America | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/694f370e29655e4dd658b7e6?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/694f274c29655e4dd6589a19?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Dec 26 |
 | **[Precision Castparts](http://precast.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694f2368a2668b7f54525017?utm_campaign=1052&utm_source=git)** | Lake Oswego, OR | On Site | Dec 26 |

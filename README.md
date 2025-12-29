@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2026)](https://jobright.ai/jobs/info/6918a3ab15b415636718333d?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | Hybrid | Dec 29 |
+| **[Barrett Industries](https://barrettindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69408baa49a7695fbd061da9?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Shareholder Reporting Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69528070f1f8465b79e9da2f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Intern](https://jobright.ai/jobs/info/69527fc8f1f8465b79e9d997?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 29 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e01c0ab99ec3563b0cc139?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Dec 29 |
+| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/693e476a49a7695fbd049120?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Dec 29 |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Revenue Cycle Intern](https://jobright.ai/jobs/info/6945ebae63141d1884558735?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Dec 29 |
+| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/693e4379aa598a08c3eea73e?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | On Site | Dec 29 |
+| **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Annapolis and Fulton](https://jobright.ai/jobs/info/68fc48654129dd33cd13a8df?utm_campaign=1052&utm_source=git)** | Fulton, MD | On Site | Dec 29 |
+| **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/690ace72d046ab6061ce0665?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 29 |
+| **[Graco](http://graco.com/in/en/)** | **[Credit Intern](https://jobright.ai/jobs/info/68c490b414bb275ce0194a52?utm_campaign=1052&utm_source=git)** | Dayton, MN | On Site | Dec 29 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Columbus, IN Summer 2026)](https://jobright.ai/jobs/info/68c49e31e471ef3ce16d7c6d?utm_campaign=1052&utm_source=git)** | Columbus, IN | On Site | Dec 29 |
+| ↳ | **[Internship – Private Wealth Management (Bowling Green, KY Summer 2026)](https://jobright.ai/jobs/info/68c49d59e396b25cb5c698a5?utm_campaign=1052&utm_source=git)** | Bowling Green, KY | On Site | Dec 29 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/68fc261ef55bb021a88a0f4d?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Dec 29 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Financial Products, Strategy & Modeling   Summer Internship](https://jobright.ai/jobs/info/68ef3bf4a1a1d02df61eb8db?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Franklin, TN Summer 2026)](https://jobright.ai/jobs/info/68c64dac7d0db411427381f9?utm_campaign=1052&utm_source=git)** | Franklin, TN | On Site | Dec 29 |
 | **[PIM Brands](https://pimbrands.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/68e084eb1852e62f007eb9f4?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Dec 29 |
@@ -79,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Intern/Co-Op - Specialized Reporting and Solutions Management](https://jobright.ai/jobs/info/6952350d239491102de0f0ff?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Intern/Co-Op - TBSM Funds Transfer Pricing Measurements](https://jobright.ai/jobs/info/695243975bb7de448ef56c62?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Intern/Co-Op - Financial Operations](https://jobright.ai/jobs/info/6952437d5bb7de448ef56c17?utm_campaign=1052&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Dec 29 |
-| ↳ | **[Intern/Co-Op - Corporate Segment Consolidation Finance](https://jobright.ai/jobs/info/695243735bb7de448ef56bf5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Risk Management - Model Management and Analytics Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69524373935649778e200f13?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[Intern/Co-Op - Corporate Segment Consolidation Finance](https://jobright.ai/jobs/info/695243735bb7de448ef56bf5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Intern/Co-Op - Treasury Data Analyst](https://jobright.ai/jobs/info/69524369935649778e200f09?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Risk Management - Large Exposures (LEX) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695243655bb7de448ef56bd0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Intern/Co-Op - Governance, Risk & Control / Financial Reporting Controls](https://jobright.ai/jobs/info/69524364935649778e200f03?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-Op - Governance, Risk & Control / Financial Reporting Controls](https://jobright.ai/jobs/info/695221e4a2668b7f5454b0a4?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Risk Management - Non-Retail Model Validation Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695221cda2668b7f5454b0a0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | **[Talley LLP](https://www.talleynco.com/)** | **[Summer Tax/Audit Internship](https://jobright.ai/jobs/info/695219e729655e4dd65af25f?utm_campaign=1052&utm_source=git)** | Orange, CA | On Site | Dec 28 |
-| **[TD](https://www.td.com)** | **[Credit Policy & Risk Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695216bba2668b7f5454aced?utm_campaign=1052&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Business Audit Intern/Co-op](https://jobright.ai/jobs/info/69521676a2668b7f5454acd0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Intern/Co-Op - Branch Banking Finance](https://jobright.ai/jobs/info/69521666a2668b7f5454accc?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Underwriting Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69521650a2668b7f5454acc2?utm_campaign=1052&utm_source=git)** | Saint John, New Brunswick | On Site | Dec 28 |
-| ↳ | **[Intern/Co-Op - Corporate Segment Consolidation Finance](https://jobright.ai/jobs/info/69521639a2668b7f5454acbb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Risk Management - Large Exposures (LEX) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521633a2668b7f5454acb9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Procurement and Purchasing Intern](https://jobright.ai/jobs/info/695215ed29655e4dd65aeedd?utm_campaign=1052&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
-| **[TD](https://www.td.com)** | **[Intern/Co-Op - Business Banking Finance](https://jobright.ai/jobs/info/695215e929655e4dd65aeedc?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Financial Transformation Intern - FP&A](https://jobright.ai/jobs/info/695215e529655e4dd65aeedb?utm_campaign=1052&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
-| ↳ | **[Financial Transformation Intern - Controllership](https://jobright.ai/jobs/info/695215c3a2668b7f5454ac98?utm_campaign=1052&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
-| **[TD](https://www.td.com)** | **[Risk Management - TD Auto Finance (TDAF) Credit Risk Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695215be29655e4dd65aeec7?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Risk Management - Market Risk & Counterparty Analytics Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695215baa2668b7f5454ac96?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Risk Management - Non-Retail Model Validation Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695215b6a2668b7f5454ac95?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| ↳ | **[Intern/Co-Op - TBSM Investments](https://jobright.ai/jobs/info/695215b1a2668b7f5454ac93?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Underwriting Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695215b129655e4dd65aeec3?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

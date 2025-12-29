@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Finance Analyst Intern (Summer '25)](https://jobright.ai/jobs/info/6951b7f0a2668b7f5454505f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Dec 28 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Internship](https://jobright.ai/jobs/info/6951a3e3a2668b7f54544cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 28 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/6951a3ac29655e4dd65a9077?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 28 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Accounting and finance intern](https://jobright.ai/jobs/info/6951a100a2668b7f54544cda?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 28 |
-| **[Todd](https://toddagriscience.com)** | **[Finance Analyst Intern (Summer '25)](https://jobright.ai/jobs/info/6951988ca2668b7f545431d6?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Dec 28 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[-Finance Internship](https://jobright.ai/jobs/info/6951986429655e4dd65a7612?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 28 |
 | **[BMO](http://www.bmo.com)** | **[Commercial Banking Credit Analyst Internship, Summer 2026, Halifax](https://jobright.ai/jobs/info/69518edc29655e4dd65a7500?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Dec 28 |
 | **[STORE Capital](http://storecapital.com/)** | **[Intern- Spring Cycle 2026](https://jobright.ai/jobs/info/695189f2ce13cd10565927e0?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Dec 28 |
@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/69513c87a2668b7f54540a4c?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 28 |
 | **[BMO](http://www.bmo.com)** | **[Commercial Banking Credit Analyst Internship, Summer 2026, Halifax](https://jobright.ai/jobs/info/69513404ce13cd105658ff86?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Dec 28 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Internship: Credit](https://jobright.ai/jobs/info/6918884445fb6f5ead8a5c42?utm_campaign=1052&utm_source=git)** | Denton, TX | On Site | Dec 28 |
-| **[BMO](http://www.bmo.com)** | **[Commercial Banking Credit Analyst Internship, Summer 2026, Halifax](https://jobright.ai/jobs/info/695132c1a2668b7f54540871?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 28 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/691ac3c1bcdbf3560c9da443?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Dec 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6917820b15b4156367178685?utm_campaign=1052&utm_source=git)** | Schiller Park, IL | On Site | Dec 28 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Payroll - Summer Internship 2026](https://jobright.ai/jobs/info/69188af545fb6f5ead8a5d37?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Dec 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/6933ea5af131d96e4846832e?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Dec 27 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68cbb0f79e3a822f5d24a893?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Finance - Summer 2026](https://jobright.ai/jobs/info/6934f799a0dde7020e2f6d31?utm_campaign=1052&utm_source=git)** | Mattoon, IL | On Site | Dec 27 |
+| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a49243541cc3479840c593?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

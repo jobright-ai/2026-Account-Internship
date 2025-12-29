@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Finance Analyst Intern (Summer '25)](https://jobright.ai/jobs/info/6951b7f0a2668b7f5454505f?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Dec 28 |
+| **[Todd](https://toddagriscience.com)** | **[Finance Analyst Intern (Summer '25)](https://jobright.ai/jobs/info/6951d16ca2668b7f54546c44?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Dec 28 |
+| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Tax Intern – Finance, Accounting & Tax Services](https://jobright.ai/jobs/info/6951ce21a2668b7f5454517c?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 28 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Intern – Advanced Financial Modeling](https://jobright.ai/jobs/info/6951cb36ce13cd1056594c8a?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 28 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Internship](https://jobright.ai/jobs/info/6951a3e3a2668b7f54544cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 28 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/6951a3ac29655e4dd65a9077?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 28 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Accounting and finance intern](https://jobright.ai/jobs/info/6951a100a2668b7f54544cda?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 28 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Intern](https://jobright.ai/jobs/info/6951748d29655e4dd65a6d5a?utm_campaign=1052&utm_source=git)** | Philadelphia, MS | On Site | Dec 28 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Accounting Intern](https://jobright.ai/jobs/info/69515f52a2668b7f5454277b?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Dec 28 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Internship](https://jobright.ai/jobs/info/695150fcce13cd1056590381?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 28 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/6951502a29655e4dd65a50f2?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 28 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Assurance Intern 2026](https://jobright.ai/jobs/info/6951501ca2668b7f54540bbc?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 28 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Finance Internship](https://jobright.ai/jobs/info/69514b2ece13cd105659030f?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 28 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69513ded29655e4dd65a4fbb?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/6933ea5af131d96e4846832e?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Dec 27 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68cbb0f79e3a822f5d24a893?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Finance - Summer 2026](https://jobright.ai/jobs/info/6934f799a0dde7020e2f6d31?utm_campaign=1052&utm_source=git)** | Mattoon, IL | On Site | Dec 27 |
-| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a49243541cc3479840c593?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

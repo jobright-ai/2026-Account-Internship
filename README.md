@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tanner Health](http://www.tanner.org/)** | **[Intern - Accounting (Part-time) (Days)](https://jobright.ai/jobs/info/69540ba8aa05c26e7aae8fba?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Dec 30 |
+| **[AAR](http://aarcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69540ad2f1f8465b79eb3fe3?utm_campaign=1052&utm_source=git)** | United States-Florida-Rockledge-AAR AGS Rockledge | On Site | Dec 30 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Summer Intern Actuary](https://jobright.ai/jobs/info/69540aa5f1f8465b79eb3fc7?utm_campaign=1052&utm_source=git)** | 150 Commerce Valley Drive West, Suite #700, Markham, Ontario, L3T 7Z3, CA | On Site | Dec 30 |
+| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69540a9b5bb7de448ef708ea?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Dec 30 |
+| **[rand* construction corporation](http://randcc.com)** | **[Accounting Intern - Alexandria, VA](https://jobright.ai/jobs/info/69540974f1f8465b79eb3f1c?utm_campaign=1052&utm_source=git)** | Alexandria, VA, US | On Site | Dec 30 |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Internal Audit](https://jobright.ai/jobs/info/695409745bb7de448ef70892?utm_campaign=1052&utm_source=git)** | Whippany, NJ, United States | On Site | Dec 30 |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Assurance Intern](https://jobright.ai/jobs/info/6953fb77f1f8465b79eb20c0?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 30 |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Private Wealth Management Intern](https://jobright.ai/jobs/info/6953f716aa05c26e7aae6f8f?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Dec 30 |
+| **[honeygrow](http://www.honeygrow.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6953f6e95bb7de448ef6e86a?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
+| **[Hagerty](http://www.hagerty.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6953f48af1f8465b79eb1f48?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Expert Intern](https://jobright.ai/jobs/info/6953f17a5bb7de448ef6e72f?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 30 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Tax Trainee](https://jobright.ai/jobs/info/6953ef8caa05c26e7aae6d6f?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Dec 30 |
-| **[Crest Vale](crestvale.us)** | **[Finance Intern – Advanced Financial Modeling](https://jobright.ai/jobs/info/6953ef51f1f8465b79eb1e06?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 30 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e7ed5bb7de448ef6e56d?utm_campaign=1052&utm_source=git)** | New York | Hybrid | Dec 30 |
-| ↳ | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e7b2f1f8465b79eb1c3c?utm_campaign=1052&utm_source=git)** | Fort Lauderdale | Hybrid | Dec 30 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e88f5bb7de448ef6e5ba?utm_campaign=1052&utm_source=git)** | Fort Lauderdale | Hybrid | Dec 30 |
+| ↳ | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e7b6aa05c26e7aae6c21?utm_campaign=1052&utm_source=git)** | New York | Hybrid | Dec 30 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Intern](https://jobright.ai/jobs/info/6953e7a3aa05c26e7aae6c17?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 30 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Finance Intern](https://jobright.ai/jobs/info/6953df675bb7de448ef6e1d4?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d91f758fe1f97e5ea1a?utm_campaign=1052&utm_source=git)** | Mission Viejo, CA | On Site | Dec 30 |
@@ -95,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Sustainable Investing](https://jobright.ai/jobs/info/693756a0aabec14a727c6a25?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e391cd1852e62f007fcce2?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Dec 30 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6903c1e8ff462851fefee585?utm_campaign=1052&utm_source=git)** | Radford, VA | On Site | Dec 30 |
-| **[Crown Fund](www.crownfund.co)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6953ce67aa05c26e7aae5f67?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e388ec1852e62f007fc900?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Dec 30 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Accounting Operations](https://jobright.ai/jobs/info/6937866aaabec14a727c8f46?utm_campaign=1052&utm_source=git)** | East Greenbush, NY | On Site | Dec 30 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern 1- Kiewit Bridge and Marine District](https://jobright.ai/jobs/info/69378533aabec14a727c8e95?utm_campaign=1052&utm_source=git)** | Kent, WA | Hybrid | Dec 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Mid-South Commercial Banking](https://jobright.ai/jobs/info/6937c7781c1c2161c13f97b6?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Jacksonville)](https://jobright.ai/jobs/info/68fd033be0c73b3a1119102c?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Finance Intern - Supply Chain Focus (Summer 2026)](https://jobright.ai/jobs/info/6937994baabec14a727c9a88?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 30 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Charlotte)](https://jobright.ai/jobs/info/68a7b8dad627244576e2e275?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
-| ↳ | **[Core Tax Intern - Winter 2027 (Tampa)](https://jobright.ai/jobs/info/68fd04fde04ac838fb5ae04e?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 30 |
-| ↳ | **[Assurance Intern - Winter 2027 (Raleigh)](https://jobright.ai/jobs/info/68a7bcbe33dd7158bbca91b9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Dec 30 |
-| **[Haemonetics](http://www.haemonetics.com)** | **[Global Internal Audit Internship - ACE (Audit Committee, Corporate Controls Oversight Team, & Executive) Data Visibility Dashboards Internship](https://jobright.ai/jobs/info/69539e075bb7de448ef6b700?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance Intern](https://jobright.ai/jobs/info/69539805935649778e216083?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
-| **[Huey & Associates, P.C.](https://www.hueyassociates.com)** | **[Tax Focused Accounting Internship](https://jobright.ai/jobs/info/6953973b5bb7de448ef69a8c?utm_campaign=1052&utm_source=git)** | Herndon, VA | On Site | Dec 30 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Climate Finance Intern](https://jobright.ai/jobs/info/693b2bb9d4054a2bc0251a8a?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Dec 29 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[TD Asset Management Portfolio Analytics Data Analyst Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695378cdf1f8465b79eac4d0?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

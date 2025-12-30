@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Analyst Intern](https://jobright.ai/jobs/info/692fd45efa28370be26adc0e?utm_campaign=1052&utm_source=git)** | Trevose, PA | On Site | Dec 29 |
+| **[Holland, L.P.](https://hollandco.com/)** | **[Intern - Accounting (Hybrid)](https://jobright.ai/jobs/info/695351e5f1f8465b79ea992d?utm_campaign=1052&utm_source=git)** | University Park, IL | Hybrid | Dec 29 |
+| **[Aspiriant](http://aspiriant.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69310115ef4b48533d151871?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Dec 29 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[2027 Global Markets Summer Analyst Program - New York](https://jobright.ai/jobs/info/69534d115bb7de448ef65ea3?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 29 |
+| ↳ | **[2027 Sophomore Global Markets Summer Analyst Program - New York](https://jobright.ai/jobs/info/69534bb1f1f8465b79ea9569?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 29 |
+| ↳ | **[2027 Global Transaction & Payment Services Summer Analyst Program](https://jobright.ai/jobs/info/69534b6f5bb7de448ef65e13?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 29 |
+| ↳ | **[2027 Investment Banking Summer Analyst Program - New York](https://jobright.ai/jobs/info/69534b2b935649778e210a62?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Enterprise Real Estate Finance Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6953466a5bb7de448ef65a4e?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[TD Asset Management Portfolio Analytics Data Analyst Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69534300935649778e2105ac?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
 | **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6953421f935649778e21055b?utm_campaign=1052&utm_source=git)** | Carson City, NV | On Site | Dec 29 |
@@ -82,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695318bcf1f8465b79ea5bf9?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Dec 29 |
 | **[AHRC Nassau](https://www.ahrc.org)** | **[College Intern (Accounting & Finance)](https://jobright.ai/jobs/info/695317d8935649778e20d133?utm_campaign=1052&utm_source=git)** | Glen Head, NY | On Site | Dec 29 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695316e9935649778e20d0ea?utm_campaign=1052&utm_source=git)** | Jericho, NY | On Site | Dec 29 |
-| ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/695316e75bb7de448ef62430?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 29 |
 | ↳ | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695316c2935649778e20d0ca?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/695316285bb7de448ef623e3?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Investment Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695315145bb7de448ef62331?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Coach USA](http://www.coachusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69530e05f1f8465b79ea57fc?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Dec 29 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69530addf1f8465b79ea576f?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Dec 29 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Hanwha Shipping](https://www.hanwhashipping.com/)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/6952af125bb7de448ef5c93c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 29 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Intern – Capital Markets Specialist](https://jobright.ai/jobs/info/6952abfa935649778e206f6e?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Dec 29 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6952ab035bb7de448ef5b687?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Dec 29 |
-| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Summer 2026 Venture Team Intern / Venture Debt](https://jobright.ai/jobs/info/69052761122e8474c78d6af5?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
-| ↳ | **[Summer 2026 Venture Team Intern / Climate Tech Fund](https://jobright.ai/jobs/info/690531dfff462851feffb953?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
+| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Summer 2026 Venture Team Intern / Climate Tech Fund](https://jobright.ai/jobs/info/690531dfff462851feffb953?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
+| ↳ | **[Summer 2026 Venture Team Intern / Venture Debt](https://jobright.ai/jobs/info/69052761122e8474c78d6af5?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
 | ↳ | **[Summer 2026 Venture Team Intern / AI/Q Fund](https://jobright.ai/jobs/info/69052f7563502c0aded79424?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/6952c6bc5bb7de448ef5dd96?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Dec 29 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6952a1215bb7de448ef5b31b?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Dec 29 |
-| **[Zscaler](https://www.zscaler.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6941ab9214ee092a69ffd084?utm_campaign=1052&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 29 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/69528ea0f1f8465b79e9e4b7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Dec 29 |
-| **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2026)](https://jobright.ai/jobs/info/6918a3ab15b415636718333d?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | Hybrid | Dec 29 |
-| **[Barrett Industries](https://barrettindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69408baa49a7695fbd061da9?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Shareholder Reporting Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69528070f1f8465b79e9da2f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

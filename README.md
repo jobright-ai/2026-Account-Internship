@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cerity Partners](https://ceritypartners.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69542c325bb7de448ef71848?utm_campaign=1052&utm_source=git)** | Saratoga Springs, NY | On Site | Dec 30 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/69542b7e5bb7de448ef717b3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 30 |
+| **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[Intern, Procurement](https://jobright.ai/jobs/info/69542af4f1f8465b79eb4e91?utm_campaign=1052&utm_source=git)** | Holly Springs, NC | On Site | Dec 30 |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Internal Audit](https://jobright.ai/jobs/info/69542ad2f1f8465b79eb4e73?utm_campaign=1052&utm_source=git)** | Whippany, NJ | On Site | Dec 30 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2027 - Des Moines and Cedar Rapid, IA](https://jobright.ai/jobs/info/69542a8faa05c26e7aae9dbc?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 30 |
+| **[Dealer Tire](http://dealertire.com)** | **[Tax Intern (Cleveland, OH)](https://jobright.ai/jobs/info/69542a575bb7de448ef716ba?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 30 |
+| **[FUJIFILM Holdings America Corporation](http://www.fujifilmusa.com/index.html)** | **[Intern, Procurement](https://jobright.ai/jobs/info/695427a5aa05c26e7aae9b3e?utm_campaign=1052&utm_source=git)** | US-NC-Holly Springs | On Site | Dec 30 |
+| **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Accounting Treasury and Expense Internship](https://jobright.ai/jobs/info/6945f94b7d506e3808f13b49?utm_campaign=1052&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Summer Intern Actuary](https://jobright.ai/jobs/info/6954218af1f8465b79eb4725?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 30 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/69541dda5bb7de448ef70ec4?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 30 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2027 - Des Moines and Cedar Rapid, IA](https://jobright.ai/jobs/info/6954128af1f8465b79eb422d?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Dec 30 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Intern - Accounting (Part-time) (Days)](https://jobright.ai/jobs/info/69540ba8aa05c26e7aae8fba?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Dec 30 |
 | **[AAR](http://aarcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69540ad2f1f8465b79eb3fe3?utm_campaign=1052&utm_source=git)** | United States-Florida-Rockledge-AAR AGS Rockledge | On Site | Dec 30 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Summer Intern Actuary](https://jobright.ai/jobs/info/69540aa5f1f8465b79eb3fc7?utm_campaign=1052&utm_source=git)** | 150 Commerce Valley Drive West, Suite #700, Markham, Ontario, L3T 7Z3, CA | On Site | Dec 30 |
@@ -70,9 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Expert Intern](https://jobright.ai/jobs/info/6953f17a5bb7de448ef6e72f?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 30 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Tax Trainee](https://jobright.ai/jobs/info/6953ef8caa05c26e7aae6d6f?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Dec 30 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e88f5bb7de448ef6e5ba?utm_campaign=1052&utm_source=git)** | Fort Lauderdale | Hybrid | Dec 30 |
-| ↳ | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e7b6aa05c26e7aae6c21?utm_campaign=1052&utm_source=git)** | New York | Hybrid | Dec 30 |
+| ↳ | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e7ed5bb7de448ef6e56d?utm_campaign=1052&utm_source=git)** | New York | Hybrid | Dec 30 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Intern](https://jobright.ai/jobs/info/6953e7a3aa05c26e7aae6c17?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 30 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Finance Intern](https://jobright.ai/jobs/info/6953df675bb7de448ef6e1d4?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d91f758fe1f97e5ea1a?utm_campaign=1052&utm_source=git)** | Mission Viejo, CA | On Site | Dec 30 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d90b99ec3563b0e0b2e?utm_campaign=1052&utm_source=git)** | North Charleston, SC | On Site | Dec 30 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38653f758fe1f97e5eee3?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | On Site | Dec 30 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68a91a296acf96396f724c78?utm_campaign=1052&utm_source=git)** | Greater Indianapolis | On Site | Dec 30 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6937ce3ca0dde7020e30808d?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | Hybrid | Dec 30 |
 | **[Transwestern](https://transwestern.com)** | **[Development & Investments Summer Intern](https://jobright.ai/jobs/info/69372bc9a0dde7020e2ff8c6?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 30 |
-| ↳ | **[Development & Investments Summer Intern](https://jobright.ai/jobs/info/69373890aabec14a727c5379?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 30 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Asset Management Operations, Portfolio Ops & Analytics](https://jobright.ai/jobs/info/69373eb2aabec14a727c5757?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
-| **[altafiber](https://www.altafiber.com)** | **[Accounting & Financial Reporting Summer Intern](https://jobright.ai/jobs/info/6944f00a50bbaf7650570835?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 30 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68cd0435e8e0b73af72bf91e?utm_campaign=1052&utm_source=git)** | Hopkins, SC | Hybrid | Dec 30 |
-| ↳ | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c4bd63fce86561b9288d99?utm_campaign=1052&utm_source=git)** | Madison, PA | Hybrid | Dec 30 |
-| **[Take-Two Interactive](http://www.take2games.com)** | **[Global Tax Intern](https://jobright.ai/jobs/info/69379a171c1c2161c13f6317?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 30 |
-| **[The Chemours Company](https://www.chemours.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6874ee1aae2f413e4a5a1daa?utm_campaign=1052&utm_source=git)** | New Castle County, DE | On Site | Dec 30 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Mid-South Commercial Banking](https://jobright.ai/jobs/info/6937c7781c1c2161c13f97b6?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 30 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Jacksonville)](https://jobright.ai/jobs/info/68fd033be0c73b3a1119102c?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
-| **[Dyno Nobel](http://www.dynonobel.com)** | **[Finance Intern - Supply Chain Focus (Summer 2026)](https://jobright.ai/jobs/info/6937994baabec14a727c9a88?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

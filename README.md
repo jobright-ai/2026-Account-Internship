@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69532ea65bb7de448ef648e6?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[Enterprise Real Estate Finance Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6953466a5bb7de448ef65a4e?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[TD Asset Management Portfolio Analytics Data Analyst Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69534300935649778e2105ac?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
+| **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6953421f935649778e21055b?utm_campaign=1052&utm_source=git)** | Carson City, NV | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[TD Securities Transaction Banking and Payments Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69533f6b935649778e2103ac?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Q-mation](https://wonderwarenorth.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/69533bebf1f8465b79ea8aed?utm_campaign=1052&utm_source=git)** | Horsham, PA | On Site | Dec 29 |
+| **[Farmer Mac](http://www.farmermac.com)** | **[Internship - Economic Research](https://jobright.ai/jobs/info/695337775bb7de448ef64f4d?utm_campaign=1052&utm_source=git)** | Remote, US | Remote | Dec 29 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Summer 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/695334ebf1f8465b79ea8551?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Dec 29 |
+| ↳ | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69532ea65bb7de448ef648e6?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Dec 29 |
 | ↳ | **[Intern - Summer 2026 - Fox Cities, WI](https://jobright.ai/jobs/info/69532de0f1f8465b79ea7fee?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Dec 29 |
 | ↳ | **[Tax/Audit Intern - Summer 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69532d205bb7de448ef6476f?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Dec 29 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69532ca7f1f8465b79ea7ec8?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Dec 29 |
@@ -75,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695318bcf1f8465b79ea5bf9?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Dec 29 |
 | **[AHRC Nassau](https://www.ahrc.org)** | **[College Intern (Accounting & Finance)](https://jobright.ai/jobs/info/695317d8935649778e20d133?utm_campaign=1052&utm_source=git)** | Glen Head, NY | On Site | Dec 29 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695316e9935649778e20d0ea?utm_campaign=1052&utm_source=git)** | Jericho, NY | On Site | Dec 29 |
+| ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/695316e75bb7de448ef62430?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 29 |
 | ↳ | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695316c2935649778e20d0ca?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 29 |
-| ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/695316285bb7de448ef623e3?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Investment Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695315145bb7de448ef62331?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Coach USA](http://www.coachusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69530e05f1f8465b79ea57fc?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Dec 29 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69530addf1f8465b79ea576f?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Dec 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2026)](https://jobright.ai/jobs/info/6918a3ab15b415636718333d?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | Hybrid | Dec 29 |
 | **[Barrett Industries](https://barrettindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69408baa49a7695fbd061da9?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Shareholder Reporting Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69528070f1f8465b79e9da2f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68e01c0ab99ec3563b0cc139?utm_campaign=1052&utm_source=git)** | Westchester, IL | Hybrid | Dec 29 |
-| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/693e476a49a7695fbd049120?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Dec 29 |
-| **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 29 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Revenue Cycle Intern](https://jobright.ai/jobs/info/6945ebae63141d1884558735?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Dec 29 |
-| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/693e4379aa598a08c3eea73e?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | On Site | Dec 29 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - Annapolis and Fulton](https://jobright.ai/jobs/info/68fc48654129dd33cd13a8df?utm_campaign=1052&utm_source=git)** | Fulton, MD | On Site | Dec 29 |
-| **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/690ace72d046ab6061ce0665?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

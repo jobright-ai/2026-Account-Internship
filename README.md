@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transwestern](https://transwestern.com)** | **[Development & Investments Summer Intern](https://jobright.ai/jobs/info/69372bc9a0dde7020e2ff8c6?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 30 |
+| ↳ | **[Development & Investments Summer Intern](https://jobright.ai/jobs/info/69373890aabec14a727c5379?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 30 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Data Intern - Summer 2026](https://jobright.ai/jobs/info/6953b4cbf1f8465b79eaf11e?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 30 |
+| **[altafiber](https://www.altafiber.com)** | **[Accounting & Financial Reporting Summer Intern](https://jobright.ai/jobs/info/6944f00a50bbaf7650570835?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Dec 30 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68cd0435e8e0b73af72bf91e?utm_campaign=1052&utm_source=git)** | Hopkins, SC | Hybrid | Dec 30 |
+| ↳ | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c4bd63fce86561b9288d99?utm_campaign=1052&utm_source=git)** | Madison, PA | Hybrid | Dec 30 |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[Global Tax Intern](https://jobright.ai/jobs/info/69379a171c1c2161c13f6317?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 30 |
+| **[The Chemours Company](https://www.chemours.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6874ee1aae2f413e4a5a1daa?utm_campaign=1052&utm_source=git)** | New Castle County, DE | On Site | Dec 30 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Mid-South Commercial Banking](https://jobright.ai/jobs/info/6937c7781c1c2161c13f97b6?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Dec 30 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Jacksonville)](https://jobright.ai/jobs/info/68fd033be0c73b3a1119102c?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
+| **[Dyno Nobel](http://www.dynonobel.com)** | **[Finance Intern - Supply Chain Focus (Summer 2026)](https://jobright.ai/jobs/info/6937994baabec14a727c9a88?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Dec 30 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Charlotte)](https://jobright.ai/jobs/info/68a7b8dad627244576e2e275?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
+| ↳ | **[Core Tax Intern - Winter 2027 (Tampa)](https://jobright.ai/jobs/info/68fd04fde04ac838fb5ae04e?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Dec 30 |
+| ↳ | **[Assurance Intern - Winter 2027 (Raleigh)](https://jobright.ai/jobs/info/68a7bcbe33dd7158bbca91b9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Dec 30 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Global Internal Audit Internship - ACE (Audit Committee, Corporate Controls Oversight Team, & Executive) Data Visibility Dashboards Internship](https://jobright.ai/jobs/info/69539e075bb7de448ef6b700?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance Intern](https://jobright.ai/jobs/info/69539805935649778e216083?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
 | **[Huey & Associates, P.C.](https://www.hueyassociates.com)** | **[Tax Focused Accounting Internship](https://jobright.ai/jobs/info/6953973b5bb7de448ef69a8c?utm_campaign=1052&utm_source=git)** | Herndon, VA | On Site | Dec 30 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance Internship](https://jobright.ai/jobs/info/69537fec935649778e213ced?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 29 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Summer 2026, Wheeling, WV](https://jobright.ai/jobs/info/68ed776070b66e2345d3e723?utm_campaign=1052&utm_source=git)** | Wheeling, WV | On Site | Dec 29 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/6952c6955bb7de448ef5dd7b?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Dec 29 |
 | ↳ | **[Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/6952c33ff1f8465b79ea1300?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Dec 29 |
-| ↳ | **[Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/6952c29a935649778e208913?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Dec 29 |
-| ↳ | **[Accounting Intern - Baton Rouge, LA](https://jobright.ai/jobs/info/6952c1fc5bb7de448ef5db67?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Dec 29 |
-| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Summer 2026 Venture Team Intern / Technology Fund](https://jobright.ai/jobs/info/690532b2122e8474c78d7511?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
-| **[Truist](https://www.truist.com)** | **[2026 Wholesale Credit Delivery - Corporate & Leveraged Finance - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/69465fab63141d188456125f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 29 |
-| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Summer 2026 Venture Team Intern / Biosciences Innovation Fund](https://jobright.ai/jobs/info/69052ca9122e8474c78d70d8?utm_campaign=1052&utm_source=git)** | New Haven, CT | Hybrid | Dec 29 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/6952c1595bb7de448ef5db29?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Dec 29 |
-| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/690529dc122e8474c78d6d79?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
-| ↳ | **[Summer 2026 Venture Team Intern / Future Fund](https://jobright.ai/jobs/info/6905339bff462851feffbba8?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Direct Investing Analytics & Insights Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952bf35f1f8465b79ea10c9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
-| **[Crawford Hoying](http://crawfordhoying.com)** | **[Asset Management Intern-Hotels](https://jobright.ai/jobs/info/6952bd0b5bb7de448ef5d8fe?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Investment Risk Analyst Intern](https://jobright.ai/jobs/info/68daf79907c157682e570448?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Dec 29 |
-| **[Crawford Hoying](http://crawfordhoying.com)** | **[Asset Management Intern-Mixed Use](https://jobright.ai/jobs/info/6952bbe85bb7de448ef5d897?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6952ba6a5bb7de448ef5d7df?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
-| **[Thrivent](https://www.thrivent.com)** | **[Financial Services Field Internship](https://jobright.ai/jobs/info/69335168f131d96e48461de4?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 29 |
-| **[Crawford Hoying](http://crawfordhoying.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/6952b82df1f8465b79ea0daf?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

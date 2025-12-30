@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance Intern](https://jobright.ai/jobs/info/69539805935649778e216083?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
+| **[Huey & Associates, P.C.](https://www.hueyassociates.com)** | **[Tax Focused Accounting Internship](https://jobright.ai/jobs/info/6953973b5bb7de448ef69a8c?utm_campaign=1052&utm_source=git)** | Herndon, VA | On Site | Dec 30 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance Internship](https://jobright.ai/jobs/info/69537fec935649778e213ced?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 29 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Climate Finance Intern](https://jobright.ai/jobs/info/693b2bb9d4054a2bc0251a8a?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[TD Asset Management Portfolio Analytics Data Analyst Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695378cdf1f8465b79eac4d0?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 29 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Finance Analyst Intern](https://jobright.ai/jobs/info/692fd45efa28370be26adc0e?utm_campaign=1052&utm_source=git)** | Trevose, PA | On Site | Dec 29 |
 | **[Holland, L.P.](https://hollandco.com/)** | **[Intern - Accounting (Hybrid)](https://jobright.ai/jobs/info/695351e5f1f8465b79ea992d?utm_campaign=1052&utm_source=git)** | University Park, IL | Hybrid | Dec 29 |
 | **[Aspiriant](http://aspiriant.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69310115ef4b48533d151871?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Dec 29 |
-| **[Farmer Mac](http://www.farmermac.com)** | **[Internship - Economic Research](https://jobright.ai/jobs/info/69537fb6f1f8465b79eac88d?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[2027 Global Markets Summer Analyst Program - New York](https://jobright.ai/jobs/info/69534d115bb7de448ef65ea3?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 29 |
 | ↳ | **[2027 Sophomore Global Markets Summer Analyst Program - New York](https://jobright.ai/jobs/info/69534bb1f1f8465b79ea9569?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 29 |
 | ↳ | **[2027 Global Transaction & Payment Services Summer Analyst Program](https://jobright.ai/jobs/info/69534b6f5bb7de448ef65e13?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Dec 29 |
@@ -96,11 +97,12 @@ For a complete list, click the following sortable link below:
 | **[Allworth Financial](https://allworthfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69531e89f1f8465b79ea5d2f?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Dec 29 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/694469aadd382f5f566a894c?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Allworth Airline Advisors (Formerly RAA)](http://raa.com/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69531cfa935649778e20d26c?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Dec 29 |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Staff Intern -Market & Trading Operations Risk Team](https://jobright.ai/jobs/info/695389e15bb7de448ef6955f?utm_campaign=1052&utm_source=git)** | Newark, NJ, US | Hybrid | Dec 29 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695318bcf1f8465b79ea5bf9?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Dec 29 |
 | **[AHRC Nassau](https://www.ahrc.org)** | **[College Intern (Accounting & Finance)](https://jobright.ai/jobs/info/695317d8935649778e20d133?utm_campaign=1052&utm_source=git)** | Glen Head, NY | On Site | Dec 29 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695316e9935649778e20d0ea?utm_campaign=1052&utm_source=git)** | Jericho, NY | On Site | Dec 29 |
-| ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/695316e75bb7de448ef62430?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 29 |
 | ↳ | **[Intern - Credit Risk](https://jobright.ai/jobs/info/695316c2935649778e20d0ca?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| ↳ | **[Intern - Credit](https://jobright.ai/jobs/info/695316285bb7de448ef623e3?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Investment Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695315145bb7de448ef62331?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Coach USA](http://www.coachusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69530e05f1f8465b79ea57fc?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Dec 29 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69530addf1f8465b79ea576f?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Dec 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6952ba6a5bb7de448ef5d7df?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
 | **[Thrivent](https://www.thrivent.com)** | **[Financial Services Field Internship](https://jobright.ai/jobs/info/69335168f131d96e48461de4?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Dec 29 |
 | **[Crawford Hoying](http://crawfordhoying.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/6952b82df1f8465b79ea0daf?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
-| **[MGIC](https://www.mgic.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6952b3a85bb7de448ef5cd98?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 29 |
-| **[STR](https://www.str.us/)** | **[Procurement Summer Intern](https://jobright.ai/jobs/info/6952b349f1f8465b79ea0443?utm_campaign=1052&utm_source=git)** | Woburn, MA | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

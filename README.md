@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CKH Group](https://www.ckhgroup.com/)** | **[Accounting Internship - Atlanta](https://jobright.ai/jobs/info/6954d2b4aa05c26e7aaf50a8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
+| ↳ | **[Accounting Internship - Hawkinsville](https://jobright.ai/jobs/info/6954cac5f1f8465b79ebff19?utm_campaign=1052&utm_source=git)** | Hawkinsville, GA | On Site | Dec 30 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Mortgage Banking, Denver](https://jobright.ai/jobs/info/6941e77950bbaf765053b221?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Dec 30 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2026 Investment Project Tax Intern](https://jobright.ai/jobs/info/69548d7f5bb7de448ef78729?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern) - Corporate Finance - Turnaround & Restructuring](https://jobright.ai/jobs/info/69548be9f1f8465b79ebbca1?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Dec 30 |
@@ -125,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[honeygrow](http://www.honeygrow.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6953f6e95bb7de448ef6e86a?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
 | **[Hagerty](http://www.hagerty.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6953f48af1f8465b79eb1f48?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 30 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Tax Trainee](https://jobright.ai/jobs/info/6953ef8caa05c26e7aae6d6f?utm_campaign=1052&utm_source=git)** | Florida, United States | On Site | Dec 30 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e7ed5bb7de448ef6e56d?utm_campaign=1052&utm_source=git)** | New York | Hybrid | Dec 30 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e7b6aa05c26e7aae6c21?utm_campaign=1052&utm_source=git)** | New York | Hybrid | Dec 30 |
 | ↳ | **[2026 Summer Internship - Private Credit](https://jobright.ai/jobs/info/6953e7b2f1f8465b79eb1c3c?utm_campaign=1052&utm_source=git)** | Fort Lauderdale | Hybrid | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d91f758fe1f97e5ea1a?utm_campaign=1052&utm_source=git)** | Mission Viejo, CA | On Site | Dec 30 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d90b99ec3563b0e0b2e?utm_campaign=1052&utm_source=git)** | North Charleston, SC | On Site | Dec 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern 1- Kiewit Bridge and Marine District](https://jobright.ai/jobs/info/69377eaaa0dde7020e30375c?utm_campaign=1052&utm_source=git)** | Vancouver, WA | Hybrid | Dec 30 |
 | ↳ | **[Finance Analyst Intern 1- Kiewit Bridge and Marine District](https://jobright.ai/jobs/info/69377d5baabec14a727c899e?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | Dec 30 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Sustainable Investing](https://jobright.ai/jobs/info/693756a0aabec14a727c6a25?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e391cd1852e62f007fcce2?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Dec 30 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6903c1e8ff462851fefee585?utm_campaign=1052&utm_source=git)** | Radford, VA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

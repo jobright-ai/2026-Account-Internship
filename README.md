@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Independent Cost Evaluation- Intern](https://jobright.ai/jobs/info/695578939f1b381eb26ec857?utm_campaign=1052&utm_source=git)** | Connecticut, Florida, New Jersey, New York, Virginia | Hybrid | Dec 31 |
+| **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/692756c691ceeb2e8a53e30c?utm_campaign=1052&utm_source=git)** | Oak Ridge, TN | On Site | Dec 31 |
+| **[Continental](https://www.continental.com)** | **[Intern - Logistics Finance / Controlling, Year-Round](https://jobright.ai/jobs/info/69557ee0aa05c26e7aafd038?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | On Site | Dec 31 |
 | **[TopBuild](http://www.topbuild.com)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/69557913f1f8465b79ec8124?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Dec 31 |
 | **[Talbert, Bright & Ellington, LLC](http://tbeclt.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/695578db9f1b381eb26ec883?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Independent Cost Evaluation- Intern](https://jobright.ai/jobs/info/695578939f1b381eb26ec857?utm_campaign=1052&utm_source=git)** | Connecticut, Florida, New Jersey, New York, Virginia | Hybrid | Dec 31 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6955776ef1f8465b79ec8015?utm_campaign=1052&utm_source=git)** | SelectHealth - Murray | Hybrid | Dec 31 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Internship – Responsible Investing: Social Research and Investment Management](https://jobright.ai/jobs/info/69557695aa05c26e7aafcc1f?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Dec 31 |
 | **[MaloneBailey, LLP](http://malonebailey.com)** | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/695575fef1f8465b79ec7f74?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | Hybrid | Dec 31 |
@@ -68,14 +70,10 @@ For a complete list, click the following sortable link below:
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69556af0aa05c26e7aafc779?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Dec 31 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Spring 2026)](https://jobright.ai/jobs/info/6955673d9f1b381eb26ec183?utm_campaign=1052&utm_source=git)** | San Antonio, Texas | On Site | Dec 31 |
 | ↳ | **[Financial Operations Auditor I (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/695566dcf1f8465b79ec7a36?utm_campaign=1052&utm_source=git)** | San Antonio, Texas | On Site | Dec 31 |
-| ↳ | **[Intern/Co-op - Accounting (Spring 2026)](https://jobright.ai/jobs/info/695566c3aa05c26e7aafc6b4?utm_campaign=1052&utm_source=git)** | Denver, Colorado | On Site | Dec 31 |
-| ↳ | **[Intern/Co-op - Accounting (Spring 2026)](https://jobright.ai/jobs/info/695565c2f1f8465b79ec79d8?utm_campaign=1052&utm_source=git)** | Findlay, Ohio | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[300015-131:Summer Intern, Finance-Controller](https://jobright.ai/jobs/info/69555e249f1b381eb26eb496?utm_campaign=1052&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 31 |
 | **[Rucker Investments](https://ruckerinvestments.com)** | **[Private Equity Summer Intern](https://jobright.ai/jobs/info/69555d819f1b381eb26eb294?utm_campaign=1052&utm_source=git)** | Beverly, MA | On Site | Dec 31 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Finance Intern – Capital Markets Specialist](https://jobright.ai/jobs/info/69555ccb9f1b381eb26eb070?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[300015-132:Summer Intern, Grants and Wholesale Billing](https://jobright.ai/jobs/info/69555c5ef1f8465b79ec67f0?utm_campaign=1052&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | ↳ | **[300012-122:Summer Intern, Rates and Revenue](https://jobright.ai/jobs/info/695559e4aa05c26e7aafae8b?utm_campaign=1052&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
-| **[CoreVista Strategies](corevistastrategies.us)** | **[Finance Intern – Capital Markets Specialist](https://jobright.ai/jobs/info/695552509f1b381eb26ea083?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Dec 31 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Intern – Advanced Financial Modeling](https://jobright.ai/jobs/info/695551cdaa05c26e7aafa6b9?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Dec 31 |
 | **[CBIZ](http://www.cbiz.com)** | **[Valuation Intern / Spring 2026](https://jobright.ai/jobs/info/69554f5ef1f8465b79ec5939?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Assurance Intern](https://jobright.ai/jobs/info/69554d209f1b381eb26e9f9c?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Dec 31 |
@@ -154,7 +152,9 @@ For a complete list, click the following sortable link below:
 | **[CKH Group](https://www.ckhgroup.com/)** | **[CKH Internship - Atlanta](https://jobright.ai/jobs/info/69547de4aa05c26e7aaef38d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Cost Report Auditor Intern - Summer 2026](https://jobright.ai/jobs/info/69547d815bb7de448ef7724b?utm_campaign=1052&utm_source=git)** | Colorado, United States | Remote | Dec 30 |
 | ↳ | **[Cost Report Auditor Intern - Summer 2026](https://jobright.ai/jobs/info/69547d035bb7de448ef7712e?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Dec 30 |
-| ↳ | **[Cost Report Auditor Intern - Summer 2026](https://jobright.ai/jobs/info/69547cbb5bb7de448ef770a1?utm_campaign=1052&utm_source=git)** | Madison, WI | Remote | Dec 30 |
 | ↳ | **[Cost Report Auditor Intern - Summer 2026](https://jobright.ai/jobs/info/69547bdb5bb7de448ef76ec4?utm_campaign=1052&utm_source=git)** | Virginia, United States | Remote | Dec 30 |
 | ↳ | **[Cost Report Auditor Intern - Summer 2026](https://jobright.ai/jobs/info/69547bafaa05c26e7aaeef76?utm_campaign=1052&utm_source=git)** | Indiana, United States | Remote | Dec 30 |
+| ↳ | **[Cost Report Auditor Intern - Summer 2026](https://jobright.ai/jobs/info/69547b5ef1f8465b79ebb135?utm_campaign=1052&utm_source=git)** | Madison, WI | Remote | Dec 30 |
+| ↳ | **[Cost Report Auditor Intern - Summer 2026](https://jobright.ai/jobs/info/69547b575bb7de448ef76d84?utm_campaign=1052&utm_source=git)** | Minnesota, United States | Remote | Dec 30 |
+| ↳ | **[Cost Report Auditor Intern - Summer 2026](https://jobright.ai/jobs/info/69547b50f1f8465b79ebb123?utm_campaign=1052&utm_source=git)** | Ohio, United States | Remote | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking (SSG) - New York](https://jobright.ai/jobs/info/6955e7ff9f1b381eb26f1bed?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| **[VSP Vision](https://vspglobal.com/)** | **[Internship, Underwriting](https://jobright.ai/jobs/info/695609ff9f1b381eb26f4e4c?utm_campaign=1052&utm_source=git)** | Remote US | Remote | Dec 31 |
+| **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Underwriting](https://jobright.ai/jobs/info/695604c0f1f8465b79ecff96?utm_campaign=1052&utm_source=git)** | United States | Remote | Dec 31 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern -US](https://jobright.ai/jobs/info/6897e1e473b3a600fe8a0ccc?utm_campaign=1052&utm_source=git)** | Remote - US | Remote | Dec 31 |
+| **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Equity Research - New York](https://jobright.ai/jobs/info/6955f0609f1b381eb26f2860?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| ↳ | **[2027 Summer Internship - Global Markets - Quantitative Trading - NY](https://jobright.ai/jobs/info/6955ed10f1f8465b79ecda3e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| ↳ | **[2027 Summer Internship - Global Banking (SSG) - New York](https://jobright.ai/jobs/info/6955e7ff9f1b381eb26f1bed?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | ↳ | **[2027 Summer Internship - Global Banking (REF) - New York](https://jobright.ai/jobs/info/6955e711aa05c26e7ab01f31?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| **[Prestage Farms](http://www.prestagefarms.com/prestage-foods-processing-plants/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6956025aaa05c26e7ab04e6f?utm_campaign=1052&utm_source=git)** | Clinton, NC | On Site | Dec 31 |
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Intern-Finance](https://jobright.ai/jobs/info/6955df43f1f8465b79ecc833?utm_campaign=1052&utm_source=git)** | Fairfield, CT | On Site | Dec 31 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Accounting Internship -  January 2026!](https://jobright.ai/jobs/info/6955d26b9f1b381eb26efda9?utm_campaign=1052&utm_source=git)** | Altamonte Springs,FL,US | On Site | Dec 31 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6955d1609f1b381eb26efbd8?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Economics (Summer 2026)](https://jobright.ai/jobs/info/69385003a0dde7020e30d77a?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Dec 31 |
 | **[TAIT](http://www.taittowers.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69390ca2d52e071e19865394?utm_campaign=1052&utm_source=git)** | Lititz, PA | On Site | Dec 31 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Procurement, Financial Analyst Intern](https://jobright.ai/jobs/info/691c5b96bcdbf3560c9e6e4b?utm_campaign=1052&utm_source=git)** | Detroit Metro | On Site | Dec 31 |
-| **[BGIS](https://www.bgis.com)** | **[Intern, Capital Planning](https://jobright.ai/jobs/info/691baada15b415636719168e?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 31 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Financial Controls Intern Summer 2026](https://jobright.ai/jobs/info/68cbad05ba798c1a501d3cdd?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 31 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Minneapolis)](https://jobright.ai/jobs/info/691bb2c915b4156367191c14?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Dec 31 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Procure to Pay](https://jobright.ai/jobs/info/6944e8c494730b739878192c?utm_campaign=1052&utm_source=git)** | Headquarters, NJ | Hybrid | Dec 31 |
-| **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, Tremont](https://jobright.ai/jobs/info/6942faa2dd382f5f5668f0f4?utm_campaign=1052&utm_source=git)** | Newton, MA | On Site | Dec 31 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68dc217cd6470e72cf4d8db1?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking (SSG) - New York](https://jobright.ai/jobs/info/6955e7ff9f1b381eb26f1bed?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| ↳ | **[2027 Summer Internship - Global Banking (REF) - New York](https://jobright.ai/jobs/info/6955e711aa05c26e7ab01f31?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| **[Bigelow Tea](http://www.bigelowtea.com)** | **[Intern-Finance](https://jobright.ai/jobs/info/6955df43f1f8465b79ecc833?utm_campaign=1052&utm_source=git)** | Fairfield, CT | On Site | Dec 31 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Accounting Internship -  January 2026!](https://jobright.ai/jobs/info/6955d26b9f1b381eb26efda9?utm_campaign=1052&utm_source=git)** | Altamonte Springs,FL,US | On Site | Dec 31 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6955d1609f1b381eb26efbd8?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
+| **[Everstory Partners](http://www.everstorypartners.com)** | **[Accounting Internship - January 2026!](https://jobright.ai/jobs/info/6955d744f1f8465b79ecbcd7?utm_campaign=1052&utm_source=git)** | Altamonte Springs, FL | On Site | Dec 31 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Finance Intern - Finance Temp](https://jobright.ai/jobs/info/69458ac763141d1884551830?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Valuation Intern - Part Time](https://jobright.ai/jobs/info/69559d35f1f8465b79ec93ad?utm_campaign=1052&utm_source=git)** | Remote - USA | Remote | Dec 31 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Independent Cost Evaluation- Intern](https://jobright.ai/jobs/info/695578939f1b381eb26ec857?utm_campaign=1052&utm_source=git)** | Connecticut, Florida, New Jersey, New York, Virginia | Hybrid | Dec 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Procure to Pay](https://jobright.ai/jobs/info/6944e8c494730b739878192c?utm_campaign=1052&utm_source=git)** | Headquarters, NJ | Hybrid | Dec 31 |
 | **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, Tremont](https://jobright.ai/jobs/info/6942faa2dd382f5f5668f0f4?utm_campaign=1052&utm_source=git)** | Newton, MA | On Site | Dec 31 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68dc217cd6470e72cf4d8db1?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Dec 31 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e5b0aa05c26e7aaf5822?utm_campaign=1052&utm_source=git)** | Scarborough, ME | Hybrid | Dec 31 |
-| **[CKH Group](https://www.ckhgroup.com/)** | **[Accounting Internship - Atlanta](https://jobright.ai/jobs/info/6954d2b4aa05c26e7aaf50a8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
-| ↳ | **[Accounting Internship - Hawkinsville](https://jobright.ai/jobs/info/6954cac5f1f8465b79ebff19?utm_campaign=1052&utm_source=git)** | Hawkinsville, GA | On Site | Dec 30 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Mortgage Banking, Denver](https://jobright.ai/jobs/info/6941e77950bbaf765053b221?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

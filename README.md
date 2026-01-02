@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coinbase](https://www.coinbase.com)** | **[Business Controller Intern](https://jobright.ai/jobs/info/6956f79ef1f8465b79edd26f?utm_campaign=1052&utm_source=git)** | Hybrid - New York, NY | Hybrid | Jan 01 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Assurance Intern](https://jobright.ai/jobs/info/6956ea269f1b381eb2701a3f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 01 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Accounting Intern](https://jobright.ai/jobs/info/6956c3b59f1b381eb26ff3ac?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 01 |
 | **[Vyntravo](vyntravo.us)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6956c017f1f8465b79edaa3f?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 01 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance Intern – Advanced Financial Modeling](https://jobright.ai/jobs/info/6956bbb6f1f8465b79eda9e7?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Intern - Accounting (Part-time) (Days)](https://jobright.ai/jobs/info/69540ba8aa05c26e7aae8fba?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Jan 01 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Finance Analytics Associate (Intern)](https://jobright.ai/jobs/info/6956ac5b9f1b381eb26fdd07?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 01 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Assurance Intern](https://jobright.ai/jobs/info/6956a045aa05c26e7ab0d4fb?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 01 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - Finance Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/69569453aa05c26e7ab0cf47?utm_campaign=1052&utm_source=git)** | Austin, MN, United States | On Site | Jan 01 |
 | **[Wind River](http://www.windriver.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69568ecaaa05c26e7ab0cd32?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Jan 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer High School Intern - Finance (Mesa, AZ)](https://jobright.ai/jobs/info/69568e06f1f8465b79ed81e1?utm_campaign=1052&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Intern, Tax- State, Federal & Local](https://jobright.ai/jobs/info/691ce06022a2cb4b9bd1e238?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Jan 01 |
 | **[Tokio Marine HCC – A&H Group](tmhcc.com/AHGroup)** | **[Actuarial Intern](https://jobright.ai/jobs/info/691d98f649c9744234f1ef59?utm_campaign=1052&utm_source=git)** | Kennesaw, GA | On Site | Jan 01 |
-| **[Koch](https://www.kochinc.com)** | **[Summer 2026 Tax Intern (Wichita)](https://jobright.ai/jobs/info/6890d6df4c7e851b90aca0ed?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Investment Management, Multi-Asset Allocation](https://jobright.ai/jobs/info/693a899ded39e94c665901c1?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Financial Analyst - May 2026 (4 Month)](https://jobright.ai/jobs/info/695670b99f1b381eb26fb038?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Capital Finance Intern](https://jobright.ai/jobs/info/6956969ef1f8465b79ed84e0?utm_campaign=1052&utm_source=git)** | Livermore, CA | On Site | Jan 01 |
@@ -96,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - Finance Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/69568d51aa05c26e7ab0cc7c?utm_campaign=1052&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Jan 01 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer 2026 - Investment Management - Fixed Income Intern](https://jobright.ai/jobs/info/693a8ccc383bf96319839635?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 01 |
 | **[Expand Energy](www.expandenergy.com)** | **[Intern - Investor Relations](https://jobright.ai/jobs/info/68c9356cf9c6ff7aedf18c55?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Jan 01 |
+| **[Koch](https://www.kochinc.com)** | **[Summer 2026 Tax Intern (Wichita)](https://jobright.ai/jobs/info/68c8f2eef9c6ff7aedf1539c?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[Internship - Summer 2026](https://jobright.ai/jobs/info/69398c1e56b68f3dc4e6f24e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 01 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Underwriting Assistant Intern - Healthcare - Summer 2026](https://jobright.ai/jobs/info/68ccfe2a5954791a1d7026e8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Finance Intern](https://jobright.ai/jobs/info/6948f8b8d1953b5d11c20836?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 01 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Staples](http://www.staples.com)** | **[Quill Pricing Analytics Intern - June 2026](https://jobright.ai/jobs/info/6939922148a8ce22990d9b43?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 01 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Finance, General, San Diego (Summer 2026)](https://jobright.ai/jobs/info/693a416056b68f3dc4e79a30?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[Wilshire](http://wilshire.com/)** | **[Internship: Fund Accounting (Summer 2026)](https://jobright.ai/jobs/info/693a732fac80bb5492bcf74e?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 01 |
-| ↳ | **[Internship: Investment Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a2ee348a8ce22990e272a?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 01 |
 | ↳ | **[Internship: Quantitative Research & Analytics (Summer 2026)](https://jobright.ai/jobs/info/693a76b3ac80bb5492bcf880?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 01 |
+| ↳ | **[Internship: Investment Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a2ee348a8ce22990e272a?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 01 |
 | ↳ | **[Internship: Investment Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a2cdf56b68f3dc4e77ec7?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 01 |
 | **[ETS](http://www.ets.org)** | **[Internship Program - Finance (FP&A)](https://jobright.ai/jobs/info/693a29eb48a8ce22990e2337?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Tax Research Intern](https://jobright.ai/jobs/info/6939cef8ac80bb5492bc5074?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 01 |
@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[First Financial Bank Texas](https://ffin.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68c8fd98f9c6ff7aedf15ecd?utm_campaign=1052&utm_source=git)** | Abilene, TX | On Site | Jan 01 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Procurement Analyst Intern](https://jobright.ai/jobs/info/6947b48d7d506e3808f30119?utm_campaign=1052&utm_source=git)** | Ripon, WI | On Site | Jan 01 |
 | **[Atlassian](https://www.atlassian.com)** | **[Financial Planning & Analysis Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/69354a44f131d96e4846dc82?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/695676639f1b381eb26fb3cc?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 01 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Financial Analyst](https://jobright.ai/jobs/info/691cf77122a2cb4b9bd1f45e?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 01 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Asset Management & Investments, Cambridge (Summer 2026)](https://jobright.ai/jobs/info/693a4541ac80bb5492bcc5e6?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Jan 01 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69203b0da49a885af9a378fa?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern / 2027](https://jobright.ai/jobs/info/6956496daa05c26e7ab07fb1?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Jan 01 |
 | ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/69564967f1f8465b79ed3013?utm_campaign=1052&utm_source=git)** | Mayfield, OH | On Site | Jan 01 |
 | ↳ | **[Tax Intern / Alternative Investment Group / Spring 2027](https://jobright.ai/jobs/info/695649599f1b381eb26f7587?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/6956494c9f1b381eb26f757d?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

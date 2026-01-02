@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Finance Department](https://jobright.ai/jobs/info/695728979f1b381eb27042bd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[Ares Management](http://www.aresmgmt.com)** | **[2027 Summer Intern](https://jobright.ai/jobs/info/69575b63f1f8465b79ee2474?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 01 |
+| ↳ | **[2027 Summer Intern](https://jobright.ai/jobs/info/69575b42f1f8465b79ee246b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| ↳ | **[2027 Summer Intern](https://jobright.ai/jobs/info/69575b23aa05c26e7ab16ddd?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 01 |
+| ↳ | **[2027 Summer Intern](https://jobright.ai/jobs/info/69575b179f1b381eb2706da0?utm_campaign=1052&utm_source=git)** | Los Angeles, CA - Century City | On Site | Jan 01 |
+| ↳ | **[2027 Summer Intern](https://jobright.ai/jobs/info/69575b05aa05c26e7ab16dd6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 01 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers – Corporate Banking](https://jobright.ai/jobs/info/695757e2f1f8465b79ee239d?utm_campaign=1052&utm_source=git)** | CHARLOTTE, NC | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/695757dff1f8465b79ee239a?utm_campaign=1052&utm_source=git)** | CHICAGO, IL | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/695757dd9f1b381eb2706d08?utm_campaign=1052&utm_source=git)** | WASHINGTON DC | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – Investment Banking](https://jobright.ai/jobs/info/695757c6f1f8465b79ee2393?utm_campaign=1052&utm_source=git)** | NEW YORK, NY | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – Investment Banking](https://jobright.ai/jobs/info/695757b2aa05c26e7ab16d31?utm_campaign=1052&utm_source=git)** | CHARLOTTE, NC | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – Corporate Banking](https://jobright.ai/jobs/info/6957572baa05c26e7ab16d02?utm_campaign=1052&utm_source=git)** | NEW YORK, NY | On Site | Jan 01 |
+| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Finance Department](https://jobright.ai/jobs/info/695715619f1b381eb2701f8c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Coinbase](https://www.coinbase.com)** | **[Business Controller Intern](https://jobright.ai/jobs/info/6956f79ef1f8465b79edd26f?utm_campaign=1052&utm_source=git)** | Hybrid - New York, NY | Hybrid | Jan 01 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Assurance Intern](https://jobright.ai/jobs/info/6956ea269f1b381eb2701a3f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 01 |
-| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Accounting Intern](https://jobright.ai/jobs/info/6956c3b59f1b381eb26ff3ac?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 01 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/695715db9f1b381eb270204f?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 01 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Intern - Accounting (Part-time) (Days)](https://jobright.ai/jobs/info/69540ba8aa05c26e7aae8fba?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Jan 01 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - Finance Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/69569453aa05c26e7ab0cf47?utm_campaign=1052&utm_source=git)** | Austin, MN, United States | On Site | Jan 01 |
@@ -113,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Staples](http://www.staples.com)** | **[Quill Pricing Analytics Intern - June 2026](https://jobright.ai/jobs/info/6939922148a8ce22990d9b43?utm_campaign=1052&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 01 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Finance, General, San Diego (Summer 2026)](https://jobright.ai/jobs/info/693a416056b68f3dc4e79a30?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[Wilshire](http://wilshire.com/)** | **[Internship: Fund Accounting (Summer 2026)](https://jobright.ai/jobs/info/693a732fac80bb5492bcf74e?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 01 |
-| ↳ | **[Internship: Quantitative Research & Analytics (Summer 2026)](https://jobright.ai/jobs/info/693a76b3ac80bb5492bcf880?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 01 |
 | ↳ | **[Internship: Investment Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a2ee348a8ce22990e272a?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 01 |
+| ↳ | **[Internship: Quantitative Research & Analytics (Summer 2026)](https://jobright.ai/jobs/info/693a76b3ac80bb5492bcf880?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 01 |
 | ↳ | **[Internship: Investment Solutions (Summer 2026)](https://jobright.ai/jobs/info/693a2cdf56b68f3dc4e77ec7?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 01 |
 | **[ETS](http://www.ets.org)** | **[Internship Program - Finance (FP&A)](https://jobright.ai/jobs/info/693a29eb48a8ce22990e2337?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Tax Research Intern](https://jobright.ai/jobs/info/6939cef8ac80bb5492bc5074?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 01 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern / Alternative Investment Group / Spring 2027](https://jobright.ai/jobs/info/69564a10aa05c26e7ab080db?utm_campaign=1052&utm_source=git)** | 685 3rd Avenue, New York, NY, 10017, US | On Site | Jan 01 |
 | ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/69564a0b9f1b381eb26f76c6?utm_campaign=1052&utm_source=git)** | 6002 Rogerdale Road, Ste 300, Houston, TX, 77072, US | On Site | Jan 01 |
 | ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/695649f5f1f8465b79ed314c?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Jan 01 |
-| ↳ | **[Tax Intern / Alternative Investment Group / Summer 2026](https://jobright.ai/jobs/info/695649b2f1f8465b79ed30d0?utm_campaign=1052&utm_source=git)** | 685 3rd Avenue, New York, NY, 10017, US | On Site | Jan 01 |
-| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/6956498baa05c26e7ab07feb?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Jan 01 |
-| ↳ | **[Forensic Accounting and Litigation Intern / Fall 2026](https://jobright.ai/jobs/info/6956497c9f1b381eb26f75cf?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 01 |
-| ↳ | **[Outsourced Accounting Solutions Intern / Summer 2027](https://jobright.ai/jobs/info/69564975aa05c26e7ab07fc5?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 01 |
-| ↳ | **[Tax Intern / 2027](https://jobright.ai/jobs/info/6956496daa05c26e7ab07fb1?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Jan 01 |
-| ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/69564967f1f8465b79ed3013?utm_campaign=1052&utm_source=git)** | Mayfield, OH | On Site | Jan 01 |
-| ↳ | **[Tax Intern / Alternative Investment Group / Spring 2027](https://jobright.ai/jobs/info/695649599f1b381eb26f7587?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
-| ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/6956494c9f1b381eb26f757d?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Jan 01 |
-| ↳ | **[Audit Intern / 2027](https://jobright.ai/jobs/info/69564949aa05c26e7ab07f77?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Jan 01 |
-| ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/69564945aa05c26e7ab07f73?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

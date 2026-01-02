@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Finance Department](https://jobright.ai/jobs/info/695715619f1b381eb2701f8c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Finance Department](https://jobright.ai/jobs/info/695728979f1b381eb27042bd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Coinbase](https://www.coinbase.com)** | **[Business Controller Intern](https://jobright.ai/jobs/info/6956f79ef1f8465b79edd26f?utm_campaign=1052&utm_source=git)** | Hybrid - New York, NY | Hybrid | Jan 01 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Assurance Intern](https://jobright.ai/jobs/info/6956ea269f1b381eb2701a3f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 01 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Accounting Intern](https://jobright.ai/jobs/info/6956c3b59f1b381eb26ff3ac?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 01 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/695715db9f1b381eb270204f?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 01 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance Intern – Advanced Financial Modeling](https://jobright.ai/jobs/info/6956bbb6f1f8465b79eda9e7?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Intern - Accounting (Part-time) (Days)](https://jobright.ai/jobs/info/69540ba8aa05c26e7aae8fba?utm_campaign=1052&utm_source=git)** | Carrollton, GA | On Site | Jan 01 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - Finance Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/69569453aa05c26e7ab0cf47?utm_campaign=1052&utm_source=git)** | Austin, MN, United States | On Site | Jan 01 |
 | **[Wind River](http://www.windriver.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69568ecaaa05c26e7ab0cd32?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Jan 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern / Alternative Investment Group / Spring 2027](https://jobright.ai/jobs/info/695649599f1b381eb26f7587?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/6956494c9f1b381eb26f757d?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Jan 01 |
 | ↳ | **[Audit Intern / 2027](https://jobright.ai/jobs/info/69564949aa05c26e7ab07f77?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | Jan 01 |
+| ↳ | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/69564945aa05c26e7ab07f73?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

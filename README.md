@@ -57,6 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/691fa0db09cc522e87743d9a?utm_campaign=1052&utm_source=git)** | Triangle Area | Hybrid | Jan 03 |
+| **[Zipline](https://www.zipline.com/)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccc5550bbaf76504ffcf1?utm_campaign=1052&utm_source=git)** | South San Francisco, CA | On Site | Jan 03 |
+| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Accounting/ Finance](https://jobright.ai/jobs/info/693ce31950bbaf7650500a11?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jan 03 |
+| **[Cascades](http://www.cascades.com)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/691fc826a49a885af9a34088?utm_campaign=1052&utm_source=git)** | Wagram, NC | On Site | Jan 03 |
+| **[Vontier](https://www.vontier.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/690d7f48221b890c278072ad?utm_campaign=1052&utm_source=git)** | Duncansville, PA | On Site | Jan 03 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Tax Intern (Winter 2026)](https://jobright.ai/jobs/info/68ce2c53e23def7af55c2c75?utm_campaign=1052&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 03 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[ACCOUNTING INTERN 2026-LIVE PORK](https://jobright.ai/jobs/info/68e6ed401852e62f0082073e?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jan 03 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6954ae915bb7de448ef7b726?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Jan 03 |
+| **[Withum](http://www.withum.com)** | **[Winter Outsourced Accounting 2026 Internship](https://jobright.ai/jobs/info/691f3f8a3f782d2f1afb97bd?utm_campaign=1052&utm_source=git)** | Syracuse-Auburn Area | On Site | Jan 03 |
+| **[Cohen & Co](http://www.cohencpa.com)** | **[Assurance Intern, Summer 2027](https://jobright.ai/jobs/info/69590f78f1f8465b79efa44b?utm_campaign=1052&utm_source=git)** | Towson, MD | Hybrid | Jan 03 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69520720ce13cd1056597e6e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 03 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6957352cf1f8465b79edfd95?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 03 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/695497cfaa05c26e7aaf1315?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 03 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6952110c29655e4dd65aee0e?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | Hybrid | Jan 03 |
+| **[Safety National](https://www.safetynational.com)** | **[Actuarial Intern (graduation December 2027 or Later)](https://jobright.ai/jobs/info/6902938000a1816c41e9ff43?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 03 |
+| **[M3](https://m3as.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f7f271ec6dbe7073fcefc3?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA | Hybrid | Jan 03 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GTA Office – Opportunities in Indirect Tax - Trade & Customs – Summer Intern 2026](https://jobright.ai/jobs/info/693c964d50bbaf76504fd7a1?utm_campaign=1052&utm_source=git)** | Vaughan, Ontario, Canada | Hybrid | Jan 03 |
+| **[Nightwing](nightwing.com)** | **[Accounting Intern - 2026](https://jobright.ai/jobs/info/693c9fe749a7695fbd036e48?utm_campaign=1052&utm_source=git)** | Sterling, VA | On Site | Jan 03 |
+| **[Safety National](https://www.safetynational.com)** | **[Actuarial Intern (graduation May 2027 or sooner)](https://jobright.ai/jobs/info/69028ebd00a1816c41e9fa73?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 03 |
+| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/691fdc4fa49a885af9a34d18?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Jan 03 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Credit Loss Analytics](https://jobright.ai/jobs/info/693cb19e49a7695fbd0377a7?utm_campaign=1052&utm_source=git)** | Charlotte Metro | On Site | Jan 03 |
 | **[Advanced Sterilization Products](http://www.asp.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/691fe9563f782d2f1afc1668?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 – Markets - Systematic Trading –  Internship – New York](https://jobright.ai/jobs/info/6948d727d1953b5d11c1ef25?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/693e5cd750bbaf7650511179?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Jan 03 |
@@ -88,6 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Vontier](https://www.vontier.com)** | **[IT Internal Audit & Accounting Intern](https://jobright.ai/jobs/info/6958ba12aa05c26e7ab29b80?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 02 |
 | **[Knife River Corporation](https://www.kniferiver.com/)** | **[Accounting Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/6958731caa05c26e7ab25dd9?utm_campaign=1052&utm_source=git)** | BISMARCK, ND 58503, USA | Hybrid | Jan 02 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[PC Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69589a87f1f8465b79ef2a2c?utm_campaign=1052&utm_source=git)** | West Des Moines, IA, US | On Site | Jan 02 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer 2026 - Investment Management - Fixed Income Intern](https://jobright.ai/jobs/info/69590717f1f8465b79ef97be?utm_campaign=1052&utm_source=git)** | CA-QC-Montreal | Hybrid | Jan 02 |
+| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Construction Management Financial Operations Intern](https://jobright.ai/jobs/info/6959083c9f1b381eb271e4ac?utm_campaign=1052&utm_source=git)** | US-MN-Detroit Lakes | On Site | Jan 02 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Finance Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585a10aa05c26e7ab23b0b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 02 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Western Region P&C](https://jobright.ai/jobs/info/695859899f1b381eb2713cca?utm_campaign=1052&utm_source=git)** | Richardson, TX | Hybrid | Jan 02 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2027 Tax Intern - Virginia Beach](https://jobright.ai/jobs/info/695856d6aa05c26e7ab23a73?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Jan 02 |
@@ -134,27 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Procurement GTS Finance Intern/Co-op - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis (Summer 2026)](https://jobright.ai/jobs/info/6958079a9f1b381eb270f780?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Jan 02 |
 | **[Blackstone](http://www.blackstone.com)** | **[2026 Blackstone MINT Program (Military Internship)](https://jobright.ai/jobs/info/6957f31caa05c26e7ab1d683?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jan 02 |
 | ↳ | **[2026 Blackstone MINT Program (Military Internship)](https://jobright.ai/jobs/info/6957ebea9f1b381eb270d4e1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 02 |
-| **[Guardian Dentistry Partners](https://guardiandentistry.com/)** | **[Corporate Finance Internship](https://jobright.ai/jobs/info/695442965bb7de448ef736e8?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jan 02 |
-| **[Hilton](https://www.hilton.com/en/)** | **[Finance Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/695803709f1b381eb270f607?utm_campaign=1052&utm_source=git)** | Hilton Boston Park Plaza50 Park Plaza at Arlington St. | On Site | Jan 02 |
-| **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Public Finance Analyst Summer Internship Program 2027 San Francisco](https://jobright.ai/jobs/info/6957fdebaa05c26e7ab1f28e?utm_campaign=1052&utm_source=git)** | Four Embarcadero Center, San Francsico | On Site | Jan 02 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957fc639f1b381eb270f403?utm_campaign=1052&utm_source=git)** | Chula Vista, CA | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957fc319f1b381eb270f3e5?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | Remote | Jan 02 |
-| **[BMO](http://www.bmo.com)** | **[Investorline Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6957fbe29f1b381eb270f3bf?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 02 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957fbbb9f1b381eb270f3b0?utm_campaign=1052&utm_source=git)** | Asheville, NC | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957faa49f1b381eb270f33a?utm_campaign=1052&utm_source=git)** | Columbus, GA | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957fa819f1b381eb270f327?utm_campaign=1052&utm_source=git)** | Tallahassee, FL | Remote | Jan 02 |
-| **[Amplifon](http://corporate.amplifon.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/6957f9e49f1b381eb270f2e7?utm_campaign=1052&utm_source=git)** | 8300 Central Park Drive, Waco, 76712, US | On Site | Jan 02 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f97a9f1b381eb270f2a9?utm_campaign=1052&utm_source=git)** | Rock Hill, SC | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f8999f1b381eb270f274?utm_campaign=1052&utm_source=git)** | Kennewick, WA | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f88f9f1b381eb270f272?utm_campaign=1052&utm_source=git)** | South Bend, IN | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f847aa05c26e7ab1f19e?utm_campaign=1052&utm_source=git)** | Lakeland, FL | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f809aa05c26e7ab1f18c?utm_campaign=1052&utm_source=git)** | Appleton, WI | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f7f9aa05c26e7ab1f184?utm_campaign=1052&utm_source=git)** | Eugene, OR | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f7f3aa05c26e7ab1f182?utm_campaign=1052&utm_source=git)** | Gulfport, MS | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f7e5aa05c26e7ab1f17d?utm_campaign=1052&utm_source=git)** | Green Bay, WI | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f7dcf1f8465b79ee9271?utm_campaign=1052&utm_source=git)** | Brownsville, TX | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f7cbf1f8465b79ee9240?utm_campaign=1052&utm_source=git)** | York, PA | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f7b8f1f8465b79ee91f5?utm_campaign=1052&utm_source=git)** | Montgomery, AL | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f7a29f1b381eb270f239?utm_campaign=1052&utm_source=git)** | Killeen, TX | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f797f1f8465b79ee9162?utm_campaign=1052&utm_source=git)** | Deltona, FL | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KCC Capital Partners](kcccapitalpartners.com)** | **[Internship Program](https://jobright.ai/jobs/info/6958c7c3f1f8465b79ef61c3?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6958e4fd9f1b381eb271cb6d?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Jan 03 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958dee89f1b381eb271be3f?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
+| ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958ddcdf1f8465b79ef7580?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
+| ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958dd57f1f8465b79ef7497?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 03 |
+| ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958dc3cf1f8465b79ef7238?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Finance Internship](https://jobright.ai/jobs/info/6958cf99aa05c26e7ab2b2df?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Jan 03 |
+| **[T12 Technologies](https://www.t12-tech.com)** | **[Junior Finance Bookkeeper Internship](https://jobright.ai/jobs/info/6958cc39f1f8465b79ef66c1?utm_campaign=1052&utm_source=git)** | White Plains, MD 20695 | Hybrid | Jan 02 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, Corporate FP&A](https://jobright.ai/jobs/info/6958bb21f1f8465b79ef5431?utm_campaign=1052&utm_source=git)** | Mountain View, CA | Remote | Jan 02 |
 | ↳ | **[MBA Finance Intern, Treasury](https://jobright.ai/jobs/info/6958bdbe9f1b381eb271a3b8?utm_campaign=1052&utm_source=git)** | Mountain View, CA | On Site | Jan 02 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/695891d29f1b381eb2716f55?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Jan 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f697aa05c26e7ab1e4bb?utm_campaign=1052&utm_source=git)** | Fremont, CA | Remote | Jan 02 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f6889f1b381eb270ee2f?utm_campaign=1052&utm_source=git)** | Gilbert, AZ | Remote | Jan 02 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f66c9f1b381eb270ece4?utm_campaign=1052&utm_source=git)** | Lafayette, LA | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f64df1f8465b79ee8d9e?utm_campaign=1052&utm_source=git)** | Santa Clarita, CA | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f64baa05c26e7ab1e15e?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f619aa05c26e7ab1de9b?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f612f1f8465b79ee8d8c?utm_campaign=1052&utm_source=git)** | Shreveport, LA | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f60d9f1b381eb270e75d?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | Remote | Jan 02 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6957f5eeaa05c26e7ab1dce8?utm_campaign=1052&utm_source=git)** | Bremerton, WA | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

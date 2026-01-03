@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Commercial Banking](https://jobright.ai/jobs/info/695983d9f1f8465b79effcb4?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jan 03 |
+| **[Petco](https://www.petco.com/unleashed)** | **[Accounting Intern](https://jobright.ai/jobs/info/695982379f1b381eb2724079?utm_campaign=1052&utm_source=git)** | Remote - Texas | Remote | Jan 03 |
+| **[Valeo Financial Advisors LLC](http://www.valeofinancial.com/)** | **[Summer 2026: Financial Planning Internship - Richmond](https://jobright.ai/jobs/info/69597479aa05c26e7ab334a9?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jan 03 |
 | **[Guerra Wealth Advisors](https://guerrafinancial.com)** | **[Meet Guerra Wealth AdvisorsWealth Management Specialist Internship](https://jobright.ai/jobs/info/695971adf1f8465b79efea38?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jan 03 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Assurance Intern](https://jobright.ai/jobs/info/69596a429f1b381eb2723505?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 03 |
 | **[BDO](https://global-www.bdo.global/)** | **[Core Tax Intern - Winter 2027 (Seattle)](https://jobright.ai/jobs/info/69594e4c9f1b381eb2722f3f?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jan 03 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Finance/Accounting](https://jobright.ai/jobs/info/6959408daa05c26e7ab30f8c?utm_campaign=1052&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 03 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Intern – Capital Markets Specialist](https://jobright.ai/jobs/info/69594071aa05c26e7ab30f80?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 03 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/69593f81aa05c26e7ab30ee6?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 03 |
-| **[Dynareon](dynareon.us)** | **[Finance Intern](https://jobright.ai/jobs/info/695935759f1b381eb2721008?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 03 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Intern - 2026](https://jobright.ai/jobs/info/69592f1cf1f8465b79efc148?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 03 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[International Tax Senior Manager](https://jobright.ai/jobs/info/68e73f7fe8daec61499b38c3?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/69592bd7aa05c26e7ab30939?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 03 |
@@ -117,13 +119,13 @@ For a complete list, click the following sortable link below:
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/693c8ad3aa598a08c3ed5e82?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Jan 03 |
 | **[Advanced Sterilization Products](http://www.asp.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/691fe9563f782d2f1afc1668?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 03 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GTA Office – Opportunities in Indirect Tax - Trade & Customs Intern - March 2026 - Fleming College Student](https://jobright.ai/jobs/info/693c939850bbaf76504fc9f1?utm_campaign=1052&utm_source=git)** | Vaughan, Ontario, Canada | Hybrid | Jan 03 |
-| **[Tektronix](http://www.tek.com)** | **[Financial Analyst (FP&A) Intern Summer 2026](https://jobright.ai/jobs/info/68ae4f10758f2e4ac3012b8a?utm_campaign=1052&utm_source=git)** | Beaverton, OR | On Site | Jan 03 |
+| **[Tektronix](http://www.tek.com)** | **[Financial Analyst (FP&A) Intern Summer 2026](https://jobright.ai/jobs/info/68ae4909758f2e4ac30128ff?utm_campaign=1052&utm_source=git)** | Beaverton, OR | On Site | Jan 03 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Tax Intern](https://jobright.ai/jobs/info/693c927349a7695fbd034d53?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jan 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 – Markets - Systematic Trading –  Internship – New York](https://jobright.ai/jobs/info/6948d727d1953b5d11c1ef25?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[T12 Technologies](https://www.t12-tech.com)** | **[Junior Finance Bookkeeper Internship](https://jobright.ai/jobs/info/69591b0bf1f8465b79eface1?utm_campaign=1052&utm_source=git)** | White Plains, MD | Hybrid | Jan 03 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/693e5cd750bbaf7650511179?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Jan 03 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Liquidity Risk Intern (4 Months)](https://jobright.ai/jobs/info/693c92cfaa598a08c3ed67a5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - GRM, Risk Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c8f5849a7695fbd034b32?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Risk Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c8f5849a7695fbd034b32?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer - GRM, Liquidity Risk Intern (4 Months)](https://jobright.ai/jobs/info/693c92cfaa598a08c3ed67a5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68cad58fd905e25191d9cae9?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 03 |
 | **[Lennox](http://www.lennox.com)** | **[Revenue Operations Intern - Summer 2026](https://jobright.ai/jobs/info/693ca8c0aa598a08c3ed8b4a?utm_campaign=1052&utm_source=git)** | West Columbia, SC | On Site | Jan 03 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Procurement Cost Analyst](https://jobright.ai/jobs/info/68e6acb01852e62f0081d360?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Jan 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[PC Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/69589a87f1f8465b79ef2a2c?utm_campaign=1052&utm_source=git)** | West Des Moines, IA, US | On Site | Jan 02 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer 2026 - Investment Management - Fixed Income Intern](https://jobright.ai/jobs/info/69590717f1f8465b79ef97be?utm_campaign=1052&utm_source=git)** | CA-QC-Montreal | Hybrid | Jan 02 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Construction Management Financial Operations Intern](https://jobright.ai/jobs/info/6959083c9f1b381eb271e4ac?utm_campaign=1052&utm_source=git)** | US-MN-Detroit Lakes | On Site | Jan 02 |
-| **[Hilton](https://www.hilton.com/en/)** | **[Finance Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585a10aa05c26e7ab23b0b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 02 |
-| **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Western Region P&C](https://jobright.ai/jobs/info/695859899f1b381eb2713cca?utm_campaign=1052&utm_source=git)** | Richardson, TX | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

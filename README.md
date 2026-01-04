@@ -57,8 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Pricing & Proposals Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d59063502c0aded6d1b9?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Jan 04 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Capital Markets](https://jobright.ai/jobs/info/68cd41a7b2a74e1837ed481b?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 04 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b3?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | Hybrid | Jan 04 |
+| **[Tenneco](https://www.tenneco.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/692120dca49a885af9a43203?utm_campaign=1052&utm_source=git)** | Northville, MI | On Site | Jan 04 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Tax Internship: Summer 2026](https://jobright.ai/jobs/info/6905313aff462851feffb8cd?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
+| **[KBRA](https://www.kbra.com)** | **[2026 Summer Intern - KBRA Credit Profile (KCP)](https://jobright.ai/jobs/info/69211e2da49a885af9a43040?utm_campaign=1052&utm_source=git)** | Dresher, PA | On Site | Jan 04 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/69053124ff462851feffb8b7?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
+| **[Sompo](https://www.sompo-intl.com/)** | **[Assumed Reinsurance Accounting Intern](https://jobright.ai/jobs/info/68e926419020b95add6a43f5?utm_campaign=1052&utm_source=git)** | Garden City, NY | On Site | Jan 04 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf4e?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 04 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Credit Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/6905299b122e8474c78d6d2d?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 04 |
+| **[Signal Energy](http://www.signalenergy.com/)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68cfb180fb49c96ca6eaad5e?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 04 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Trading Operations Co-op with Drexel University: Spring/Summer A Round](https://jobright.ai/jobs/info/69053560ff462851feffbd9a?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
+| ↳ | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/690531b363502c0aded79651?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/695a2b1ff1f8465b79f0773b?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 04 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Finance Internship](https://jobright.ai/jobs/info/695a26619f1b381eb272c3a9?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | Remote | Jan 04 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern (Winter 2026)](https://jobright.ai/jobs/info/695a3e4ff1f8465b79f08286?utm_campaign=1052&utm_source=git)** | Irvine | On Site | Jan 04 |
 | **[Brixenta](brixenta.us)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/695a1725aa05c26e7ab3b42e?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Spokane)](https://jobright.ai/jobs/info/6959f36df1f8465b79f05b12?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 03 |
 | ↳ | **[Assurance Intern - Summer 2027 (Seattle)](https://jobright.ai/jobs/info/6959f0eb9f1b381eb272a8cd?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Centralized Commercial Lending](https://jobright.ai/jobs/info/693cbeb0aa598a08c3ed940a?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Jan 03 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/691f96113f782d2f1afbe4a2?utm_campaign=1052&utm_source=git)** | Purchase, NY | On Site | Jan 03 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Tax Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/691fd3d9a49a885af9a3474e?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 03 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Queens Branch - Residential Mortgage Intern](https://jobright.ai/jobs/info/693c6bc149a7695fbd0335da?utm_campaign=1052&utm_source=git)** | Queens, NY | On Site | Jan 03 |
-| **[Lennox](http://www.lennox.com)** | **[FP&A Intern - LRH](https://jobright.ai/jobs/info/6959fd439f1b381eb272ade8?utm_campaign=1052&utm_source=git)** | Richardson, TX | On Site | Jan 03 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6958e787aa05c26e7ab2d037?utm_campaign=1052&utm_source=git)** | Grand Island, NY | On Site | Jan 03 |
-| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6958e669f1f8465b79ef8789?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Jan 03 |
-| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6958e4fd9f1b381eb271cb6d?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Jan 03 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958dee89f1b381eb271be3f?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
-| ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958ddcdf1f8465b79ef7580?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
-| ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958dd57f1f8465b79ef7497?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 03 |
-| ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958dc3cf1f8465b79ef7238?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Construction Management Financial Operations Intern](https://jobright.ai/jobs/info/695a24fbf1f8465b79f073bd?utm_campaign=1052&utm_source=git)** | Detroit Lakes, MN | On Site | Jan 03 |
-| **[T12 Technologies](https://www.t12-tech.com)** | **[Junior Finance Bookkeeper Internship](https://jobright.ai/jobs/info/6958cc39f1f8465b79ef66c1?utm_campaign=1052&utm_source=git)** | White Plains, MD 20695 | Hybrid | Jan 02 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Tax Intern - Headquarters (2026)](https://jobright.ai/jobs/info/695a24f7aa05c26e7ab3bcb8?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | Jan 02 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Loan Workout Group Intern](https://jobright.ai/jobs/info/695a16839f1b381eb272b855?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 02 |
-| **[Cohen & Co](http://www.cohencpa.com)** | **[Assurance Intern, Summer 2027](https://jobright.ai/jobs/info/695a110ef1f8465b79f066ab?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 02 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Accounting Intern - Spring 2027](https://jobright.ai/jobs/info/695a10d2aa05c26e7ab3af4e?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

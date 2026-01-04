@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brixenta](brixenta.us)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/695a1725aa05c26e7ab3b42e?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Spokane)](https://jobright.ai/jobs/info/6959f36df1f8465b79f05b12?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 03 |
 | ↳ | **[Assurance Intern - Summer 2027 (Seattle)](https://jobright.ai/jobs/info/6959f0eb9f1b381eb272a8cd?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
 | ↳ | **[Assurance Intern - Fall 2026 (Anchorage)](https://jobright.ai/jobs/info/6959f0ad9f1b381eb272a8c0?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 03 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Spokane)](https://jobright.ai/jobs/info/695947949f1b381eb2721faf?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Finance/Accounting](https://jobright.ai/jobs/info/6959408daa05c26e7ab30f8c?utm_campaign=1052&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 03 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[International Tax Senior Manager](https://jobright.ai/jobs/info/68e73f7fe8daec61499b38c3?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/695a1636f1f8465b79f06953?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 03 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/69592b7af1f8465b79efbfa9?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Jan 03 |
 | **[Vista Equity Partners](https://www.vistaequitypartners.com)** | **[2027 Private Equity Summer Analyst Internship](https://jobright.ai/jobs/info/695922889f1b381eb2720001?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Treasury Analyst MBA Intern – Summer 2026](https://jobright.ai/jobs/info/6904281863502c0aded71079?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
@@ -126,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/693c8ad3aa598a08c3ed5e82?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Jan 03 |
 | **[Advanced Sterilization Products](http://www.asp.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/691fe9563f782d2f1afc1668?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 03 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GTA Office – Opportunities in Indirect Tax - Trade & Customs Intern - March 2026 - Fleming College Student](https://jobright.ai/jobs/info/693c939850bbaf76504fc9f1?utm_campaign=1052&utm_source=git)** | Vaughan, Ontario, Canada | Hybrid | Jan 03 |
-| **[Tektronix](http://www.tek.com)** | **[Financial Analyst (FP&A) Intern Summer 2026](https://jobright.ai/jobs/info/68ae4909758f2e4ac30128ff?utm_campaign=1052&utm_source=git)** | Beaverton, OR | On Site | Jan 03 |
+| **[Tektronix](http://www.tek.com)** | **[Financial Analyst (FP&A) Intern Summer 2026](https://jobright.ai/jobs/info/68ae4f10758f2e4ac3012b8a?utm_campaign=1052&utm_source=git)** | Beaverton, OR | On Site | Jan 03 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Tax Intern](https://jobright.ai/jobs/info/693c927349a7695fbd034d53?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jan 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 – Markets - Systematic Trading –  Internship – New York](https://jobright.ai/jobs/info/6948d727d1953b5d11c1ef25?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[T12 Technologies](https://www.t12-tech.com)** | **[Junior Finance Bookkeeper Internship](https://jobright.ai/jobs/info/69591b0bf1f8465b79eface1?utm_campaign=1052&utm_source=git)** | White Plains, MD | Hybrid | Jan 03 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958dd57f1f8465b79ef7497?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6958dc3cf1f8465b79ef7238?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | **[T12 Technologies](https://www.t12-tech.com)** | **[Junior Finance Bookkeeper Internship](https://jobright.ai/jobs/info/6958cc39f1f8465b79ef66c1?utm_campaign=1052&utm_source=git)** | White Plains, MD 20695 | Hybrid | Jan 02 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/6959f9bd9f1b381eb272ac80?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 02 |
-| **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, Corporate FP&A](https://jobright.ai/jobs/info/6958bb21f1f8465b79ef5431?utm_campaign=1052&utm_source=git)** | Mountain View, CA | Remote | Jan 02 |
-| ↳ | **[MBA Finance Intern, Treasury](https://jobright.ai/jobs/info/6958bdbe9f1b381eb271a3b8?utm_campaign=1052&utm_source=git)** | Mountain View, CA | On Site | Jan 02 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Risk Analyst Intern](https://jobright.ai/jobs/info/6959e7c8aa05c26e7ab386e5?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 02 |
-| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/695891d29f1b381eb2716f55?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Jan 02 |
-| **[Knife River Corporation](https://www.kniferiver.com/)** | **[Accounting Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/695889e49f1b381eb2716cbf?utm_campaign=1052&utm_source=git)** | Bismarck, ND | Hybrid | Jan 02 |
-| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/69436e0994730b73987688d8?utm_campaign=1052&utm_source=git)** | Simsbury, CT | On Site | Jan 02 |
-| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6959dfc1aa05c26e7ab3826d?utm_campaign=1052&utm_source=git)** | Sioux County, NE | On Site | Jan 02 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Loan Workout Group Intern](https://jobright.ai/jobs/info/695a16839f1b381eb272b855?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| **[Cohen & Co](http://www.cohencpa.com)** | **[Assurance Intern, Summer 2027](https://jobright.ai/jobs/info/695a110ef1f8465b79f066ab?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 02 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Accounting Intern - Spring 2027](https://jobright.ai/jobs/info/695a10d2aa05c26e7ab3af4e?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Jan 02 |
+| **[Cohen & Co](http://www.cohencpa.com)** | **[Assurance Intern, Spring 2027](https://jobright.ai/jobs/info/695a12779f1b381eb272b5ab?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 02 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Underwriting Internship Program - Global Risk Solutions - Summer 2026](https://jobright.ai/jobs/info/695a109aaa05c26e7ab3ae40?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance / Cleveland / Summer 2026](https://jobright.ai/jobs/info/695a127d9f1b381eb272b5d5?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

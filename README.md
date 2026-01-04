@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Tax Intern- Summer 2026](https://jobright.ai/jobs/info/695ad12daa05c26e7ab4404b?utm_campaign=1052&utm_source=git)** | Cary, NC | Hybrid | Jan 04 |
 | **[Calvetti Ferguson](http://calvettiferguson.com)** | **[Assurance Spring 2027 Internship](https://jobright.ai/jobs/info/695ac1d3aa05c26e7ab43c99?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jan 04 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Accounting Intern](https://jobright.ai/jobs/info/695ab2c4f1f8465b79f0ed69?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jan 04 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Jan 04 |
@@ -78,8 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Underwriting](https://jobright.ai/jobs/info/691fd2f13f782d2f1afc093e?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 04 |
 | ↳ | **[Summer Intern- Finance/Accounting](https://jobright.ai/jobs/info/6944fb5c94730b7398783a26?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 04 |
 | **[Rabobank](http://www.rabobank.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/68ccd202b274cd205ab4fa53?utm_campaign=1052&utm_source=git)** | Jonesboro, AR | On Site | Jan 04 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Internship](https://jobright.ai/jobs/info/695a8540aa05c26e7ab417e6?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Jan 04 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/695aae689f1b381eb2733cfd?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jan 04 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Internal Audit - Birmingham](https://jobright.ai/jobs/info/68cda1bdb2a74e1837eda306?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jan 04 |
 | **[American National](https://www.americannational.com)** | **[Internship-Accounting](https://jobright.ai/jobs/info/682e9cab0a539a654871fae3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 04 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Columbia, SC](https://jobright.ai/jobs/info/6870da30a5ae807a59cfc4f0?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Jan 04 |
@@ -109,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Signal Energy](http://www.signalenergy.com/)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/68cfb180fb49c96ca6eaad5e?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 04 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Trading Operations Co-op with Drexel University: Spring/Summer A Round](https://jobright.ai/jobs/info/69053560ff462851feffbd9a?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
 | ↳ | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/690531b363502c0aded79651?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/695a2b1ff1f8465b79f0773b?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern (Winter 2026)](https://jobright.ai/jobs/info/695a3e4ff1f8465b79f08286?utm_campaign=1052&utm_source=git)** | Irvine | On Site | Jan 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Spokane)](https://jobright.ai/jobs/info/6959f36df1f8465b79f05b12?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 03 |
 | ↳ | **[Assurance Intern - Summer 2027 (Seattle)](https://jobright.ai/jobs/info/6959f0eb9f1b381eb272a8cd?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
@@ -133,6 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Core Tax Intern - Summer 2027 (Seattle)](https://jobright.ai/jobs/info/69594e8f9f1b381eb2722f53?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jan 03 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Analyst Intern, Valuations & Opinions Group](https://jobright.ai/jobs/info/69595fecf1f8465b79efe4d1?utm_campaign=1052&utm_source=git)** | Atlanta GA | Hybrid | Jan 03 |
 | **[D.L. Evans Bank](http://dlevans.com)** | **[Commercial Lending Intern](https://jobright.ai/jobs/info/69595e8aaa05c26e7ab32d17?utm_campaign=1052&utm_source=git)** | Paul, ID | On Site | Jan 03 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights - Manitoba - Winter 2026](https://jobright.ai/jobs/info/69563b7ef1f8465b79ed22fe?utm_campaign=1052&utm_source=git)** | Portage la Prairie, Manitoba, Canada | Hybrid | Jan 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Seattle)](https://jobright.ai/jobs/info/69594a49f1f8465b79efe207?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
 | ↳ | **[Core Tax Intern - Summer 2027 (Spokane)](https://jobright.ai/jobs/info/69594a35f1f8465b79efe200?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 03 |
 | ↳ | **[Core Tax Intern - Summer 2027 (Seattle)](https://jobright.ai/jobs/info/695948d0aa05c26e7ab32a86?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Accounting/ Finance](https://jobright.ai/jobs/info/693ce31950bbaf7650500a11?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jan 03 |
 | **[Cascades](http://www.cascades.com)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/691fc826a49a885af9a34088?utm_campaign=1052&utm_source=git)** | Wagram, NC | On Site | Jan 03 |
 | **[Vontier](https://www.vontier.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/690d7f48221b890c278072ad?utm_campaign=1052&utm_source=git)** | Duncansville, PA | On Site | Jan 03 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Tax Intern (Winter 2026)](https://jobright.ai/jobs/info/68ce2c53e23def7af55c2c75?utm_campaign=1052&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

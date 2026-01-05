@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eli Lilly and Company](https://www.lilly.com)** | **[Procurement and Accounting Intern](https://jobright.ai/jobs/info/695b11f4aa05c26e7ab47b1d?utm_campaign=1052&utm_source=git)** | Ontario, Canada | Hybrid | Jan 04 |
 | **[Stealth Mode Startup Company](https://www.linkedin.com/company/110422207)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/695af42af1f8465b79f11581?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 04 |
 | **[ABB](https://global.abb/group/en)** | **[Tax Intern- Summer 2026](https://jobright.ai/jobs/info/695ad12daa05c26e7ab4404b?utm_campaign=1052&utm_source=git)** | Cary, NC | Hybrid | Jan 04 |
 | **[Calvetti Ferguson](http://calvettiferguson.com)** | **[Assurance Spring 2027 Internship](https://jobright.ai/jobs/info/695ac1d3aa05c26e7ab43c99?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jan 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cascades](http://www.cascades.com)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/691fc826a49a885af9a34088?utm_campaign=1052&utm_source=git)** | Wagram, NC | On Site | Jan 03 |
 | **[Vontier](https://www.vontier.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/690d7f48221b890c278072ad?utm_campaign=1052&utm_source=git)** | Duncansville, PA | On Site | Jan 03 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Tax Intern (Winter 2026)](https://jobright.ai/jobs/info/68ce2c53e23def7af55c2c75?utm_campaign=1052&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 03 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[ACCOUNTING INTERN 2026-LIVE PORK](https://jobright.ai/jobs/info/68e6ed401852e62f0082073e?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stealth Mode Startup Company](https://www.linkedin.com/company/110422207)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/695af42af1f8465b79f11581?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 04 |
 | **[ABB](https://global.abb/group/en)** | **[Tax Intern- Summer 2026](https://jobright.ai/jobs/info/695ad12daa05c26e7ab4404b?utm_campaign=1052&utm_source=git)** | Cary, NC | Hybrid | Jan 04 |
 | **[Calvetti Ferguson](http://calvettiferguson.com)** | **[Assurance Spring 2027 Internship](https://jobright.ai/jobs/info/695ac1d3aa05c26e7ab43c99?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jan 04 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Accounting Intern](https://jobright.ai/jobs/info/695ab2c4f1f8465b79f0ed69?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jan 04 |
@@ -64,10 +65,8 @@ For a complete list, click the following sortable link below:
 | **[DFAS](http://www.dfas.mil)** | **[Student Trainee (Financial Mgmt)](https://jobright.ai/jobs/info/695a9b82aa05c26e7ab420d1?utm_campaign=1052&utm_source=git)** | Rome, NY | On Site | Jan 04 |
 | ↳ | **[Student Trainee (Accounting)](https://jobright.ai/jobs/info/695a9a2f9f1b381eb273234c?utm_campaign=1052&utm_source=git)** | Rome, NY | On Site | Jan 04 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Assurance Intern ( Business Graduates)](https://jobright.ai/jobs/info/695a93429f1b381eb273202d?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 04 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance -  Accounting ntern](https://jobright.ai/jobs/info/695a7d1daa05c26e7ab416b4?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Jan 04 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Intern](https://jobright.ai/jobs/info/695a7c60f1f8465b79f0cca0?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Jan 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern (Winter 2026)](https://jobright.ai/jobs/info/695a7526aa05c26e7ab412c0?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 04 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/695a74cbf1f8465b79f0c8e9?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 04 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6920ca1c00c9ee50eaec8074?utm_campaign=1052&utm_source=git)** | Valhalla, NY | On Site | Jan 04 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Finance Administration](https://jobright.ai/jobs/info/693dd73249a7695fbd044bb8?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jan 04 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Internal Audit Intern - Summer of 2026](https://jobright.ai/jobs/info/6921119500c9ee50eaecb660?utm_campaign=1052&utm_source=git)** | Sycamore, IL | On Site | Jan 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cascades](http://www.cascades.com)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/691fc826a49a885af9a34088?utm_campaign=1052&utm_source=git)** | Wagram, NC | On Site | Jan 03 |
 | **[Vontier](https://www.vontier.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/690d7f48221b890c278072ad?utm_campaign=1052&utm_source=git)** | Duncansville, PA | On Site | Jan 03 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Tax Intern (Winter 2026)](https://jobright.ai/jobs/info/68ce2c53e23def7af55c2c75?utm_campaign=1052&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 03 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[ACCOUNTING INTERN 2026-LIVE PORK](https://jobright.ai/jobs/info/68e6ed401852e62f0082073e?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

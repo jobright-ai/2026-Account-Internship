@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Premium Audit Intern](https://jobright.ai/jobs/info/695ef33908ab990f282a43f9?utm_campaign=1052&utm_source=git)** | Seattle, WA | Remote | Jan 07 |
 | ↳ | **[Premium Audit Intern](https://jobright.ai/jobs/info/695ef18208ab990f282a424d?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Jan 07 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/695eefa6a112b402660dabdd?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 07 |
-| **[HNTB](http://www.hntb.com/)** | **[Project Finance Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/695ecc56a112b402660d8362?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Finance Summer Internship 2026](https://jobright.ai/jobs/info/695ecadf08ab990f282a1630?utm_campaign=1052&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 07 |
 | **[Flex](https://flex.com)** | **[Logistics & Trade Analyst - 2026 Summer Intern](https://jobright.ai/jobs/info/695ee9b3a112b402660da631?utm_campaign=1052&utm_source=git)** | USA, TX, Austin | On Site | Jan 07 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/695eea460badca5763af680c?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jan 07 |
@@ -126,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Davies](http://www.davies-group.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/695eb23f0badca5763af2828?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 07 |
 | **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Commercial Funding Intern - Summer 2026](https://jobright.ai/jobs/info/695edf2fa112b402660d9863?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
 | **[Richter](http://www.richter.ca/)** | **[Audit Summer Internship (May 2026- August 2026)](https://jobright.ai/jobs/info/695ee01608ab990f282a2e62?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/695ee4610badca5763af6189?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jan 07 |
-| ↳ | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/695edfcaa112b402660d9946?utm_campaign=1052&utm_source=git)** | West Palm Beach, Florida | On Site | Jan 07 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/695edfcaa112b402660d9946?utm_campaign=1052&utm_source=git)** | West Palm Beach, Florida | On Site | Jan 07 |
+| ↳ | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/695ee4610badca5763af6189?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jan 07 |
 | ↳ | **[2026 Summer Internship Program - Commercial Banking (Credit Management)](https://jobright.ai/jobs/info/695eeac908ab990f282a3c19?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | On Site | Jan 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/695eadab08ab990f2829edcc?utm_campaign=1052&utm_source=git)** | Wauwatosa, WI | Hybrid | Jan 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Actuarial Services Bachelor's Intern](https://jobright.ai/jobs/info/695eaccc08ab990f2829e614?utm_campaign=1052&utm_source=git)** | Hyattsville, MD | Remote | Jan 07 |
@@ -136,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/695ea682a112b402660d4fcc?utm_campaign=1052&utm_source=git)** | Naperville, IL | Remote | Jan 07 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Wholesale Finance](https://jobright.ai/jobs/info/695ec1cb08ab990f282a0bdb?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 07 |
 | **[Davies](http://www.davies-group.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/695ec44e08ab990f282a0ed8?utm_campaign=1052&utm_source=git)** | Allen, TX | On Site | Jan 07 |
-| ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/695ec4980badca5763af3aef?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ | On Site | Jan 07 |
 | ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/695ecfe708ab990f282a1b1c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
+| ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/695ec4980badca5763af3aef?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ | On Site | Jan 07 |
 | **[The Sterling Group](http://sterling-group.com)** | **[Intern - Vice President, Investment Professional (2027 MBA Graduate)](https://jobright.ai/jobs/info/695ec7faa112b402660d7e4b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 07 |
 | **[Airbuild Inc](https://www.airbuildinc.com)** | **[Funding Strategist](https://jobright.ai/jobs/info/695ecbed08ab990f282a177c?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 07 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Finance Summer Internship 2026](https://jobright.ai/jobs/info/695ec64b08ab990f282a10f9?utm_campaign=1052&utm_source=git)** | US-NJ-Egg Harbor Township | On Site | Jan 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Aritzia](https://www.aritzia.com/)** | **[Finance - Intern, Business Finance](https://jobright.ai/jobs/info/695eb84108ab990f282a02bb?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 07 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Portfolio Accountant Intern](https://jobright.ai/jobs/info/695e980708ab990f2829d85f?utm_campaign=1052&utm_source=git)** | New York | On Site | Jan 07 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/695e96060badca5763aeff60?utm_campaign=1052&utm_source=git)** | 57-091 Kamehameha Hwy, Kahuku, HI, 96731, US | On Site | Jan 07 |
+| **[Hatch](https://www.hatch.com)** | **[Finance Co-op Student](https://jobright.ai/jobs/info/695eb2450badca5763af282e?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

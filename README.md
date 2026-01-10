@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Finance & Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/69617b21e7ed9a5731ba43ed?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jan 09 |
 | **[Kimberly-Clark](http://www.careersatkc.com)** | **[Co-Op/Intern - Tax](https://jobright.ai/jobs/info/69617a69e7ed9a5731ba430b?utm_campaign=1052&utm_source=git)** | Neenah, WI | Hybrid | Jan 09 |
+| **[Auctane](https://auctane.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69617942f3f4cd13250672e1?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[AAR](http://aarcorp.com)** | **[Finance Intern – Repair & Engineering FP&A](https://jobright.ai/jobs/info/6961792ea112b402660ffe29?utm_campaign=1052&utm_source=git)** | Wood Dale, IL | On Site | Jan 09 |
 | **[Roeslein & Associates](http://www.roeslein.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6961791ba112b402660ffe0a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69617912e7ed9a5731ba414f?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Mercy Health](http://www.mercy.com/)** | **[Risk and Insurance Intern - System Wide](https://jobright.ai/jobs/info/69617552a112b402660ff958?utm_campaign=1052&utm_source=git)** | Plain City, OH | Remote | Jan 09 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Underwriting Internship (Summer 2026) - New York City](https://jobright.ai/jobs/info/696174a3a112b402660ff875?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Financial Services Internship Summer 2026](https://jobright.ai/jobs/info/69617354f3f4cd1325066b47?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 09 |
-| **[Auctane](https://auctane.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69617250a112b402660ff582?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[UMB Bank](https://www.umb.com/)** | **[Private Wealth Intern](https://jobright.ai/jobs/info/696171c4a112b402660ff4f4?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 09 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Multifamily Intern](https://jobright.ai/jobs/info/6924ce9dec574f4265bb73bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
 | **[OOCL](https://www.oocl.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69617044e7ed9a5731ba3602?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, South Jordan, UT, US | On Site | Jan 09 |
@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Tax Intern (Sioux Falls)](https://jobright.ai/jobs/info/69615f7be7ed9a5731ba25df?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Jan 09 |
 | ↳ | **[Accounting Intern (Assurance/Tax; Phoenix)](https://jobright.ai/jobs/info/69615e26f3f4cd132506561a?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 09 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/69617a28e7ed9a5731ba42c4?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 09 |
+| **[IQ-EQ](https://iqeq.com)** | **[Intern - Private Wealth](https://jobright.ai/jobs/info/69615b7cf3f4cd1325065336?utm_campaign=1052&utm_source=git)** | Rapid City, SD | On Site | Jan 09 |
 | **[CalPortland](https://www.calportland.com)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/6961773af3f4cd1325067037?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Jan 09 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Tax Intern (Phoenix)](https://jobright.ai/jobs/info/696157bda112b402660fdae1?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 09 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/69615798e7ed9a5731ba1da6?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 09 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Kimberly-Clark](http://www.careersatkc.com)** | **[Co-Op/Intern - Tax](https://jobright.ai/jobs/info/69614836a112b402660fce55?utm_campaign=1052&utm_source=git)** | USA-WI-Neenah | Hybrid | Jan 09 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Financial Services Internship Summer 2026](https://jobright.ai/jobs/info/69616422f3f4cd1325065c5e?utm_campaign=1052&utm_source=git)** | 340 W 10th St, Indianapolis, IN, 46202, US | On Site | Jan 09 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Intern - Business & Finance](https://jobright.ai/jobs/info/6961666af3f4cd1325065ee1?utm_campaign=1052&utm_source=git)** | Gainesville, Florida, United States | On Site | Jan 09 |
-| **[IQ-EQ](https://iqeq.com)** | **[Intern - Private Wealth](https://jobright.ai/jobs/info/696165bce7ed9a5731ba2c49?utm_campaign=1052&utm_source=git)** | Rapid City, SD | On Site | Jan 09 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6961444be7ed9a5731ba0aaa?utm_campaign=1052&utm_source=git)** | Williamsburg, VA | Remote | Jan 09 |
 | **[IQ-EQ](https://iqeq.com)** | **[Intern - Private Wealth](https://jobright.ai/jobs/info/69615fdfa112b402660fe40b?utm_campaign=1052&utm_source=git)** | Bedford, NH | On Site | Jan 09 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2026 DC/Tysons Summer Intern](https://jobright.ai/jobs/info/69616351f3f4cd1325065b77?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 09 |

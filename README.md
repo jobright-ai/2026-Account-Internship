@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Finance Intern](https://jobright.ai/jobs/info/68f1c9d3f462172a5a7dc832?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 11 |
+| **[Emerson](http://www.emerson.com)** | **[Finance Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d2119221b890c27803a52?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 11 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Accounting Intern Summer 2026](https://jobright.ai/jobs/info/68d16c08cece431f8b583a31?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Jan 11 |
+| **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f21e6870116b1f57eac?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 11 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6911ab20bb519377733f0768?utm_campaign=1052&utm_source=git)** | Lenexa, KS | On Site | Jan 11 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Jan 11 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Manufacturing (Sedalia)](https://jobright.ai/jobs/info/690e50ae44146d3b6ec52d5c?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | Jan 11 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Intern](https://jobright.ai/jobs/info/6963707aa112b40266119976?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Jan 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/69636bd92cbf4e44756d2989?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Jan 11 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Financial Modelling Analyst](https://jobright.ai/jobs/info/696368d4a112b4026611894f?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 11 |
@@ -82,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Jan 10 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Finance Intern - Summer](https://jobright.ai/jobs/info/6962844fa112b4026610eed6?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Finance (Summer 2026)](https://jobright.ai/jobs/info/696279142cbf4e44756c6580?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 10 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Finance/Process Improvement](https://jobright.ai/jobs/info/69627368a112b4026610d2fb?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Finance/Process Improvement](https://jobright.ai/jobs/info/69627417a112b4026610d31d?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/69626ea125e18715077f4939?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68efd79378ba1621431e0be6?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jan 10 |
 | ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd9fa9821486c423c7c6d?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jan 10 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd91e9821486c423c7bb6?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Private Wealth Management](https://jobright.ai/jobs/info/6945f00dd1953b5d11befb76?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | ↳ | **[Intern - Financial Analysis - Structured Products](https://jobright.ai/jobs/info/6945ed6d63141d1884558859?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Jan 10 |
+| ↳ | **[Intern - Credit Risk](https://jobright.ai/jobs/info/6945eb6963141d18845586f8?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f1ba82f462172a5a7dbc52?utm_campaign=1052&utm_source=git)** | Somerset, NJ | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b1e5d1953b5d11beae33?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | On Site | Jan 10 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/6962620225e18715077f44c7?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Residential Mortgage](https://jobright.ai/jobs/info/6945efa97d506e3808f13172?utm_campaign=1052&utm_source=git)** | Jericho, NY | On Site | Jan 10 |
-| **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6941dfc050bbaf765053a5c5?utm_campaign=1052&utm_source=git)** | Alameda, CA | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Corporate Treasury / Liquidity](https://jobright.ai/jobs/info/6945e7be63141d1884558428?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
-| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/694608ac7d506e3808f16002?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/6945f43dd1953b5d11befd46?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
-| ↳ | **[Intern - Business Banking](https://jobright.ai/jobs/info/6945f0c47d506e3808f131e7?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b0f663141d1884553e3f?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Jan 10 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Dept of CAO](https://jobright.ai/jobs/info/6945b013951654073537ca74?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/6945f17bd1953b5d11befbfe?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

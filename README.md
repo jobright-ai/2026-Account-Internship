@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship](https://jobright.ai/jobs/info/6963dcbf2cbf4e44756d8fc9?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 11 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Assurance Intern](https://jobright.ai/jobs/info/696414912cbf4e44756dbae4?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 11 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6964083d25e1871507808cb4?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 11 |
+| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Accounting Internship (Free Housing)](https://jobright.ai/jobs/info/696404492cbf4e44756d9ff8?utm_campaign=1052&utm_source=git)** | Bismarck, ND | On Site | Jan 11 |
 | **[Dynareon](dynareon.us)** | **[Talent Pool Internship Finance](https://jobright.ai/jobs/info/6963daa025e1871507807211?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6963da1225e18715078071e8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 11 |
-| ↳ | **[Strategic Financial Planning Intern](https://jobright.ai/jobs/info/6963ca442cbf4e44756d6d7d?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 11 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Finance intern program](https://jobright.ai/jobs/info/6963c9d125e1871507805150?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 11 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/6963c5452cbf4e44756d6b02?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 11 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Finance Intern](https://jobright.ai/jobs/info/6963c4972cbf4e44756d6a53?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Jan 11 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6963c44da112b4026611d29d?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 11 |
 | **[Growvix](https://www.linkedin.com/company/104166605)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6963c3bda112b4026611d1e5?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 11 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Finance Summer Internship Program](https://jobright.ai/jobs/info/6963c3902cbf4e44756d6915?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 11 |
 | **[Waldron Partners](http://www.waldronpartners.com)** | **[Wealth Management Intern (Paid)](https://jobright.ai/jobs/info/6963c2402cbf4e44756d67ed?utm_campaign=1052&utm_source=git)** | Alamo, CA | On Site | Jan 11 |
@@ -114,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Jan 10 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Finance Intern - Summer](https://jobright.ai/jobs/info/6962844fa112b4026610eed6?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Finance (Summer 2026)](https://jobright.ai/jobs/info/696279142cbf4e44756c6580?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 10 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Finance/Process Improvement](https://jobright.ai/jobs/info/69627417a112b4026610d31d?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Finance/Process Improvement](https://jobright.ai/jobs/info/69627368a112b4026610d2fb?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/69626ea125e18715077f4939?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68efd79378ba1621431e0be6?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jan 10 |
 | ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd9fa9821486c423c7c6d?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jan 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed8c8d078b81ad16100ab?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Jan 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69573d86aa05c26e7ab14b53?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 10 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Analyst Intern, Valuations and Modelling - Summer 2026 - Multiple Locations](https://jobright.ai/jobs/info/6945d304d1953b5d11bee1a0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 10 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/694904ebd1953b5d11c20f1f?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6952008fa2668b7f545484d3?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Jan 10 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6955fcde9f1b381eb26f3113?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6945b06663141d1884553d98?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | On Site | Jan 10 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/6963135325e18715077fbf99?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6945eb8163141d188455870f?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | ↳ | **[Intern - International Banking](https://jobright.ai/jobs/info/6945ee31d1953b5d11bef9b5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | ↳ | **[Intern - Credit Risk](https://jobright.ai/jobs/info/6945f0537d506e3808f131bc?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Business Risk Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945d149951654073537fd8c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | ↳ | **[2026 Summer - GRM, Analyst - PCL Forecasting Intern (4 Months)](https://jobright.ai/jobs/info/69457b2bd1953b5d11be75cb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Corporate Treasury - ALM](https://jobright.ai/jobs/info/6945f219d1953b5d11befc48?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Jan 10 |
-| **[Duolingo](https://www.duolingo.com)** | **[Internal Audit, Intern](https://jobright.ai/jobs/info/69460302d1953b5d11bf1c1b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

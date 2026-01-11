@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - Finance](https://jobright.ai/jobs/info/6963550c2cbf4e44756d09cd?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 | **[Rise Brands](https://www.risebrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6963285e25e18715077fc480?utm_campaign=1052&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Jan 10 |
 | **[Cinemark](http://www.cinemark.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6960b1a7a1bbea1d9a7b7070?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Jan 10 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/6962db3da112b40266111e77?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 10 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd91e9821486c423c7bb6?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Private Wealth Management](https://jobright.ai/jobs/info/6945f00dd1953b5d11befb76?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | ↳ | **[Intern - Financial Analysis - Structured Products](https://jobright.ai/jobs/info/6945ed6d63141d1884558859?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Jan 10 |
+| ↳ | **[Intern - Credit Risk](https://jobright.ai/jobs/info/6945eb6963141d18845586f8?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f1ba82f462172a5a7dbc52?utm_campaign=1052&utm_source=git)** | Somerset, NJ | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b1e5d1953b5d11beae33?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | On Site | Jan 10 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/6962620225e18715077f44c7?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 10 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Business Banking](https://jobright.ai/jobs/info/6945f0c47d506e3808f131e7?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b0f663141d1884553e3f?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Jan 10 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Dept of CAO](https://jobright.ai/jobs/info/6945b013951654073537ca74?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit Risk](https://jobright.ai/jobs/info/6945f17bd1953b5d11befbfe?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | **[American National](https://www.americannational.com)** | **[Internship - Corporate Finance](https://jobright.ai/jobs/info/691d0e4c22a2cb4b9bd2041a?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Budget Support, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/690d8b2e44146d3b6ec4db2f?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Business Risk Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6945d149951654073537fd8c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Internal Audit, Intern](https://jobright.ai/jobs/info/69460302d1953b5d11bf1c1b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Jan 10 |
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f33e6870116b1f57ecd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Middle Market Commercial Banking](https://jobright.ai/jobs/info/6945ecca7d506e3808f12f08?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jan 10 |
-| **[Universal Service Administrative Co. (USAC)](https://www.usac.org/)** | **[Audit Intern- Year Long Internship](https://jobright.ai/jobs/info/6945be73951654073537db1a?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

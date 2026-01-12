@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delaware River Port Authority](http://drpa.org)** | **[Summer Risk Management Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/696454d225e187150780c54e?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | Jan 11 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Finance Intern - Waring Division](https://jobright.ai/jobs/info/696452212cbf4e44756de333?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
+| ↳ | **[2026 Finance Intern - Waring Division](https://jobright.ai/jobs/info/69644cfe2cbf4e44756ddef3?utm_campaign=1052&utm_source=git)** | Stamford, Connecticut | Hybrid | Jan 11 |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69644a1ea112b40266124265?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Jan 11 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Capital Markets Analyst Intern](https://jobright.ai/jobs/info/6964345d25e187150780a234?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[Truist](https://www.truist.com)** | **[2027 Wholesale Credit Delivery - Working Capital Solutions - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/69642fe1a112b40266122669?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[KCH](https://www.linkedin.com/company/109999867)** | **[Summer Analyst](https://jobright.ai/jobs/info/69641bad25e1871507809e43?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Assurance Intern](https://jobright.ai/jobs/info/696414912cbf4e44756dbae4?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 11 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6964083d25e1871507808cb4?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Accounting Internship (Free Housing)](https://jobright.ai/jobs/info/696404492cbf4e44756d9ff8?utm_campaign=1052&utm_source=git)** | Bismarck, ND | On Site | Jan 11 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6963da1225e18715078071e8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Accounting Intern](https://jobright.ai/jobs/info/6963c5452cbf4e44756d6b02?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 11 |
-| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6963c3bda112b4026611d1e5?utm_campaign=1052&utm_source=git)** | Georgia, United States | On Site | Jan 11 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Finance Summer Internship Program](https://jobright.ai/jobs/info/6963c3902cbf4e44756d6915?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 11 |
 | **[Waldron Partners](http://www.waldronpartners.com)** | **[Wealth Management Intern (Paid)](https://jobright.ai/jobs/info/6963c2402cbf4e44756d67ed?utm_campaign=1052&utm_source=git)** | Alamo, CA | On Site | Jan 11 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Lead Finance Intern](https://jobright.ai/jobs/info/6963b644a112b4026611cc52?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | Remote | Jan 11 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Finance Data Governance Intern](https://jobright.ai/jobs/info/6963af5ca112b4026611c9e0?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/692ac9074c474121999ccb81?utm_campaign=1052&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Financial Analyst - May 2026 (4 Month)](https://jobright.ai/jobs/info/6963a69b25e1871507803f05?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 11 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Finance Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d2119221b890c27803a52?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Accounting Intern Summer 2026](https://jobright.ai/jobs/info/68d16c08cece431f8b583a31?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Jan 11 |
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f21e6870116b1f57eac?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 11 |
-| **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/691e759ba49a885af9a28b74?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 11 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6911ab20bb519377733f0768?utm_campaign=1052&utm_source=git)** | Lenexa, KS | On Site | Jan 11 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Jan 11 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Manufacturing (Sedalia)](https://jobright.ai/jobs/info/690e50ae44146d3b6ec52d5c?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | Jan 11 |
@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/68efde1bde50091dbfa50c25?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 10 |
 | ↳ | **[Financial Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd87de50091dbfa50b8f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | ↳ | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efddab9821486c423c7d00?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Jan 10 |
-| **[West Fraser](http://www.westfraser.com/)** | **[Treasury Intern](https://jobright.ai/jobs/info/694603597d506e3808f152f8?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/6945f42ed1953b5d11befd3e?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Finance AI Intern - Summer 2026](https://jobright.ai/jobs/info/6946126d7d506e3808f1699c?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 10 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026 Summer Intern, Actuarial](https://jobright.ai/jobs/info/68c7a93e7d0db4114273f1c0?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Jan 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Corporate Development - Summer 2026 Co-op/Intern - Toronto](https://jobright.ai/jobs/info/694671ae63141d18845639f9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/694e0943d4a7df7a0672ea8a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 10 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6954a997aa05c26e7aaf206f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 10 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/695cbeb21dfa954d1c46de3a?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

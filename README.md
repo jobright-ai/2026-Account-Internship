@@ -57,6 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Internship Trust Administration](https://jobright.ai/jobs/info/69654dc7a112b4026613243b?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Jan 12 |
+| **[TerraForm Power](http://terraform.com)** | **[Intern, Asset Management, Manger/Analyst](https://jobright.ai/jobs/info/69654bd32cbf4e44756ebf42?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Jan 12 |
+| **[Horace Mann](http://www.horacemann.com)** | **[Intern - Temporary](https://jobright.ai/jobs/info/69654bc76d52670c5c3e1094?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 12 |
+| **[Pandora](https://www.pandoragroup.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69654a916d52670c5c3e0f46?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 12 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/69654a482cbf4e44756ebd5f?utm_campaign=1052&utm_source=git)** | 06998 - Team Evergreen North CBO-Federal Way Business Office | Hybrid | Jan 12 |
+| **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6965479c6d52670c5c3e0ba7?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Jan 12 |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6965443e6d52670c5c3e07b4?utm_campaign=1052&utm_source=git)** | McKinney, Texas | On Site | Jan 12 |
+| **[The Beach Company](http://thebeachcompany.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/696543b92cbf4e44756eb653?utm_campaign=1052&utm_source=git)** | Charleston,SC,US | On Site | Jan 12 |
+| **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2027)](https://jobright.ai/jobs/info/69653ea7a112b40266131662?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jan 12 |
+| ↳ | **[Investment Banking Summer Analyst (Summer of 2027)](https://jobright.ai/jobs/info/69653e406d52670c5c3e0539?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 12 |
+| **[KLAAS FINANCIAL ASSET ADVISORS, LLC.](https://klaasfinancial.com)** | **[Summer College Internship in the Midwest:  Financial Planning with Klaas Financial](https://jobright.ai/jobs/info/69653e056d52670c5c3e050d?utm_campaign=1052&utm_source=git)** | Loves Park, IL | On Site | Jan 12 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Intern, Statuatory Reporting - Morristown, NJ](https://jobright.ai/jobs/info/69653de26d52670c5c3e04f2?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Jan 12 |
+| **[Stephens](https://www.stephens.com)** | **[Investment Banking Summer Analyst (Summer of 2027)](https://jobright.ai/jobs/info/69653dd66d52670c5c3e04ec?utm_campaign=1052&utm_source=git)** | Atlanta Metro | On Site | Jan 12 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Finance Expert Intern](https://jobright.ai/jobs/info/69653b8e6d52670c5c3e03a9?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 12 |
+| **[First Southern National Bank](https://www.fsnb.net)** | **[Bank Operations Intern](https://jobright.ai/jobs/info/69653ada2cbf4e44756eb12c?utm_campaign=1052&utm_source=git)** | Stanford, KY | On Site | Jan 12 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/6965396ea112b40266131388?utm_campaign=1052&utm_source=git)** | Canada - Mississauga | Hybrid | Jan 12 |
+| **[FINRA](http://www.finra.org)** | **[Summer 2026 Undergraduate Intern -Finance, Accounting, Business -  New York, NY, Chicago and Rockville, MD](https://jobright.ai/jobs/info/6965387c2cbf4e44756eaf00?utm_campaign=1052&utm_source=git)** | Rockville, MD (Job Posting) | Hybrid | Jan 12 |
+| **[First Southern National Bank](https://www.fsnb.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/69653837a112b402661312a1?utm_campaign=1052&utm_source=git)** | Stanford, KY | On Site | Jan 12 |
+| **[FINRA](http://www.finra.org)** | **[Summer 2026 Undergraduate Intern -Finance, Accounting, Business -  New York, NY, Chicago and Rockville, MD](https://jobright.ai/jobs/info/69653823a112b40266131295?utm_campaign=1052&utm_source=git)** | New York, NY (Job Posting) | Hybrid | Jan 12 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern – Finance – Plymouth, MN – Summer 2026](https://jobright.ai/jobs/info/696537f06d52670c5c3e0142?utm_campaign=1052&utm_source=git)** | Plymouth, Minnesota, United States | On Site | Jan 12 |
+| **[Avenir Group](https://avenirx.com/)** | **[Risk Management Intern (Part-time)](https://jobright.ai/jobs/info/696537656d52670c5c3e00c2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 12 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Production Accounting Intern, Summer 2026](https://jobright.ai/jobs/info/696536096d52670c5c3dffc2?utm_campaign=1052&utm_source=git)** | Burbank, CA, USA | On Site | Jan 12 |
+| **[FINRA](http://www.finra.org)** | **[Summer 2026 Undergraduate Intern -Finance, Accounting, Business -  New York, NY, Chicago and Rockville, MD](https://jobright.ai/jobs/info/696535256d52670c5c3dfdc7?utm_campaign=1052&utm_source=git)** | Chicago, IL (Job Posting) | Hybrid | Jan 12 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/696532092cbf4e44756eab00?utm_campaign=1052&utm_source=git)** | Kendall, FL | Remote | Jan 12 |
 | **[Zscaler](https://www.zscaler.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6941ab9214ee092a69ffd084?utm_campaign=1052&utm_source=git)** | San Jose, California, USA | Hybrid | Jan 12 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/696531bc2cbf4e44756eaae3?utm_campaign=1052&utm_source=git)** | Tustin, CA | Remote | Jan 12 |
@@ -131,30 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69652088a112b4026612eced?utm_campaign=1052&utm_source=git)** | Alhambra, CA | Remote | Jan 12 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69652088a112b4026612ecee?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | Remote | Jan 12 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69652054a112b4026612ecde?utm_campaign=1052&utm_source=git)** | Whittier, CA | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/696520026d52670c5c3ddaeb?utm_campaign=1052&utm_source=git)** | Citrus Heights, CA | Remote | Jan 12 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/696520026d52670c5c3ddaec?utm_campaign=1052&utm_source=git)** | Kirkland, WA | Remote | Jan 12 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/696520026d52670c5c3ddaeb?utm_campaign=1052&utm_source=git)** | Citrus Heights, CA | Remote | Jan 12 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651fdf6d52670c5c3ddade?utm_campaign=1052&utm_source=git)** | Livermore, CA | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651fcb6d52670c5c3ddad1?utm_campaign=1052&utm_source=git)** | Melbourne, FL | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651fbc2cbf4e44756e8885?utm_campaign=1052&utm_source=git)** | Town & Country, FL | Remote | Jan 12 |
-| **[Crown Fund](www.crownfund.co)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69651fbc2cbf4e44756e8884?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Jan 12 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651fb7a112b4026612eca8?utm_campaign=1052&utm_source=git)** | Port Huron, MI | Remote | Jan 12 |
-| **[Group 1001](https://group1001.com/)** | **[Internal Audit Intern, IT](https://jobright.ai/jobs/info/69651f48a112b4026612ec8a?utm_campaign=1052&utm_source=git)** | Zionsville, IN | On Site | Jan 12 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651e3d6d52670c5c3dda31?utm_campaign=1052&utm_source=git)** | Westminster, CA | Remote | Jan 12 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Finance Internship](https://jobright.ai/jobs/info/69651dfaa112b4026612ec1f?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 12 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651dea6d52670c5c3dd9fd?utm_campaign=1052&utm_source=git)** | Cranston, RI | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651d92a112b4026612ebef?utm_campaign=1052&utm_source=git)** | San Ramon, CA | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651d4ea112b4026612ebcd?utm_campaign=1052&utm_source=git)** | Westland, MI | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651d17a112b4026612ebb1?utm_campaign=1052&utm_source=git)** | Florence, AL | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651d06a112b4026612eba4?utm_campaign=1052&utm_source=git)** | San Leandro, CA | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651c93a112b4026612eb62?utm_campaign=1052&utm_source=git)** | Cicero, IL | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651c90a112b4026612eb60?utm_campaign=1052&utm_source=git)** | Vineland, NJ | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651c786d52670c5c3dd946?utm_campaign=1052&utm_source=git)** | Rapid City, SD | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651c1c6d52670c5c3dd925?utm_campaign=1052&utm_source=git)** | Deerfield Beach, FL | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651c0e6d52670c5c3dd91f?utm_campaign=1052&utm_source=git)** | Fort Myers, FL | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651beba112b4026612eb10?utm_campaign=1052&utm_source=git)** | Clifton, NJ | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651bbf6d52670c5c3dd90c?utm_campaign=1052&utm_source=git)** | Lake Forest, CA | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651b9da112b4026612eafe?utm_campaign=1052&utm_source=git)** | Hawthorne, CA | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651b4c6d52670c5c3dd8e7?utm_campaign=1052&utm_source=git)** | Largo, FL | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651b4c6d52670c5c3dd8e5?utm_campaign=1052&utm_source=git)** | Chino, CA | Remote | Jan 12 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69651adf2cbf4e44756e861c?utm_campaign=1052&utm_source=git)** | Norwalk, CT | Remote | Jan 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

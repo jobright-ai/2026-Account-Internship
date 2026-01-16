@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BLUEPRINT](https://www.blueprinthcre.com/)** | **[Healthcare Real Estate Analyst](https://jobright.ai/jobs/info/6969fecbf25a38006698c686?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969fa6df25a38006698bd26?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6969f9b81703f05405ac0173?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
+| **[Univest](http://www.univest.net/)** | **[SBA Credit Intern](https://jobright.ai/jobs/info/6969f8a0f25a38006698bca0?utm_campaign=1052&utm_source=git)** | West Lawn, PA | On Site | Jan 16 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969f74d1703f05405ac0071?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Real Estate, Loan Services Internship Program](https://jobright.ai/jobs/info/6969eb071703f05405abf3fc?utm_campaign=1052&utm_source=git)** | Dallas, TX, USA | Hybrid | Jan 15 |
 | **[Loomis US](https://www.loomis.us)** | **[Procurement - Intern](https://jobright.ai/jobs/info/6969e80bf25a38006698ad23?utm_campaign=1052&utm_source=git)** | Loomis Armored Corporate Office Houston, TX, 2500 CityWest Blvd, Houston, Texas, United States of America | On Site | Jan 15 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6969dfdef25a38006698a7d5?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Jan 15 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6969ff56639b452fb57ffc27?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 15 |
+| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6969fd25639b452fb57ff71d?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 15 |
+| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969fc41639b452fb57ff544?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 15 |
+| ↳ | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6969ffc1f25a38006698c964?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 15 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6969feec1703f05405ac0a65?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 15 |
 | **[Citi](https://www.citi.com)** | **[Markets - Commodities, Summer Analyst, Houston - US, 2026](https://jobright.ai/jobs/info/6969c18c1703f05405abbf0a?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 15 |
 | **[Zurich Insurance](http://www.zurich.com)** | **[Associate Degree Apprenticeship Program - Underwriting Associate - Multiple Locations (Summer 2026)](https://jobright.ai/jobs/info/6969df571703f05405abec7f?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 15 |
 | **[American Water](http://amwater.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6969b154639b452fb57fa139?utm_campaign=1052&utm_source=git)** | Camden, NJ | Hybrid | Jan 15 |
@@ -124,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6969b2dc639b452fb57fa22b?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 15 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969ad73639b452fb57f9dac?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 15 |
 | ↳ | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6969b98e639b452fb57fa6ce?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Jan 15 |
-| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6969bc1a639b452fb57fa8c5?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Jan 15 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6969b1d41703f05405abaea6?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jan 15 |
+| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6969bc1a639b452fb57fa8c5?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Jan 15 |
 | ↳ | **[Credits Incentives and Methods Intern - Summer 2027](https://jobright.ai/jobs/info/6969b1fd639b452fb57fa1b2?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 15 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969acd31703f05405abaa67?utm_campaign=1052&utm_source=git)** | Naples, FL | On Site | Jan 15 |
 | ↳ | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6969b6aff25a380066986b89?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Jan 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citizens Alliance Bank](https://www.citizensalliancebank.com/)** | **[Lending Intern](https://jobright.ai/jobs/info/6969b30b1703f05405abafd4?utm_campaign=1052&utm_source=git)** | Clara City, MN | On Site | Jan 15 |
 | **[Child Care Associates](https://childcareassociates.org/)** | **[Finance Intern (Part-Time, Limited Duration Role)](https://jobright.ai/jobs/info/6969891a639b452fb57f657e?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jan 15 |
 | **[Anders](http://anderscpa.com/)** | **[Virtual CFO Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/696988f81703f05405ab7400?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 15 |
-| **[Citizens Alliance](http://www.citizensalliance.co.in)** | **[Lending Intern](https://jobright.ai/jobs/info/6969887e1703f05405ab7393?utm_campaign=1052&utm_source=git)** | Sacred Heart, MN | On Site | Jan 15 |
-| **[Invesco](https://www.invesco.com)** | **[Manager Research Intern](https://jobright.ai/jobs/info/6969a74d639b452fb57f9858?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 15 |
-| **[Swiss Re](http://www.swissre.com)** | **[Actuarial Pricing Intern (Summer 2026)](https://jobright.ai/jobs/info/696985d01703f05405ab7106?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
-| **[XPO](https://www.xpo.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/696985a6639b452fb57f62bc?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jan 15 |
-| **[Swiss Re](http://www.swissre.com)** | **[Actuarial Intern (Winter 2026)](https://jobright.ai/jobs/info/6969850e639b452fb57f622c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 15 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Financial & Business Services](https://jobright.ai/jobs/info/6969a5221703f05405aba3c5?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jan 15 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Tax Intern](https://jobright.ai/jobs/info/6969848c1703f05405ab6fc1?utm_campaign=1052&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Jan 15 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (Summer 2026)](https://jobright.ai/jobs/info/69698110639b452fb57f5fce?utm_campaign=1052&utm_source=git)** | St. John's - Kenmount Rd | Hybrid | Jan 15 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2027 (Chicago)](https://jobright.ai/jobs/info/696980e41703f05405ab6c63?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
-| ↳ | **[Specialty Tax Services Intern, State and Local Tax - Summer 2027 (Chicago)](https://jobright.ai/jobs/info/696980a11703f05405ab6c2c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

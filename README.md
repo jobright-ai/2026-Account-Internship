@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waukesha State Bank](http://waukeshabank.com/)** | **[Wealth Management Summer Intern](https://jobright.ai/jobs/info/696bc50d5fc86241853b1dd9?utm_campaign=1052&utm_source=git)** | Waukesha, WI | On Site | Jan 17 |
+| **[Dynareon](dynareon.us)** | **[Finance Intern](https://jobright.ai/jobs/info/696bc00c5fc86241853b1ce4?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Jan 17 |
+| **[Parexel](http://www.parexel.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/696bbc305fc86241853b1a23?utm_campaign=1052&utm_source=git)** | Durham, NC | Hybrid | Jan 17 |
+| **[Prime Nest Solutions](https://www.linkedin.com/company/100044646)** | **[Finance Intern](https://jobright.ai/jobs/info/696bba805fc86241853b02f4?utm_campaign=1052&utm_source=git)** | Calhoun, GA | On Site | Jan 17 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Finance Intern](https://jobright.ai/jobs/info/696bac8b5fc86241853b0097?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 17 |
 | **[Brixenta](brixenta.us)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/696ba6d5350cf4380312f702?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Jan 17 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Assurance Intern](https://jobright.ai/jobs/info/696ba6abdb26b618950f2a35?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/691ae0f215b415636718b6c2?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jan 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Revenue Accounting Systems](https://jobright.ai/jobs/info/69336be0764507023d1b5745?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/693343ffa0dde7020e2ebfad?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jan 17 |
-| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Commercial Finance Intern (Internship)](https://jobright.ai/jobs/info/696b8a3c5fc86241853aed84?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Jan 17 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Finance Intern](https://jobright.ai/jobs/info/69337debf131d96e48463d4c?utm_campaign=1052&utm_source=git)** | Greater Houston | Hybrid | Jan 17 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Internal Audit Services Master's Intern](https://jobright.ai/jobs/info/696b88b2350cf4380312e446?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Hybrid | Jan 17 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Corporate Intern - Internal Audit](https://jobright.ai/jobs/info/68c049bb5c5d5f14f46dc3bc?utm_campaign=1052&utm_source=git)** | Lewisville, TX | On Site | Jan 17 |
@@ -143,18 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Boston](https://jobright.ai/jobs/info/696ad84e350cf4380311f7ef?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (Chicago)](https://jobright.ai/jobs/info/696ad828350cf4380311f79e?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Student Intern, Fin Acct & Lgl-Treasury and Risk Control](https://jobright.ai/jobs/info/696afe99350cf43803123cf0?utm_campaign=1052&utm_source=git)** | 6226 W Sahara Ave, Las Vegas, NV, 89146, US | On Site | Jan 16 |
-| **[QTC Management, Inc.](http://www.qtcm.com)** | **[Finance Internship](https://jobright.ai/jobs/info/696b0275db26b618950e795b?utm_campaign=1052&utm_source=git)** | Glendora, California, United States | Hybrid | Jan 16 |
-| ↳ | **[Finance Internship](https://jobright.ai/jobs/info/696af7b5350cf438031232ce?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Jan 16 |
+| **[QTC Management, Inc.](http://www.qtcm.com)** | **[Finance Internship](https://jobright.ai/jobs/info/696af7b5350cf438031232ce?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Jan 16 |
 | ↳ | **[Finance Internship](https://jobright.ai/jobs/info/696b03925fc86241853a4d27?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Hybrid | Jan 16 |
+| ↳ | **[Finance Internship](https://jobright.ai/jobs/info/696b0275db26b618950e795b?utm_campaign=1052&utm_source=git)** | Glendora, California, United States | Hybrid | Jan 16 |
 | **[Lochmueller Group](http://lochgroup.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/696ad5efdb26b618950e2acc?utm_campaign=1052&utm_source=git)** | Evansville IN | On Site | Jan 16 |
 | **[Texas Instruments](http://www.ti.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/696b058c350cf43803124610?utm_campaign=1052&utm_source=git)** | FORE 12500 TI Boulevard, Dallas, TX, 75243, US | On Site | Jan 16 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern, Statutory Reporting - Morristown, NJ](https://jobright.ai/jobs/info/696b02095fc86241853a4b31?utm_campaign=1052&utm_source=git)** | US-NJ-MORRISTOWN | On Site | Jan 16 |
 | **[Daisy](https://www.joindaisy.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/696b06d2db26b618950e8042?utm_campaign=1052&utm_source=git)** | NY, New York, US | On Site | Jan 16 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027](https://jobright.ai/jobs/info/696afb255fc86241853a4113?utm_campaign=1052&utm_source=git)** | Kamloops | Hybrid | Jan 16 |
-| ↳ | **[Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027](https://jobright.ai/jobs/info/696b075b350cf438031247c8?utm_campaign=1052&utm_source=git)** | Kelowna | Hybrid | Jan 16 |
-| ↳ | **[Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027](https://jobright.ai/jobs/info/696b07d65fc86241853a536f?utm_campaign=1052&utm_source=git)** | Revelstoke | Hybrid | Jan 16 |
-| ↳ | **[Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027](https://jobright.ai/jobs/info/696af6af350cf438031231bd?utm_campaign=1052&utm_source=git)** | Salmon Arm | Hybrid | Jan 16 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027](https://jobright.ai/jobs/info/696b07d65fc86241853a536f?utm_campaign=1052&utm_source=git)** | Revelstoke | Hybrid | Jan 16 |
+| ↳ | **[Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027](https://jobright.ai/jobs/info/696afb255fc86241853a4113?utm_campaign=1052&utm_source=git)** | Kamloops | Hybrid | Jan 16 |
 | ↳ | **[Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027](https://jobright.ai/jobs/info/696af72adb26b618950e6861?utm_campaign=1052&utm_source=git)** | Vernon | Hybrid | Jan 16 |
-| **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Procurement Intern](https://jobright.ai/jobs/info/696ad05fdb26b618950e2024?utm_campaign=1052&utm_source=git)** | Buckhead, GA | On Site | Jan 16 |
-| **[Daisy](https://www.joindaisy.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/696aef8a350cf43803122790?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 16 |
+| ↳ | **[Co-op or Intern, Financial Reporting & Insights (BC Interior Offices) Winter 2027](https://jobright.ai/jobs/info/696af6af350cf438031231bd?utm_campaign=1052&utm_source=git)** | Salmon Arm | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

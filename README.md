@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SVCV](https://venomvc.com)** | **[Investment Banking and Capital Markets Intern](https://jobright.ai/jobs/info/696c9e3f350cf4380313c592?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 18 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/696c9408350cf4380313ad9b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 18 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/696c83fc350cf4380313a26d?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | **[PwC](http://pwc.com)** | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696c766cdb26b618950fcbcb?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/696c766bdb26b618950fcbca?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcd9a350cf43803131650?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcd735fc86241853b1f26?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | Hybrid | Jan 17 |
 | ↳ | **[Audit Korean Business Network (KBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcd435fc86241853b1f08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026](https://jobright.ai/jobs/info/696bcd225fc86241853b1efd?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Jan 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/696bccfb5fc86241853b1eef?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

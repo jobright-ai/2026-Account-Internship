@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/696c83fc350cf4380313a26d?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
+| **[PwC](http://pwc.com)** | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696c766cdb26b618950fcbcb?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
+| ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/696c766bdb26b618950fcbca?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 17 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pricing &amp;#038; Underwriting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/696c3135350cf43803135809?utm_campaign=1052&utm_source=git)** | Portland, OR | Remote | Jan 17 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / Charlotte Southpark](https://jobright.ai/jobs/info/696c13735fc86241853b4abe?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
 | **[Child Care Associates](https://childcareassociates.org/)** | **[Finance Intern (Part-Time, Limited Duration Role)](https://jobright.ai/jobs/info/696c0f35350cf43803134323?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jan 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Korean Business Network (KBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcd435fc86241853b1f08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026](https://jobright.ai/jobs/info/696bcd225fc86241853b1efd?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/696bccfb5fc86241853b1eef?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
-| ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bccde5fc86241853b1ee6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
-| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bccbd5fc86241853b1edc?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jan 17 |
-| **[Waukesha State Bank](http://waukeshabank.com/)** | **[Wealth Management Summer Intern](https://jobright.ai/jobs/info/696bc50d5fc86241853b1dd9?utm_campaign=1052&utm_source=git)** | Waukesha, WI | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

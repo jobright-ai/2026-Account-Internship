@@ -117,12 +117,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd4f65fc86241853b1fed?utm_campaign=1052&utm_source=git)** | Greensboro, NC | Hybrid | Jan 17 |
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c05cddb26b618950f73e5?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c041d350cf43803134213?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jan 17 |
-| ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c01ba5fc86241853b48fe?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 17 |
 | ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/696c03c6350cf438031341f2?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 17 |
+| ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c01ba5fc86241853b48fe?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696c05e0db26b618950f73ee?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Tax Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c056cdb26b618950f73c4?utm_campaign=1052&utm_source=git)** | Silicon Valley, CA | Hybrid | Jan 17 |
-| ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696c0653db26b618950f7416?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c0583db26b618950f73cb?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jan 17 |
+| ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696c0653db26b618950f7416?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd395db26b618950f49a0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696bd376350cf4380313177d?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/696bd273350cf43803131722?utm_campaign=1052&utm_source=git)** | Portland, OR | Remote | Jan 17 |

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/696d37265fc86241853c2697?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 18 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/696d36e7db26b61895104ef9?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Jan 18 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Raleigh NC](https://jobright.ai/jobs/info/696d1c3e350cf43803141a1e?utm_campaign=1052&utm_source=git)** | Raleigh Glenwood | On Site | Jan 18 |
 | **[WCRE | CORFAC International](https://wolfcre.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/696d12fe5fc86241853c1d50?utm_campaign=1052&utm_source=git)** | Marlton, NJ | On Site | Jan 18 |
 | **[EnerMech](https://www.enermech.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/696d0fbf350cf4380314190b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 18 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68c7ab95c96a22563ecf40e4?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Jan 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6954c55eaa05c26e7aaf4a4c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Accounting Intern- Summer 2026 Kendallville](https://jobright.ai/jobs/info/6917f643bcdbf3560c9cd0e7?utm_campaign=1052&utm_source=git)** | Kendallville, IN | On Site | Jan 18 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68cc42b17342c7623ae61db0?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Jan 18 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68cbb0f79e3a822f5d24a893?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 18 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Investment Intern - New York, NY](https://jobright.ai/jobs/info/68fc47be93c49825ab10b6bd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 18 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internships](https://jobright.ai/jobs/info/6917c55f15b415636717b6cd?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Jan 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd6dc350cf438031317b5?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd6ab350cf438031317ab?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd68d5fc86241853b205d?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 17 |
-| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd689350cf438031317a6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

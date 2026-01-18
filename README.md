@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Internship](https://jobright.ai/jobs/info/696cf4e2350cf4380313fd77?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Jan 18 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/696cf13b350cf4380313fd23?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 18 |
+| **[Gallagher](https://www.ajg.com/)** | **[CA Actuary Internship](https://jobright.ai/jobs/info/69178bbe15b4156367178dbd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 18 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/69181c4915b415636717ebaa?utm_campaign=1052&utm_source=git)** | Sheboygan, WI | On Site | Jan 18 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Payroll - Summer Internship 2026](https://jobright.ai/jobs/info/69188af545fb6f5ead8a5d37?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Jan 18 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a49243541cc3479840c593?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Jan 18 |
 | ↳ | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68c9fa0bf61c922772a71a95?utm_campaign=1052&utm_source=git)** | Pensacola, FL | On Site | Jan 18 |
@@ -74,7 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68cbb0f79e3a822f5d24a893?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 18 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Investment Intern - New York, NY](https://jobright.ai/jobs/info/68fc47be93c49825ab10b6bd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 18 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internships](https://jobright.ai/jobs/info/6917c55f15b415636717b6cd?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Jan 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Renton, WA](https://jobright.ai/jobs/info/693d33d4aa598a08c3edfaa3?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Jan 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/691651969c388539cbdf9d89?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Jan 18 |
+| ↳ | **[Summer 2026 Accounting Internship - Renton, WA](https://jobright.ai/jobs/info/693d33d4aa598a08c3edfaa3?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Jan 18 |
 | **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c317e25adaee6c9bda6e55?utm_campaign=1052&utm_source=git)** | Haleyville, AL | On Site | Jan 18 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Wealth Management Intern - New York City, NY](https://jobright.ai/jobs/info/68def7bea125e75c422b8ad6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 18 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68cbad3fba798c1a501d3d29?utm_campaign=1052&utm_source=git)** | Cullman, AL | On Site | Jan 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd61e5fc86241853b2041?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 17 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd6135fc86241853b203b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jan 17 |
 | ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd60e5fc86241853b2037?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
-| ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd60d5fc86241853b2035?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 17 |
-| ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd5fd5fc86241853b202f?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 17 |
-| ↳ | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696bd5545fc86241853b1ffd?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 17 |
-| ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd4f65fc86241853b1fed?utm_campaign=1052&utm_source=git)** | Greensboro, NC | Hybrid | Jan 17 |
-| ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c05cddb26b618950f73e5?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

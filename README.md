@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Valorantum](valorantum.us)** | **[Finance Intern](https://jobright.ai/jobs/info/696c1a4bdb26b618950f75da?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Jan 17 |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Finance Intern](https://jobright.ai/jobs/info/696c3546350cf4380313611c?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Jan 17 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pricing &amp;#038; Underwriting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/696c3135350cf43803135809?utm_campaign=1052&utm_source=git)** | Portland, OR | Remote | Jan 17 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Summer Finance Internship Program](https://jobright.ai/jobs/info/696c1770db26b618950f75c1?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Jan 17 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / Charlotte Southpark](https://jobright.ai/jobs/info/696c13735fc86241853b4abe?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
 | **[Child Care Associates](https://childcareassociates.org/)** | **[Finance Intern (Part-Time, Limited Duration Role)](https://jobright.ai/jobs/info/696c0f35350cf43803134323?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jan 17 |
@@ -71,8 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bec71350cf43803132474?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bec3d5fc86241853b2c8c?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bec185fc86241853b2c76?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 17 |
-| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Finance Internship Program - Summer 2026](https://jobright.ai/jobs/info/696bec125fc86241853b2c72?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Jan 17 |
-| **[PwC](http://pwc.com)** | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bebc75fc86241853b2c48?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 17 |
+| ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bebc75fc86241853b2c48?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bebbb350cf4380313240e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bebab350cf43803132402?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696beb9a350cf438031323fa?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 17 |
@@ -95,8 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696be862db26b618950f5521?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696be78f5fc86241853b2afc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696be764350cf4380313224c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/696be29c350cf43803131de6?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Jan 17 |
-| **[PwC](http://pwc.com)** | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bdef7350cf43803131abc?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 17 |
+| ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bdef7350cf43803131abc?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 17 |
 | ↳ | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696bdd805fc86241853b21f5?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd934db26b618950f4a82?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd84ddb26b618950f4a4d?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jan 17 |
@@ -124,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c01ba5fc86241853b48fe?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696c05e0db26b618950f73ee?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Tax Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c056cdb26b618950f73c4?utm_campaign=1052&utm_source=git)** | Silicon Valley, CA | Hybrid | Jan 17 |
-| ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696c0653db26b618950f7416?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c0583db26b618950f73cb?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jan 17 |
+| ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696c0653db26b618950f7416?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd395db26b618950f49a0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696bd376350cf4380313177d?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/696bd273350cf43803131722?utm_campaign=1052&utm_source=git)** | Portland, OR | Remote | Jan 17 |
@@ -145,8 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcf40db26b618950f48ce?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcf23db26b618950f48c8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 17 |
 | ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bceec350cf438031316c1?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 17 |
-| **[Blue Ventis](blueventis.us)** | **[Internship Finance](https://jobright.ai/jobs/info/696bceea350cf438031316bf?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Jan 17 |
-| **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bceb7350cf438031316b2?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Jan 17 |
+| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bceb7350cf438031316b2?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Jan 17 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bce58350cf4380313169a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bce4d350cf43803131693?utm_campaign=1052&utm_source=git)** | Greensboro, NC | Hybrid | Jan 17 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcdfc5fc86241853b1f4b?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Jan 17 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcd735fc86241853b1f26?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | Hybrid | Jan 17 |
 | ↳ | **[Audit Korean Business Network (KBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcd435fc86241853b1f08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026](https://jobright.ai/jobs/info/696bcd225fc86241853b1efd?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Jan 17 |
+| ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/696bccfb5fc86241853b1eef?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
+| ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bccde5fc86241853b1ee6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

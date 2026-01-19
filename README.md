@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Electric Power](http://aep.com)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/69211e9ea49a885af9a430ae?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 19 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/696ddc1e350cf4380314a87c?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 18 |
 | ↳ | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/696ddc0c350cf4380314a862?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jan 18 |
 | ↳ | **[State and Local Tax Intern – Summer 2027](https://jobright.ai/jobs/info/696ddbef350cf4380314a844?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Jan 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd5a35fc86241853b2010?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | ↳ | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696bcf6bdb26b618950f48e3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696be9e1db26b618950f56b1?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Jan 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696be963db26b618950f5625?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

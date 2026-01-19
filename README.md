@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Risk Management - Capital Risk and Governance Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/696e34b8db26b61895112a4a?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/696e33005fc86241853d03e4?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jan 19 |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 19 |
+| **[Hexion Inc.](https://www.hexion.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/691ac3c1bcdbf3560c9da443?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jan 19 |
+| **[Koch](https://www.kochinc.com)** | **[Summer 2026 Accounting Analyst Internship](https://jobright.ai/jobs/info/68c88515f9c6ff7aedf0f8b9?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Jan 19 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Credit Risk Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/696b64d8db26b618950ef768?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jan 19 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Columbus, IN Summer 2026)](https://jobright.ai/jobs/info/68c49e31e471ef3ce16d7c6d?utm_campaign=1052&utm_source=git)** | Columbus, IN | On Site | Jan 19 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/68fc261ef55bb021a88a0f4d?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jan 19 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/6959d600f1f8465b79f035bf?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 19 |
 | **[PIM Brands](https://pimbrands.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/68e084eb1852e62f007eb9f4?utm_campaign=1052&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 19 |
@@ -75,12 +82,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/696ddbdf350cf4380314a837?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jan 18 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/696ddbdc350cf4380314a832?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Jan 18 |
 | ↳ | **[Assurance Intern- Winter 2027](https://jobright.ai/jobs/info/696ddbb0350cf4380314a802?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Jan 18 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/696dda9fdb26b6189510d133?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jan 18 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/696dda93db26b6189510d12a?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jan 18 |
 | ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/696dda655fc86241853ca988?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Jan 18 |
 | ↳ | **[Federal Tax Services Intern – Summer 2027](https://jobright.ai/jobs/info/696dd89c350cf4380314a592?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Jan 18 |
 | **[Blue Ventis](blueventis.us)** | **[Finance Intern](https://jobright.ai/jobs/info/696dcee6350cf4380314a10c?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Jan 18 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Intern](https://jobright.ai/jobs/info/696dcaa7350cf43803149ef4?utm_campaign=1052&utm_source=git)** | Calhoun, GA | Remote | Jan 18 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship - Hartford, CT](https://jobright.ai/jobs/info/695b7ffdf1f8465b79f18f97?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Jan 18 |
 | **[Geneva Trading](https://geneva-trading.com)** | **[Intern - Quantitative Trader - Digital Assets](https://jobright.ai/jobs/info/69601de67ebc25398eb60c97?utm_campaign=1052&utm_source=git)** | Chicago Office | On Site | Jan 18 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Accounting](https://jobright.ai/jobs/info/696d99a05fc86241853c6b08?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Jan 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bec71350cf43803132474?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bec3d5fc86241853b2c8c?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bec185fc86241853b2c76?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 17 |
-| ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bebc75fc86241853b2c48?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bebbb350cf4380313240e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
-| ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bebab350cf43803132402?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
-| ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696beb9a350cf438031323fa?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 17 |
-| ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696beb4c350cf438031323e2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

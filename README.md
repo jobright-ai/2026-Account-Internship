@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Summit Street](https://www.linkedin.com/company/107246022)** | **[Equity Trading Intern](https://jobright.ai/jobs/info/696d6870350cf43803144175?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jan 18 |
+| ↳ | **[Quantitative Risk Intern](https://jobright.ai/jobs/info/696d6552db26b61895106ca5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jan 18 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Raleigh NC](https://jobright.ai/jobs/info/696d5846350cf43803144039?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 18 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/696d4e8b350cf43803143f77?utm_campaign=1052&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 18 |
 | **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2026 Investment Internship](https://jobright.ai/jobs/info/696d4b2e350cf43803143f22?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 18 |
 | **[Abbotsford School District ](www.abbyschools.ca)** | **[Accounting Assistant - International (6-Month Temporary)](https://jobright.ai/jobs/info/696d43a85fc86241853c3ad9?utm_campaign=1052&utm_source=git)** | Abbotsford, British Columbia, Canada | On Site | Jan 18 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Tax - Beachwood, OH](https://jobright.ai/jobs/info/6917953715b4156367179390?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | Jan 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Payments Manager](https://jobright.ai/jobs/info/68e053cbf758fe1f97e4c71d?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, Tax](https://jobright.ai/jobs/info/69326871f131d96e4845bef2?utm_campaign=1052&utm_source=git)** | Newton, MA | On Site | Jan 18 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/696c9408350cf4380313ad9b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 18 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/696c83fc350cf4380313a26d?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | **[PwC](http://pwc.com)** | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696c766cdb26b618950fcbcb?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/696c766bdb26b618950fcbca?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd7e1db26b618950f4a31?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jan 17 |
 | ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd7c5db26b618950f4a2a?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd7afdb26b618950f4a26?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 17 |
-| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd794db26b618950f4a1e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
-| ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd777db26b618950f4a14?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

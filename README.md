@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Accounting](https://jobright.ai/jobs/info/696d99a05fc86241853c6b08?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Jan 18 |
+| **[Summit Street](https://www.linkedin.com/company/107246022)** | **[Equity Trading Intern](https://jobright.ai/jobs/info/696d9811350cf4380314680e?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jan 18 |
+| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Risk and Insurance Intern - System Wide](https://jobright.ai/jobs/info/696181c2e7ed9a5731ba4b80?utm_campaign=1052&utm_source=git)** | Plain City, OH | Remote | Jan 18 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Finance Intern](https://jobright.ai/jobs/info/696d8f365fc86241853c685e?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Jan 18 |
 | **[Bon Secours](https://www.bonsecours.com/)** | **[Risk and Insurance Intern - System Wide](https://jobright.ai/jobs/info/69616515a112b402660fe97c?utm_campaign=1052&utm_source=git)** | Plain City, OH | Remote | Jan 18 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Finance Intern](https://jobright.ai/jobs/info/696d780adb26b61895106e2f?utm_campaign=1052&utm_source=git)** | Manchester, CT | On Site | Jan 18 |
-| **[Summit Street](https://www.linkedin.com/company/107246022)** | **[Equity Trading Intern](https://jobright.ai/jobs/info/696d6870350cf43803144175?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jan 18 |
-| ↳ | **[Quantitative Risk Intern](https://jobright.ai/jobs/info/696d6552db26b61895106ca5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jan 18 |
+| **[Summit Street](https://www.linkedin.com/company/107246022)** | **[Quantitative Risk Intern](https://jobright.ai/jobs/info/696d6552db26b61895106ca5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Jan 18 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Raleigh NC](https://jobright.ai/jobs/info/696d5846350cf43803144039?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 18 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/696d4e8b350cf43803143f77?utm_campaign=1052&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 18 |
 | **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2026 Investment Internship](https://jobright.ai/jobs/info/696d4b2e350cf43803143f22?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 18 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[EnerMech](https://www.enermech.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/696d0fbf350cf4380314190b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Internal Audit Internship](https://jobright.ai/jobs/info/696d0c34db26b61895102cbf?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Transaction Advisory Intern](https://jobright.ai/jobs/info/696d0514350cf4380313fec8?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 18 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/696cf13b350cf4380313fd23?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 18 |
 | **[Gallagher](https://www.ajg.com/)** | **[CA Actuary Internship](https://jobright.ai/jobs/info/69178bbe15b4156367178dbd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 18 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/69181c4915b415636717ebaa?utm_campaign=1052&utm_source=git)** | Sheboygan, WI | On Site | Jan 18 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Payroll - Summer Internship 2026](https://jobright.ai/jobs/info/69188af545fb6f5ead8a5d37?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Jan 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bdef7350cf43803131abc?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 17 |
 | ↳ | **[Tax & Assurance - Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/696bdd805fc86241853b21f5?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd934db26b618950f4a82?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
-| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd84ddb26b618950f4a4d?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jan 17 |
-| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd7e1db26b618950f4a31?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Internship - Hartford, CT](https://jobright.ai/jobs/info/695b7d439f1b381eb273e274?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Jan 20 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/696f3d349c3c52633455f75d?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Stratify Edge](stratifyedge.us)** | **[Finance Internship](https://jobright.ai/jobs/info/696f2c4e82817106e9764a3e?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Jan 19 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/696f2b7a82817106e97649a5?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 19 |
 | **[The Premiere Group](https://premiere.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/696f27230f4e0f657ea38638?utm_campaign=1052&utm_source=git)** | Columbia, MO | Hybrid | Jan 19 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Winter 2027 / Pittsburgh](https://jobright.ai/jobs/info/696f0e8182817106e976417b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 19 |
 | **[Housing Hub](https://www.housinghubmn.com)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/696f0e3482817106e9764168?utm_campaign=1052&utm_source=git)** | St Paul, MN | On Site | Jan 19 |
 | **[Digital Provisions](https://www.digitalprovisions.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/696f0e1a82817106e9764166?utm_campaign=1052&utm_source=git)** | Ronkonkoma, NY | On Site | Jan 19 |
-| **[Orvanta](orvanta.us)** | **[Finance Intern -](https://jobright.ai/jobs/info/696f0dc882817106e9764151?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Jan 19 |
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/696f07d50f4e0f657ea37bd8?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jan 19 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[National Accounts Summer (STAR) Intern](https://jobright.ai/jobs/info/696f065b9c3c52633455bdb0?utm_campaign=1052&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 19 |
 | ↳ | **[National Accounts Summer (STAR) Intern](https://jobright.ai/jobs/info/696f05de0f4e0f657ea363d6?utm_campaign=1052&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 19 |
@@ -121,6 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/696ebde25fc86241853dac59?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jan 19 |
 | ↳ | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/696ebd9f5fc86241853dab9e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 19 |
 | **[CAE](http://www.cae.com)** | **[C-FIN-200- Tax Intern-EN](https://jobright.ai/jobs/info/696ebb235fc86241853da2f7?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 19 |
+| **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Investment Applications](https://jobright.ai/jobs/info/696f3dba82817106e9765f3e?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
 | **[Desjardins](https://www.desjardins.com)** | **[Auditeur interne sénior ou auditrice interne sénior, Gestion des risques, Accords de Bâle-FR](https://jobright.ai/jobs/info/696eb9d3db26b6189511c2ab?utm_campaign=1052&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jan 19 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern IT Audit Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/696eb87f5fc86241853d9a7f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 19 |
 | **[Desjardins](https://www.desjardins.com)** | **[Auditeur interne sénior ou auditrice interne sénior, Gestion des risques, Accords de Bâle-FR](https://jobright.ai/jobs/info/696eb581db26b6189511b54b?utm_campaign=1052&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Jan 19 |
@@ -135,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[Knight Transportation](http://knighttrans.com)** | **[Accounting - Corporate Intern](https://jobright.ai/jobs/info/696ea6095fc86241853d74df?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 19 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6966f9a0639b452fb57c8891?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Jan 19 |
 | **[Aegon](https://www.aegon.com/)** | **[ALM Analytical Reporting Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696ea0abdb26b61895118ce1?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 19 |
-| **[Uline](http://www.uline.com)** | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/696ebd42350cf4380315a612?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 19 |
-| ↳ | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/696ebc215fc86241853da694?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 19 |
+| **[Uline](http://www.uline.com)** | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/696ebc215fc86241853da694?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 19 |
 | ↳ | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/696eb844db26b6189511bdce?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Jan 19 |
+| ↳ | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/696ebd42350cf4380315a612?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 19 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Property Tax Complex](https://jobright.ai/jobs/info/696e9a835fc86241853d5b64?utm_campaign=1052&utm_source=git)** | Vancouver | On Site | Jan 19 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Outsourcing Procurement Intern](https://jobright.ai/jobs/info/696e94345fc86241853d4df6?utm_campaign=1052&utm_source=git)** | Warrenville, IL | Hybrid | Jan 19 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/696e9367350cf43803154a5c?utm_campaign=1052&utm_source=git)** | Katy, TX | On Site | Jan 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/696e8723db26b618951164fc?utm_campaign=1052&utm_source=git)** | Maryland | Hybrid | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Risk Analyst Intern](https://jobright.ai/jobs/info/696e85c2db26b6189511637e?utm_campaign=1052&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
 | **[CAE](http://www.cae.com)** | **[C-FIN-200- Tax Intern](https://jobright.ai/jobs/info/696e8328350cf438031539b1?utm_campaign=1052&utm_source=git)** | Montreal (St. Laurent) | Hybrid | Jan 19 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/696e81fe5fc86241853d3afe?utm_campaign=1052&utm_source=git)** | Possible | Hybrid | Jan 19 |
-| **[LJA](https://www.lja.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/696e8081350cf438031536f5?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

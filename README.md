@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stratify Edge](stratifyedge.us)** | **[Finance Internship](https://jobright.ai/jobs/info/696f2c4e82817106e9764a3e?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Jan 19 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/696f2b7a82817106e97649a5?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 19 |
+| **[The Premiere Group](https://premiere.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/696f27230f4e0f657ea38638?utm_campaign=1052&utm_source=git)** | Columbia, MO | Hybrid | Jan 19 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Season Year / Location](https://jobright.ai/jobs/info/696f15aa9c3c52633455da67?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
 | **[Uline](http://www.uline.com)** | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/696f158b0f4e0f657ea38462?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Jan 19 |
 | ↳ | **[Financial Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/696f15880f4e0f657ea38460?utm_campaign=1052&utm_source=git)** | Waukegan, IL | On Site | Jan 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAE](http://www.cae.com)** | **[C-FIN-200- Tax Intern](https://jobright.ai/jobs/info/696e8328350cf438031539b1?utm_campaign=1052&utm_source=git)** | Montreal (St. Laurent) | Hybrid | Jan 19 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/696e81fe5fc86241853d3afe?utm_campaign=1052&utm_source=git)** | Possible | Hybrid | Jan 19 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/696e8081350cf438031536f5?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Jan 19 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance  - NJBU 2026](https://jobright.ai/jobs/info/696e805d5fc86241853d3964?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ, US | On Site | Jan 19 |
-| **[Waste Connections](http://www.wasteconnections.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/696e7b78350cf4380315355a?utm_campaign=1052&utm_source=git)** | The Woodlands, TX | On Site | Jan 19 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/696e75e1db26b61895115a4b?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

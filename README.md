@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Damages & Valuations (Summer 2026)](https://jobright.ai/jobs/info/69385427b95c305f206d7aa7?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
+| **[Pathway Capital Management](http://www.pathwaycapital.com)** | **[SENIOR INVESTMENT INTERN - SUMMER 2026 - PROVIDENCE - HYBRID](https://jobright.ai/jobs/info/6938b286aabec14a727da1d6?utm_campaign=1052&utm_source=git)** | Providence, RI | Hybrid | Jan 21 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Damages & Valuations (Summer 2026)](https://jobright.ai/jobs/info/69385997a0dde7020e30e0ca?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 21 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/68dc217cd6470e72cf4d8db1?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Jan 21 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Economics (Summer 2026)](https://jobright.ai/jobs/info/69385003a0dde7020e30d77a?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 21 |
+| ↳ | **[Intern, Investigations & Forensic Accounting (Summer 2026)](https://jobright.ai/jobs/info/69385a6aa0dde7020e30e1c8?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 21 |
+| **[Culligan International](http://www.culligan.com/)** | **[Finance Intern, Corporate FP&A](https://jobright.ai/jobs/info/69543c02f1f8465b79eb598e?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Jan 21 |
+| ↳ | **[Intern, Corporate Accounting](https://jobright.ai/jobs/info/69543db5aa05c26e7aaeab75?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Jan 21 |
+| **[Topel Forman LLC](http://topelforman.com)** | **[Summer 2026 Investment Project Tax Intern](https://jobright.ai/jobs/info/69548d7f5bb7de448ef78729?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[2027 Global Markets Summer Analyst Program - New York](https://jobright.ai/jobs/info/6970b524333b6343a14d2f5d?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jan 21 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Financial Controls Intern Summer 2026](https://jobright.ai/jobs/info/68cbad05ba798c1a501d3cdd?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 21 |
+| **[The RMR Group](http://www.rmrgroup.com/)** | **[Intern, Tremont](https://jobright.ai/jobs/info/69593f35f1f8465b79efc579?utm_campaign=1052&utm_source=git)** | Newton, MA | On Site | Jan 21 |
 | **[Cedar Holdings](http://www.cedarhold.com/)** | **[Biotech Equity Capital Markets Intern](https://jobright.ai/jobs/info/6970ad8c587dfa0bb55e460f?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Jan 21 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Tax](https://jobright.ai/jobs/info/69546f855bb7de448ef75ac3?utm_campaign=1052&utm_source=git)** | San Mateo, CA | On Site | Jan 21 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Finance Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6970945e333b6343a14d130f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 21 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Investment Banking Analyst Intern (Metals and Mining) - Summer 2027](https://jobright.ai/jobs/info/696ffeca0f4e0f657ea45cfb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
 | **[STERIS](http://steris.com)** | **[Data Analyst, Internal Audit Intern](https://jobright.ai/jobs/info/696ffd1282817106e977178f?utm_campaign=1052&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Jan 20 |
 | **[CRH](http://crh.com)** | **[Accounting Internship 2026-Baytown](https://jobright.ai/jobs/info/696ffceb0f4e0f657ea4598e?utm_campaign=1052&utm_source=git)** | Baytown, TX | On Site | Jan 20 |
-| **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Finance Planning and Analysis (FP&A) Intern](https://jobright.ai/jobs/info/696ffc0d82817106e9771490?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 20 |
-| **[CIBC](https://www.cibc.com)** | **[Internal Audit Intern-Co-op](https://jobright.ai/jobs/info/696ffbd682817106e9771403?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Jan 20 |
-| **[Endeavor Kenya](https://endeavor.org/location/kenya/)** | **[Finance Operations Intern, Finance (Summer 2026)](https://jobright.ai/jobs/info/6970215f3ed06875134b202a?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
-| **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - Treasury and Finance Intern](https://jobright.ai/jobs/info/696ffb2f0f4e0f657ea454d3?utm_campaign=1052&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Jan 20 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/696ffa1b82817106e9770f6f?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | Hybrid | Jan 20 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Finance Intern](https://jobright.ai/jobs/info/696ff9b33ed06875134af7d5?utm_campaign=1052&utm_source=git)** | North Chicago, IL | On Site | Jan 20 |
-| **[Texas Oral History Association](https://toha.web.baylor.edu/about)** | **[Student Worker - Internal Audit Intern - BC](https://jobright.ai/jobs/info/696ff8e23ed06875134af575?utm_campaign=1052&utm_source=git)** | Waco, TX, United States | On Site | Jan 20 |
-| **[CRH](http://crh.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/696ff8df3ed06875134af56b?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| **[Truist](https://www.truist.com)** | **[2027 Wholesale Credit Delivery - Asset Securitization - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/696ff7d90f4e0f657ea44c0f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
-| **[Ephrata National Bank](http://epnb.com)** | **[Loan Servicing Intern](https://jobright.ai/jobs/info/696ff7bf0f4e0f657ea44b90?utm_campaign=1052&utm_source=git)** | Brossman Building, Ephrata, PA, US | On Site | Jan 20 |
-| **[CRH](http://crh.com)** | **[Intern :Finance](https://jobright.ai/jobs/info/696ff77f3ed06875134af0e5?utm_campaign=1052&utm_source=git)** | Lunenburg, MA | On Site | Jan 20 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Investment Banking Analyst Intern (Diversified) - Summer 2027](https://jobright.ai/jobs/info/696ff75b3ed06875134af08f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

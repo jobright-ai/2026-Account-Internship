@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Revenue Cycle Management - Collections Analyst](https://jobright.ai/jobs/info/6970817651f726477182c9ea?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Jan 20 |
+| **[Andersen Consulting](http://www.andersenconsulting.com)** | **[Intern – Tax Services – 2027](https://jobright.ai/jobs/info/69707cef587dfa0bb55e19db?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Jan 20 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Jan 20 |
 | **[Andersen Consulting](http://www.andersenconsulting.com)** | **[Intern – Tax Services –2027](https://jobright.ai/jobs/info/697073d2333b6343a14cfd8e?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2027 (Greater Washington DC)](https://jobright.ai/jobs/info/69706fad587dfa0bb55e15a1?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Jan 20 |
 | **[Orvanta](orvanta.us)** | **[Finance Intern - TP](https://jobright.ai/jobs/info/69706c7351f726477182c192?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Jan 20 |
@@ -104,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[STERIS](http://steris.com)** | **[Data Analyst, Internal Audit Intern](https://jobright.ai/jobs/info/69702ff1333b6343a14c990d?utm_campaign=1052&utm_source=git)** | Mentor, OH | On Site | Jan 20 |
 | **[Breeze Airways™](https://www.flybreeze.com/)** | **[Financial Analyst - FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/69702fda333b6343a14c98f8?utm_campaign=1052&utm_source=git)** | Cottonwood Heights, UT | On Site | Jan 20 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/696af4455fc86241853a3a30?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 20 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Business Intern - Winter 2027](https://jobright.ai/jobs/info/69702d3e51f7264771825d2e?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Audit](https://jobright.ai/jobs/info/69704aa2333b6343a14cba23?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
 | **[STERIS](http://steris.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69702bea51f7264771825bae?utm_campaign=1052&utm_source=git)** | Mentor, OH | On Site | Jan 20 |
 | **[Wakely Consulting Group](http://wakely.com/)** | **[Actuarial Intern - Summer 2026](https://jobright.ai/jobs/info/6967272c1703f05405a8d33a?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Hillwood Properties](https://www.alliancetexas.com/)** | **[Real Estate Investment Analyst Intern](https://jobright.ai/jobs/info/6970286e587dfa0bb55daaac?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697027ea333b6343a14c9148?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697027bc333b6343a14c9135?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69704ac3333b6343a14cba40?utm_campaign=1052&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | Hybrid | Jan 20 |
-| ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/697046a7587dfa0bb55dc5d7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, USA | Hybrid | Jan 20 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/697046a7587dfa0bb55dc5d7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, USA | Hybrid | Jan 20 |
+| ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69704ac3333b6343a14cba40?utm_campaign=1052&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | Hybrid | Jan 20 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69704147333b6343a14ca9af?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Summer 2027 / Colorado Springs](https://jobright.ai/jobs/info/69701ea982817106e9773657?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Jan 20 |
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Wealth Management (Omaha, NE)](https://jobright.ai/jobs/info/69701bb082817106e97734a1?utm_campaign=1052&utm_source=git)** | Omaha - FN Business  Park | On Site | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[XPO](https://www.xpo.com)** | **[Intern](https://jobright.ai/jobs/info/696ff70482817106e9770705?utm_campaign=1052&utm_source=git)** | Charlotte, NC, US, 28277 | On Site | Jan 20 |
 | **[Ephrata National Bank](http://epnb.com)** | **[Credit Underwriting Intern](https://jobright.ai/jobs/info/696ff68282817106e97705dd?utm_campaign=1052&utm_source=git)** | Brossman Building, Ephrata, PA, US | On Site | Jan 20 |
 | **[Breeze Airways™](https://www.flybreeze.com/)** | **[Financial Analyst - FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/696ff6813ed06875134aedf1?utm_campaign=1052&utm_source=git)** | Cottonwood Heights, Utah, United States | On Site | Jan 20 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/696ff48a0f4e0f657ea44398?utm_campaign=1052&utm_source=git)** | USA WV Bridgeport | On Site | Jan 20 |
-| **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Sales, Trading & Research (High Yield Credit Sales & Trading) - Summer Analyst Program (Internship) - New York, NY](https://jobright.ai/jobs/info/696ff2e382817106e976fdd3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Finance Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6970945e333b6343a14d130f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[CIBC](https://www.cibc.com)** | **[Internal Audit Intern-Co-op](https://jobright.ai/jobs/info/6970928851f726477182d335?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[The Ruhlin Company](http://ruhlin.com)** | **[Interns- Finance](https://jobright.ai/jobs/info/69708f64333b6343a14d0bc0?utm_campaign=1052&utm_source=git)** | Wadsworth, OH | On Site | Jan 21 |
 | **[Workday](http://www.workday.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69708676587dfa0bb55e205c?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 20 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Cost Accounting Intern](https://jobright.ai/jobs/info/69703ca2587dfa0bb55dbf83?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/697039e6587dfa0bb55dbc93?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Jan 20 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/697039a5333b6343a14ca2b3?utm_campaign=1052&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Jan 20 |
-| **[BayCare Health System](https://baycare.org/bmg)** | **[Finance Intern](https://jobright.ai/jobs/info/6970398f333b6343a14ca298?utm_campaign=1052&utm_source=git)** | Clearwater, FL | On Site | Jan 20 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Winter 2027 Tax Internship- Chicago](https://jobright.ai/jobs/info/69703812333b6343a14ca0f6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | ↳ | **[Winter 2027 Tax Internship- Denver](https://jobright.ai/jobs/info/6970373e587dfa0bb55db9df?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jan 20 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Accounting Intern](https://jobright.ai/jobs/info/69703729587dfa0bb55db9cb?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Jan 20 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Finance and Business Operations Undergraduate Intern](https://jobright.ai/jobs/info/69702a4551f72647718259e8?utm_campaign=1052&utm_source=git)** | El Segundo, CA | On Site | Jan 20 |
 | **[Hillwood Properties](https://www.alliancetexas.com/)** | **[Real Estate Investment Analyst Intern](https://jobright.ai/jobs/info/6970286e587dfa0bb55daaac?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697027ea333b6343a14c9148?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 20 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69704ac3333b6343a14cba40?utm_campaign=1052&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | Hybrid | Jan 20 |
-| ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/697046a7587dfa0bb55dc5d7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, USA | Hybrid | Jan 20 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/697046a7587dfa0bb55dc5d7?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, USA | Hybrid | Jan 20 |
+| ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69704ac3333b6343a14cba40?utm_campaign=1052&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | Hybrid | Jan 20 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69704147333b6343a14ca9af?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Summer 2027 / Colorado Springs](https://jobright.ai/jobs/info/69701ea982817106e9773657?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Jan 20 |
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Wealth Management (Omaha, NE)](https://jobright.ai/jobs/info/69701bb082817106e97734a1?utm_campaign=1052&utm_source=git)** | Omaha - FN Business  Park | On Site | Jan 20 |

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar Holdings](http://www.cedarhold.com/)** | **[Biotech Equity Capital Markets Intern](https://jobright.ai/jobs/info/6970ad8c587dfa0bb55e460f?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Jan 21 |
+| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Tax](https://jobright.ai/jobs/info/69546f855bb7de448ef75ac3?utm_campaign=1052&utm_source=git)** | San Mateo, CA | On Site | Jan 21 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Finance Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6970945e333b6343a14d130f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[CIBC](https://www.cibc.com)** | **[Internal Audit Intern-Co-op](https://jobright.ai/jobs/info/6970928851f726477182d335?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[The Ruhlin Company](http://ruhlin.com)** | **[Interns- Finance](https://jobright.ai/jobs/info/69708f64333b6343a14d0bc0?utm_campaign=1052&utm_source=git)** | Wadsworth, OH | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ephrata National Bank](http://epnb.com)** | **[Loan Servicing Intern](https://jobright.ai/jobs/info/696ff7bf0f4e0f657ea44b90?utm_campaign=1052&utm_source=git)** | Brossman Building, Ephrata, PA, US | On Site | Jan 20 |
 | **[CRH](http://crh.com)** | **[Intern :Finance](https://jobright.ai/jobs/info/696ff77f3ed06875134af0e5?utm_campaign=1052&utm_source=git)** | Lunenburg, MA | On Site | Jan 20 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Investment Banking Analyst Intern (Diversified) - Summer 2027](https://jobright.ai/jobs/info/696ff75b3ed06875134af08f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
-| **[XPO](https://www.xpo.com)** | **[Intern](https://jobright.ai/jobs/info/696ff70482817106e9770705?utm_campaign=1052&utm_source=git)** | Charlotte, NC, US, 28277 | On Site | Jan 20 |
-| **[CRH](http://crh.com)** | **[Finance Intern](https://jobright.ai/jobs/info/697086f0587dfa0bb55e20b7?utm_campaign=1052&utm_source=git)** | Absecon, NJ | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

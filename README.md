@@ -57,15 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Finance Intern](https://jobright.ai/jobs/info/6971c756333b6343a14e79d8?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
+| **[Anders](http://anderscpa.com/)** | **[State and Local Tax Intern - Summer 2026](https://jobright.ai/jobs/info/6971c71f333b6343a14e79b4?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
+| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Finance](https://jobright.ai/jobs/info/69498e507d506e3808f4b264?utm_campaign=1052&utm_source=git)** | San Mateo, CA | Hybrid | Jan 21 |
+| **[Desjardins](https://www.desjardins.com)** | **[Internship, Wealth Management Assistant](https://jobright.ai/jobs/info/6971c290587dfa0bb55f8b19?utm_campaign=1052&utm_source=git)** | La Sarre | Hybrid | Jan 21 |
+| ↳ | **[Internship, Wealth Management Assistant](https://jobright.ai/jobs/info/6971c165333b6343a14e77e2?utm_campaign=1052&utm_source=git)** | Val d'Or | Hybrid | Jan 21 |
+| ↳ | **[Internship, Wealth Management Assistant](https://jobright.ai/jobs/info/6971c04d333b6343a14e728e?utm_campaign=1052&utm_source=git)** | Ville-Marie | Hybrid | Jan 21 |
+| ↳ | **[Internship, Wealth Management Assistant](https://jobright.ai/jobs/info/6971c01851f726477184306e?utm_campaign=1052&utm_source=git)** | Rouyn-Noranda | Hybrid | Jan 21 |
+| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Jan 21 |
+| **[CIBC](https://www.cibc.com)** | **[Finance Co-op Intern](https://jobright.ai/jobs/info/6971bbcd333b6343a14e6f2f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Boston, MA](https://jobright.ai/jobs/info/695b7e409f1b381eb273e2c5?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[Frankenmuth Insurance](https://www.fmins.com)** | **[Pricing and Analytics - ARCS Intern](https://jobright.ai/jobs/info/6971b766587dfa0bb55f82ab?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Mortgage Analytics Intern](https://jobright.ai/jobs/info/6971b72e51f7264771842c91?utm_campaign=1052&utm_source=git)** | Ocoee, FL | On Site | Jan 21 |
 | **[Anders](http://anderscpa.com/)** | **[State and Local Tax Intern - Summer 2026](https://jobright.ai/jobs/info/6971b6de51f7264771842c5a?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 21 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (Spokane)](https://jobright.ai/jobs/info/6971b61251f7264771842be2?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | Jan 21 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6971b288587dfa0bb55f7b52?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Accounting Internship (Spring 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/6971b08e51f72647718423e5?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 21 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Finance - AI Intern – Summer 2026](https://jobright.ai/jobs/info/695f78dda1bbea1d9a7a3753?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
 | **[Orvanta](orvanta.us)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6971ab3b51f7264771842080?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Jan 21 |
+| **[Anders](http://anderscpa.com/)** | **[State and Local Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6971c72851f7264771843982?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6971a833587dfa0bb55f5bbf?utm_campaign=1052&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Jan 21 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Internship - Financial Planning and Analysis (FP&A)](https://jobright.ai/jobs/info/6971a21451f726477183f9f0?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jan 21 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Finance & AI Process Automation](https://jobright.ai/jobs/info/69719ff451f726477183f8b1?utm_campaign=1052&utm_source=git)** | Pasadena, California, United States | On Site | Jan 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](http://www.aes.com)** | **[Global Insurance Summer Intern](https://jobright.ai/jobs/info/6971645d51f726477183af53?utm_campaign=1052&utm_source=git)** | US, Indianapolis, IN | Hybrid | Jan 21 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027/ Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/6971643651f726477183af2d?utm_campaign=1052&utm_source=git)** | Braintree, MA | On Site | Jan 21 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/697163c651f726477183aead?utm_campaign=1052&utm_source=git)** | Warren, NJ | Hybrid | Jan 21 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027/ Tax Intern / Chicago (49582)](https://jobright.ai/jobs/info/697163a9333b6343a14dec7d?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Summer 2027](https://jobright.ai/jobs/info/69716247333b6343a14deb28?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Jan 21 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027/ Audit Intern / Philadelphia (49580)](https://jobright.ai/jobs/info/6971621f333b6343a14deb02?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
-| ↳ | **[Winter Internship 2027/ Tax Intern / DC Metro (49588)](https://jobright.ai/jobs/info/6971620e333b6343a14deaf0?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | On Site | Jan 21 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2026)](https://jobright.ai/jobs/info/6971616c587dfa0bb55f03b7?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Jan 21 |
-| **[The AES Corporation](http://www.aes.com)** | **[Global Insurance Summer Intern (Indianapolis)](https://jobright.ai/jobs/info/697160b0587dfa0bb55f0306?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
-| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Fall 2026 Internship/Co-Op (September 2026 Start) – FRM, Life, LTS](https://jobright.ai/jobs/info/69716056587dfa0bb55f02cc?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
-| **[Crusoe](https://crusoe.ai)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/69715fed587dfa0bb55f0257?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jan 21 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2026)](https://jobright.ai/jobs/info/69715f06587dfa0bb55f0161?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

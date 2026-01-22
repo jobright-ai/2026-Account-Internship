@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Finance Intern](https://jobright.ai/jobs/info/6971e95cb707bf728a4b834b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/695b7cdbf1f8465b79f18dcf?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Risk and Market Support Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ec7b47b64f4e963e2bc3?utm_campaign=1052&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 22 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/6971e6d0cda45e69535814cb?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | Jan 22 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Risk and Market Support Summer (STAR) Intern](https://jobright.ai/jobs/info/6971e6ccb707bf728a4b817f?utm_campaign=1052&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 22 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Risk and Market Support Summer (STAR) Intern](https://jobright.ai/jobs/info/6971e6cccda45e69535814c7?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[IQ-EQ](https://iqeq.com)** | **[Intern - Private Wealth](https://jobright.ai/jobs/info/696165bce7ed9a5731ba2c49?utm_campaign=1052&utm_source=git)** | Rapid City, SD | Hybrid | Jan 22 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Finance Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6971e28a47b64f4e963e1530?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2027 (Miami)](https://jobright.ai/jobs/info/6971e0f347b64f4e963e1496?utm_campaign=1052&utm_source=git)** | 100 SE 2nd St., Miami, FL, 33131, US | On Site | Jan 22 |
@@ -78,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Finance Intern](https://jobright.ai/jobs/info/6971c756333b6343a14e79d8?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
 | **[Anders](http://anderscpa.com/)** | **[State and Local Tax Intern - Summer 2026](https://jobright.ai/jobs/info/6971c71f333b6343a14e79b4?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Finance](https://jobright.ai/jobs/info/69498e507d506e3808f4b264?utm_campaign=1052&utm_source=git)** | San Mateo, CA | Hybrid | Jan 21 |
+| **[Nelson Labs](http://www.nelsonlabs.com)** | **[Financial Analyst - Internship](https://jobright.ai/jobs/info/6971e4b647b64f4e963e160b?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, Wealth Management Assistant](https://jobright.ai/jobs/info/6971c290587dfa0bb55f8b19?utm_campaign=1052&utm_source=git)** | La Sarre | Hybrid | Jan 21 |
 | ↳ | **[Internship, Wealth Management Assistant](https://jobright.ai/jobs/info/6971c165333b6343a14e77e2?utm_campaign=1052&utm_source=git)** | Val d'Or | Hybrid | Jan 21 |
 | ↳ | **[Internship, Wealth Management Assistant](https://jobright.ai/jobs/info/6971c04d333b6343a14e728e?utm_campaign=1052&utm_source=git)** | Ville-Marie | Hybrid | Jan 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Post Holdings](http://postholdings.com)** | **[Corporate Accounting Intern - External Reporting](https://jobright.ai/jobs/info/69716d42333b6343a14df4f3?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Data Analysis Summer Intern](https://jobright.ai/jobs/info/6971914c51f726477183ece7?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 21 |
 | ↳ | **[Comptroller - Internal Audit Summer Intern](https://jobright.ai/jobs/info/697189f9333b6343a14e24e7?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Internal Audit Summer Intern](https://jobright.ai/jobs/info/69718c8351f726477183e7fe?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027/ Audit Intern / Florham Park (49597)](https://jobright.ai/jobs/info/69716a25333b6343a14df2c7?utm_campaign=1052&utm_source=git)** | Voorhees, NJ | On Site | Jan 21 |
-| **[Colliers](http://www.colliers.com)** | **[Winter 2026 - Intern, Property Tax Services](https://jobright.ai/jobs/info/697169e751f726477183b4a5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027/ Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/69716961587dfa0bb55f09b7?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | Jan 21 |
-| ↳ | **[Winter Internship 2027/ Tax Intern / Philadelphia (49589)](https://jobright.ai/jobs/info/6971693a51f726477183b3f6?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
-| ↳ | **[Winter Internship 2027/ Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/697168df587dfa0bb55f093c?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Jan 21 |
-| **[Intapp](http://www.intapp.com)** | **[Reporting and Technical Accounting Intern](https://jobright.ai/jobs/info/69716803333b6343a14df0cc?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

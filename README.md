@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Accounting and Finance Intern](https://jobright.ai/jobs/info/6971ffc1cda18b7438645a15?utm_campaign=1052&utm_source=git)** | La Crosse, WI | On Site | Jan 22 |
+| **[Donaldson](http://donaldson.com)** | **[In Service Finance Intern](https://jobright.ai/jobs/info/6971ff99cda18b74386459a7?utm_campaign=1052&utm_source=git)** | Baltimore County, MD | On Site | Jan 22 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Financial Analyst](https://jobright.ai/jobs/info/691cf77122a2cb4b9bd1f45e?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Finance Intern](https://jobright.ai/jobs/info/6971e95cb707bf728a4b834b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/695b7cdbf1f8465b79f18dcf?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Risk and Market Support Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ec7b47b64f4e963e2bc3?utm_campaign=1052&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fifth Third Bank](http://53.com)** | **[Bancorp Intern](https://jobright.ai/jobs/info/697190d5587dfa0bb55f4161?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 21 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Cost controller - co op student](https://jobright.ai/jobs/info/696aed9e350cf438031223a1?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 21 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/695b7d25f1f8465b79f18de0?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jan 21 |
-| **[Post Holdings](http://postholdings.com)** | **[Corporate Accounting Intern - External Reporting](https://jobright.ai/jobs/info/69716d42333b6343a14df4f3?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Data Analysis Summer Intern](https://jobright.ai/jobs/info/6971914c51f726477183ece7?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 21 |
-| ↳ | **[Comptroller - Internal Audit Summer Intern](https://jobright.ai/jobs/info/697189f9333b6343a14e24e7?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

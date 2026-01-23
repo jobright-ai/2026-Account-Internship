@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CCK Strategies](http://www.cckcpa.com)** | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e298da49a885af9a25a61?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Digital Asset Research Associate Internship - 2026](https://jobright.ai/jobs/info/6973872e37785856350d5ca5?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
+| **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6973871737785856350d5c97?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Jan 23 |
+| **[PACCAR](http://www.paccar.com/)** | **[Purchasing Accounting - Summer Internship 2026](https://jobright.ai/jobs/info/693b29255f2c001987ed2796?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Jan 23 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Pricing Analyst](https://jobright.ai/jobs/info/691ae1da45fb6f5ead8ae939?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jan 23 |
+| **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/691e20a93f782d2f1afb15a0?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Jan 23 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/691e25da3f782d2f1afb1a2a?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
+| ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e298da49a885af9a25a61?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/691e118a09cc522e87735a44?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | **[ATKG](https://atkg.com/)** | **[Forensics Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69010073d5259a1b3cff0581?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jan 23 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/691e27f33f782d2f1afb1bf5?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
@@ -82,11 +88,11 @@ For a complete list, click the following sortable link below:
 | **[Doeren Mayhew](http://doeren.com)** | **[2026 Winter Financial Institutions Audit Internship](https://jobright.ai/jobs/info/690112a1d5259a1b3cff10c8?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Jan 23 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/693b8cd5d4054a2bc0256a60?utm_campaign=1052&utm_source=git)** | Towson, MD | Hybrid | Jan 23 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Financial Services) - Central Office](https://jobright.ai/jobs/info/690cc8e8d046ab6061cef949?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Jan 23 |
-| **[TopBuild](http://www.topbuild.com)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/697363bd206da320f49d5d39?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Jan 23 |
-| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Financial Services) - St. Louis](https://jobright.ai/jobs/info/690d03154a1b456627b1c772?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | On Site | Jan 23 |
+| ↳ | **[Administrative Intern (Financial Services) - St. Louis](https://jobright.ai/jobs/info/690d03154a1b456627b1c772?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | On Site | Jan 23 |
 | **[ATI](https://www.atimaterials.com)** | **[Finance (Accounting) Intern- 2026](https://jobright.ai/jobs/info/69103d4d183be660d2677d7d?utm_campaign=1052&utm_source=git)** | Natrona Heights, PA | On Site | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Internal Audit Internship (Summer 2026)](https://jobright.ai/jobs/info/6973630cbc8e722e7b183367?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 | **[State of Arizona](https://doa.az.gov)** | **[INVESTMENT INTERN](https://jobright.ai/jobs/info/69737c33bc8e722e7b1854cf?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
+| **[RWE](https://www.rwe.com)** | **[Accounting Fixed Assets Intern, Summer 2026](https://jobright.ai/jobs/info/693b47805f2c001987ed41df?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Finance & Insurance Intern](https://jobright.ai/jobs/info/693b87d35f2c001987ed774d?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Jan 23 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Finance / Accounting](https://jobright.ai/jobs/info/68ea4bb58369791ef7820bf2?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Jan 23 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/68ce1ab9b2a74e1837edf58c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 23 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Associate Financial Management - Intern](https://jobright.ai/jobs/info/6972d4681d55d64a20533499?utm_campaign=1052&utm_source=git)** | Connecticut | Hybrid | Jan 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Queens Branch - Residential Mortgage Intern](https://jobright.ai/jobs/info/693c6bc149a7695fbd0335da?utm_campaign=1052&utm_source=git)** | Queens, NY | On Site | Jan 22 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Mainframe Summer Intern](https://jobright.ai/jobs/info/6972d3ad0488fd59f7d5cc31?utm_campaign=1052&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Jan 22 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6972d35b0488fd59f7d5cbab?utm_campaign=1052&utm_source=git)** | Exton, PA | Hybrid | Jan 22 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[NAVER Ventures - VC Intern (Summer)](https://jobright.ai/jobs/info/6972f8f3694e99351d14401d?utm_campaign=1052&utm_source=git)** | Redwood City, CA | Hybrid | Jan 22 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/6972d0a11d55d64a20532fa1?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Jan 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6972cfcf0488fd59f7d5c6c1?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6972ecf998522904c697be10?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Fall 2027 - Pittsburgh, PA](https://jobright.ai/jobs/info/6972cba59b83b424830edf61?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 22 |
-| **[The Douglaston Companies](https://www.douglastondevelopment.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6972c7ee4ccbf64f8df2d30f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Financial Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6972c6ef584a1c1ef6fdd927?utm_campaign=1052&utm_source=git)** | Hollister, CA | On Site | Jan 22 |
-| **[Meketa Investment Group](http://www.meketa.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/6972e66698522904c697b9cd?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Jan 22 |
-| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Mortgage Analytics Intern](https://jobright.ai/jobs/info/6972c4c04ccbf64f8df2d036?utm_campaign=1052&utm_source=git)** | Ocoee, FL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

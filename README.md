@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Financial Strategy & Risk Summer Intern](https://jobright.ai/jobs/info/6973204b206da320f49d2730?utm_campaign=1052&utm_source=git)** | Richland, WA | On Site | Jan 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Richmond, VA](https://jobright.ai/jobs/info/69730c15694e99351d145ec0?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | On Site | Jan 22 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Data Analyst Summer Intern – Special Projects](https://jobright.ai/jobs/info/69730bf21790715e866c08e0?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 22 |
 | ↳ | **[Comptroller - Data Analyst Summer Intern – Special Projects](https://jobright.ai/jobs/info/69730989206da320f49d0674?utm_campaign=1052&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Jan 22 |
@@ -116,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6972bf229b83b424830ec680?utm_campaign=1052&utm_source=git)** | Humble, TX | On Site | Jan 22 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - IT Asset & Contract Management Summer Intern](https://jobright.ai/jobs/info/6972e5221d55d64a205348a5?utm_campaign=1052&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Jan 22 |
 | **[Young & Laramore](http://yandl.com)** | **[Financial Operations Analyst Intern](https://jobright.ai/jobs/info/6972e6870488fd59f7d5e457?utm_campaign=1052&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Jan 22 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - IT Asset & Contract Management Summer Intern](https://jobright.ai/jobs/info/6972e58898522904c697b94d?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 22 |
-| ↳ | **[Comptroller - IT Asset & Contract Management Summer Intern](https://jobright.ai/jobs/info/6972e2761d55d64a20534595?utm_campaign=1052&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Jan 22 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - IT Asset & Contract Management Summer Intern](https://jobright.ai/jobs/info/6972e2761d55d64a20534595?utm_campaign=1052&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Jan 22 |
 | ↳ | **[Comptroller - Mainframe Summer Intern](https://jobright.ai/jobs/info/6972e28498522904c697b62a?utm_campaign=1052&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Jan 22 |
+| ↳ | **[Comptroller - IT Asset & Contract Management Summer Intern](https://jobright.ai/jobs/info/6972e58898522904c697b94d?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 22 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/6972d97998522904c697abf7?utm_campaign=1052&utm_source=git)** | US-MI-Livonia | Hybrid | Jan 22 |
 | **[BGBC, a Springline company](https://www.bgbc.com/)** | **[Internship Spring 2028](https://jobright.ai/jobs/info/6972e1180488fd59f7d5dd97?utm_campaign=1052&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Jan 22 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Accounts Payable Intern - Summer](https://jobright.ai/jobs/info/6972d6240488fd59f7d5cf81?utm_campaign=1052&utm_source=git)** | Racine, WI | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Accounting Internship - Tax Operating Divisions](https://jobright.ai/jobs/info/69729c6f584a1c1ef6fda468?utm_campaign=1052&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 22 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Procurement Intern](https://jobright.ai/jobs/info/69729bb2584a1c1ef6fda2b4?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Accounting Internship - Tax Operating Divisions](https://jobright.ai/jobs/info/69729aad9b83b424830e9812?utm_campaign=1052&utm_source=git)** | Northland 2nd Floor4485 Northland Ridge Boulevard | On Site | Jan 22 |
-| **[Columbia Threadneedle Investments](http://www.columbiathreadneedle.com)** | **[Investments Internship – Bank Loans](https://jobright.ai/jobs/info/69729a9a9b83b424830e97dc?utm_campaign=1052&utm_source=git)** | El Segundo, CA | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

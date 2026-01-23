@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Sacramento)](https://jobright.ai/jobs/info/6973cfc9bc8e722e7b189f2e?utm_campaign=1052&utm_source=git)** | Sacramento, CA, US | On Site | Jan 23 |
+| **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/6973cecf37785856350da10d?utm_campaign=1052&utm_source=git)** | Johnston, RI, US | On Site | Jan 23 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Digital Asset Research Associate Internship - 2026](https://jobright.ai/jobs/info/6973ce81206da320f49dc874?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/6973ce2237785856350da047?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, US | On Site | Jan 23 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Financial Operations Internship](https://jobright.ai/jobs/info/6973cc9a206da320f49dc612?utm_campaign=1052&utm_source=git)** | Akron, OH, United States | On Site | Jan 23 |
+| **[The Energy Authority](https://www3.teainc.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/6973cc6cbc8e722e7b189b1c?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
+| **[Transamerica](http://www.transamerica.com)** | **[Accounting Intern - Corporate Tax (Fall 2026, Full-time Hours)](https://jobright.ai/jobs/info/6973c95137785856350d9aac?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | Hybrid | Jan 23 |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern - Commercial Lending](https://jobright.ai/jobs/info/6973c92ebc8e722e7b189728?utm_campaign=1052&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69704147333b6343a14ca9af?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
+| **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Residential & Consumer Lending Management](https://jobright.ai/jobs/info/6973c4e1bc8e722e7b18923a?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Jan 23 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pricing & Underwriting Bachelor's Intern](https://jobright.ai/jobs/info/6973c48dbc8e722e7b1891e7?utm_campaign=1052&utm_source=git)** | Aurora, CO | Hybrid | Jan 23 |
+| **[Santander](https://www.santander.com/)** | **[Risk Analytics Intern](https://jobright.ai/jobs/info/6973c3bb206da320f49dbb66?utm_campaign=1052&utm_source=git)** | Boston | On Site | Jan 23 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6973c22937785856350d945f?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 23 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Invoice to Cash - Finance Intern 2026](https://jobright.ai/jobs/info/6973bf9937785856350d92f8?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Finance](https://jobright.ai/jobs/info/6973bedf206da320f49dba1a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Tax Internship](https://jobright.ai/jobs/info/6973916b37785856350d629b?utm_campaign=1052&utm_source=git)** | Tewksbury, MA | Hybrid | Jan 23 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6973ad16bc8e722e7b187dc0?utm_campaign=1052&utm_source=git)** | Los Altos, CA | Remote | Jan 23 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973b1dc206da320f49db333?utm_campaign=1052&utm_source=git)** | Westfield, NJ | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973aebb206da320f49db1d4?utm_campaign=1052&utm_source=git)** | Northport, AL | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973ae8237785856350d8959?utm_campaign=1052&utm_source=git)** | Hopkinsville, KY | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973aca037785856350d86e4?utm_campaign=1052&utm_source=git)** | Alamogordo, NM | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973aebb37785856350d8972?utm_campaign=1052&utm_source=git)** | Haines City, FL | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973b06abc8e722e7b188856?utm_campaign=1052&utm_source=git)** | Santa Paula, CA | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973aa5bbc8e722e7b18733e?utm_campaign=1052&utm_source=git)** | Port Chester, NY | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973abc5206da320f49dafa6?utm_campaign=1052&utm_source=git)** | New Smyrna Beach, FL | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973b04137785856350d8a18?utm_campaign=1052&utm_source=git)** | Holladay, UT | Remote | Jan 23 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Tax Internship](https://jobright.ai/jobs/info/69738d32206da320f49d891c?utm_campaign=1052&utm_source=git)** | USA MA Tewksbury | On Site | Jan 23 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6973b085206da320f49db29c?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 23 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6973b035206da320f49db271?utm_campaign=1052&utm_source=git)** | Bel Air North, MD | Remote | Jan 23 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6973abd6206da320f49dafb1?utm_campaign=1052&utm_source=git)** | Lakeside, FL | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

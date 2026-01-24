@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745a10bc8e722e7b196e90?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
+| **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745f0a37785856350e7778?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Jan 23 |
+| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745dd8206da320f49e9d39?utm_campaign=1052&utm_source=git)** | Encino, CA | Hybrid | Jan 23 |
+| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745a10bc8e722e7b196e90?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
 | **[Amplifon](http://corporate.amplifon.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/697451e5206da320f49e8cf7?utm_campaign=1052&utm_source=git)** | 8300 Central Park Drive, Waco, TX, 76712, US | On Site | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69744d19bc8e722e7b194581?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973f59f206da320f49df98c?utm_campaign=1052&utm_source=git)** | Jupiter, FL | On Site | Jan 23 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Jan 23 |
 | ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f379206da320f49df36e?utm_campaign=1052&utm_source=git)** | Miami, OH | On Site | Jan 23 |
-| **[Nichols Cauley](https://nicholscauley.com)** | **[Spring 2027 Audit Intern (Peachtree Corners, GA)](https://jobright.ai/jobs/info/69744f0e206da320f49e8b0a?utm_campaign=1052&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 23 |
-| ↳ | **[Spring 2027 Tax Internship (Peachtree Corners, GA)](https://jobright.ai/jobs/info/69744ef1bc8e722e7b19563d?utm_campaign=1052&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 23 |
-| ↳ | **[Spring 2027 Tax Internship (Dublin, GA)](https://jobright.ai/jobs/info/69744e37206da320f49e8a81?utm_campaign=1052&utm_source=git)** | Dublin, GA | On Site | Jan 23 |
+| **[Nichols Cauley](https://nicholscauley.com)** | **[Spring 2027 Tax Internship (Peachtree Corners, GA)](https://jobright.ai/jobs/info/69744ef1bc8e722e7b19563d?utm_campaign=1052&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

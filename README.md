@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Finance Intern](https://jobright.ai/jobs/info/697521ac37785856350f1196?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Jan 24 |
+| **[Summit Contracting, Inc.](http://www.BuildSummit.com)** | **[Finance Summer Internship](https://jobright.ai/jobs/info/69751e14206da320f49f365d?utm_campaign=1052&utm_source=git)** | Platte, SD | Hybrid | Jan 24 |
+| **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751dfabc8e722e7b1a08c2?utm_campaign=1052&utm_source=git)** | US-MA-Westfield | Hybrid | Jan 24 |
+| ↳ | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751a8737785856350f0cde?utm_campaign=1052&utm_source=git)** | Westfield, MA, US | Hybrid | Jan 24 |
+| **[Veltrana Group](veltranagroup.us)** | **[Finance Intern](https://jobright.ai/jobs/info/697516a5206da320f49f3109?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Jan 24 |
 | **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/6975127437785856350f08ab?utm_campaign=1052&utm_source=git)** | Westfield, MA | Hybrid | Jan 24 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Accounting (Winter/Spring)](https://jobright.ai/jobs/info/6974fefbbc8e722e7b19fea1?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Operational Finance](https://jobright.ai/jobs/info/6974e5c8206da320f49f0f47?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jan 24 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Commercial Banking (Diversified Group, Nat'l & Specialty Banking)](https://jobright.ai/jobs/info/6974e1f0206da320f49f0e2b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Aston Carter](https://www.astoncarter.com/en)** | **[Accounting Intern](https://jobright.ai/jobs/info/6974e0db37785856350ee72e?utm_campaign=1052&utm_source=git)** | Blue Bell, PA | On Site | Jan 24 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Accounting Intern](https://jobright.ai/jobs/info/6974dd0c37785856350ee4cb?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Jan 24 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pricing &amp;#038; Underwriting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6974da52bc8e722e7b19dba8?utm_campaign=1052&utm_source=git)** | Aurora, CO | Hybrid | Jan 24 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/696b2b175fc86241853a87b9?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Jan 24 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship - Investor Reporting](https://jobright.ai/jobs/info/68f4714776a51a4307bd1652?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6974408f37785856350e39ab?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Jan 23 |
 | **[Truist](https://www.truist.com)** | **[2027 Wholesale Credit Delivery - Commercial & Specialized Industries - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/69703d1751f7264771826e19?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/69743f6b37785856350e38f2?utm_campaign=1052&utm_source=git)** | Pittston, PA | On Site | Jan 23 |
-| ↳ | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/69743f25206da320f49e6458?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 23 |
-| **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/69743e85206da320f49e63c7?utm_campaign=1052&utm_source=git)** | Southborough MA | On Site | Jan 23 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Accounting Intern - REMOTE](https://jobright.ai/jobs/info/69743b76206da320f49e6159?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Jan 23 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/69743ac7bc8e722e7b193556?utm_campaign=1052&utm_source=git)** | Lehigh, PA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

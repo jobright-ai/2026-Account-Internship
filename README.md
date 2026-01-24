@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Procurement Intern](https://jobright.ai/jobs/info/69752ac1bc8e722e7b1a0d08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Jan 24 |
+| **[Kairos Power](https://kairospower.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/697529e237785856350f1432?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
+| **[Unitarian Universalist Association](https://www.uua.org/)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/6975266e37785856350f12f0?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Finance Intern](https://jobright.ai/jobs/info/697521ac37785856350f1196?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[Summit Contracting, Inc.](http://www.BuildSummit.com)** | **[Finance Summer Internship](https://jobright.ai/jobs/info/69751e14206da320f49f365d?utm_campaign=1052&utm_source=git)** | Platte, SD | Hybrid | Jan 24 |
 | **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751dfabc8e722e7b1a08c2?utm_campaign=1052&utm_source=git)** | US-MA-Westfield | Hybrid | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6974458dbc8e722e7b193d63?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 23 |
 | **[Domtar](http://www.domtar.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/6974453037785856350e3cb5?utm_campaign=1052&utm_source=git)** | Hawesville, KY | On Site | Jan 23 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/69744274206da320f49e6686?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | Jan 23 |
-| **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Sales, Trading & Research (Equity Sales & Trading) - Summer Analyst Program (Internship) - New York, NY](https://jobright.ai/jobs/info/696fffff0f4e0f657ea45ddf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6974408f37785856350e39ab?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Jan 23 |
-| **[Truist](https://www.truist.com)** | **[2027 Wholesale Credit Delivery - Commercial & Specialized Industries - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/69703d1751f7264771826e19?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/69743f6b37785856350e38f2?utm_campaign=1052&utm_source=git)** | Pittston, PA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

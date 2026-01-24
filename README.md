@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Assurance Intern](https://jobright.ai/jobs/info/69754114206da320f49f5891?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69753ae1bc8e722e7b1a2876?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 24 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69753550bc8e722e7b1a2756?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Jan 24 |
 | **[Laniakea Funds](https://www.laniakeafunds.com)** | **[Summer 2026 internship (Trading)](https://jobright.ai/jobs/info/697532e2206da320f49f562c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Procurement Intern](https://jobright.ai/jobs/info/69752ac1bc8e722e7b1a0d08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Jan 24 |
 | **[Kairos Power](https://kairospower.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/697529e237785856350f1432?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Unitarian Universalist Association](https://www.uua.org/)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/6975266e37785856350f12f0?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Finance Intern](https://jobright.ai/jobs/info/697521ac37785856350f1196?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Jan 24 |
 | **[Summit Contracting, Inc.](http://www.BuildSummit.com)** | **[Finance Summer Internship](https://jobright.ai/jobs/info/69751e14206da320f49f365d?utm_campaign=1052&utm_source=git)** | Platte, SD | Hybrid | Jan 24 |
 | **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751dfabc8e722e7b1a08c2?utm_campaign=1052&utm_source=git)** | US-MA-Westfield | Hybrid | Jan 24 |

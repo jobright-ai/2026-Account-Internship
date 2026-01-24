@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/6975127437785856350f08ab?utm_campaign=1052&utm_source=git)** | Westfield, MA | Hybrid | Jan 24 |
+| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Accounting (Winter/Spring)](https://jobright.ai/jobs/info/6974fefbbc8e722e7b19fea1?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | ↳ | **[Intern, Accounting (Year-Round)](https://jobright.ai/jobs/info/6974fea9bc8e722e7b19fe8b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/6974ec9bbc8e722e7b19e384?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
@@ -106,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/691fdc4fa49a885af9a34d18?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Jan 24 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Accounting & Finance Intern](https://jobright.ai/jobs/info/691ac3b445fb6f5ead8ad8c2?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Accounting/ Finance](https://jobright.ai/jobs/info/693ce31950bbaf7650500a11?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
+| **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern (In Masters Program)](https://jobright.ai/jobs/info/69588529aa05c26e7ab26858?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 24 |
 | **[Americo Financial Life and Annuity](http://americo.com)** | **[Summer 2026 Actuarial Internship](https://jobright.ai/jobs/info/68cd2c0bb2a74e1837ed3942?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 24 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking](https://jobright.ai/jobs/info/6957ddfdaa05c26e7ab1d0b0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | ↳ | **[2027 Summer Internship, Early Careers - Investment Banking](https://jobright.ai/jobs/info/6957e3aff1f8465b79ee88ca?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/69743e85206da320f49e63c7?utm_campaign=1052&utm_source=git)** | Southborough MA | On Site | Jan 23 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Accounting Intern - REMOTE](https://jobright.ai/jobs/info/69743b76206da320f49e6159?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Jan 23 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/69743ac7bc8e722e7b193556?utm_campaign=1052&utm_source=git)** | Lehigh, PA | On Site | Jan 23 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Audit Intern, German Practice / New York Fall 2026](https://jobright.ai/jobs/info/6974534dbc8e722e7b1961a6?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Investment - Intern](https://jobright.ai/jobs/info/697434e8bc8e722e7b1929e5?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 23 |
-| ↳ | **[Investment - Intern](https://jobright.ai/jobs/info/6974344237785856350e2d7a?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

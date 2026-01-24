@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/69748139206da320f49eb99e?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Jan 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/6974755337785856350e8cda?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Endowment Office Internship, Office of Financial Services (Job ID 2026-3801)](https://jobright.ai/jobs/info/69746e1b206da320f49eac8a?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745f0a37785856350e7778?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Jan 23 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Domtar](http://www.domtar.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/6974453037785856350e3cb5?utm_campaign=1052&utm_source=git)** | Hawesville, KY | On Site | Jan 23 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/69744274206da320f49e6686?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | Jan 23 |
 | **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Sales, Trading & Research (Equity Sales & Trading) - Summer Analyst Program (Internship) - New York, NY](https://jobright.ai/jobs/info/696fffff0f4e0f657ea45ddf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Todd](https://toddagriscience.com)** | **[Finance Analyst Intern (Summer '26)](https://jobright.ai/jobs/info/69744090206da320f49e6545?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6974408f37785856350e39ab?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Jan 23 |
 | **[Truist](https://www.truist.com)** | **[2027 Wholesale Credit Delivery - Commercial & Specialized Industries - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/69703d1751f7264771826e19?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/69743f6b37785856350e38f2?utm_campaign=1052&utm_source=git)** | Pittston, PA | On Site | Jan 23 |

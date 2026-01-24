@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern / Latham, NY](https://jobright.ai/jobs/info/6974a35d37785856350eb97c?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Jan 24 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6974a24c206da320f49edf93?utm_campaign=1052&utm_source=git)** | Moon, PA | On Site | Jan 24 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Tax Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/691fd3d9a49a885af9a3474e?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 24 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern – Procurement Cost Analyst](https://jobright.ai/jobs/info/68e6acb01852e62f0081d360?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Jan 24 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Madison)](https://jobright.ai/jobs/info/68ae1119daf1431824ca0779?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Jan 24 |
+| **[Culligan International](http://www.culligan.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6958375f9f1b381eb27118d8?utm_campaign=1052&utm_source=git)** | Libertyville, IL | On Site | Jan 24 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking - Internship - Broking- 2026](https://jobright.ai/jobs/info/693cf64549a7695fbd03b42c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
+| **[AWM Global Advisors](https://www.awmga.com)** | **[Investment Associate](https://jobright.ai/jobs/info/69749ca137785856350eb6e2?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Jan 24 |
 | **[Veltrana Group](veltranagroup.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69748eeb37785856350eabec?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | Jan 24 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/69748139206da320f49eb99e?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Jan 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/6974755337785856350e8cda?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Jan 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Portland)](https://jobright.ai/jobs/info/6973fe6137785856350de6af?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Jan 23 |
 | **[CME Group](http://www.cmegroup.com)** | **[Accounting Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/6973fdca37785856350de64f?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/6973fcad206da320f49e0cfd?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 23 |
-| **[CME Group](http://www.cmegroup.com)** | **[Accounting Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/6973fbb2bc8e722e7b18e086?utm_campaign=1052&utm_source=git)** | Chicago - 20 S. Wacker | Hybrid | Jan 23 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentives Group - Winter 2027 (Grand Rapids)](https://jobright.ai/jobs/info/6973f9a2206da320f49e05c8?utm_campaign=1052&utm_source=git)** | 11 200 Ottawa Ave NW, Grand Rapids, MI, 49503, US | On Site | Jan 23 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6973f906bc8e722e7b18df5f?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jan 23 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentives Group - Winter 2027 (Grand Rapids)](https://jobright.ai/jobs/info/69741864bc8e722e7b190dbc?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 23 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / New Jersey](https://jobright.ai/jobs/info/69741435206da320f49e1ffc?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | On Site | Jan 23 |
-| ↳ | **[Intern Tax Summer 2027 / Long Island](https://jobright.ai/jobs/info/69741700bc8e722e7b18f605?utm_campaign=1052&utm_source=git)** | Woodbury, NY | On Site | Jan 23 |
-| ↳ | **[Intern Tax Winter 2027 / New Jersey](https://jobright.ai/jobs/info/6974187f37785856350e1320?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | On Site | Jan 23 |
-| **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973f59f206da320f49df98c?utm_campaign=1052&utm_source=git)** | Jupiter, FL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

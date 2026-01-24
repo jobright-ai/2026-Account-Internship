@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/6974755337785856350e8cda?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Jan 23 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Endowment Office Internship, Office of Financial Services (Job ID 2026-3801)](https://jobright.ai/jobs/info/69746e1b206da320f49eac8a?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745f0a37785856350e7778?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Jan 23 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745dd8206da320f49e9d39?utm_campaign=1052&utm_source=git)** | Encino, CA | Hybrid | Jan 23 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745a10bc8e722e7b196e90?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
+| **[Oshkosh AeroTech](https://oshkoshaerotech.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6974734fbc8e722e7b198611?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 23 |
 | **[Amplifon](http://corporate.amplifon.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/697451e5206da320f49e8cf7?utm_campaign=1052&utm_source=git)** | 8300 Central Park Drive, Waco, TX, 76712, US | On Site | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69744d19bc8e722e7b194581?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
@@ -109,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69743a3abc8e722e7b193420?utm_campaign=1052&utm_source=git)** | 6060 Poplar Ave, Memphis, TN 38119, USA | On Site | Jan 23 |
 | **[MWH](https://mwhconstructors.com)** | **[Finance Intern](https://jobright.ai/jobs/info/697415aebc8e722e7b18f557?utm_campaign=1052&utm_source=git)** | Broomfield, CO | On Site | Jan 23 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Procurement Intern](https://jobright.ai/jobs/info/697414bc206da320f49e2049?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
-| **[Unifi Asset Management LP](http://www.unifiam.com)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/6974148b37785856350df865?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[April Housing](https://www.aprilhousing.com/)** | **[Investments Intern](https://jobright.ai/jobs/info/697413a8bc8e722e7b18f3e2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/697413a337785856350df7a6?utm_campaign=1052&utm_source=git)** | Johnston, RI | On Site | Jan 23 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Intern, State Street Dedicated Supervisory Team](https://jobright.ai/jobs/info/69743d8d37785856350e372e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Tax Winter 2027 / New Jersey](https://jobright.ai/jobs/info/6974187f37785856350e1320?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | On Site | Jan 23 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973f59f206da320f49df98c?utm_campaign=1052&utm_source=git)** | Jupiter, FL | On Site | Jan 23 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Jan 23 |
-| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f379206da320f49df36e?utm_campaign=1052&utm_source=git)** | Miami, OH | On Site | Jan 23 |
-| **[Nichols Cauley](https://nicholscauley.com)** | **[Spring 2027 Tax Internship (Peachtree Corners, GA)](https://jobright.ai/jobs/info/69744ef1bc8e722e7b19563d?utm_campaign=1052&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

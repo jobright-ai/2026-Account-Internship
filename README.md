@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69748eeb37785856350eabec?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | Jan 24 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/69748139206da320f49eb99e?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Jan 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/6974755337785856350e8cda?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Endowment Office Internship, Office of Financial Services (Job ID 2026-3801)](https://jobright.ai/jobs/info/69746e1b206da320f49eac8a?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Tax Summer 2027 / Long Island](https://jobright.ai/jobs/info/69741700bc8e722e7b18f605?utm_campaign=1052&utm_source=git)** | Woodbury, NY | On Site | Jan 23 |
 | ↳ | **[Intern Tax Winter 2027 / New Jersey](https://jobright.ai/jobs/info/6974187f37785856350e1320?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | On Site | Jan 23 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/6973f59f206da320f49df98c?utm_campaign=1052&utm_source=git)** | Jupiter, FL | On Site | Jan 23 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

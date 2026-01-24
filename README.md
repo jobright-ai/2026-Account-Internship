@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6974e887206da320f49f1010?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 24 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/6974e6e8bc8e722e7b19e1df?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Jan 24 |
+| ↳ | **[Intern - Operational Finance](https://jobright.ai/jobs/info/6974e5c8206da320f49f0f47?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jan 24 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Commercial Banking (Diversified Group, Nat'l & Specialty Banking)](https://jobright.ai/jobs/info/6974e1f0206da320f49f0e2b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[Aston Carter](https://www.astoncarter.com/en)** | **[Accounting Intern](https://jobright.ai/jobs/info/6974e0db37785856350ee72e?utm_campaign=1052&utm_source=git)** | Blue Bell, PA | On Site | Jan 24 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Accounting Intern](https://jobright.ai/jobs/info/6974dd0c37785856350ee4cb?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Jan 24 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pricing &amp;#038; Underwriting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6974da52bc8e722e7b19dba8?utm_campaign=1052&utm_source=git)** | Aurora, CO | Hybrid | Jan 24 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/696b2b175fc86241853a87b9?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Jan 24 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship - Investor Reporting](https://jobright.ai/jobs/info/68f4714776a51a4307bd1652?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Jan 24 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/69591e6cf1f8465b79efb026?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | Jan 24 |
@@ -66,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Corporate Banking](https://jobright.ai/jobs/info/6957e0fbaa05c26e7ab1d16a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[MELE Associates, Inc.](http://meleassociates.com)** | **[Finance and Accounting Summer Intern](https://jobright.ai/jobs/info/69582659f1f8465b79eebc4e?utm_campaign=1052&utm_source=git)** | Rockville, MD | Hybrid | Jan 24 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (OKC/Norman)](https://jobright.ai/jobs/info/6958273b9f1b381eb2710700?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Jan 24 |
+| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Credit Intern](https://jobright.ai/jobs/info/693cd66849a7695fbd0389d0?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/693c8e4e50bbaf76504fc49f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking - CA (California)](https://jobright.ai/jobs/info/6957e7db9f1b381eb270d3c3?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | ↳ | **[2027 Summer Internship, Early Careers - Corporate Banking (Houston)](https://jobright.ai/jobs/info/6957e27ef1f8465b79ee8882?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 24 |
@@ -83,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern ( Concentration in IT)](https://jobright.ai/jobs/info/6958ba12aa05c26e7ab29b80?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 24 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Taxation Intern](https://jobright.ai/jobs/info/691ac3c3bcdbf3560c9da459?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Jan 24 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/6962363e2cbf4e44756c2e3b?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Jan 24 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2027 Tax Intern - Virginia Beach](https://jobright.ai/jobs/info/695856d6aa05c26e7ab23a73?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Jan 24 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/693c8ad3aa598a08c3ed5e82?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Jan 24 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Credit](https://jobright.ai/jobs/info/695836adf1f8465b79eed31c?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Jan 24 |
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern (Masters Program)](https://jobright.ai/jobs/info/69588529aa05c26e7ab26858?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Investment - Intern](https://jobright.ai/jobs/info/6974344237785856350e2d7a?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 23 |
 | **[Fall Creek®](http://www.fallcreeknursery.com)** | **[Finance Graduate Intern](https://jobright.ai/jobs/info/6974332037785856350e2cc7?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Senior Financial Analyst, PSET FP&A](https://jobright.ai/jobs/info/697454e8206da320f49e8eda?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
-| **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69741cda37785856350e15be?utm_campaign=1052&utm_source=git)** | Palo Alto, California | On Site | Jan 23 |
-| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Tax Technology](https://jobright.ai/jobs/info/69744ef9bc8e722e7b19569d?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Jan 23 |
-| **[Brookfield](https://bam.brookfield.com)** | **[Intern, Asset Allocation & Quantitative Strategy](https://jobright.ai/jobs/info/69742de3206da320f49e503c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69742c6f37785856350e264e?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
-| **[Viant Technology](http://viantinc.com/)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69742a62bc8e722e7b192015?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/697444d3206da320f49e6822?utm_campaign=1052&utm_source=git)** | Pittston, PA | On Site | Jan 23 |
-| ↳ | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/69744350206da320f49e673d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 23 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/697426d3206da320f49e4929?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 23 |
-| **[Wellpath](https://wellpathcare.com)** | **[Finance & Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/697426aebc8e722e7b191c3c?utm_campaign=1052&utm_source=git)** | Franklin, TN, US | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

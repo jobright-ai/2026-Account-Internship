@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/6975a13437785856350f8b29?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor Intern - Tampa](https://jobright.ai/jobs/info/69758b2e37785856350f60a2?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
 | **[Laniakea Funds](https://www.laniakeafunds.com)** | **[Summer 2026 internship (Trading)](https://jobright.ai/jobs/info/697589e937785856350f603d?utm_campaign=1052&utm_source=git)** | New York County, NY | On Site | Jan 24 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6975775c206da320f49f7cd8?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Jan 24 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Western Region P&C](https://jobright.ai/jobs/info/695859899f1b381eb2713cca?utm_campaign=1052&utm_source=git)** | Richardson, TX | Remote | Jan 24 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Finance Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585a10aa05c26e7ab23b0b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern / Latham, NY](https://jobright.ai/jobs/info/6974a35d37785856350eb97c?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Jan 24 |
-| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6974a24c206da320f49edf93?utm_campaign=1052&utm_source=git)** | Moon, PA | On Site | Jan 24 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Tax Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/691fd3d9a49a885af9a3474e?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Jan 24 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern – Procurement Cost Analyst](https://jobright.ai/jobs/info/68e6acb01852e62f0081d360?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Jan 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Madison)](https://jobright.ai/jobs/info/68ae1119daf1431824ca0779?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Jan 24 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745dd8206da320f49e9d39?utm_campaign=1052&utm_source=git)** | Encino, CA | Hybrid | Jan 23 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745a10bc8e722e7b196e90?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
 | **[Oshkosh AeroTech](https://oshkoshaerotech.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6974734fbc8e722e7b198611?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 23 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Underwriting Internship Program - Global Risk Solutions - Summer 2026](https://jobright.ai/jobs/info/6975ab8b206da320f49fb6d9?utm_campaign=1052&utm_source=git)** | Weatogue, CT | On Site | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69744d19bc8e722e7b194581?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Finance Excellence Program Internship, Summer 2026](https://jobright.ai/jobs/info/69744d0f37785856350e49b9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 23 |
-| **[Amica Insurance](http://www.amica.com)** | **[Equity Investments Intern](https://jobright.ai/jobs/info/69744645bc8e722e7b193dd3?utm_campaign=1052&utm_source=git)** | Rhode Island, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

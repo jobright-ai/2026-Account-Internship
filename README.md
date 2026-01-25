@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Future Finance Leaders Program - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/695a2e20aa05c26e7ab3c3ea?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Columbia, SC](https://jobright.ai/jobs/info/6870da30a5ae807a59cfc4f0?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Jan 25 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Corporate Real Estate (Summer 2026)](https://jobright.ai/jobs/info/68e7e54dcc49a84b7e0fefe5?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Jan 25 |
+| **[Bunge](http://www.bunge.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/691abc0ebcdbf3560c9da336?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | On Site | Jan 25 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Invoice](https://jobright.ai/jobs/info/6920c3ea00c9ee50eaec7bc0?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Jan 25 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Finance MBA Leadership Rotational Development Program](https://jobright.ai/jobs/info/6975ff8f206da320f49fea0d?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Jan 25 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Capital Markets](https://jobright.ai/jobs/info/68cd41a7b2a74e1837ed481b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 25 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/6975afcf206da320f49fbcef?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/6975a13437785856350f8b29?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor Intern - Tampa](https://jobright.ai/jobs/info/69758b2e37785856350f60a2?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
-| **[Laniakea Funds](https://www.laniakeafunds.com)** | **[Summer 2026 internship (Trading)](https://jobright.ai/jobs/info/697589e937785856350f603d?utm_campaign=1052&utm_source=git)** | New York County, NY | On Site | Jan 24 |
 | **[MiTek](http://www.mii.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6975de33bc8e722e7b1ab726?utm_campaign=1052&utm_source=git)** | Chesterfield, MO, USA | Hybrid | Jan 24 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6975775c206da320f49f7cd8?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6975740837785856350f5579?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
@@ -104,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/6975cbef37785856350fa4fb?utm_campaign=1052&utm_source=git)** | Braintree, MA 02184 | Hybrid | Jan 24 |
 | ↳ | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/6975cdee206da320f49fcaf2?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122 | On Site | Jan 24 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/6975cea2bc8e722e7b1a9b83?utm_campaign=1052&utm_source=git)** | San Diego, CA 92108 | Hybrid | Jan 24 |
-| ↳ | **[Winter Internship 2027 / Audit Intern / San Diego (49581)](https://jobright.ai/jobs/info/6975cd2537785856350fa550?utm_campaign=1052&utm_source=git)** | San Diego, CA 92108 | On Site | Jan 24 |
 | ↳ | **[Winter Internship 2027 / Audit Intern / Philadelphia (49580)](https://jobright.ai/jobs/info/6975cef4206da320f49fcb37?utm_campaign=1052&utm_source=git)** | Philadelphia, PA 19103 | On Site | Jan 24 |
+| ↳ | **[Winter Internship 2027 / Audit Intern / San Diego (49581)](https://jobright.ai/jobs/info/6975cd2537785856350fa550?utm_campaign=1052&utm_source=git)** | San Diego, CA 92108 | On Site | Jan 24 |
 | **[Summit Contracting, Inc.](http://www.BuildSummit.com)** | **[Finance Summer Internship](https://jobright.ai/jobs/info/69751e14206da320f49f365d?utm_campaign=1052&utm_source=git)** | Platte, SD | Hybrid | Jan 24 |
 | **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751dfabc8e722e7b1a08c2?utm_campaign=1052&utm_source=git)** | US-MA-Westfield | Hybrid | Jan 24 |
 | ↳ | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751a8737785856350f0cde?utm_campaign=1052&utm_source=git)** | Westfield, MA, US | Hybrid | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Tax](https://jobright.ai/jobs/info/691e266f3f782d2f1afb1a97?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Western Region P&C](https://jobright.ai/jobs/info/69585129aa05c26e7ab237de?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Remote | Jan 24 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/691fdc4fa49a885af9a34d18?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Jan 24 |
-| **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Accounting & Finance Intern](https://jobright.ai/jobs/info/691ac3b445fb6f5ead8ad8c2?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Accounting/ Finance](https://jobright.ai/jobs/info/693ce31950bbaf7650500a11?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
-| **[Americo Financial Life and Annuity](http://americo.com)** | **[Summer 2026 Actuarial Internship](https://jobright.ai/jobs/info/68cd2c0bb2a74e1837ed3942?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/69762bb8bc8e722e7b1add96?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
-| ↳ | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/69762bb8bc8e722e7b1add95?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
+| **[Just Born, Inc.](http://www.justborn.com)** | **[Accounting & Financial Controls Intern - Summer](https://jobright.ai/jobs/info/69762db537785856350feae0?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 25 |
+| ↳ | **[Financial Planning & Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/69762d9d37785856350fead8?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 25 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Intern](https://jobright.ai/jobs/info/69762d7637785856350fead1?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Jan 25 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/69762bb8bc8e722e7b1add95?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
+| ↳ | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/69762bb8bc8e722e7b1add96?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Intern](https://jobright.ai/jobs/info/69762bac206da320f4a00e8c?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Jan 25 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Actuary Intern](https://jobright.ai/jobs/info/690d7b754a1b456627b21ba5?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Jan 25 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/693dd73249a7695fbd044bb8?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jan 25 |
@@ -109,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6975740837785856350f5579?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / San Francisco](https://jobright.ai/jobs/info/69754df7206da320f49f5980?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[Coach USA](http://www.coachusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69754d76bc8e722e7b1a2a34?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Jan 24 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Assurance Intern](https://jobright.ai/jobs/info/69754114206da320f49f5891?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69753ae1bc8e722e7b1a2876?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 24 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Procurement Intern](https://jobright.ai/jobs/info/69752ac1bc8e722e7b1a0d08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/69580a87f1f8465b79eeae4c?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, Corporate FP&A](https://jobright.ai/jobs/info/6958bb21f1f8465b79ef5431?utm_campaign=1052&utm_source=git)** | Mountain View, CA | On Site | Jan 24 |
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern ( Concentration in IT)](https://jobright.ai/jobs/info/6958ba12aa05c26e7ab29b80?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 24 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Taxation Intern](https://jobright.ai/jobs/info/691ac3c3bcdbf3560c9da459?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Jan 24 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/6962363e2cbf4e44756c2e3b?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

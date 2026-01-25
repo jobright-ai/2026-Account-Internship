@@ -72,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Summit Contracting, Inc.](http://www.BuildSummit.com)** | **[Finance Summer Internship](https://jobright.ai/jobs/info/69751e14206da320f49f365d?utm_campaign=1052&utm_source=git)** | Platte, SD | Hybrid | Jan 24 |
 | **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751dfabc8e722e7b1a08c2?utm_campaign=1052&utm_source=git)** | US-MA-Westfield | Hybrid | Jan 24 |
 | ↳ | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751a8737785856350f0cde?utm_campaign=1052&utm_source=git)** | Westfield, MA, US | Hybrid | Jan 24 |
-| **[Veltrana Group](veltranagroup.us)** | **[Finance Intern](https://jobright.ai/jobs/info/697516a5206da320f49f3109?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Jan 24 |
-| **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/6975127437785856350f08ab?utm_campaign=1052&utm_source=git)** | Westfield, MA | Hybrid | Jan 24 |
+| ↳ | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/6975127437785856350f08ab?utm_campaign=1052&utm_source=git)** | Westfield, MA | Hybrid | Jan 24 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Accounting (Winter/Spring)](https://jobright.ai/jobs/info/6974fefbbc8e722e7b19fea1?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | ↳ | **[Intern, Accounting (Year-Round)](https://jobright.ai/jobs/info/6974fea9bc8e722e7b19fe8b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
@@ -82,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Operational Finance](https://jobright.ai/jobs/info/6974e5c8206da320f49f0f47?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jan 24 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Commercial Banking (Diversified Group, Nat'l & Specialty Banking)](https://jobright.ai/jobs/info/6974e1f0206da320f49f0e2b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Aston Carter](https://www.astoncarter.com/en)** | **[Accounting Intern](https://jobright.ai/jobs/info/6974e0db37785856350ee72e?utm_campaign=1052&utm_source=git)** | Blue Bell, PA | On Site | Jan 24 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pricing &amp;#038; Underwriting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6974da52bc8e722e7b19dba8?utm_campaign=1052&utm_source=git)** | Aurora, CO | Hybrid | Jan 24 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/696b2b175fc86241853a87b9?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Jan 24 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship - Investor Reporting](https://jobright.ai/jobs/info/68f4714776a51a4307bd1652?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Jan 24 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/69591e6cf1f8465b79efb026?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | Jan 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh AeroTech](https://oshkoshaerotech.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6974734fbc8e722e7b198611?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69744d19bc8e722e7b194581?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
+| **[Brightly Software](https://www.brightlysoftware.com)** | **[Finance Excellence Program Internship, Summer 2026](https://jobright.ai/jobs/info/69744d0f37785856350e49b9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 23 |
+| **[Amica Insurance](http://www.amica.com)** | **[Equity Investments Intern](https://jobright.ai/jobs/info/69744645bc8e722e7b193dd3?utm_campaign=1052&utm_source=git)** | Rhode Island, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6975775c206da320f49f7cd8?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6975740837785856350f5579?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / San Francisco](https://jobright.ai/jobs/info/69754df7206da320f49f5980?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[Coach USA](http://www.coachusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69754d76bc8e722e7b1a2a34?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amplifon](http://corporate.amplifon.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/697451e5206da320f49e8cf7?utm_campaign=1052&utm_source=git)** | 8300 Central Park Drive, Waco, TX, 76712, US | On Site | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69744d19bc8e722e7b194581?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
-| **[Brightly Software](https://www.brightlysoftware.com)** | **[Finance Excellence Program Internship, Summer 2026](https://jobright.ai/jobs/info/69744d0f37785856350e49b9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor Intern - Tampa](https://jobright.ai/jobs/info/69758b2e37785856350f60a2?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
+| **[Laniakea Funds](https://www.laniakeafunds.com)** | **[Summer 2026 internship (Trading)](https://jobright.ai/jobs/info/697589e937785856350f603d?utm_campaign=1052&utm_source=git)** | New York County, NY | On Site | Jan 24 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6975775c206da320f49f7cd8?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6975740837785856350f5579?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / San Francisco](https://jobright.ai/jobs/info/69754df7206da320f49f5980?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[Coach USA](http://www.coachusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69754d76bc8e722e7b1a2a34?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Jan 24 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Assurance Intern](https://jobright.ai/jobs/info/69754114206da320f49f5891?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69753ae1bc8e722e7b1a2876?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 24 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69753550bc8e722e7b1a2756?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Jan 24 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Procurement Intern](https://jobright.ai/jobs/info/69752ac1bc8e722e7b1a0d08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Jan 24 |
 | **[Kairos Power](https://kairospower.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/697529e237785856350f1432?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745dd8206da320f49e9d39?utm_campaign=1052&utm_source=git)** | Encino, CA | Hybrid | Jan 23 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745a10bc8e722e7b196e90?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
 | **[Oshkosh AeroTech](https://oshkoshaerotech.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6974734fbc8e722e7b198611?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 23 |
-| **[Amplifon](http://corporate.amplifon.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/697451e5206da320f49e8cf7?utm_campaign=1052&utm_source=git)** | 8300 Central Park Drive, Waco, TX, 76712, US | On Site | Jan 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69744d19bc8e722e7b194581?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

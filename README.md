@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[EVgo](http://www.evgo.com)** | **[Intern, Accounting (Winter/Spring)](https://jobright.ai/jobs/info/6974fefbbc8e722e7b19fea1?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | ↳ | **[Intern, Accounting (Year-Round)](https://jobright.ai/jobs/info/6974fea9bc8e722e7b19fe8b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99958 Senior Accounts Payable Tech](https://jobright.ai/jobs/info/6974ec9bbc8e722e7b19e384?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/6974e887206da320f49f1010?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 24 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/6974e6e8bc8e722e7b19e1df?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Jan 24 |
 | ↳ | **[Intern - Operational Finance](https://jobright.ai/jobs/info/6974e5c8206da320f49f0f47?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jan 24 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Commercial Banking (Diversified Group, Nat'l & Specialty Banking)](https://jobright.ai/jobs/info/6974e1f0206da320f49f0e2b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69744d19bc8e722e7b194581?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Finance Excellence Program Internship, Summer 2026](https://jobright.ai/jobs/info/69744d0f37785856350e49b9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 23 |
+| **[Amica Insurance](http://www.amica.com)** | **[Equity Investments Intern](https://jobright.ai/jobs/info/69744645bc8e722e7b193dd3?utm_campaign=1052&utm_source=git)** | Rhode Island, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

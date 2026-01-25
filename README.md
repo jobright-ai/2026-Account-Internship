@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6975c783206da320f49fc7b1?utm_campaign=1052&utm_source=git)** | VA, Manassas | On Site | Jan 24 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Queens Branch - Residential Mortgage Intern](https://jobright.ai/jobs/info/693c6bc149a7695fbd0335da?utm_campaign=1052&utm_source=git)** | Queens, NY | On Site | Jan 24 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6975c20037785856350fa018?utm_campaign=1052&utm_source=git)** | US-VA-Manassas | On Site | Jan 24 |
+| ↳ | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6975c1c6bc8e722e7b1a9586?utm_campaign=1052&utm_source=git)** | Manassas, VA, US | On Site | Jan 24 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/6975b8ca206da320f49fc159?utm_campaign=1052&utm_source=git)** | Canada | Remote | Jan 24 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/6975b00e37785856350f9825?utm_campaign=1052&utm_source=git)** | Canada | Remote | Jan 24 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/6975afcf206da320f49fbcef?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
@@ -145,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking - Internship - Broking- 2026](https://jobright.ai/jobs/info/693cf64549a7695fbd03b42c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[Culligan International](http://www.culligan.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69583d749f1b381eb2712b1a?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
 | **[AWM Global Advisors](https://www.awmga.com)** | **[Investment Associate](https://jobright.ai/jobs/info/69749ca137785856350eb6e2?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Jan 24 |
-| **[Veltrana Group](veltranagroup.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69748eeb37785856350eabec?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | Jan 24 |
 | **[AHRC Nassau](https://www.ahrc.org)** | **[College Intern (Accounting & Finance)](https://jobright.ai/jobs/info/6974ac8a37785856350ebb9c?utm_campaign=1052&utm_source=git)** | Glen Head, NY | On Site | Jan 24 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/69748139206da320f49eb99e?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Jan 24 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/6974755337785856350e8cda?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745dd8206da320f49e9d39?utm_campaign=1052&utm_source=git)** | Encino, CA | Hybrid | Jan 23 |
 | **[ITT Inc.](http://www.itt.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/6975b30a37785856350f9980?utm_campaign=1052&utm_source=git)** | Santa Clarita, CA | On Site | Jan 23 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69745a10bc8e722e7b196e90?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
-| **[Oshkosh AeroTech](https://oshkoshaerotech.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6974734fbc8e722e7b198611?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 23 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Underwriting Internship Program - Global Risk Solutions - Summer 2026](https://jobright.ai/jobs/info/6975ab8b206da320f49fb6d9?utm_campaign=1052&utm_source=git)** | Weatogue, CT | On Site | Jan 23 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

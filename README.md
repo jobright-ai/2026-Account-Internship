@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Internship – Holmdel, NJ](https://jobright.ai/jobs/info/695c4b26f1f8465b79f26149?utm_campaign=1052&utm_source=git)** | Holmdel, NJ | Hybrid | Jan 26 |
+| ↳ | **[Tax Summer 2027 Internship - Holmdel, NJ](https://jobright.ai/jobs/info/695c48acf1f8465b79f25b4c?utm_campaign=1052&utm_source=git)** | Holmdel, NJ | Hybrid | Jan 26 |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Bookkeeper Intern](https://jobright.ai/jobs/info/6977ae6b88e2b47213bb9c5c?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Jan 26 |
+| **[AAR](http://aarcorp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6977ac28fdeb8243a27a90c8?utm_campaign=1052&utm_source=git)** | Wood Dale, IL | On Site | Jan 26 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Internship – White Plains, NY](https://jobright.ai/jobs/info/695c45e822c9dc0d3d54262c?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Jan 26 |
+| **[AAR](http://aarcorp.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6977a95d52f3c27ec643bf68?utm_campaign=1052&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Jan 26 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a89788e2b47213bb9384?utm_campaign=1052&utm_source=git)** | Forney, TX | Remote | Jan 26 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Internship – Long Island, NY](https://jobright.ai/jobs/info/695c49e322c9dc0d3d5430c3?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a7d052f3c27ec643bcbc?utm_campaign=1052&utm_source=git)** | Enterprise, AL | Remote | Jan 26 |
@@ -110,10 +116,23 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977909e88e2b47213bb77ab?utm_campaign=1052&utm_source=git)** | Algonquin, IL | Remote | Jan 26 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977901588e2b47213bb76f7?utm_campaign=1052&utm_source=git)** | McDonough, GA | Remote | Jan 26 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Advisor Development Program](https://jobright.ai/jobs/info/6977900b88e2b47213bb76ea?utm_campaign=1052&utm_source=git)** | La Crosse-Onalaska Area | On Site | Jan 26 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977aeda52f3c27ec643c8f1?utm_campaign=1052&utm_source=git)** | Allen Park, MI | Remote | Jan 26 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Bookkeeper Intern](https://jobright.ai/jobs/info/69778d91fdeb8243a27a6849?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Jan 26 |
 | **[Focus Partners Wealth](http://thecolonygroup.com)** | **[Advisory Team Associate Intern](https://jobright.ai/jobs/info/69778d90fdeb8243a27a6847?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977ac7088e2b47213bb98f8?utm_campaign=1052&utm_source=git)** | Citrus Park, FL | Remote | Jan 26 |
 | **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Business Management Bookkeeper Intern](https://jobright.ai/jobs/info/69778cfafdeb8243a27a67a3?utm_campaign=1052&utm_source=git)** | Century City, CA | Hybrid | Jan 26 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a8d5fdeb8243a27a8b1d?utm_campaign=1052&utm_source=git)** | Glen Ellyn, IL | Remote | Jan 26 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977af3488e2b47213bb9dad?utm_campaign=1052&utm_source=git)** | Fortuna Foothills, AZ | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977aadbfdeb8243a27a8e8f?utm_campaign=1052&utm_source=git)** | Bergenfield, NJ | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a8d5fdeb8243a27a8b1d?utm_campaign=1052&utm_source=git)** | Glen Ellyn, IL | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977ac5352f3c27ec643c480?utm_campaign=1052&utm_source=git)** | Rockledge, FL | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977ad54fdeb8243a27a92a6?utm_campaign=1052&utm_source=git)** | Aberdeen, SD | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977ad3952f3c27ec643c630?utm_campaign=1052&utm_source=git)** | Burton, MI | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a99d52f3c27ec643bfe1?utm_campaign=1052&utm_source=git)** | Galesburg, IL | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977acc852f3c27ec643c555?utm_campaign=1052&utm_source=git)** | Greenville, MS | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977b16f88e2b47213bba194?utm_campaign=1052&utm_source=git)** | Englewood, NJ | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977ae8d88e2b47213bb9c97?utm_campaign=1052&utm_source=git)** | Russellville, AR | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977ab0cfdeb8243a27a8edd?utm_campaign=1052&utm_source=git)** | Independence, KY | Remote | Jan 26 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977ad22fdeb8243a27a9248?utm_campaign=1052&utm_source=git)** | Monroeville, PA | Remote | Jan 26 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69778aedfdeb8243a27a6547?utm_campaign=1052&utm_source=git)** | Highland Park, IL | On Site | Jan 26 |
 | **[Focus Partners Wealth](http://thecolonygroup.com)** | **[Advisory Team Associate Intern](https://jobright.ai/jobs/info/697788de88e2b47213bb6ca5?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 26 |
 | **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Business Management Bookkeeper Intern](https://jobright.ai/jobs/info/697788dafdeb8243a27a62a0?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
@@ -131,30 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Management Bookkeeper Intern](https://jobright.ai/jobs/info/697784cdfdeb8243a27a5dd1?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | Jan 26 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Bookkeeper Intern](https://jobright.ai/jobs/info/69778497fdeb8243a27a5d83?utm_campaign=1052&utm_source=git)** | Century City, CA | Hybrid | Jan 26 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a81c88e2b47213bb92d4?utm_campaign=1052&utm_source=git)** | Texarkana, AR | On Site | Jan 26 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Federal Tax](https://jobright.ai/jobs/info/6977a56888e2b47213bb8e6c?utm_campaign=1052&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Risk Reporting Analytics](https://jobright.ai/jobs/info/6977ad7a52f3c27ec643c6a1?utm_campaign=1052&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
+| ↳ | **[Intern - Risk Reporting Analytics](https://jobright.ai/jobs/info/6977ac7488e2b47213bb98fa?utm_campaign=1052&utm_source=git)** | Draper, UT | Hybrid | Jan 26 |
+| ↳ | **[Intern - Federal Tax](https://jobright.ai/jobs/info/6977ac8052f3c27ec643c4dd?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
+| ↳ | **[Intern - Federal Tax](https://jobright.ai/jobs/info/6977a56888e2b47213bb8e6c?utm_campaign=1052&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
 | ↳ | **[Intern - Federal Tax](https://jobright.ai/jobs/info/6977a2d3fdeb8243a27a8132?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Jan 26 |
 | ↳ | **[Intern - Federal Tax](https://jobright.ai/jobs/info/6977a4dc52f3c27ec643b7ed?utm_campaign=1052&utm_source=git)** | Draper, UT | Hybrid | Jan 26 |
-| **[NorthCoast Asset Management](https://www.northcoastam.com/)** | **[Portfolio Management & Research Intern](https://jobright.ai/jobs/info/6977842688e2b47213bb6780?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jan 26 |
-| ↳ | **[Portfolio Management & Research Intern](https://jobright.ai/jobs/info/697783da88e2b47213bb672e?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jan 26 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Bookkeeper Intern](https://jobright.ai/jobs/info/697783ba52f3c27ec64390b0?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/6977835252f3c27ec6439037?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Jan 26 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Advisory Team Associate Intern](https://jobright.ai/jobs/info/6977831288e2b47213bb6663?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 26 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Pathway (Accounting - Finance) Starting August 2026](https://jobright.ai/jobs/info/6977828e88e2b47213bb65c6?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jan 26 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977825efdeb8243a27a5b3e?utm_campaign=1052&utm_source=git)** | Hazleton, PA | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779f9888e2b47213bb86a4?utm_campaign=1052&utm_source=git)** | Melrose, MA | Remote | Jan 26 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Portfolio Management & Research Intern](https://jobright.ai/jobs/info/697781e088e2b47213bb651b?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jan 26 |
-| **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Business Management Bookkeeper Intern](https://jobright.ai/jobs/info/697780c088e2b47213bb63d6?utm_campaign=1052&utm_source=git)** | Encino, CA | Hybrid | Jan 26 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779dfd52f3c27ec643b18a?utm_campaign=1052&utm_source=git)** | Schererville, IN | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a83888e2b47213bb92fa?utm_campaign=1052&utm_source=git)** | Atascadero, CA | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a146fdeb8243a27a7eb6?utm_campaign=1052&utm_source=git)** | Summerlin South, NV | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779c3d88e2b47213bb84ef?utm_campaign=1052&utm_source=git)** | North Tonawanda, NY | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779cbe88e2b47213bb8568?utm_campaign=1052&utm_source=git)** | Newark, DE | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779c9252f3c27ec643b0f7?utm_campaign=1052&utm_source=git)** | Niles, IL | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779e4688e2b47213bb860d?utm_campaign=1052&utm_source=git)** | Ruskin, FL | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a4f7fdeb8243a27a8493?utm_campaign=1052&utm_source=git)** | Fridley, MN | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a7d8fdeb8243a27a8952?utm_campaign=1052&utm_source=git)** | Drexel Hill, PA | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779d8a88e2b47213bb85c3?utm_campaign=1052&utm_source=git)** | Granger, IN | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779c2f88e2b47213bb84d9?utm_campaign=1052&utm_source=git)** | Winter Park, FL | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69779eca88e2b47213bb8640?utm_campaign=1052&utm_source=git)** | Monterey, CA | Remote | Jan 26 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6977a69afdeb8243a27a8775?utm_campaign=1052&utm_source=git)** | Brownsburg, IN | Remote | Jan 26 |
+| ↳ | **[Intern - Treasury Controllership](https://jobright.ai/jobs/info/6977ac8cfdeb8243a27a915f?utm_campaign=1052&utm_source=git)** | Draper, UT | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

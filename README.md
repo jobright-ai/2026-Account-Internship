@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/69771a2952f3c27ec6431ebc?utm_campaign=1052&utm_source=git)** | Slatersville, RI | On Site | Jan 25 |
+| ↳ | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/697719ed52f3c27ec6431e8a?utm_campaign=1052&utm_source=git)** | Woonsocket, RI | On Site | Jan 25 |
+| ↳ | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/697718defdeb8243a279f0e0?utm_campaign=1052&utm_source=git)** | Linwood, MA | On Site | Jan 25 |
+| ↳ | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/697717c488e2b47213baf952?utm_campaign=1052&utm_source=git)** | Somerset, MA | On Site | Jan 25 |
+| **[Horizon Lane](horizonlane.us)** | **[Finance Internship](https://jobright.ai/jobs/info/6977132388e2b47213baf5f3?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Jan 25 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[New Homes Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/691399cee344172248f727d0?utm_campaign=1052&utm_source=git)** | Ashburn, VA | Hybrid | Jan 25 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Procurement Services Intern, Spring 2026](https://jobright.ai/jobs/info/69770b2a52f3c27ec643155a?utm_campaign=1052&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 25 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship - Braintree, Wakefield, MA](https://jobright.ai/jobs/info/695b807b9f1b381eb273e48c?utm_campaign=1052&utm_source=git)** | Braintree, MA | Hybrid | Jan 25 |
 | **[Chewy](https://www.chewy.com)** | **[Finance & Accounting Rotation Analyst Intern](https://jobright.ai/jobs/info/6976cae6377858563510583e?utm_campaign=1052&utm_source=git)** | Plantation, FL | On Site | Jan 25 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/6976c80c37785856351057aa?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 25 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Internship, Early Careers - Corporate Banking (Houston)](https://jobright.ai/jobs/info/6957e27ef1f8465b79ee8882?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6971a41d333b6343a14e3f27?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | ↳ | **[Federal Tax Services Intern – Summer 2027](https://jobright.ai/jobs/info/695be51a22c9dc0d3d53b809?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 24 |
-| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/695b4836f1f8465b79f166e8?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Jan 24 |
-| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/695b98a1aa05c26e7ab4f31c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 24 |
-| **[LWCC](https://www.lwcc.com/)** | **[Actuarial Data Intern](https://jobright.ai/jobs/info/69431294dd382f5f566906af?utm_campaign=1052&utm_source=git)** | Baton Rouge Metro | On Site | Jan 24 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2027](https://jobright.ai/jobs/info/69704807587dfa0bb55dd013?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Jan 24 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697466aebc8e722e7b197b52?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Jan 24 |
-| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/695b51b1f1f8465b79f16adb?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 24 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/69580a87f1f8465b79eeae4c?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

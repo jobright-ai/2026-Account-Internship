@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69772853fdeb8243a279f42c?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 26 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/6977240388e2b47213bafcad?utm_campaign=1052&utm_source=git)** | Grand Island, NY | On Site | Jan 26 |
+| **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/6973e150206da320f49dda04?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Jan 26 |
+| **[NeuroLeap Corp](http://www.neuroleap.com)** | **[Accounting & Business Admin Intern - Unpaid & Local in Orange County, CA](https://jobright.ai/jobs/info/697723f052f3c27ec64321db?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | Hybrid | Jan 26 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Talent Pool Intern Finance](https://jobright.ai/jobs/info/69772247fdeb8243a279f317?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Jan 26 |
 | **[Horizon Lane](horizonlane.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69771df488e2b47213bafb37?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Remote | Jan 25 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69771dc8fdeb8243a279f22b?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 25 |
 | **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/69771a2952f3c27ec6431ebc?utm_campaign=1052&utm_source=git)** | Slatersville, RI | On Site | Jan 25 |
@@ -127,11 +132,11 @@ For a complete list, click the following sortable link below:
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Procurement Intern](https://jobright.ai/jobs/info/69752ac1bc8e722e7b1a0d08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Investment Properties Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/68d2d823f0d9af73038dbf0d?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | Jan 24 |
 | **[Kairos Power](https://kairospower.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/697529e237785856350f1432?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/6975cea2bc8e722e7b1a9b83?utm_campaign=1052&utm_source=git)** | San Diego, CA 92108 | Hybrid | Jan 24 |
-| ↳ | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/6975cdee206da320f49fcaf2?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122 | On Site | Jan 24 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/6975cdee206da320f49fcaf2?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122 | On Site | Jan 24 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/6975cbef37785856350fa4fb?utm_campaign=1052&utm_source=git)** | Braintree, MA 02184 | Hybrid | Jan 24 |
-| ↳ | **[Winter Internship 2027 / Audit Intern / Philadelphia (49580)](https://jobright.ai/jobs/info/6975cef4206da320f49fcb37?utm_campaign=1052&utm_source=git)** | Philadelphia, PA 19103 | On Site | Jan 24 |
+| ↳ | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/6975cea2bc8e722e7b1a9b83?utm_campaign=1052&utm_source=git)** | San Diego, CA 92108 | Hybrid | Jan 24 |
 | ↳ | **[Winter Internship 2027 / Audit Intern / San Diego (49581)](https://jobright.ai/jobs/info/6975cd2537785856350fa550?utm_campaign=1052&utm_source=git)** | San Diego, CA 92108 | On Site | Jan 24 |
+| ↳ | **[Winter Internship 2027 / Audit Intern / Philadelphia (49580)](https://jobright.ai/jobs/info/6975cef4206da320f49fcb37?utm_campaign=1052&utm_source=git)** | Philadelphia, PA 19103 | On Site | Jan 24 |
 | **[Summit Contracting, Inc.](http://www.BuildSummit.com)** | **[Finance Summer Internship](https://jobright.ai/jobs/info/69751e14206da320f49f365d?utm_campaign=1052&utm_source=git)** | Platte, SD | Hybrid | Jan 24 |
 | **[Tighe & Bond](https://www.tighebond.com)** | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751dfabc8e722e7b1a08c2?utm_campaign=1052&utm_source=git)** | US-MA-Westfield | Hybrid | Jan 24 |
 | ↳ | **[Accounting & Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69751a8737785856350f0cde?utm_campaign=1052&utm_source=git)** | Westfield, MA, US | Hybrid | Jan 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advanced Security Technologies](www.astadvancedsecurity.com)** | **[Intern](https://jobright.ai/jobs/info/6974cef9206da320f49f0484?utm_campaign=1052&utm_source=git)** | Legal Address - East Liverpool - East Liverpool, OH 43920 | On Site | Jan 24 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Corporate Banking](https://jobright.ai/jobs/info/6957e0fbaa05c26e7ab1d16a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[MELE Associates, Inc.](http://meleassociates.com)** | **[Finance and Accounting Summer Intern](https://jobright.ai/jobs/info/69582659f1f8465b79eebc4e?utm_campaign=1052&utm_source=git)** | Rockville, MD | Hybrid | Jan 24 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) (OKC/Norman)](https://jobright.ai/jobs/info/6958273b9f1b381eb2710700?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Jan 24 |
-| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Credit Intern](https://jobright.ai/jobs/info/693cd66849a7695fbd0389d0?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 24 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/693c8e4e50bbaf76504fc49f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 24 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking - CA (California)](https://jobright.ai/jobs/info/6957e7db9f1b381eb270d3c3?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
-| ↳ | **[2027 Summer Internship, Early Careers - Corporate Banking (Houston)](https://jobright.ai/jobs/info/6957e27ef1f8465b79ee8882?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

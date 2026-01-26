@@ -107,8 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Queens Branch - Residential Mortgage Intern](https://jobright.ai/jobs/info/693c6bc149a7695fbd0335da?utm_campaign=1052&utm_source=git)** | Queens, NY | On Site | Jan 24 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6975c20037785856350fa018?utm_campaign=1052&utm_source=git)** | US-VA-Manassas | On Site | Jan 24 |
 | ↳ | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6975c1c6bc8e722e7b1a9586?utm_campaign=1052&utm_source=git)** | Manassas, VA, US | On Site | Jan 24 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/6975b8ca206da320f49fc159?utm_campaign=1052&utm_source=git)** | Canada | Remote | Jan 24 |
-| ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/6975b00e37785856350f9825?utm_campaign=1052&utm_source=git)** | Canada | Remote | Jan 24 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pricing &amp;#038; Underwriting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976fbcffdeb8243a279d95f?utm_campaign=1052&utm_source=git)** | Aurora, CO | Hybrid | Jan 24 |
 | **[MiTek](http://www.mii.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6975de33bc8e722e7b1ab726?utm_campaign=1052&utm_source=git)** | Chesterfield, MO, USA | Hybrid | Jan 24 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6975775c206da320f49f7cd8?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Jan 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[LWCC](https://www.lwcc.com/)** | **[Actuarial Data Intern](https://jobright.ai/jobs/info/69431294dd382f5f566906af?utm_campaign=1052&utm_source=git)** | Baton Rouge Metro | On Site | Jan 24 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2027](https://jobright.ai/jobs/info/69704807587dfa0bb55dd013?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Jan 24 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697466aebc8e722e7b197b52?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Jan 24 |
+| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/695b51b1f1f8465b79f16adb?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jan 24 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/69580a87f1f8465b79eeae4c?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

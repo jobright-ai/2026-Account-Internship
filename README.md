@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MEMIC](https://www.memic.com/)** | **[Actuarial & Risk Internship](https://jobright.ai/jobs/info/6978d68288e2b47213bcf2b2?utm_campaign=1052&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
+| ↳ | **[Comp As You Go Internship](https://jobright.ai/jobs/info/6978d46239f7f96cc6d13246?utm_campaign=1052&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
+| ↳ | **[Finance Internship](https://jobright.ai/jobs/info/6978d44152f3c27ec6451aa7?utm_campaign=1052&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
+| ↳ | **[Underwriting Internship](https://jobright.ai/jobs/info/6978d39488e2b47213bcf0bd?utm_campaign=1052&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Tax Analyst](https://jobright.ai/jobs/info/6978d37752f3c27ec6451a1c?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern - Financial Business Analyst, RBU](https://jobright.ai/jobs/info/6978d2de52f3c27ec645199d?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern - Purchasing Analyst](https://jobright.ai/jobs/info/6978d25788e2b47213bcefdc?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern - Business Analysis & Reporting, Financial Reporting](https://jobright.ai/jobs/info/6978d23b39f7f96cc6d130ae?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6978d1de52f3c27ec64518e9?utm_campaign=1052&utm_source=git)** | Oakdale, MN | Remote | Jan 27 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68cdf5631ad6b16f028a0353?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jan 27 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/68cdf992e23def7af55c0abb?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 27 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, MBA Financial Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/68b22f251ade4306aa634c43?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Jan 27 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/695c0573aa05c26e7ab55900?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Jan 27 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6978998639f7f96cc6d1055f?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 26 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69789ad039f7f96cc6d105c0?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 26 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – Long Island, NY](https://jobright.ai/jobs/info/695c503922c9dc0d3d5441a1?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Internal Controls Intern](https://jobright.ai/jobs/info/695c7647f1f8465b79f299b1?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Jan 26 |
-| ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/695c74d59a87b95a9397c63d?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Jan 26 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – New York City, NY](https://jobright.ai/jobs/info/695c4da122c9dc0d3d5439e0?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
-| ↳ | **[Tax Summer 2027 Internship - Tysons Corner, VA](https://jobright.ai/jobs/info/695c517b22c9dc0d3d5444ac?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 26 |
-| **[ArchKey Solutions](https://www.archkey.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69785f8352f3c27ec644b484?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Fall 2027 / Seattle](https://jobright.ai/jobs/info/69785f4152f3c27ec644b479?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 26 |
-| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/695c0442aa05c26e7ab55821?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jan 26 |
-| **[Macquarie Group](https://www.macquarie.com)** | **[2026 Financial Management Summer Internship Program](https://jobright.ai/jobs/info/695c3e05aa05c26e7ab58fcb?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

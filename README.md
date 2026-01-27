@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Economic Valuation Services - Economic Services / New York Summer 2026](https://jobright.ai/jobs/info/6978e5f939f7f96cc6d13b7d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern](https://jobright.ai/jobs/info/6978e58e88e2b47213bcf9e3?utm_campaign=1052&utm_source=git)** | Midland, MI | On Site | Jan 27 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/695d3015fbd62a0a6565be06?utm_campaign=1052&utm_source=git)** | Livonia, MI | Hybrid | Jan 27 |
+| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6978e43a39f7f96cc6d13a8d?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Jan 27 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6978e42688e2b47213bcf92c?utm_campaign=1052&utm_source=git)** | Silver Springs Shores, FL | Remote | Jan 27 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6978e3fe88e2b47213bcf917?utm_campaign=1052&utm_source=git)** | Alvin, TX | On Site | Jan 27 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Assurance Intern](https://jobright.ai/jobs/info/6978e3d752f3c27ec64522e5?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 27 |
+| **[MEMIC](https://www.memic.com/)** | **[Underwriting Internship](https://jobright.ai/jobs/info/6978e3be39f7f96cc6d13a38?utm_campaign=1052&utm_source=git)** | Portland, ME | On Site | Jan 27 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6978e2e488e2b47213bcf894?utm_campaign=1052&utm_source=git)** | Union City, GA | On Site | Jan 27 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6978e21988e2b47213bcf822?utm_campaign=1052&utm_source=git)** | Homewood, AL | On Site | Jan 27 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6978e1b152f3c27ec64521c6?utm_campaign=1052&utm_source=git)** | Reisterstown, MD | On Site | Jan 27 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6978e14888e2b47213bcf7b2?utm_campaign=1052&utm_source=git)** | Asheboro, NC | Remote | Jan 27 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6978e13939f7f96cc6d138d0?utm_campaign=1052&utm_source=git)** | Marion, IN | Remote | Jan 27 |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Investment Analyst](https://jobright.ai/jobs/info/6978db6088e2b47213bcf4e6?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Actuarial & Risk Internship](https://jobright.ai/jobs/info/6978d68288e2b47213bcf2b2?utm_campaign=1052&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | ↳ | **[Comp As You Go Internship](https://jobright.ai/jobs/info/6978d46239f7f96cc6d13246?utm_campaign=1052&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | ↳ | **[Finance Internship](https://jobright.ai/jobs/info/6978d44152f3c27ec6451aa7?utm_campaign=1052&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
@@ -80,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/696b07cf350cf43803124aa9?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Jan 27 |
 | **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[Supply Chain Finance Internship](https://jobright.ai/jobs/info/696384f92cbf4e44756d34b6?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/694e1a72d4a7df7a067308c8?utm_campaign=1052&utm_source=git)** | Naples, FL | On Site | Jan 27 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69743a4e206da320f49e6039?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 27 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697438e7bc8e722e7b192d4d?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69743a4e206da320f49e6039?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 27 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/694cd649f5bef51c96eaa0e6?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Jan 27 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Walt Disney World Procurement Services Intern, Fall 2026](https://jobright.ai/jobs/info/6978b22052f3c27ec644f260?utm_campaign=1052&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[GL and Consolidation Accountant Intern](https://jobright.ai/jobs/info/6940840350bbaf7650528dd7?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
@@ -129,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2027 Internship - Long Island, NY](https://jobright.ai/jobs/info/695c3d5faa05c26e7ab58eda?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Financial Reporting Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfa2122c9dc0d3d53dfc1?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/695cab529a87b95a93980de7?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
-| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Accounting Summer Internship](https://jobright.ai/jobs/info/69788fca88e2b47213bcbfc0?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Jan 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (San Diego)](https://jobright.ai/jobs/info/69651a4a6d52670c5c3dd70c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – White Plains, NY](https://jobright.ai/jobs/info/695c553922c9dc0d3d544ec4?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Jan 27 |
 | **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Equity Research Summer Analyst Program (Internship) - New York, NY](https://jobright.ai/jobs/info/697298d64ccbf64f8df295c2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 27 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Corporate Tax Intern - Summer Recruitment MD/DC/VA (Remote)](https://jobright.ai/jobs/info/6960568ea112b402660f1b73?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Remote | Jan 27 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Bethesda, MD](https://jobright.ai/jobs/info/695c529722c9dc0d3d544754?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Jan 27 |
 | ↳ | **[Tax Summer 2027 Internship - White Plains, NY](https://jobright.ai/jobs/info/695c4284f1f8465b79f24be4?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Jan 27 |
-| ↳ | **[Audit Winter 2027 Internship – Parsippany, NJ](https://jobright.ai/jobs/info/695c498af1f8465b79f25d67?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 27 |
-| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/695c00c922c9dc0d3d53e369?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Jan 27 |
-| **[Truist](https://www.truist.com)** | **[2027 Wholesale Credit Delivery - Corporate & Leveraged Finance - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/6973ef0e37785856350dbfb4?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
-| ↳ | **[2027 Truist Securities - Equity Research Summer Analyst Program (Internship) - Atlanta, GA](https://jobright.ai/jobs/info/6972a13e9b83b424830ea6b8?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - New York City, NY](https://jobright.ai/jobs/info/695c492aaa05c26e7ab5a407?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
-| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/695befc2f1f8465b79f1f2bd?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | Hybrid | Jan 27 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Assurance Intern - Busy Season 2027](https://jobright.ai/jobs/info/695c2a2af1f8465b79f2365a?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Jan 27 |
-| **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[A/R Specialist - Intern](https://jobright.ai/jobs/info/695c4017f1f8465b79f2488d?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 27 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69759883bc8e722e7b1a5ef7?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jan 27 |
-| **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Loan Sales & Trading Summer Analyst Program (Internship) - Atlanta, GA](https://jobright.ai/jobs/info/69729fe09b83b424830ea3aa?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
-| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/695c0573aa05c26e7ab55900?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Jan 27 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6978998639f7f96cc6d1055f?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 26 |
-| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69789ad039f7f96cc6d105c0?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Procure to Pay](https://jobright.ai/jobs/info/6941dce050bbaf765053a1e5?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Jan 28 |
+| ↳ | **[Intern: Finance & Treasury](https://jobright.ai/jobs/info/694238e250bbaf7650541d24?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Jan 28 |
+| **[Conning](http://www.conning.com/)** | **[Investment Management Intern](https://jobright.ai/jobs/info/696c8255350cf43803139fa5?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Jan 28 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Advisor, Internal Auditor- Finance SOX](https://jobright.ai/jobs/info/695def75821f2713684b1db0?utm_campaign=1052&utm_source=git)** | Michigan, United States | Hybrid | Jan 28 |
+| **[Evolv Technology](http://www.evolvtechnology.com)** | **[Accounting Intern (Summer 26')](https://jobright.ai/jobs/info/6941cb4214ee092a69ffe101?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Jan 28 |
+| **[Citi](https://www.citi.com)** | **[Banking - Commercial Banking, Summer Analyst, Houston - US, 2027](https://jobright.ai/jobs/info/695dd84189be3415c7463345?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 28 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a9?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
+| **[Everus](http://www.mducsg.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6941c0ff14ee092a69ffdad7?utm_campaign=1052&utm_source=git)** | Bismarck, ND | On Site | Jan 28 |
+| **[Evolv Technology](http://www.evolvtechnology.com)** | **[Financial Reporting Intern (Summer 26')](https://jobright.ai/jobs/info/694207a950bbaf765053d8b3?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Jan 28 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Tax Intern – Spring 2026](https://jobright.ai/jobs/info/6942215114ee092a69004c02?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 28 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 28 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Advisor, Internal Auditor- Finance SOX](https://jobright.ai/jobs/info/695e820ca112b402660d3328?utm_campaign=1052&utm_source=git)** | Missouri, United States | Hybrid | Jan 28 |
 | **[Everus](http://www.mducsg.com/)** | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/6941c279bdcf884a5add7b11?utm_campaign=1052&utm_source=git)** | Bismarck, ND | On Site | Jan 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship](https://jobright.ai/jobs/info/6979f070a8de441ca73518fd?utm_campaign=1052&utm_source=git)** | San Ramon, CA | On Site | Jan 28 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/6924d034c0cefa13343e2499?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Jan 28 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Cost Accounting Intern, Global Operations and Manufacturing - Summer 2026](https://jobright.ai/jobs/info/69621a75a112b402661082c5?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 27 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Advisor, Internal Auditor- Finance SOX](https://jobright.ai/jobs/info/695df046821f2713684b229f?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Jan 27 |
 | **[Related Companies](http://www.related.com/)** | **[2026 Summer Analyst, Operations (Related Ross)](https://jobright.ai/jobs/info/697987d60791bc1d723037b1?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL | On Site | Jan 27 |
-| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/6979863fca92cf0d6a82aedb?utm_campaign=1052&utm_source=git)** | Jericho, NY | On Site | Jan 27 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/6979863d0791bc1d7230369d?utm_campaign=1052&utm_source=git)** | Oak Brook, IL | On Site | Jan 27 |
-| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[Finance Intern](https://jobright.ai/jobs/info/697985b19c90a224ecc34426?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 27 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern, State and Local Tax - US Indirect Tax Compliance / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6979c6d2ca92cf0d6a8307b5?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
-| ↳ | **[Audit Intern, Japanese Practice / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6979c759ca92cf0d6a8307d5?utm_campaign=1052&utm_source=git)** | LA Metro Area | Hybrid | Jan 27 |
-| **[The Hartford](http://www.thehartford.com)** | **[Premium Audit Intern](https://jobright.ai/jobs/info/697983f90791bc1d72303525?utm_campaign=1052&utm_source=git)** | Clinton, NY | Remote | Jan 27 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Advisor, Internal Auditor- Finance SOX](https://jobright.ai/jobs/info/695dc735fbd62a0a65667ee8?utm_campaign=1052&utm_source=git)** | North Carolina, United States | Hybrid | Jan 27 |
-| **[Nautilus Solar Energy, LLC](http://www.nautilussolar.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6979a07cd7df290257fc1087?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (Diversified Group, Nat'l & Specialty Banking)](https://jobright.ai/jobs/info/6973d98e37785856350dac2c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 27 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Audit Intern, Japanese Practice / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/6979f059a5b9804527dfbee5?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
-| ↳ | **[Tax Intern, Global Mobility Services / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/6979efb3a8de441ca73518d8?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
-| ↳ | **[Tax Intern, State and Local Tax - JD/LLM / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6979ebfca5b9804527dfba66?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

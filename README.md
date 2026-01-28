@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Advisor, Internal Auditor- Finance SOX](https://jobright.ai/jobs/info/695dec0f62ca9111e7826a0d?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | Hybrid | Jan 27 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6979bda60791bc1d72308637?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Jan 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Accounting Methods and Periods Tax Intern - Winter 2027](https://jobright.ai/jobs/info/6978490a52f3c27ec6448cf2?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
 | **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - Chicago Metro](https://jobright.ai/jobs/info/695d7a4ef1f8465b79f3a825?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Jan 27 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Advisor, Internal Auditor- Finance SOX](https://jobright.ai/jobs/info/695de9484b7a590c5b955030?utm_campaign=1052&utm_source=git)** | Wisconsin, United States | Hybrid | Jan 27 |
@@ -116,7 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Scheels](http://www.scheels.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6979a028d7df290257fc106e?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
 | **[Pharmacists Mutual Insurance Group](https://www.phmic.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/694bdb325d73121134705a8e?utm_campaign=1052&utm_source=git)** | Algona, IA | On Site | Jan 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern- Eastern District (Summer 2026)](https://jobright.ai/jobs/info/695ddee689be3415c7463ec7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 27 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Deal Advisory - Financial Due Diligence / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6979b560ca92cf0d6a82fc2f?utm_campaign=1052&utm_source=git)** | LA Metro Area | Hybrid | Jan 27 |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Deal Advisory - Financial Due Diligence / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6979be30d7df290257fc2d23?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | Hybrid | Jan 27 |
+| ↳ | **[Advisory Intern, Deal Advisory - Financial Due Diligence / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6979b560ca92cf0d6a82fc2f?utm_campaign=1052&utm_source=git)** | LA Metro Area | Hybrid | Jan 27 |
+| ↳ | **[Intern Advisory, Corporate Services - Finance and Technology / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6979bdf2d7df290257fc2cf6?utm_campaign=1052&utm_source=git)** | LA Metro Area | Hybrid | Jan 27 |
 | ↳ | **[Audit Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69799ea00791bc1d72306839?utm_campaign=1052&utm_source=git)** | Virginia Beach City County, VA | Hybrid | Jan 27 |
 | ↳ | **[Intern, Economic Valuation Services - Transfer Pricing / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69799b900791bc1d72305053?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
 | ↳ | **[Audit Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69799fbed7df290257fc103f?utm_campaign=1052&utm_source=git)** | Los Angeles County, CA | Hybrid | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Accounting](https://jobright.ai/jobs/info/6979687539f7f96cc6d1f1c6?utm_campaign=1052&utm_source=git)** | US-NJ-Montvale | Hybrid | Jan 27 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Procurement Equity and Supplier Management Intern](https://jobright.ai/jobs/info/697035de333b6343a14c9e9b?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Jan 27 |
 | **[Chicago Atlantic](https://www.chicagoatlantic.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/697967d239f7f96cc6d1f114?utm_campaign=1052&utm_source=git)** | chicago,IL,US | On Site | Jan 27 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Internal Audit Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6979670d52f3c27ec645dd4f?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Hybrid | Jan 27 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Credits and Incentives Tax Intern - Summer 2027](https://jobright.ai/jobs/info/695d6f79fbd62a0a65660639?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Accounting](https://jobright.ai/jobs/info/697966a352f3c27ec645dcde?utm_campaign=1052&utm_source=git)** | Montvale, NJ, US | Hybrid | Jan 27 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Business Intern - Winter 2027](https://jobright.ai/jobs/info/695d6e65f5f3c43f38e23963?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

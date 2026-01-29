@@ -64,6 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Assurance Intern](https://jobright.ai/jobs/info/697b134517b11b1c2e420d39?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 28 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/695f56d4a1bbea1d9a7a1ffa?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Jan 28 |
 | **[Uber](http://www.uber.com)** | **[2026 Actuary Intern, US](https://jobright.ai/jobs/info/697b0df217b11b1c2e4208bf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 28 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/697b32f91136d179eeeeb0ab?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 28 |
+| ↳ | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/697b30e21136d179eeeeab84?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/697b09b31423772304eb1a7f?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 28 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Actuarial Intern](https://jobright.ai/jobs/info/697b2b3c17b11b1c2e423e69?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 28 |
 | **[Uber](http://www.uber.com)** | **[2026 Actuary Intern, US](https://jobright.ai/jobs/info/697b023117b11b1c2e41f538?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
@@ -83,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Investor Relations](https://jobright.ai/jobs/info/697b119517b11b1c2e420bbd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Spring 2027)](https://jobright.ai/jobs/info/695f3531a1bbea1d9a7a10f8?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jan 28 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Summer 2027 / Fort Wayne](https://jobright.ai/jobs/info/697b037a17b11b1c2e41f89d?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Jan 28 |
-| ↳ | **[Intern Tax Summer 2027 / Pittsburgh](https://jobright.ai/jobs/info/697aff7d1423772304eb0616?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
-| ↳ | **[Intern Tax Summer 2027 / Charleston, WV](https://jobright.ai/jobs/info/697b01afc532c4768fe0dee3?utm_campaign=1052&utm_source=git)** | Charleston, WV | On Site | Jan 28 |
 | ↳ | **[Intern Audit Summer 2027 / Pittsburgh](https://jobright.ai/jobs/info/697b04b0c532c4768fe0e442?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
+| ↳ | **[Intern Tax Summer 2027 / Charleston, WV](https://jobright.ai/jobs/info/697b01afc532c4768fe0dee3?utm_campaign=1052&utm_source=git)** | Charleston, WV | On Site | Jan 28 |
+| ↳ | **[Intern Tax Summer 2027 / Pittsburgh](https://jobright.ai/jobs/info/697aff7d1423772304eb0616?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2027 (Philadelphia)](https://jobright.ai/jobs/info/695ef19908ab990f282a426f?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 28 |
 | **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[Acct & Fin Intern](https://jobright.ai/jobs/info/697ae08717b11b1c2e41af6d?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, FP&A](https://jobright.ai/jobs/info/697ae04fc532c4768fe09786?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Jan 28 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Banking - Financial Institutions Group, Summer Analyst, New York City - US, 2027](https://jobright.ai/jobs/info/697a8fd4f6fc293b0a2c6cf5?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Finance, Accounting, & Tax](https://jobright.ai/jobs/info/697aa3b58dbbf73badc7dfeb?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jan 28 |
 | **[Dole Fresh Fruit Company](http://www.dole.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/697ac6c28dbbf73badc81606?utm_campaign=1052&utm_source=git)** | Salinas, CA | On Site | Jan 28 |
-| **[Uber](http://www.uber.com)** | **[2026 Actuary Intern, US](https://jobright.ai/jobs/info/697b0214c532c4768fe0dfcf?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jan 28 |
-| ↳ | **[2026 Actuary Intern, US](https://jobright.ai/jobs/info/697aec5617b11b1c2e41cb0d?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jan 28 |
+| **[Uber](http://www.uber.com)** | **[2026 Actuary Intern, US](https://jobright.ai/jobs/info/697aec5617b11b1c2e41cb0d?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jan 28 |
+| ↳ | **[2026 Actuary Intern, US](https://jobright.ai/jobs/info/697b0214c532c4768fe0dfcf?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jan 28 |
 | **[Riot Platforms, Inc.](https://www.riotplatforms.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/695ee2d20badca5763af5ef9?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jan 28 |
-| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Financial Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa2c19d60e431a16c3932?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Jan 28 |
-| **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Accounting Coordinator Intern](https://jobright.ai/jobs/info/695f0515a1bbea1d9a79d0a9?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

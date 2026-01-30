@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2027 Internship - Tysons Corner, VA](https://jobright.ai/jobs/info/695c517b22c9dc0d3d5444ac?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 29 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Chicago)](https://jobright.ai/jobs/info/69604e017ebc25398eb64fa2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
+| ↳ | **[Specialty Tax Services Intern, State and Local Tax - Winter 2027 (Tampa)](https://jobright.ai/jobs/info/69604c96a112b402660f1711?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Jan 29 |
+| **[PartnerRe](http://www.partnerre.com/)** | **[Underwriting/Actuarial Intern](https://jobright.ai/jobs/info/69604a3ba112b402660f15d7?utm_campaign=1052&utm_source=git)** | Maple Grove, MN | On Site | Jan 29 |
+| **[Perlick](https://www.perlick.com/)** | **[Accounting Support Intern - Summer 2026](https://jobright.ai/jobs/info/696026aba112b402660edfab?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 29 |
 | **[Acrisure](http://acrisure.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/696063e0a1bbea1d9a7b3e27?utm_campaign=1052&utm_source=git)** | Grand Rapids Metro | On Site | Jan 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (St. Louis)](https://jobright.ai/jobs/info/69604165a112b402660f0fb0?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Trust Investments - WHE](https://jobright.ai/jobs/info/697c3b161423772304eca97b?utm_campaign=1052&utm_source=git)** | Wheeling, WV | On Site | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Tax Winter Intern](https://jobright.ai/jobs/info/695fd8517ebc25398eb5b2ff?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jan 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Distribution Finance Intern](https://jobright.ai/jobs/info/697bd1211423772304ebff41?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Cost Accounting - Labour & Overhead (Summer 2026)](https://jobright.ai/jobs/info/697bd1100b88cc7d64229f66?utm_campaign=1052&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 29 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Internal Audit (Hybrid)](https://jobright.ai/jobs/info/697bcef40b88cc7d64229c00?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 29 |
-| **[Krispy Kreme](https://www.krispykreme.com)** | **[Summer Internship – IT Audit Intern](https://jobright.ai/jobs/info/697bceb61136d179eeef530a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
-| **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Accounting - Los Angeles](https://jobright.ai/jobs/info/6979090e88e2b47213bd2023?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Accounting Intern, Summer 2026 - Boston, MA](https://jobright.ai/jobs/info/697beab11136d179eeef8807?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 29 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Investments](https://jobright.ai/jobs/info/697bcd800b88cc7d64229b22?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

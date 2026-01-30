@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MSIG USA](https://www.msigusa.com/)** | **[Financial Planning & Analysis (FP&A) Analyst Intern](https://jobright.ai/jobs/info/697d0495137a05102565f9be?utm_campaign=1052&utm_source=git)** | Warren, NJ | Hybrid | Jan 30 |
+| ↳ | **[Underwriting Internship (Financial Lines)](https://jobright.ai/jobs/info/697d0443727747250d57bb35?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Controlling CS](https://jobright.ai/jobs/info/697cff9c727747250d57b89f?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 30 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Accounting (SOX)](https://jobright.ai/jobs/info/697cfd0b3f57a3356966b570?utm_campaign=1052&utm_source=git)** | US - Remote | Remote | Jan 30 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Financial Planning & Analysis (FP&A) Analyst Intern](https://jobright.ai/jobs/info/697cfc9b137a05102565f5e7?utm_campaign=1052&utm_source=git)** | NJ-Warren | Hybrid | Jan 30 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Treasury Analyst](https://jobright.ai/jobs/info/697cfb6f3f57a3356966b437?utm_campaign=1052&utm_source=git)** | 1615 Locust St, Des Moines, IA, 50309, US | On Site | Jan 30 |
@@ -111,6 +114,13 @@ For a complete list, click the following sortable link below:
 | **[Symetra](http://www.symetra.com)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/697cdef0727747250d578cc3?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 30 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cdec6727747250d578ca6?utm_campaign=1052&utm_source=git)** | Brent, FL | Remote | Jan 30 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cde8e137a05102565cb38?utm_campaign=1052&utm_source=git)** | Cottage Lake, WA | Remote | Jan 30 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697d0047137a05102565f75f?utm_campaign=1052&utm_source=git)** | Garden City, NY | Remote | Jan 30 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697d03ac727747250d57bae0?utm_campaign=1052&utm_source=git)** | Bonney Lake, WA | Remote | Jan 30 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697d033f3f57a3356966b95e?utm_campaign=1052&utm_source=git)** | Ramona, CA | Remote | Jan 30 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697d0122137a05102565f81c?utm_campaign=1052&utm_source=git)** | Sun Valley, NV | Remote | Jan 30 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697d012f137a05102565f825?utm_campaign=1052&utm_source=git)** | Corinth, TX | Remote | Jan 30 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697d01363f57a3356966b801?utm_campaign=1052&utm_source=git)** | Keene, NH | Remote | Jan 30 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697d0259727747250d57ba47?utm_campaign=1052&utm_source=git)** | Christiansburg, VA | Remote | Jan 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Finance, Treasury & Accounting Summer Intern - Finance Track](https://jobright.ai/jobs/info/696555566d52670c5c3e1d6b?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Public Housing Authority - Summer 2026 (Greater Philadelphia)](https://jobright.ai/jobs/info/697cfb18727747250d57b62e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 30 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cdabc3f57a33569668843?utm_campaign=1052&utm_source=git)** | Eastmont, WA | On Site | Jan 30 |
@@ -143,18 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf7683f57a3356966b1d2?utm_campaign=1052&utm_source=git)** | Glassboro, NJ | Remote | Jan 30 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf4193f57a3356966b01e?utm_campaign=1052&utm_source=git)** | Pottstown, PA | Remote | Jan 30 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697ceabc727747250d5793e2?utm_campaign=1052&utm_source=git)** | Lisle, IL | Remote | Jan 30 |
+| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697d03973f57a3356966b98a?utm_campaign=1052&utm_source=git)** | Blue Island, IL | Remote | Jan 30 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf2973f57a3356966ab69?utm_campaign=1052&utm_source=git)** | Cherry Hill, VA | Remote | Jan 30 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Co-op Student - Treasury (8 or 12 months)](https://jobright.ai/jobs/info/6959e5b39f1b381eb2728ad7?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jan 30 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cecc33f57a335696696e3?utm_campaign=1052&utm_source=git)** | Rosemont, CA | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf6123f57a3356966b104?utm_campaign=1052&utm_source=git)** | Champlin, MN | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf3823f57a3356966af2a?utm_campaign=1052&utm_source=git)** | Chester, VA | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf6bf3f57a3356966b152?utm_campaign=1052&utm_source=git)** | Van Buren, AR | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf660137a05102565f138?utm_campaign=1052&utm_source=git)** | Muscatine, IA | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf293137a05102565eed8?utm_campaign=1052&utm_source=git)** | Kenmore, WA | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cefae3f57a3356966a0b6?utm_campaign=1052&utm_source=git)** | Jacksonville Beach, FL | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cf31e137a05102565ef68?utm_campaign=1052&utm_source=git)** | Ladera Ranch, CA | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cef3b3f57a33569669f44?utm_campaign=1052&utm_source=git)** | Cartersville, GA | Remote | Jan 30 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 International Tax Intern - Rotational](https://jobright.ai/jobs/info/697cca79727747250d578261?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jan 30 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cecca3f57a33569669705?utm_campaign=1052&utm_source=git)** | North Potomac, MD | Remote | Jan 30 |
-| ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/697cfaf5137a05102565f4e5?utm_campaign=1052&utm_source=git)** | Griffin, GA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

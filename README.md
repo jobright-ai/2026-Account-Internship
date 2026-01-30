@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TMX Group](http://www.tmx.com)** | **[Summer Intern, TSXV Listings](https://jobright.ai/jobs/info/697c7c8b727747250d572d94?utm_campaign=1052&utm_source=git)** | Greater Vancouver Metropolitan Area | Hybrid | Jan 30 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/697c7661727747250d5726f0?utm_campaign=1052&utm_source=git)** | Lansing, MI | On Site | Jan 30 |
+| **[Affinity Credit Union](https://www.affinitycu.ca/)** | **[Student Loan Processing Administrator](https://jobright.ai/jobs/info/697c7634137a051025657064?utm_campaign=1052&utm_source=git)** | Saskatchewan, Canada | On Site | Jan 30 |
+| **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Southwest District](https://jobright.ai/jobs/info/6960ab647ebc25398eb68b48?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/697c5522137a051025654759?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Tax Intern](https://jobright.ai/jobs/info/697c53d13f57a33569660687?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Mazal Capital](https://www.mazalcap.co/)** | **[Private Equity Intern: In Person NYC](https://jobright.ai/jobs/info/697c5277727747250d570580?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Audit Summer Internship](https://jobright.ai/jobs/info/697bdb171423772304ec12c9?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Jan 29 |
 | **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Portfolio Management - Los Angeles](https://jobright.ai/jobs/info/6979118188e2b47213bd2d5a?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/697bf8061136d179eeef9ce9?utm_campaign=1052&utm_source=git)** | Devens, MA | On Site | Jan 29 |
-| **[Lam Research](http://www.lamresearch.com)** | **[Cost Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/697bd9b01423772304ec0fcf?utm_campaign=1052&utm_source=git)** | Tualatin, OR | Hybrid | Jan 29 |
-| **[XPO](https://www.xpo.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/697bd6ab1136d179eeef645f?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, US, 48105 | On Site | Jan 29 |
-| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Sr Internal Auditor - Financial Crimes](https://jobright.ai/jobs/info/697bf7ea1136d179eeef9cc2?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
-| **[Motion](http://www.dragosupply.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/697bd3cd1423772304ec04a8?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

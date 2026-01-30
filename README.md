@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/697c5522137a051025654759?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 29 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Tax Intern](https://jobright.ai/jobs/info/697c53d13f57a33569660687?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
+| **[Mazal Capital](https://www.mazalcap.co/)** | **[Private Equity Intern: In Person NYC](https://jobright.ai/jobs/info/697c5277727747250d570580?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jan 29 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2027 Internship - Tysons Corner, VA](https://jobright.ai/jobs/info/695c517b22c9dc0d3d5444ac?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Chicago)](https://jobright.ai/jobs/info/69604e017ebc25398eb64fa2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
 | ↳ | **[Specialty Tax Services Intern, State and Local Tax - Winter 2027 (Tampa)](https://jobright.ai/jobs/info/69604c96a112b402660f1711?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Jan 29 |
 | **[PartnerRe](http://www.partnerre.com/)** | **[Underwriting/Actuarial Intern](https://jobright.ai/jobs/info/69604a3ba112b402660f15d7?utm_campaign=1052&utm_source=git)** | Maple Grove, MN | On Site | Jan 29 |
 | **[Perlick](https://www.perlick.com/)** | **[Accounting Support Intern - Summer 2026](https://jobright.ai/jobs/info/696026aba112b402660edfab?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 29 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2027 Internship - Bethesda, MD](https://jobright.ai/jobs/info/695c49ccaa05c26e7ab5a57b?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Jan 29 |
 | **[Acrisure](http://acrisure.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/696063e0a1bbea1d9a7b3e27?utm_campaign=1052&utm_source=git)** | Grand Rapids Metro | On Site | Jan 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (St. Louis)](https://jobright.ai/jobs/info/69604165a112b402660f0fb0?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Trust Investments - WHE](https://jobright.ai/jobs/info/697c3b161423772304eca97b?utm_campaign=1052&utm_source=git)** | Wheeling, WV | On Site | Jan 29 |
 | **[repsol](http://www.repsol.com)** | **[Asset Control Intern](https://jobright.ai/jobs/info/697c39451136d179eeeffbd3?utm_campaign=1052&utm_source=git)** | The Woodlands, TX | On Site | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Trust Investments - MAM](https://jobright.ai/jobs/info/697c37630b88cc7d64233c71?utm_campaign=1052&utm_source=git)** | Bowie, MD | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/695c9d555e4962051b59c800?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | On Site | Jan 29 |
-| ↳ | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/695c94405e4962051b59b62e?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
+| **[Accenture](https://www.accenture.com)** | **[Client Transaction Services Summer Analyst - Chicago - NAELFY26](https://jobright.ai/jobs/info/697c4f05ba9f7d5ec9fcc9e6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 29 |
+| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/695c94405e4962051b59b62e?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Audit Internship - Yakima](https://jobright.ai/jobs/info/697c2f571136d179eeefe989?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Jan 29 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Corporate Finance (Hybrid)](https://jobright.ai/jobs/info/697c29ac1136d179eeefe340?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Jan 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Audit Internship - Spokane](https://jobright.ai/jobs/info/697c28f00b88cc7d64232c65?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[XPO](https://www.xpo.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/697bd6ab1136d179eeef645f?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, US, 48105 | On Site | Jan 29 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Sr Internal Auditor - Financial Crimes](https://jobright.ai/jobs/info/697bf7ea1136d179eeef9cc2?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
 | **[Motion](http://www.dragosupply.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/697bd3cd1423772304ec04a8?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Jan 29 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Tax (Multiple Positions)](https://jobright.ai/jobs/info/697bd39c0b88cc7d6422a51e?utm_campaign=1052&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 29 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Audit Summer Internship](https://jobright.ai/jobs/info/697bd1d70b88cc7d6422a159?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Jan 29 |
-| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Tax Winter Intern](https://jobright.ai/jobs/info/695fd8517ebc25398eb5b2ff?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jan 29 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Distribution Finance Intern](https://jobright.ai/jobs/info/697bd1211423772304ebff41?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 29 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Cost Accounting - Labour & Overhead (Summer 2026)](https://jobright.ai/jobs/info/697bd1100b88cc7d64229f66?utm_campaign=1052&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

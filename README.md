@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/694904ebd1953b5d11c20f1f?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Jan 31 |
+| **[American National](https://www.americannational.com)** | **[Internship - Corporate Finance](https://jobright.ai/jobs/info/691d0e4c22a2cb4b9bd2041a?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 31 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/69621eff25e18715077efe6b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
+| **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b1e5d1953b5d11beae33?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
+| **[PIM Brands](https://pimbrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f1ba82f462172a5a7dbc52?utm_campaign=1052&utm_source=git)** | Somerset, NJ | On Site | Jan 31 |
+| **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b0f663141d1884553e3f?utm_campaign=1052&utm_source=git)** | Lexington, KY | Hybrid | Jan 31 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6945b06663141d1884553d98?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
 | **[Duolingo](https://www.duolingo.com)** | **[Internal Audit, Intern](https://jobright.ai/jobs/info/69460302d1953b5d11bf1c1b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f33e6870116b1f57ecd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15c40e6870116b1f5798a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
+| **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69614f57f3f4cd1325064933?utm_campaign=1052&utm_source=git)** | Macon, GA | On Site | Jan 31 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/68afe469e723db6c9b7b4980?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jan 31 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Analyst Intern](https://jobright.ai/jobs/info/691ec09609cc522e8773be2f?utm_campaign=1052&utm_source=git)** | Salisbury, NC | Hybrid | Jan 31 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Risk Modelling Intern/Co-Op II](https://jobright.ai/jobs/info/697ddbc8abff4c399a9cb4b1?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
@@ -91,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Portfolio Engineering Intern](https://jobright.ai/jobs/info/68daf6dc07c157682e57024b?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Jan 30 |
 | **[Ever.Ag](https://www.ever.ag)** | **[Commercial Risk Intern](https://jobright.ai/jobs/info/697d84a2abff4c399a9c3c61?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7ce8137a05102566a41f?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c58727747250d586603?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c583f57a33569676596?utm_campaign=1052&utm_source=git)** | Fresno, CA | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c58727747250d586603?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c543f57a3356967658f?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c17727747250d5865b8?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7b863f57a335696764be?utm_campaign=1052&utm_source=git)** | El Segundo, CA | On Site | Jan 30 |
@@ -131,30 +139,22 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8631ce48107c0541b7a0?utm_campaign=1052&utm_source=git)** | Everett, WA | On Site | Jan 30 |
 | **[Connor, Clark & Lunn Infrastructure](https://www.cclgroup.com/CCLInfrastructure)** | **[Intern Analyst, Investment Management](https://jobright.ai/jobs/info/6961adc9e7ed9a5731ba82a9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d861d7f40342e15d64f5b?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d81cdce48107c0541b422?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d82147f40342e15d64c0e?utm_campaign=1052&utm_source=git)** | San Francisco County, CA | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d81cdce48107c0541b422?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d81f27f40342e15d64bda?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7e22137a05102566a4c9?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7dfd137a05102566a4ba?utm_campaign=1052&utm_source=git)** | Medford, OR | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d828f7f40342e15d64c8a?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7e22137a05102566a4c9?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8383ce48107c0541b586?utm_campaign=1052&utm_source=git)** | Lehi, UT | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8787abff4c399a9c3eaf?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84067f40342e15d64db0?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8674abff4c399a9c3db4?utm_campaign=1052&utm_source=git)** | Healdsburg, CA | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d841dce48107c0541b5f1?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84257f40342e15d64dc7?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d841dce48107c0541b5f1?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84067f40342e15d64db0?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d850fabff4c399a9c3c97?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8674abff4c399a9c3db4?utm_campaign=1052&utm_source=git)** | Healdsburg, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d844a7f40342e15d64de6?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8622ce48107c0541b792?utm_campaign=1052&utm_source=git)** | Salinas, CA | On Site | Jan 30 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Capital Market's Graduate Intern](https://jobright.ai/jobs/info/697d60ea3f57a335696742b1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6975775c206da320f49f7cd8?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Jan 30 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Accounting Intern (Hybrid)](https://jobright.ai/jobs/info/697d5f21727747250d5842c7?utm_campaign=1052&utm_source=git)** | Clearwater, FL | Hybrid | Jan 30 |
-| **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management Accounting Intern](https://jobright.ai/jobs/info/697d5dc6727747250d584102?utm_campaign=1052&utm_source=git)** | Anchorage , AK, US | On Site | Jan 30 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Portfolio Management](https://jobright.ai/jobs/info/697d8625abff4c399a9c3d66?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
-| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Treasury Analytics Intern](https://jobright.ai/jobs/info/697d5b9b727747250d583e65?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 30 |
-| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Finance and Accounting](https://jobright.ai/jobs/info/697d5a9b3f57a33569673bf6?utm_campaign=1052&utm_source=git)** | Richmond, VA, US | On Site | Jan 30 |
-| **[Colliers](http://www.colliers.com)** | **[Internship -Valuations](https://jobright.ai/jobs/info/697d59623f57a33569673a56?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/697d586f137a0510256677af?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
-| **[NMS](https://www.nmsusa.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management Accounting Intern](https://jobright.ai/jobs/info/697d580c727747250d583998?utm_campaign=1052&utm_source=git)** | Anchorage | On Site | Jan 30 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Financial Analysis & Controlling Internship](https://jobright.ai/jobs/info/697d57f83f57a33569673882?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

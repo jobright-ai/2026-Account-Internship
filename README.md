@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Construction Intern](https://jobright.ai/jobs/info/697e55d0abff4c399a9d0e4b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jan 31 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/697e4edeabff4c399a9d0a01?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697e4b43abff4c399a9d0999?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Jan 31 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Operational Accounting](https://jobright.ai/jobs/info/697e4b23abff4c399a9d0985?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/69626ea125e18715077f4939?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jan 31 |
+| **[Ripple](http://ripple.com)** | **[Accounting Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69628db0a112b4026610f052?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - INTERNAL AUDIT](https://jobright.ai/jobs/info/697a3c86a8de441ca735590b?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Finance AI Intern - Summer 2026](https://jobright.ai/jobs/info/6946126d7d506e3808f1699c?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Finance/Accounting](https://jobright.ai/jobs/info/697e2ba17f40342e15d6fd5f?utm_campaign=1052&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 31 |
@@ -81,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed8c8d078b81ad16100ab?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Jan 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst MBA Intern, Hardware Engineering FP&A - Summer 2026](https://jobright.ai/jobs/info/6962e1f52cbf4e44756cb2a6?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6958c5059f1b381eb271a9c8?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969f696f25a38006698b839?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697847ce52f3c27ec6448577?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
+| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969f696f25a38006698b839?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52ae0db92422580bf4e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969d8c3f25a380066989f1f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/69618a65f3f4cd1325069a76?utm_campaign=1052&utm_source=git)** | Saginaw-Midland-BC Area | On Site | Jan 31 |
@@ -94,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697c39db1423772304eca3b9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6968b7f51703f05405aa8f06?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6965b320a112b4026613bd07?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6976f80588e2b47213badc9c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
+| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69676ad7639b452fb57d0bd8?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697da9737f40342e15d68eb1?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/696c82a95fc86241853ba634?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/6961ba4ca112b40266104aff?utm_campaign=1052&utm_source=git)** | Providence, RI | Hybrid | Jan 30 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Finance](https://jobright.ai/jobs/info/697d8ebb7f40342e15d67169?utm_campaign=1052&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 30 |
 | ↳ | **[Internship - Finance](https://jobright.ai/jobs/info/697d8cd6abff4c399a9c524c?utm_campaign=1052&utm_source=git)** | Canada | Remote | Jan 30 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/697d8c08abff4c399a9c4c34?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 30 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Construction Accounting Intern - 2026 Summer](https://jobright.ai/jobs/info/697d8871abff4c399a9c3f80?utm_campaign=1052&utm_source=git)** | Indio, CA | On Site | Jan 30 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Finance and Accounting Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/697d8582ce48107c0541b6eb?utm_campaign=1052&utm_source=git)** | Arlington, VA | Hybrid | Jan 30 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Portfolio Engineering Intern](https://jobright.ai/jobs/info/68daf6dc07c157682e57024b?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Jan 30 |
-| **[Ever.Ag](https://www.ever.ag)** | **[Commercial Risk Intern](https://jobright.ai/jobs/info/697d84a2abff4c399a9c3c61?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7ce8137a05102566a41f?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

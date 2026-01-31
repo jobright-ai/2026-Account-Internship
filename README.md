@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2027 (Houston)](https://jobright.ai/jobs/info/69619ab3f3f4cd132506a809?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
+| **[Anders](http://anderscpa.com/)** | **[Tax Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/6961506be7ed9a5731ba1869?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 31 |
+| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/69615046a112b402660fd487?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Jan 31 |
+| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Transfer Pricing - Summer 2027 (Houston)](https://jobright.ai/jobs/info/69619208f3f4cd1325069fe5?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
+| ↳ | **[Specialty Tax Services Intern, International Tax Services - Summer 2027 (Houston)](https://jobright.ai/jobs/info/696193a1f3f4cd132506a18b?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
+| ↳ | **[Specialty Tax Services Intern, Business Incentives Group - Summer 2027 (Houston)](https://jobright.ai/jobs/info/69619ab3f3f4cd132506a809?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | **[Anders](http://anderscpa.com/)** | **[Audit and Assurance Intern - Winter/Spring 2027](https://jobright.ai/jobs/info/69615217f3f4cd1325064acb?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jan 31 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Summer 2027 (Houston)](https://jobright.ai/jobs/info/697dcd097f40342e15d6be1b?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/69621ae525e18715077ef979?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 31 |
@@ -79,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Portfolio Engineering Intern](https://jobright.ai/jobs/info/68daf6dc07c157682e57024b?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Jan 30 |
 | **[Ever.Ag](https://www.ever.ag)** | **[Commercial Risk Intern](https://jobright.ai/jobs/info/697d84a2abff4c399a9c3c61?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7ce8137a05102566a41f?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c583f57a33569676596?utm_campaign=1052&utm_source=git)** | Fresno, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c58727747250d586603?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c583f57a33569676596?utm_campaign=1052&utm_source=git)** | Fresno, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c543f57a3356967658f?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7c17727747250d5865b8?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7b863f57a335696764be?utm_campaign=1052&utm_source=git)** | El Segundo, CA | On Site | Jan 30 |
@@ -119,19 +123,19 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8631ce48107c0541b7a0?utm_campaign=1052&utm_source=git)** | Everett, WA | On Site | Jan 30 |
 | **[Connor, Clark & Lunn Infrastructure](https://www.cclgroup.com/CCLInfrastructure)** | **[Intern Analyst, Investment Management](https://jobright.ai/jobs/info/6961adc9e7ed9a5731ba82a9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d861d7f40342e15d64f5b?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d82147f40342e15d64c0e?utm_campaign=1052&utm_source=git)** | San Francisco County, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d81cdce48107c0541b422?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d82147f40342e15d64c0e?utm_campaign=1052&utm_source=git)** | San Francisco County, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d81f27f40342e15d64bda?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7e22137a05102566a4c9?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7dfd137a05102566a4ba?utm_campaign=1052&utm_source=git)** | Medford, OR | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7e22137a05102566a4c9?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d828f7f40342e15d64c8a?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8787abff4c399a9c3eaf?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8383ce48107c0541b586?utm_campaign=1052&utm_source=git)** | Lehi, UT | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84067f40342e15d64db0?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d850fabff4c399a9c3c97?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d841dce48107c0541b5f1?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84257f40342e15d64dc7?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84067f40342e15d64db0?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8674abff4c399a9c3db4?utm_campaign=1052&utm_source=git)** | Healdsburg, CA | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d841dce48107c0541b5f1?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d844a7f40342e15d64de6?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8622ce48107c0541b792?utm_campaign=1052&utm_source=git)** | Salinas, CA | On Site | Jan 30 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Capital Market's Graduate Intern](https://jobright.ai/jobs/info/697d60ea3f57a335696742b1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Intern - Accounts Payable](https://jobright.ai/jobs/info/697d54ca137a051025666b6f?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Jan 30 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/697d54c8137a051025666b33?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Revenue Cycle Management Intern](https://jobright.ai/jobs/info/697d728c137a051025669565?utm_campaign=1052&utm_source=git)** | Covenant Living Communities and Services- Skokie, IL | On Site | Jan 30 |
-| ↳ | **[Revenue Cycle Management Intern](https://jobright.ai/jobs/info/697d7534137a051025669811?utm_campaign=1052&utm_source=git)** | Covenant Living Communities and Services- Skokie, IL | On Site | Jan 30 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Assurance Summer Intern](https://jobright.ai/jobs/info/697d7713137a051025669a08?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 30 |
-| ↳ | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/697d70bf727747250d58597d?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
-| ↳ | **[2027 Assurance Winter Intern](https://jobright.ai/jobs/info/697d73773f57a33569675835?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

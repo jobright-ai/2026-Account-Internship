@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Finance/Accounting Intern](https://jobright.ai/jobs/info/697dfe51abff4c399a9cbfce?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Jan 31 |
+| **[IBM](http://www.ibm.com)** | **[Accounts Receivable M&A Intern](https://jobright.ai/jobs/info/697310701790715e866c13a4?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
+| ↳ | **[Accounts Receivable Intern – Q2C (Quote-to-Cash)](https://jobright.ai/jobs/info/697303671790715e866befd5?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Jan 31 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/697df9c1ce48107c05423484?utm_campaign=1052&utm_source=git)** | Haldimand County, Ontario, Canada | On Site | Jan 31 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/6945e06763141d1884557f29?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68d2fb34f0d9af73038ddbfe?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/694904ebd1953b5d11c20f1f?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Jan 31 |
 | **[American National](https://www.americannational.com)** | **[Internship - Corporate Finance](https://jobright.ai/jobs/info/691d0e4c22a2cb4b9bd2041a?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jan 31 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/69621eff25e18715077efe6b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
@@ -142,19 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d82147f40342e15d64c0e?utm_campaign=1052&utm_source=git)** | San Francisco County, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d81cdce48107c0541b422?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d81f27f40342e15d64bda?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d828f7f40342e15d64c8a?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7e22137a05102566a4c9?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d7dfd137a05102566a4ba?utm_campaign=1052&utm_source=git)** | Medford, OR | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d828f7f40342e15d64c8a?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8383ce48107c0541b586?utm_campaign=1052&utm_source=git)** | Lehi, UT | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8787abff4c399a9c3eaf?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84257f40342e15d64dc7?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d841dce48107c0541b5f1?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84067f40342e15d64db0?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jan 30 |
 | ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d850fabff4c399a9c3c97?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8674abff4c399a9c3db4?utm_campaign=1052&utm_source=git)** | Healdsburg, CA | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d844a7f40342e15d64de6?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jan 30 |
-| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d8622ce48107c0541b792?utm_campaign=1052&utm_source=git)** | Salinas, CA | On Site | Jan 30 |
-| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Capital Market's Graduate Intern](https://jobright.ai/jobs/info/697d60ea3f57a335696742b1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6975775c206da320f49f7cd8?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Jan 30 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Accounting Intern (Hybrid)](https://jobright.ai/jobs/info/697d5f21727747250d5842c7?utm_campaign=1052&utm_source=git)** | Clearwater, FL | Hybrid | Jan 30 |
+| ↳ | **[2027 Winter/Summer Tax or Audit Internship](https://jobright.ai/jobs/info/697d84067f40342e15d64db0?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

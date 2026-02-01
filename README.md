@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f679e7f40342e15d822c4?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 01 |
+| **[Emerge Living](https://disruptmgt.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/697f6588abff4c399a9e1404?utm_campaign=1052&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Feb 01 |
 | **[Arthur Isaacson & Company, CPA](http://brooklynaccountingservice.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/697f53a1abff4c399a9e0449?utm_campaign=1052&utm_source=git)** | Englishtown, NJ | On Site | Feb 01 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Internship – Parsippany, NJ](https://jobright.ai/jobs/info/695c4245aa05c26e7ab5946c?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | Hybrid | Feb 01 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Internship Opportunities](https://jobright.ai/jobs/info/68c84a99f9c6ff7aedf0c974?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 01 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - INTERNAL AUDIT](https://jobright.ai/jobs/info/697a3c86a8de441ca735590b?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Finance AI Intern - Summer 2026](https://jobright.ai/jobs/info/6946126d7d506e3808f1699c?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Finance/Accounting](https://jobright.ai/jobs/info/697e2ba17f40342e15d6fd5f?utm_campaign=1052&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 31 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/697e28347f40342e15d6fc8a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | **[Los Angeles Unified School District](https://www.lausd.org)** | **[Principal Stock Clerk (FOR INTERNAL OR LAID-OFF EMPLOYEES ONLY)](https://jobright.ai/jobs/info/697e245dabff4c399a9ce931?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Jan 31 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/697e18697f40342e15d6f6b6?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/697e1635abff4c399a9ce3c7?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Jan 31 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697c39db1423772304eca3b9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6968b7f51703f05405aa8f06?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6965b320a112b4026613bd07?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6976f80588e2b47213badc9c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
+| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69676ad7639b452fb57d0bd8?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697da9737f40342e15d68eb1?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/696c82a95fc86241853ba634?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f33e6870116b1f57ecd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15c40e6870116b1f5798a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69614f57f3f4cd1325064933?utm_campaign=1052&utm_source=git)** | Macon, GA | On Site | Jan 31 |
-| **[Acrisure Trade Credit](https://www.traderiskgroup.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697ec4c4ce48107c0542d8b3?utm_campaign=1052&utm_source=git)** | Grand Rapids Metro | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

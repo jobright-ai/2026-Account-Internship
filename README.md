@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f679e7f40342e15d822c4?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 01 |
+| **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697f74b7ce48107c05438936?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Assistant Accounting Intern](https://jobright.ai/jobs/info/697f7442abff4c399a9e16ef?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Feb 01 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/697f71cace48107c05438911?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f680a7f40342e15d8230b?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Feb 01 |
+| **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f21e6870116b1f57eac?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f67ecce48107c0543869e?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Feb 01 |
+| ↳ | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f679e7f40342e15d822c4?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 01 |
 | **[Emerge Living](https://disruptmgt.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/697f6588abff4c399a9e1404?utm_campaign=1052&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Feb 01 |
 | **[Arthur Isaacson & Company, CPA](http://brooklynaccountingservice.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/697f53a1abff4c399a9e0449?utm_campaign=1052&utm_source=git)** | Englishtown, NJ | On Site | Feb 01 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Internship – Parsippany, NJ](https://jobright.ai/jobs/info/695c4245aa05c26e7ab5946c?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | Hybrid | Feb 01 |
@@ -95,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Finance AI Intern - Summer 2026](https://jobright.ai/jobs/info/6946126d7d506e3808f1699c?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Finance/Accounting](https://jobright.ai/jobs/info/697e2ba17f40342e15d6fd5f?utm_campaign=1052&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 31 |
 | **[Los Angeles Unified School District](https://www.lausd.org)** | **[Principal Stock Clerk (FOR INTERNAL OR LAID-OFF EMPLOYEES ONLY)](https://jobright.ai/jobs/info/697e245dabff4c399a9ce931?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Jan 31 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/697f715fce48107c054388f7?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 31 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/697e18697f40342e15d6f6b6?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/697e1635abff4c399a9ce3c7?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Jan 31 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Finance and Accounting Internship (Bachelors, Summer 2026)](https://jobright.ai/jobs/info/69428447dd382f5f566896fe?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Jan 31 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/69621eff25e18715077efe6b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b1e5d1953b5d11beae33?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
 | **[PIM Brands](https://pimbrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f1ba82f462172a5a7dbc52?utm_campaign=1052&utm_source=git)** | Somerset, NJ | On Site | Jan 31 |
-| **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b0f663141d1884553e3f?utm_campaign=1052&utm_source=git)** | Lexington, KY | Hybrid | Jan 31 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6945b06663141d1884553d98?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
-| **[Corning Incorporated](https://www.corning.com/)** | **[Finance Intern - Accounting, Compliance, and Reporting - Summer 2026](https://jobright.ai/jobs/info/697e0c60ce48107c0542569a?utm_campaign=1052&utm_source=git)** | Corning, NY | On Site | Jan 31 |
-| **[Duolingo](https://www.duolingo.com)** | **[Internal Audit, Intern](https://jobright.ai/jobs/info/69460302d1953b5d11bf1c1b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
-| **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f33e6870116b1f57ecd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| ↳ | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15c40e6870116b1f5798a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
-| **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69614f57f3f4cd1325064933?utm_campaign=1052&utm_source=git)** | Macon, GA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woman's Hospital](http://www.womans.org/)** | **[Finance/Accounting - Summer Internship](https://jobright.ai/jobs/info/697f9b2cabff4c399a9e33d5?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
 | **[Stratify Edge](stratifyedge.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/697f91bf7f40342e15d84108?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 01 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Procurement Intern](https://jobright.ai/jobs/info/697f8b387f40342e15d84080?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 01 |
 | ↳ | **[Audit Intern](https://jobright.ai/jobs/info/697f82317f40342e15d826dd?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Feb 01 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697c39db1423772304eca3b9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6968b7f51703f05405aa8f06?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6965b320a112b4026613bd07?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6976f80588e2b47213badc9c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6976f80588e2b47213badc9c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69676ad7639b452fb57d0bd8?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697da9737f40342e15d68eb1?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/696c82a95fc86241853ba634?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Jan 31 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/697df9c1ce48107c05423484?utm_campaign=1052&utm_source=git)** | Haldimand County, Ontario, Canada | On Site | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/6945e06763141d1884557f29?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68d2fb34f0d9af73038ddbfe?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

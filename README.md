@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, State and Local Tax - Summer 2027 (Houston)](https://jobright.ai/jobs/info/697dcd097f40342e15d6be1b?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | **[Medpace](http://www.medpace.com)** | **[Accounts Payable/Site Payments Intern- Summer 2026](https://jobright.ai/jobs/info/6961e10ff3f4cd132506daed?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/69621ae525e18715077ef979?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jan 31 |
+| **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[Acct & Fin Intern](https://jobright.ai/jobs/info/697ae08717b11b1c2e41af6d?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 31 |
 | **[Inspire](https://inspirebrands.com)** | **[Enterprise Risk and Internal Audit Intern](https://jobright.ai/jobs/info/697dc46c7f40342e15d6a432?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/69528ea0f1f8465b79e9e4b7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

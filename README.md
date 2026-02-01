@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – Holmdel, NJ](https://jobright.ai/jobs/info/695c4344aa05c26e7ab59603?utm_campaign=1052&utm_source=git)** | Holmdel, NJ | Hybrid | Jan 31 |
+| ↳ | **[Audit Summer 2027 Internship – Holmdel, NJ](https://jobright.ai/jobs/info/695c4b26f1f8465b79f26149?utm_campaign=1052&utm_source=git)** | Holmdel, NJ | Hybrid | Jan 31 |
+| ↳ | **[Tax Winter 2027 Internship - Bethesda, MD](https://jobright.ai/jobs/info/695c529722c9dc0d3d544754?utm_campaign=1052&utm_source=git)** | Bethesda, MD | Hybrid | Jan 31 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Levy Analytics & Reporting Internship, E15 / Chicago, IL](https://jobright.ai/jobs/info/697ebd6babff4c399a9d621c?utm_campaign=1052&utm_source=git)** | Highland Park, IL | On Site | Jan 31 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/6945f2f1d1953b5d11befcbf?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
 | **[Orion Group](https://orionservicesgroup.com/)** | **[Finance & Treasury Intern](https://jobright.ai/jobs/info/697bed841136d179eeef8d04?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Jan 31 |
@@ -103,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697c39db1423772304eca3b9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6968b7f51703f05405aa8f06?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6965b320a112b4026613bd07?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6976f80588e2b47213badc9c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
+| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69676ad7639b452fb57d0bd8?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697da9737f40342e15d68eb1?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/696c82a95fc86241853ba634?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
@@ -138,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Acrisure Trade Credit](https://www.traderiskgroup.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697ec4c4ce48107c0542d8b3?utm_campaign=1052&utm_source=git)** | Grand Rapids Metro | On Site | Jan 31 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/68afe469e723db6c9b7b4980?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jan 31 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Analyst Intern](https://jobright.ai/jobs/info/691ec09609cc522e8773be2f?utm_campaign=1052&utm_source=git)** | Salisbury, NC | Hybrid | Jan 31 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer- Financing Specialist Student Intern](https://jobright.ai/jobs/info/697ee176abff4c399a9d90c5?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 31 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Risk Modelling Intern/Co-Op II](https://jobright.ai/jobs/info/697ddbc8abff4c399a9cb4b1?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | ↳ | **[TD Asset Management Investment Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/697dda967f40342e15d6c758?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Medpace](http://www.medpace.com)** | **[Accounts Payable/Site Payments Intern- Summer 2026](https://jobright.ai/jobs/info/6961e10ff3f4cd132506daed?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/69528ea0f1f8465b79e9e4b7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Finance- EN](https://jobright.ai/jobs/info/697dbeca7f40342e15d6a215?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Revenue Cycle Management Intern](https://jobright.ai/jobs/info/697db5c5ce48107c054204fb?utm_campaign=1052&utm_source=git)** | Skokie, IL | On Site | Jan 30 |
-| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Accounting – Goldenvoice Venues](https://jobright.ai/jobs/info/697827bb88e2b47213bc2885?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Accounts Payable](https://jobright.ai/jobs/info/697da2a3ce48107c0541f42e?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Jan 30 |
-| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Finance and Accounting](https://jobright.ai/jobs/info/697d97f6abff4c399a9c6e3f?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/6961ba4ca112b40266104aff?utm_campaign=1052&utm_source=git)** | Providence, RI | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

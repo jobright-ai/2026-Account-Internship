@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern](https://jobright.ai/jobs/info/697f82317f40342e15d826dd?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Tax (Multiple Positions)](https://jobright.ai/jobs/info/697f7aceabff4c399a9e17ad?utm_campaign=1052&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697f74b7ce48107c05438936?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Assistant Accounting Intern](https://jobright.ai/jobs/info/697f7442abff4c399a9e16ef?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Feb 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/697f71cace48107c05438911?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f680a7f40342e15d8230b?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Feb 01 |
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f21e6870116b1f57eac?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Finance/Accounting Intern](https://jobright.ai/jobs/info/697dfe51abff4c399a9cbfce?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Jan 31 |
 | **[IBM](http://www.ibm.com)** | **[Accounts Receivable M&A Intern](https://jobright.ai/jobs/info/697310701790715e866c13a4?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
 | ↳ | **[Accounts Receivable Intern – Q2C (Quote-to-Cash)](https://jobright.ai/jobs/info/697303671790715e866befd5?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

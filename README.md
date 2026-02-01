@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/6945f2f1d1953b5d11befcbf?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
+| **[Orion Group](https://orionservicesgroup.com/)** | **[Finance & Treasury Intern](https://jobright.ai/jobs/info/697bed841136d179eeef8d04?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Jan 31 |
+| **[Baptist Health](https://www.baptist-health.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/697e9917abff4c399a9d3a8d?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Construction Intern](https://jobright.ai/jobs/info/697e55d0abff4c399a9d0e4b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jan 31 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/697e4edeabff4c399a9d0a01?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697e4b43abff4c399a9d0999?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Jan 31 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/69528ea0f1f8465b79e9e4b7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Finance- EN](https://jobright.ai/jobs/info/697dbeca7f40342e15d6a215?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Revenue Cycle Management Intern](https://jobright.ai/jobs/info/697db5c5ce48107c054204fb?utm_campaign=1052&utm_source=git)** | Skokie, IL | On Site | Jan 30 |
-| ↳ | **[Revenue Cycle Management Intern](https://jobright.ai/jobs/info/697db586ce48107c054204af?utm_campaign=1052&utm_source=git)** | Skokie, IL | On Site | Jan 30 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Accounting – Goldenvoice Venues](https://jobright.ai/jobs/info/697827bb88e2b47213bc2885?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Accounts Payable](https://jobright.ai/jobs/info/697da2a3ce48107c0541f42e?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Jan 30 |
-| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Procurement Intern](https://jobright.ai/jobs/info/697d9b4c7f40342e15d682bc?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Finance and Accounting](https://jobright.ai/jobs/info/697d97f6abff4c399a9c6e3f?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/6961ba4ca112b40266104aff?utm_campaign=1052&utm_source=git)** | Providence, RI | Hybrid | Jan 30 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Finance](https://jobright.ai/jobs/info/697d8ebb7f40342e15d67169?utm_campaign=1052&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 30 |
 | ↳ | **[Internship - Finance](https://jobright.ai/jobs/info/697d8cd6abff4c399a9c524c?utm_campaign=1052&utm_source=git)** | Canada | Remote | Jan 30 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern, Business Tax Services - Commercial Japanese Practice / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/697d8c08abff4c399a9c4c34?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

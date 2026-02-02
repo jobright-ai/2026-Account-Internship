@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HALPER](https://halper.ai)** | **[Accounting Intern](https://jobright.ai/jobs/info/69807ee3abff4c399a9f467b?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 02 |
+| **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Junior Business Analyst (Summer Student)](https://jobright.ai/jobs/info/698079f1abff4c399a9f4402?utm_campaign=1052&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 02 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Accounting Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/6980771f49964d25b5e34328?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Evergreen FS, Inc.](https://www.evergreen-fs.com)** | **[Accounting Intern - Evergreen FS - Bloomington, IL](https://jobright.ai/jobs/info/697c3dc21423772304ecb518?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Feb 02 |
 | **[RWE](https://www.rwe.com)** | **[Tax Intern, Summer 2026](https://jobright.ai/jobs/info/69379b3caabec14a727c9ba0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed8c8d078b81ad16100ab?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Jan 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst MBA Intern, Hardware Engineering FP&A - Summer 2026](https://jobright.ai/jobs/info/6962e1f52cbf4e44756cb2a6?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6958c5059f1b381eb271a9c8?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697847ce52f3c27ec6448577?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
-| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969f696f25a38006698b839?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

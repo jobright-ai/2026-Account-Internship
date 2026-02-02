@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BST & Co. CPAs, LLP](http://bstco.com)** | **[Accounting Internships - Summer 2027](https://jobright.ai/jobs/info/6980cd4b49964d25b5e38ae3?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Feb 02 |
+| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6980c9cd7f40342e15d993a3?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 02 |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/6980c56babff4c399a9f874a?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Feb 02 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Audit Intern](https://jobright.ai/jobs/info/6945839763141d18845513ba?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | On Site | Feb 02 |
 | **[Nautilus Insurance Group (a Berkley Company)](https://www.nautilusinsgroup.com/)** | **[Premium Audit Intern](https://jobright.ai/jobs/info/6980be8149964d25b5e38101?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Feb 02 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Procurement Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6980bbbc49964d25b5e38022?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | Feb 02 |
@@ -108,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Procurement Intern](https://jobright.ai/jobs/info/697f8b387f40342e15d84080?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 01 |
 | ↳ | **[Audit Intern](https://jobright.ai/jobs/info/697f82317f40342e15d826dd?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Tax (Multiple Positions)](https://jobright.ai/jobs/info/697f7aceabff4c399a9e17ad?utm_campaign=1052&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 - Institutional Client Group Analyst Summer Intern](https://jobright.ai/jobs/info/6965afa02cbf4e44756f5cc0?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697f74b7ce48107c05438936?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/697f71cace48107c05438911?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f680a7f40342e15d8230b?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Feb 01 |
@@ -141,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Levy Analytics & Reporting Internship, E15 / Chicago, IL](https://jobright.ai/jobs/info/697ebd6babff4c399a9d621c?utm_campaign=1052&utm_source=git)** | Highland Park, IL | On Site | Jan 31 |
 | **[City+Ventures](https://city-ventures.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/697fadc87f40342e15d84a96?utm_campaign=1052&utm_source=git)** | La Vista, NE | On Site | Jan 31 |
 | **[Orion Group](https://orionservicesgroup.com/)** | **[Finance & Treasury Intern](https://jobright.ai/jobs/info/697bed841136d179eeef8d04?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Jan 31 |
-| **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/6980bbedabff4c399a9f808a?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
 | **[Interra Credit Union](http://interracu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/697fedd57f40342e15d8a4ed?utm_campaign=1052&utm_source=git)** | Goshen, IN | On Site | Jan 31 |
 | ↳ | **[Commercial Credit Analyst Intern](https://jobright.ai/jobs/info/697fededabff4c399a9e97dc?utm_campaign=1052&utm_source=git)** | Goshen, IN | On Site | Jan 31 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/697e4edeabff4c399a9d0a01?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Unified School District](https://www.lausd.org)** | **[Principal Stock Clerk (FOR INTERNAL OR LAID-OFF EMPLOYEES ONLY)](https://jobright.ai/jobs/info/697e245dabff4c399a9ce931?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Jan 31 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/697f715fce48107c054388f7?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jan 31 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/697e18697f40342e15d6f6b6?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/697e1635abff4c399a9ce3c7?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Jan 31 |
-| **[Sandisk](https://www.sandisk.com/en-in)** | **[Finance and Accounting Internship (Bachelors, Summer 2026)](https://jobright.ai/jobs/info/69428447dd382f5f566896fe?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Jan 31 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Chicago)](https://jobright.ai/jobs/info/69622b53a112b4026610957b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

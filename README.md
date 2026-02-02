@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Operational Finance / Nashville, TN Summer 2026](https://jobright.ai/jobs/info/6980024ece48107c05442ebf?utm_campaign=1052&utm_source=git)** | Nashville, TN, US | On Site | Feb 01 |
+| ↳ | **[Intern / Operational Finance / Memphis, TN Summer 2026](https://jobright.ai/jobs/info/69800093ce48107c05442c8c?utm_campaign=1052&utm_source=git)** | Memphis, TN, US | On Site | Feb 01 |
+| **[Interra Credit Union](http://interracu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69800053ce48107c05442c31?utm_campaign=1052&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 01 |
+| ↳ | **[Commercial Credit Analyst Intern](https://jobright.ai/jobs/info/697ffef0ce48107c05442a52?utm_campaign=1052&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 01 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Asset Management Internship (Real Estate)](https://jobright.ai/jobs/info/697fba2cabff4c399a9e43f6?utm_campaign=1052&utm_source=git)** | Reston VA | On Site | Feb 01 |
 | ↳ | **[Asset Management Internship (Real Estate)](https://jobright.ai/jobs/info/697fb276abff4c399a9e3e3d?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Feb 01 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Finance/Accounting - Summer Internship](https://jobright.ai/jobs/info/697f9b2cabff4c399a9e33d5?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
@@ -101,6 +105,8 @@ For a complete list, click the following sortable link below:
 | **[City+Ventures](https://city-ventures.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/697fadc87f40342e15d84a96?utm_campaign=1052&utm_source=git)** | La Vista, NE | On Site | Jan 31 |
 | **[Orion Group](https://orionservicesgroup.com/)** | **[Finance & Treasury Intern](https://jobright.ai/jobs/info/697bed841136d179eeef8d04?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Jan 31 |
 | **[Baptist Health](https://www.baptist-health.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/697e9917abff4c399a9d3a8d?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
+| **[Interra Credit Union](http://interracu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/697fedd57f40342e15d8a4ed?utm_campaign=1052&utm_source=git)** | Goshen, IN | On Site | Jan 31 |
+| ↳ | **[Commercial Credit Analyst Intern](https://jobright.ai/jobs/info/697fededabff4c399a9e97dc?utm_campaign=1052&utm_source=git)** | Goshen, IN | On Site | Jan 31 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/697e4edeabff4c399a9d0a01?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/69626ea125e18715077f4939?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jan 31 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Operational Accounting](https://jobright.ai/jobs/info/697eca58abff4c399a9d69fe?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Jan 31 |
@@ -141,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697c39db1423772304eca3b9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6968b7f51703f05405aa8f06?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6965b320a112b4026613bd07?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6976f80588e2b47213badc9c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6976f80588e2b47213badc9c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69676ad7639b452fb57d0bd8?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697da9737f40342e15d68eb1?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/696c82a95fc86241853ba634?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69747293206da320f49eb1a8?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/6962cf3925e18715077f954f?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Accounting Co-op Summer 2026](https://jobright.ai/jobs/info/6961c904a112b4026610569e?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69461fdc7d506e3808f172cb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Staff Accounting](https://jobright.ai/jobs/info/694601187d506e3808f14d42?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Jan 31 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Finance/Accounting Intern](https://jobright.ai/jobs/info/697dfe51abff4c399a9cbfce?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Jan 31 |
-| **[IBM](http://www.ibm.com)** | **[Accounts Receivable M&A Intern](https://jobright.ai/jobs/info/697310701790715e866c13a4?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
-| ↳ | **[Accounts Receivable Intern – Q2C (Quote-to-Cash)](https://jobright.ai/jobs/info/697303671790715e866befd5?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

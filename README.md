@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Evergreen FS, Inc.](https://www.evergreen-fs.com)** | **[Accounting Intern - Evergreen FS - Bloomington, IL](https://jobright.ai/jobs/info/697c3dc21423772304ecb518?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Feb 02 |
+| **[RWE](https://www.rwe.com)** | **[Tax Intern, Summer 2026](https://jobright.ai/jobs/info/69379b3caabec14a727c9ba0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| ↳ | **[Accounting GL Intern, Summer 2026](https://jobright.ai/jobs/info/69446e4add382f5f566a8f4b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/69806351abff4c399a9f2cc8?utm_campaign=1052&utm_source=git)** | East Killingly, CT | On Site | Feb 02 |
+| ↳ | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/69806323abff4c399a9f2cba?utm_campaign=1052&utm_source=git)** | Killingly, CT | On Site | Feb 02 |
+| ↳ | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/698062ecce48107c0544a07c?utm_campaign=1052&utm_source=git)** | Attleboro, MA | On Site | Feb 02 |
+| **[Kings Island](https://www.visitkingsisland.com/)** | **[Intern - Revenue Accounting](https://jobright.ai/jobs/info/698061ecce48107c05449dfa?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Feb 02 |
+| **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/698061bbabff4c399a9f1e2c?utm_campaign=1052&utm_source=git)** | Johnston, RI | On Site | Feb 02 |
+| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management Accounting Intern](https://jobright.ai/jobs/info/69806177ce48107c05449a65?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Feb 02 |
+| **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/6980616e7f40342e15d937b2?utm_campaign=1052&utm_source=git)** | Putnam, CT | On Site | Feb 02 |
+| **[RWE](https://www.rwe.com)** | **[Accounting Fixed Assets Intern, Summer 2026](https://jobright.ai/jobs/info/693b47805f2c001987ed41df?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69806115ce48107c0544982c?utm_campaign=1052&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| ↳ | **[Real Estate, (Finance) Intern](https://jobright.ai/jobs/info/69805fba7f40342e15d92c23?utm_campaign=1052&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Finance Intern - Investor Relations](https://jobright.ai/jobs/info/698058127f40342e15d924bd?utm_campaign=1052&utm_source=git)** | Boston, KY | Hybrid | Feb 01 |
 | **[LS Power](http://lspower.com)** | **[Intern, Treasury Operations](https://jobright.ai/jobs/info/6969bcd31703f05405abb617?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Feb 01 |
 | **[Geneva Trading](https://geneva-trading.com)** | **[Intern - Quantitative Trader - Digital Assets](https://jobright.ai/jobs/info/69601de67ebc25398eb60c97?utm_campaign=1052&utm_source=git)** | Chicago Office | On Site | Feb 01 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969f696f25a38006698b839?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52ae0db92422580bf4e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969d8c3f25a380066989f1f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/69618a65f3f4cd1325069a76?utm_campaign=1052&utm_source=git)** | Saginaw-Midland-BC Area | On Site | Jan 31 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4d5d078b81ad160fefe?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Jan 31 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed562e0db92422580bfa6?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Jan 31 |
-| **[Lyft](https://www.lyft.com/)** | **[Financial Planning & Analysis (FP&A) Intern (Summer 2026)](https://jobright.ai/jobs/info/69463cb163141d188455f9b7?utm_campaign=1052&utm_source=git)** | San Francisco County, CA | Hybrid | Jan 31 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Tax Intern (Phoenix)](https://jobright.ai/jobs/info/696157bda112b402660fdae1?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 31 |
-| ↳ | **[Assurance Intern (Aberdeen)](https://jobright.ai/jobs/info/696165e7f3f4cd1325065e45?utm_campaign=1052&utm_source=git)** | Aberdeen, SD | On Site | Jan 31 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697c39db1423772304eca3b9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6968b7f51703f05405aa8f06?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6965b320a112b4026613bd07?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6976f80588e2b47213badc9c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6972f2ca206da320f49ce565?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69676ad7639b452fb57d0bd8?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
-| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/697da9737f40342e15d68eb1?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

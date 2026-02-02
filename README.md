@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship - Accounting and Finance](https://jobright.ai/jobs/info/68d649d54736ff202fdd2430?utm_campaign=1052&utm_source=git)** | Louisville, CO | On Site | Feb 02 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Finance Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/689d2caafaa4e875e826d9c4?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Feb 02 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Procurement Analyst](https://jobright.ai/jobs/info/68f139bae6870116b1f55145?utm_campaign=1052&utm_source=git)** | Hagerstown, MD | On Site | Feb 02 |
 | **[HALPER](https://halper.ai)** | **[Accounting Intern](https://jobright.ai/jobs/info/69807ee3abff4c399a9f467b?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 02 |
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Junior Business Analyst (Summer Student)](https://jobright.ai/jobs/info/698079f1abff4c399a9f4402?utm_campaign=1052&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 02 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Accounting Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/6980771f49964d25b5e34328?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern (Phoenix)](https://jobright.ai/jobs/info/69616429a112b402660fe861?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jan 31 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/694608ac7d506e3808f16002?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eecd1fd078b81ad160f833?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Jan 31 |
-| ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed8c8d078b81ad16100ab?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Jan 31 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst MBA Intern, Hardware Engineering FP&A - Summer 2026](https://jobright.ai/jobs/info/6962e1f52cbf4e44756cb2a6?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6958c5059f1b381eb271a9c8?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

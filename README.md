@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6982205fa314e763690577d9?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Feb 03 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Assurance Summer Intern - Not for Profit](https://jobright.ai/jobs/info/6982201ba314e763690577ab?utm_campaign=1052&utm_source=git)** | New York | Hybrid | Feb 03 |
+| **[Plastipak](https://www.plastipak.com/)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/69821e08a314e763690576b1?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Feb 03 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Commercial Lending Intern- Upper Kirby](https://jobright.ai/jobs/info/694a45c531c12007d3b90734?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 03 |
+| ↳ | **[Commercial Lending Intern - Memorial City Financial Center](https://jobright.ai/jobs/info/6949f71f7d506e3808f506a2?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 03 |
+| **[Accion](http://www.accion.org)** | **[Summer Intern, Accion Ventures](https://jobright.ai/jobs/info/696acb585fc862418539e950?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Feb 03 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Commercial Lending Intern - Dallas](https://jobright.ai/jobs/info/694a4381187e565c6bfa4c2f?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Audit Services Bachelor's Intern](https://jobright.ai/jobs/info/69820f300f6f7e7a2cdb3318?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Feb 03 |
 | ↳ | **[Finance Bachelor's Intern](https://jobright.ai/jobs/info/69820f28a314e76369056e2a?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Remote | Feb 03 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Financial Controls Office & Accounting (HYBRID)](https://jobright.ai/jobs/info/697eed97ce48107c05431215?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Feb 03 |
@@ -74,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Commercial Lending Intern- Longview TX](https://jobright.ai/jobs/info/694a39b53019f50a4fe565d0?utm_campaign=1052&utm_source=git)** | Longview, TX | On Site | Feb 03 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Analyst Intern - Summer 2026 (Muskogee, OK)](https://jobright.ai/jobs/info/695c97bdf1f8465b79f2c696?utm_campaign=1052&utm_source=git)** | Muskogee, OK | On Site | Feb 03 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Commercial Lending Intern- MS](https://jobright.ai/jobs/info/694a33efc6f0e2546cef49d0?utm_campaign=1052&utm_source=git)** | Ridgeland, MS | On Site | Feb 03 |
+| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Underwriting Internship - Summer 2026](https://jobright.ai/jobs/info/69821cf9a314e7636905761d?utm_campaign=1052&utm_source=git)** | Draper, UT | On Site | Feb 03 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Accounting Intern 2026](https://jobright.ai/jobs/info/68bb37825f3832749186d48d?utm_campaign=1052&utm_source=git)** | Richfield, OH | On Site | Feb 03 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[P&C Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/69656d216d52670c5c3e47fa?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 03 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Finance Intern - Consumer Business](https://jobright.ai/jobs/info/6949f4167d506e3808f5047a?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Feb 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[1Password](https://1password.com)** | **[Finance Intern - Corporate Accounting, Special Projects - Summer 2026](https://jobright.ai/jobs/info/69815b29abff4c399aa051fd?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Private Company - Summer 2027](https://jobright.ai/jobs/info/698157bb49964d25b5e44b62?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Feb 02 |
 | **[Byrne](https://www.byrne.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6981572749964d25b5e44ab8?utm_campaign=1052&utm_source=git)** | Rockford, Michigan, United States | On Site | Feb 02 |
-| **[Uber](http://www.uber.com)** | **[2026 Finance Intern, United States](https://jobright.ai/jobs/info/6981570349964d25b5e44a8b?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US | Hybrid | Feb 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Private Company - Summer 2027](https://jobright.ai/jobs/info/6981566849964d25b5e449d3?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 02 |
-| **[Smith & Associates](http://www.smithweb.com)** | **[PPV/Excess Analyst Intern](https://jobright.ai/jobs/info/6981549e49964d25b5e447ab?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 02 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Assurance Intern (Reno, NV)](https://jobright.ai/jobs/info/6981538d49964d25b5e44722?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Feb 02 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - IS Finance](https://jobright.ai/jobs/info/698150517f40342e15da5372?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Feb 02 |
-| ↳ | **[Student Intern - Finance](https://jobright.ai/jobs/info/698150077f40342e15da531a?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Feb 02 |
-| **[Southwest Teepee and Event Rental](http://www.southwestteepeerental.com)** | **[Accounting Intern / Assistant](https://jobright.ai/jobs/info/69814cc849964d25b5e44142?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Feb 02 |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[Forensic Accounting Summer 2026 Internship – Family Law](https://jobright.ai/jobs/info/69656f216d52670c5c3e4ef0?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

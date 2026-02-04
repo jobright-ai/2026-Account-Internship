@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Risk & Operations Audit Intern](https://jobright.ai/jobs/info/694b03e83019f50a4fe60b11?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 04 |
+| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2026 - FMA - Intern Conversion - CFSO CTS Rotational Analyst - Tempe](https://jobright.ai/jobs/info/6966d7415ad3a93f8232449e?utm_campaign=1052&utm_source=git)** | Tempe, AZ | Hybrid | Feb 04 |
+| **[Flint Group](https://www.flintg.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6966e88bb098f4515f4e4afd?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Feb 04 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (Madison)](https://jobright.ai/jobs/info/692e571c4c474121999d88eb?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Feb 04 |
+| **[Calgon Carbon Asia](http://www.calgoncarbon.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6983324e01214b4cdacae109?utm_campaign=1052&utm_source=git)** | Moon, PA | On Site | Feb 04 |
+| **[Kairos Power](https://kairospower.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/697718ca52f3c27ec6431d93?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 04 |
+| **[Waterton](https://www.waterton.com/)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/69123a64d1047e3565cfa767?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
+| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Finance & IT](https://jobright.ai/jobs/info/695a2ea6f1f8465b79f07b03?utm_campaign=1052&utm_source=git)** | Newton, MA | On Site | Feb 04 |
+| **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Wealth Management, New Orleans, LA and Indianapolis, ID](https://jobright.ai/jobs/info/6967bf97f25a3800669611ce?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Feb 04 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, International Tax - Summer 2026](https://jobright.ai/jobs/info/694b72445d731211346ff85a?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 04 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Commercial Lending Intern- Tyler, TX](https://jobright.ai/jobs/info/694a3acd31c12007d3b8fec5?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Feb 04 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69673135f25a38006695932f?utm_campaign=1052&utm_source=git)** | Everett, WA | Hybrid | Feb 04 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69829d8f348f733a5c3595da?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 03 |
 | ↳ | **[Intern International Tax Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69829d78348f733a5c3595d1?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Feb 03 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Internship - Private Family Capital Analyst, US](https://jobright.ai/jobs/info/6966c7e85ad3a93f823222f0?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Feb 03 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69829d100a9e07331f8dc743?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 03 |
-| ↳ | **[Intern Audit Summer 2027 / South Florida](https://jobright.ai/jobs/info/69829c750a9e07331f8dc703?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Feb 03 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69829bc50f6f7e7a2cdbecf5?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Feb 03 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Finance Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6982d6918232105a2d0b53b5?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Remote | Feb 03 |
-| ↳ | **[Pricing &amp;#038; Underwriting Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6982d2af0f6f7e7a2cdc3fdb?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Remote | Feb 03 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Finance Bachelor's Intern](https://jobright.ai/jobs/info/69829b760f6f7e7a2cdbecce?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Remote | Feb 03 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern State and Local Tax Advisory Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69829b650f6f7e7a2cdbecc7?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
-| ↳ | **[Intern Audit Winter 2027 / South Florida](https://jobright.ai/jobs/info/69829b19348f733a5c3594b1?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Feb 03 |
-| ↳ | **[Intern State and Local Tax Advisory Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69829b160a9e07331f8dc662?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQ-EQ](https://iqeq.com)** | **[Intern - Private Wealth](https://jobright.ai/jobs/info/697a3115b4589b4ee87c712a?utm_campaign=1052&utm_source=git)** | Bedford, NH | On Site | Feb 05 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 Investment Associate Intern](https://jobright.ai/jobs/info/697aab529d60e431a16c45ee?utm_campaign=1052&utm_source=git)** | New York City | On Site | Feb 04 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Customer Finance Intern](https://jobright.ai/jobs/info/696878ce639b452fb57e2518?utm_campaign=1052&utm_source=git)** | Malvern, PA | Hybrid | Feb 04 |
 | **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/698441b90f6f7e7a2cde9289?utm_campaign=1052&utm_source=git)** | Princeton, New Jersey, United States | Hybrid | Feb 04 |
@@ -65,6 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Analyst Intern-Real Estate](https://jobright.ai/jobs/info/69843606348f733a5c3823ef?utm_campaign=1052&utm_source=git)** | SLC Metro Area | On Site | Feb 04 |
 | ↳ | **[Investment Analyst Intern-Real Estate](https://jobright.ai/jobs/info/6984343b348f733a5c3822d5?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Feb 04 |
 | **[Legends Global](http://legends.net)** | **[Finance Intern](https://jobright.ai/jobs/info/69843412348f733a5c3822cb?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 04 |
+| **[Leavitt Partners](https://leavittpartners.com/)** | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/69845df48da7a612045e81ff?utm_campaign=1052&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 04 |
+| ↳ | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/69845df40f6f7e7a2cdeb842?utm_campaign=1052&utm_source=git)** | Scottsdale | On Site | Feb 04 |
+| ↳ | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/698457ed348f733a5c38568d?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/69842bba0f6f7e7a2cde6a52?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 04 |
 | ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/69842a780f6f7e7a2cde67fa?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 04 |
 | **[Whisker](https://www.litter-robot.com/)** | **[MBA Corporate Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69683065639b452fb57dc96e?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Feb 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / New York City](https://jobright.ai/jobs/info/6983f0b001214b4cdacc30f2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Fall 2026 - Atlanta, GA](https://jobright.ai/jobs/info/69840f530f6f7e7a2cde2c8c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Intern, Fund Opinions, New York](https://jobright.ai/jobs/info/69840bed01214b4cdacc6c45?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Feb 04 |
-| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6983d16b0f6f7e7a2cdd91bc?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Feb 04 |
-| **[Advanced Energy](http://www.advancedenergy.com)** | **[Finance Intern - Undergraduate](https://jobright.ai/jobs/info/6983d0b00f6f7e7a2cdd8f8a?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 04 |
-| **[GBLI | Global Indemnity](https://gbli.com)** | **[Internal Audit Summer Intern](https://jobright.ai/jobs/info/6983d038348f733a5c3736d4?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Feb 04 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern - Finance - Fargo](https://jobright.ai/jobs/info/69841c248da7a612045e0fed?utm_campaign=1052&utm_source=git)** | ND, Fargo | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

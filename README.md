@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loeb Electric](https://loebelectric.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6980ebfa49964d25b5e3b68b?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Feb 05 |
+| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/6981869eabff4c399aa09b72?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 05 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/6984bc1e348f733a5c38d47b?utm_campaign=1052&utm_source=git)** | Tewksbury, MA | On Site | Feb 05 |
+| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2026](https://jobright.ai/jobs/info/69817944abff4c399aa0769f?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT | Hybrid | Feb 05 |
 | **[Ullabelle](https://ullabelle.com)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/6984b95e348f733a5c38d23e?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Feb 05 |
 | **[Orvanta](orvanta.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6984b8fb348f733a5c38d1fc?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Feb 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/6968f8e7f25a380066978fff?utm_campaign=1052&utm_source=git)** | Lancaster, NY | On Site | Feb 05 |
@@ -101,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Analyst Intern-Real Estate](https://jobright.ai/jobs/info/69843606348f733a5c3823ef?utm_campaign=1052&utm_source=git)** | SLC Metro Area | On Site | Feb 04 |
 | ↳ | **[Investment Analyst Intern-Real Estate](https://jobright.ai/jobs/info/6984343b348f733a5c3822d5?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Feb 04 |
 | **[Legends Global](http://legends.net)** | **[Finance Intern](https://jobright.ai/jobs/info/69843412348f733a5c3822cb?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 04 |
-| **[Leavitt Partners](https://leavittpartners.com/)** | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/69845df48da7a612045e81ff?utm_campaign=1052&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 04 |
-| ↳ | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/698457ed348f733a5c38568d?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 04 |
+| **[Leavitt Partners](https://leavittpartners.com/)** | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/698457ed348f733a5c38568d?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 04 |
+| ↳ | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/69845df48da7a612045e81ff?utm_campaign=1052&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 04 |
 | ↳ | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/69845df40f6f7e7a2cdeb842?utm_campaign=1052&utm_source=git)** | Scottsdale | On Site | Feb 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/69842bba0f6f7e7a2cde6a52?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 04 |
 | ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/69842a780f6f7e7a2cde67fa?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Audit Internship](https://jobright.ai/jobs/info/696804181703f05405a9a252?utm_campaign=1052&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Inventory and Planning Analyst Intern](https://jobright.ai/jobs/info/6983f51a01214b4cdacc3b21?utm_campaign=1052&utm_source=git)** | N. Kingstown, RI, US | On Site | Feb 04 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/6967fd59f25a380066965252?utm_campaign=1052&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
-| **[Crestpoint Real Estate Investments Ltd](https://crestpoint.cclgroup.com/)** | **[Intern, Financial Data Analyst](https://jobright.ai/jobs/info/6968413f639b452fb57de620?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 04 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Capital & Project Accounting](https://jobright.ai/jobs/info/6983f3ec0f6f7e7a2cdded36?utm_campaign=1052&utm_source=git)** | Austell, GA | On Site | Feb 04 |
-| **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6983f1240f6f7e7a2cddeab5?utm_campaign=1052&utm_source=git)** | Westlake Village, CA | Hybrid | Feb 04 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - San Jose, CA](https://jobright.ai/jobs/info/6983f004348f733a5c378fac?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Customer Finance Intern](https://jobright.ai/jobs/info/69687dad639b452fb57e2d23?utm_campaign=1052&utm_source=git)** | Cary, NC | Hybrid | Feb 05 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Intern Program](https://jobright.ai/jobs/info/6984a18b0f6f7e7a2cdf1484?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Payments Intern](https://jobright.ai/jobs/info/6984a0fe348f733a5c38b6ae?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 05 |
+| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Procurement Intern - Buyer (Summer 2026)](https://jobright.ai/jobs/info/6913f8921465e02904e98f62?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Feb 05 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Model Risk Intern](https://jobright.ai/jobs/info/6930d341ef4b48533d14fb60?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 05 |
+| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Corporate Development MBA Summer Internship](https://jobright.ai/jobs/info/69375bd0aabec14a727c6f30?utm_campaign=1052&utm_source=git)** | Framingham, MA | On Site | Feb 05 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Finance Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/6984984d0f6f7e7a2cdf0ba0?utm_campaign=1052&utm_source=git)** | Glendale, CA | On Site | Feb 05 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Accounting Intern - Hybrid - Multiple Locations](https://jobright.ai/jobs/info/698493e6348f733a5c38a2f8?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | Hybrid | Feb 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/694c5f4cd64ebf28d821ff2f?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Feb 05 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Cleveland)](https://jobright.ai/jobs/info/68c64daddb52c07d28846cd4?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Feb 05 |
@@ -86,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Analyst Intern-Real Estate](https://jobright.ai/jobs/info/69843606348f733a5c3823ef?utm_campaign=1052&utm_source=git)** | SLC Metro Area | On Site | Feb 04 |
 | ↳ | **[Investment Analyst Intern-Real Estate](https://jobright.ai/jobs/info/6984343b348f733a5c3822d5?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Feb 04 |
 | **[Legends Global](http://legends.net)** | **[Finance Intern](https://jobright.ai/jobs/info/69843412348f733a5c3822cb?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 04 |
-| **[Leavitt Partners](https://leavittpartners.com/)** | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/698457ed348f733a5c38568d?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 04 |
-| ↳ | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/69845df48da7a612045e81ff?utm_campaign=1052&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 04 |
+| **[Leavitt Partners](https://leavittpartners.com/)** | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/69845df48da7a612045e81ff?utm_campaign=1052&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 04 |
+| ↳ | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/698457ed348f733a5c38568d?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ, US | On Site | Feb 04 |
 | ↳ | **[Actuarial Summer Intern - Edrington](https://jobright.ai/jobs/info/69845df40f6f7e7a2cdeb842?utm_campaign=1052&utm_source=git)** | Scottsdale | On Site | Feb 04 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Summer 2027](https://jobright.ai/jobs/info/69842bba0f6f7e7a2cde6a52?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 04 |
 | ↳ | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/69842a780f6f7e7a2cde67fa?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[S&OP Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698420068da7a612045e17bd?utm_campaign=1052&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | On Site | Feb 04 |
 | ↳ | **[S&OP Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69842ec00f6f7e7a2cde6f01?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, USA | On Site | Feb 04 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/6983eba201214b4cdacc2939?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Feb 04 |
-| **[Webster Bank](https://www.websterbank.com)** | **[Intern, Credit Risk](https://jobright.ai/jobs/info/6983eb8101214b4cdacc28d1?utm_campaign=1052&utm_source=git)** | Southington, CT | Hybrid | Feb 04 |
-| **[State Industrial Products](http://stateindustrial.com)** | **[Finance Intern](https://jobright.ai/jobs/info/698427d50f6f7e7a2cde62fb?utm_campaign=1052&utm_source=git)** | Cleveland, OH, USA | On Site | Feb 04 |
-| **[Uline](http://www.uline.com)** | **[Credit Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/696828111703f05405a9ca88?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Feb 04 |
-| **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6967d0acf25a380066962cea?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 04 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Spring 2027 - Nashville, TN](https://jobright.ai/jobs/info/698407e801214b4cdacc63c9?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Feb 04 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / Boston](https://jobright.ai/jobs/info/696860321703f05405aa1279?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 04 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Intern Conversion: Early Careers: Retirement Actuarial Analyst – Montreal– 2027](https://jobright.ai/jobs/info/6983e7830f6f7e7a2cddd30d?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

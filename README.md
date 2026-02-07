@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith Transport Inc.](http://smithtransport.com)** | **[PPV/Excess Analyst Intern](https://jobright.ai/jobs/info/69879bc00f6f7e7a2ce2d854?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/698793588ca8121a3a6a18fa?utm_campaign=1052&utm_source=git)** | Galloway, NJ | On Site | Feb 07 |
 | **[Blue Ventis](blueventis.us)** | **[Audit Intern](https://jobright.ai/jobs/info/698790158da7a6120462a011?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | On Site | Feb 07 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/69878e650f6f7e7a2ce2ccd4?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/69868b978ca8121a3a68d90d?utm_campaign=1052&utm_source=git)** | Cobden, Ontario, Canada | On Site | Feb 06 |
 | **[Aquarian Holdings](http://www.aquarianlp.com)** | **[Aquarian Investments Intern - Real Estate (Summer 2027)](https://jobright.ai/jobs/info/69868b938ca8121a3a68d90a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Blue Ventis](blueventis.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6986ac130f6f7e7a2ce1ba78?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Feb 06 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/69868b378da7a61204615ceb?utm_campaign=1052&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

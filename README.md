@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Audit Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/69877c418ca8121a3a6a0bdc?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Revenue Accounting Systems](https://jobright.ai/jobs/info/69336be0764507023d1b5745?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | **[NexaCore Consulting](nexacoreconsulting.us)** | **[Advisory Intern](https://jobright.ai/jobs/info/698774b68ca8121a3a6a04ca?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/6933685ca0dde7020e2ed968?utm_campaign=1052&utm_source=git)** | Enfield, Nova Scotia, Canada | On Site | Feb 07 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Love's Travel Stops](http://www.loves.com)** | **[Tax Accounting Intern (Summer 2027)](https://jobright.ai/jobs/info/696af289db26b618950e63c2?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Feb 07 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69337b59f131d96e48463b94?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Feb 07 |
 | **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c319665adaee6c9bda7131?utm_campaign=1052&utm_source=git)** | Springville, AL | On Site | Feb 07 |
-| **[INB, National Association](https://www.inb.com/)** | **[Finance & Credit Internship (Summer 2026)](https://jobright.ai/jobs/info/698778e08ca8121a3a6a0b15?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Acctg](https://jobright.ai/jobs/info/6987401e0f6f7e7a2ce287fe?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Feb 07 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Finance - Summer 2026](https://jobright.ai/jobs/info/6959d979f1f8465b79f03875?utm_campaign=1052&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Budget & Sustainability](https://jobright.ai/jobs/info/69873ca68da7a612046253cc?utm_campaign=1052&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
@@ -108,8 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Capital Markets](https://jobright.ai/jobs/info/6986aa6f8ca8121a3a690455?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[Conning](http://www.conning.com/)** | **[Intern](https://jobright.ai/jobs/info/6986aa528ca8121a3a69041a?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
 | **[TD](https://www.td.com)** | **[Finance Operations Analyst I Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6986c9bb8ca8121a3a694392?utm_campaign=1052&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697b46161423772304eb6948?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 06 |
-| ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6985a449348f733a5c3a268e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 06 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6985a449348f733a5c3a268e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/6986a7cf8ca8121a3a68fba1?utm_campaign=1052&utm_source=git)** | West Lebanon, NH, US | On Site | Feb 06 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6986a62f0f6f7e7a2ce1b1c4?utm_campaign=1052&utm_source=git)** | Media, PA | On Site | Feb 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Financial Operations Internship](https://jobright.ai/jobs/info/696aece45fc86241853a2bff?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Feb 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Intern - Accounts Receivable](https://jobright.ai/jobs/info/698689cc0f6f7e7a2ce18b30?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Feb 06 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/698689830f6f7e7a2ce18b10?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Feb 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/69716150333b6343a14dea8d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Feb 06 |
+| **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6986bb098ca8121a3a692663?utm_campaign=1052&utm_source=git)** | Westlake,OH,US | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69337b59f131d96e48463b94?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Feb 07 |
+| **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c319665adaee6c9bda7131?utm_campaign=1052&utm_source=git)** | Springville, AL | On Site | Feb 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Acctg](https://jobright.ai/jobs/info/6987401e0f6f7e7a2ce287fe?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Feb 07 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Finance - Summer 2026](https://jobright.ai/jobs/info/6959d979f1f8465b79f03875?utm_campaign=1052&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Budget & Sustainability](https://jobright.ai/jobs/info/69873ca68da7a612046253cc?utm_campaign=1052&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[StandardAero](http://www.standardaero.com/)** | **[FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/696bc8ee350cf43803131597?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
 | **[Primetals Technologies](https://primetals.com)** | **[Accounting Associate Internship](https://jobright.ai/jobs/info/6986cf800f6f7e7a2ce1ff83?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Feb 06 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Corporate Finance](https://jobright.ai/jobs/info/698103eb7f40342e15d9dd8a?utm_campaign=1052&utm_source=git)** | Port Washington, NY | On Site | Feb 06 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Finance Intern](https://jobright.ai/jobs/info/698691a38ca8121a3a68e016?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Feb 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6986f19a8da7a6120462017a?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69868fb88da7a6120461623b?utm_campaign=1052&utm_source=git)** | Altamonte Springs, FL | On Site | Feb 06 |
 | **[Enact Mortgage Insurance](https://enactmi.com)** | **[Reinsurance Operations Analyst Intern](https://jobright.ai/jobs/info/696acea5350cf4380311e555?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 06 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6986d77e8da7a6120461e0bf?utm_campaign=1052&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac6955fc862418539e21c?utm_campaign=1052&utm_source=git)** | Novi, MI | On Site | Feb 06 |
 | **[INB, National Association](https://www.inb.com/)** | **[Finance & Credit Internship (Summer 2026)](https://jobright.ai/jobs/info/6986ba378ca8121a3a69255e?utm_campaign=1052&utm_source=git)** | Miami,FL,US | On Site | Feb 06 |
-| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Accounting](https://jobright.ai/jobs/info/6986b00a8da7a6120461953e?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
-| ↳ | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6986a5440f6f7e7a2ce1b061?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
+| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6986a5440f6f7e7a2ce1b061?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
+| ↳ | **[Summer Internship - Accounting](https://jobright.ai/jobs/info/6986b00a8da7a6120461953e?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6986a1878ca8121a3a68f1c5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/6986a26f8ca8121a3a68f32d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2027 Assurance Summer Intern](https://jobright.ai/jobs/info/6986a5608ca8121a3a68f822?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Feb 06 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986b3d98ca8121a3a691230?utm_campaign=1052&utm_source=git)** | US-IL-Chicago | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

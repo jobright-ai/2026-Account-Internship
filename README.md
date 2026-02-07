@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6986d77e8da7a6120461e0bf?utm_campaign=1052&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac6955fc862418539e21c?utm_campaign=1052&utm_source=git)** | Novi, MI | On Site | Feb 06 |
 | **[INB, National Association](https://www.inb.com/)** | **[Finance & Credit Internship (Summer 2026)](https://jobright.ai/jobs/info/6986ba378ca8121a3a69255e?utm_campaign=1052&utm_source=git)** | Miami,FL,US | On Site | Feb 06 |
-| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6986a5440f6f7e7a2ce1b061?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
-| ↳ | **[Summer Internship - Accounting](https://jobright.ai/jobs/info/6986b00a8da7a6120461953e?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
+| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Accounting](https://jobright.ai/jobs/info/6986b00a8da7a6120461953e?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
+| ↳ | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6986a5440f6f7e7a2ce1b061?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6986a1878ca8121a3a68f1c5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/6986a26f8ca8121a3a68f32d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2027 Assurance Summer Intern](https://jobright.ai/jobs/info/6986a5608ca8121a3a68f822?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Feb 06 |

@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6986a1878ca8121a3a68f1c5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/6986a26f8ca8121a3a68f32d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2027 Assurance Summer Intern](https://jobright.ai/jobs/info/6986a5608ca8121a3a68f822?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Feb 06 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986b3d98ca8121a3a691230?utm_campaign=1052&utm_source=git)** | US-IL-Chicago | On Site | Feb 06 |
-| ↳ | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986a8f20f6f7e7a2ce1b5db?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | On Site | Feb 06 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986a8f20f6f7e7a2ce1b5db?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | On Site | Feb 06 |
+| ↳ | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986b3d98ca8121a3a691230?utm_campaign=1052&utm_source=git)** | US-IL-Chicago | On Site | Feb 06 |
 | ↳ | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/6986aa398ca8121a3a6903eb?utm_campaign=1052&utm_source=git)** | Bowling Green, OH, US | On Site | Feb 06 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Finance](https://jobright.ai/jobs/info/6986b3550f6f7e7a2ce1cb13?utm_campaign=1052&utm_source=git)** | Englewood, Colorado, United States | On Site | Feb 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/6971b530587dfa0bb55f7c64?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |

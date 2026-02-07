@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Treasury](https://jobright.ai/jobs/info/69334e96764507023d1b3f95?utm_campaign=1052&utm_source=git)** | Clayton, MO | On Site | Feb 07 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 07 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Tax Accounting Intern (Summer 2027)](https://jobright.ai/jobs/info/696af289db26b618950e63c2?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Feb 07 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69337b59f131d96e48463b94?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Feb 07 |
 | **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c319665adaee6c9bda7131?utm_campaign=1052&utm_source=git)** | Springville, AL | On Site | Feb 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Acctg](https://jobright.ai/jobs/info/6987401e0f6f7e7a2ce287fe?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Feb 07 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Deal Team Specialist Intern](https://jobright.ai/jobs/info/6986be590f6f7e7a2ce1d906?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6986c2178ca8121a3a69300f?utm_campaign=1052&utm_source=git)** | Westlake, OH | Hybrid | Feb 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/69869e948da7a61204617b9b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Summer 2027](https://jobright.ai/jobs/info/69869db18ca8121a3a68eb82?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | **[Alerus](https://www.alerus.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/69869d2a8ca8121a3a68eab5?utm_campaign=1052&utm_source=git)** | Minnetonka, Minnesota, United States | On Site | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Finance](https://jobright.ai/jobs/info/6986bc2f8da7a6120461a7f8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/6986ba3e0f6f7e7a2ce1d4d7?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6986a5440f6f7e7a2ce1b061?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 | ↳ | **[Summer Internship - Accounting](https://jobright.ai/jobs/info/6986b00a8da7a6120461953e?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6986a1878ca8121a3a68f1c5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
-| ↳ | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/6986a26f8ca8121a3a68f32d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
-| ↳ | **[2027 Assurance Summer Intern](https://jobright.ai/jobs/info/6986a5608ca8121a3a68f822?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Deposit Operations Internship](https://jobright.ai/jobs/info/696ae8525fc86241853a2061?utm_campaign=1052&utm_source=git)** | Middletown, CT | On Site | Feb 07 |
+| **[Texas Instruments](http://www.ti.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/696afee7350cf43803123d64?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
+| **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/69870b7b0f6f7e7a2ce2497f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 07 |
+| **[Veltrana Group](veltranagroup.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/698709e00f6f7e7a2ce245ff?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Feb 07 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Corporate Finance (Hybrid)](https://jobright.ai/jobs/info/698707048ca8121a3a698ab6?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 07 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986df5f8da7a6120461ee2f?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Feb 06 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986dde28da7a6120461ebde?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 06 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986dcd58ca8121a3a6964b5?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Feb 06 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Investment Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/6986d0240f6f7e7a2ce20122?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Feb 06 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Accounts Receivable](https://jobright.ai/jobs/info/6986cfc38da7a6120461d1ab?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/6986cf6b8da7a6120461d0db?utm_campaign=1052&utm_source=git)** | Bowling Green, OH | On Site | Feb 06 |
-| ↳ | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986cf030f6f7e7a2ce1fe5e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[MCE - Magnetic Component Engineering](https://www.mceproducts.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6983e39d348f733a5c376da1?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Finance](https://jobright.ai/jobs/info/6986c2358ca8121a3a693020?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[Wolfe Research, LLC](http://www.wolferesearch.com)** | **[Equity Research Senior Associate/Vice President- Internet](https://jobright.ai/jobs/info/6986c1548ca8121a3a692fb0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 06 |
@@ -112,8 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Fund Financial Operations Intern](https://jobright.ai/jobs/info/696ae1a2350cf4380312082e?utm_campaign=1052&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 06 |
 | **[ATKG](https://atkg.com/)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/696acdae5fc862418539ed23?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 06 |
 | **[StandardAero](http://www.standardaero.com/)** | **[FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/696bc8ee350cf43803131597?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
-| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[Estimating Intern](https://jobright.ai/jobs/info/6986f06a8ca8121a3a69758f?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2027](https://jobright.ai/jobs/info/698695d30f6f7e7a2ce19c72?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[Primetals Technologies](https://primetals.com)** | **[Accounting Associate Internship](https://jobright.ai/jobs/info/6986cf800f6f7e7a2ce1ff83?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Feb 06 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Corporate Finance](https://jobright.ai/jobs/info/698103eb7f40342e15d9dd8a?utm_campaign=1052&utm_source=git)** | Port Washington, NY | On Site | Feb 06 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Finance Intern](https://jobright.ai/jobs/info/698691a38ca8121a3a68e016?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6986b2168da7a6120461983f?utm_campaign=1052&utm_source=git)** | US-CT-West Hartford | On Site | Feb 06 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6986af940f6f7e7a2ce1bfca?utm_campaign=1052&utm_source=git)** | West Hartford, CT, US | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Feb 06 |
-| ↳ | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/696ac5265fc862418539df66?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 06 |
-| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Deposit Operations](https://jobright.ai/jobs/info/696aa308350cf438031191ab?utm_campaign=1052&utm_source=git)** | Union, NJ | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/69528ea0f1f8465b79e9e4b7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[PPV/Excess Analyst Intern](https://jobright.ai/jobs/info/69879bc00f6f7e7a2ce2d854?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/698793588ca8121a3a6a18fa?utm_campaign=1052&utm_source=git)** | Galloway, NJ | On Site | Feb 07 |
 | **[Blue Ventis](blueventis.us)** | **[Audit Intern](https://jobright.ai/jobs/info/698790158da7a6120462a011?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | On Site | Feb 07 |
@@ -86,10 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Accounting](https://jobright.ai/jobs/info/693354bfa0dde7020e2ecb73?utm_campaign=1052&utm_source=git)** | Carson, CA | On Site | Feb 07 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/6948b81ed1953b5d11c1bc70?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Special Servicing Intern- Summer 2026](https://jobright.ai/jobs/info/697c68483f57a335696613fc?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[Pitney Bowes](https://www.pitneybowes.com)** | **[Finance & Operations Cost Analysis Intern](https://jobright.ai/jobs/info/69879e9c8ca8121a3a6a238a?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Feb 07 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Deposit Operations Internship](https://jobright.ai/jobs/info/696ae8525fc86241853a2061?utm_campaign=1052&utm_source=git)** | Middletown, CT | On Site | Feb 07 |
 | **[Texas Instruments](http://www.ti.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/696afee7350cf43803123d64?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/69870b7b0f6f7e7a2ce2497f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 07 |
-| **[Veltrana Group](veltranagroup.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/698709e00f6f7e7a2ce245ff?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Feb 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Corporate Finance (Hybrid)](https://jobright.ai/jobs/info/698707048ca8121a3a698ab6?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 07 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986df5f8da7a6120461ee2f?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Feb 06 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986dde28da7a6120461ebde?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 06 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Capital Markets](https://jobright.ai/jobs/info/6986aa6f8ca8121a3a690455?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[Conning](http://www.conning.com/)** | **[Intern](https://jobright.ai/jobs/info/6986aa528ca8121a3a69041a?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
 | **[TD](https://www.td.com)** | **[Finance Operations Analyst I Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6986c9bb8ca8121a3a694392?utm_campaign=1052&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6985a449348f733a5c3a268e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/6986a7cf8ca8121a3a68fba1?utm_campaign=1052&utm_source=git)** | West Lebanon, NH, US | On Site | Feb 06 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6986a62f0f6f7e7a2ce1b1c4?utm_campaign=1052&utm_source=git)** | Media, PA | On Site | Feb 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Financial Operations Internship](https://jobright.ai/jobs/info/696aece45fc86241853a2bff?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Feb 06 |

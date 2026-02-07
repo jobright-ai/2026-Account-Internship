@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MCE - Magnetic Component Engineering](https://www.mceproducts.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6983e39d348f733a5c376da1?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Feb 06 |
+| **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Finance](https://jobright.ai/jobs/info/6986c2358ca8121a3a693020?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[Wolfe Research, LLC](http://www.wolferesearch.com)** | **[Equity Research Senior Associate/Vice President- Internet](https://jobright.ai/jobs/info/6986c1548ca8121a3a692fb0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[United Way](http://www.unitedway.org)** | **[International Finance & Accounting Intern](https://jobright.ai/jobs/info/6986bdf08da7a6120461a9e6?utm_campaign=1052&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Accounting](https://jobright.ai/jobs/info/6986bb238ca8121a3a692697?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
@@ -69,16 +71,17 @@ For a complete list, click the following sortable link below:
 | **[maurices](https://www.maurices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6986acda8da7a612046190d0?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Feb 06 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Capital Markets](https://jobright.ai/jobs/info/6986aa6f8ca8121a3a690455?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[Conning](http://www.conning.com/)** | **[Intern](https://jobright.ai/jobs/info/6986aa528ca8121a3a69041a?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
+| **[TD](https://www.td.com)** | **[Finance Operations Analyst I Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6986c9bb8ca8121a3a694392?utm_campaign=1052&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697b46161423772304eb6948?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6985a449348f733a5c3a268e?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/6986a7cf8ca8121a3a68fba1?utm_campaign=1052&utm_source=git)** | West Lebanon, NH, US | On Site | Feb 06 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6986a62f0f6f7e7a2ce1b1c4?utm_campaign=1052&utm_source=git)** | Media, PA | On Site | Feb 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Financial Operations Internship](https://jobright.ai/jobs/info/696aece45fc86241853a2bff?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Feb 06 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69782eb188e2b47213bc3557?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 06 |
+| **[Aviation & Missile Solutions](https://ams3sx.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6986c4cf0f6f7e7a2ce1e896?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6986a3e08ca8121a3a68f5ab?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | ↳ | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69860faa0f6f7e7a2ce0ed97?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 06 |
-| **[SONS' INDIA SOFTWARE PVT. LTD.](http://www.sonsindia.co.in)** | **[INTERN - FINANCE](https://jobright.ai/jobs/info/6986c1dd8ca8121a3a692ff0?utm_campaign=1052&utm_source=git)** | Thomasville, GA | On Site | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6986a2808ca8121a3a68f33c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
+| ↳ | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6986a2808ca8121a3a68f33c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[Mission Wealth](https://missionwealth.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6986a2678da7a61204617ecb?utm_campaign=1052&utm_source=git)** | Santa Barbara, CA, US | On Site | Feb 06 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Digital Transformation & Operations Procurement](https://jobright.ai/jobs/info/6986a10b8ca8121a3a68f0e2?utm_campaign=1052&utm_source=git)** | Milpitas, CA | Hybrid | Feb 06 |
 | **[Options For All](http://optionsforall.org)** | **[Financial Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6986a0c98da7a61204617cbb?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
@@ -89,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/69869e948da7a61204617b9b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Summer 2027](https://jobright.ai/jobs/info/69869db18ca8121a3a68eb82?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | **[Alerus](https://www.alerus.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/69869d2a8ca8121a3a68eab5?utm_campaign=1052&utm_source=git)** | Minnetonka, Minnesota, United States | On Site | Feb 06 |
-| **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Finance](https://jobright.ai/jobs/info/6986bc2f8da7a6120461a7f8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/6986ba3e0f6f7e7a2ce1d4d7?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[US Tax Intern - Summer 2026](https://jobright.ai/jobs/info/696ab66cdb26b618950df40b?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/69869bc80f6f7e7a2ce1a693?utm_campaign=1052&utm_source=git)** | Mount Laurel, NJ | Hybrid | Feb 06 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Fresh Del Monte](http://freshdelmonte.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/6986a3710f6f7e7a2ce1ad86?utm_campaign=1052&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac6955fc862418539e21c?utm_campaign=1052&utm_source=git)** | Novi, MI | On Site | Feb 06 |
 | **[INB, National Association](https://www.inb.com/)** | **[Finance & Credit Internship (Summer 2026)](https://jobright.ai/jobs/info/6986ba378ca8121a3a69255e?utm_campaign=1052&utm_source=git)** | Miami,FL,US | On Site | Feb 06 |
-| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6986a5440f6f7e7a2ce1b061?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
-| ↳ | **[Summer Internship - Accounting](https://jobright.ai/jobs/info/6986b00a8da7a6120461953e?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
+| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Accounting](https://jobright.ai/jobs/info/6986b00a8da7a6120461953e?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
+| ↳ | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6986a5440f6f7e7a2ce1b061?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6986a1878ca8121a3a68f1c5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/6986a26f8ca8121a3a68f32d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2027 Assurance Summer Intern](https://jobright.ai/jobs/info/6986a5608ca8121a3a68f822?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6986929c8da7a6120461673d?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Feb 06 |
 | **[Sentara Health](http://www.sentara.com)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/698676688da7a6120461403c?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Feb 06 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Red Wing, MN](https://jobright.ai/jobs/info/696abf81350cf4380311cc9d?utm_campaign=1052&utm_source=git)** | Red Wing, MN | Hybrid | Feb 06 |
-| **[Knapheide](http://knapheide.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/697b372e2e3998574cf8d86c?utm_campaign=1052&utm_source=git)** | Quincy, IL | On Site | Feb 06 |
-| **[Magna International](http://www.magna.com/)** | **[Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696bae3f350cf4380312f841?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Acctg](https://jobright.ai/jobs/info/6987401e0f6f7e7a2ce287fe?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Feb 07 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - Finance - Summer 2026](https://jobright.ai/jobs/info/6959d979f1f8465b79f03875?utm_campaign=1052&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
+| **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Budget & Sustainability](https://jobright.ai/jobs/info/69873ca68da7a612046253cc?utm_campaign=1052&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
+| **[Precision Castparts](http://precast.com)** | **[Accounting Intern (Co-Op) - January 2026 - August 2026](https://jobright.ai/jobs/info/694f2368a2668b7f54525017?utm_campaign=1052&utm_source=git)** | Lake Oswego, OR | On Site | Feb 07 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Accounting](https://jobright.ai/jobs/info/693354bfa0dde7020e2ecb73?utm_campaign=1052&utm_source=git)** | Carson, CA | On Site | Feb 07 |
+| **[Brookfield](https://bam.brookfield.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/6948b81ed1953b5d11c1bc70?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 07 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Special Servicing Intern- Summer 2026](https://jobright.ai/jobs/info/697c68483f57a335696613fc?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Deposit Operations Internship](https://jobright.ai/jobs/info/696ae8525fc86241853a2061?utm_campaign=1052&utm_source=git)** | Middletown, CT | On Site | Feb 07 |
 | **[Texas Instruments](http://www.ti.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/696afee7350cf43803123d64?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/69870b7b0f6f7e7a2ce2497f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 07 |
@@ -95,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[MVB Bank](https://mvbbanking.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69782eb188e2b47213bc3557?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Aviation & Missile Solutions](https://ams3sx.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6986c4cf0f6f7e7a2ce1e896?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6986a3e08ca8121a3a68f5ab?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
-| ↳ | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69860faa0f6f7e7a2ce0ed97?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | ↳ | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6986a2808ca8121a3a68f33c?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[Mission Wealth](https://missionwealth.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6986a2678da7a61204617ecb?utm_campaign=1052&utm_source=git)** | Santa Barbara, CA, US | On Site | Feb 06 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Digital Transformation & Operations Procurement](https://jobright.ai/jobs/info/6986a10b8ca8121a3a68f0e2?utm_campaign=1052&utm_source=git)** | Milpitas, CA | Hybrid | Feb 06 |
@@ -107,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/69869e948da7a61204617b9b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Summer 2027](https://jobright.ai/jobs/info/69869db18ca8121a3a68eb82?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | **[Alerus](https://www.alerus.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/69869d2a8ca8121a3a68eab5?utm_campaign=1052&utm_source=git)** | Minnetonka, Minnesota, United States | On Site | Feb 06 |
+| **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Finance](https://jobright.ai/jobs/info/6986bc2f8da7a6120461a7f8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/6986ba3e0f6f7e7a2ce1d4d7?utm_campaign=1052&utm_source=git)** | United States | Hybrid | Feb 06 |
 | **[Magna International](http://www.magna.com/)** | **[US Tax Intern - Summer 2026](https://jobright.ai/jobs/info/696ab66cdb26b618950df40b?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/69869bc80f6f7e7a2ce1a693?utm_campaign=1052&utm_source=git)** | Mount Laurel, NJ | Hybrid | Feb 06 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6986a1878ca8121a3a68f1c5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2026 Assurance Summer Intern (Summer Leadership Program)](https://jobright.ai/jobs/info/6986a26f8ca8121a3a68f32d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 | ↳ | **[2027 Assurance Summer Intern](https://jobright.ai/jobs/info/6986a5608ca8121a3a68f822?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Feb 06 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986a8f20f6f7e7a2ce1b5db?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | On Site | Feb 06 |
-| ↳ | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986b3d98ca8121a3a691230?utm_campaign=1052&utm_source=git)** | US-IL-Chicago | On Site | Feb 06 |
-| ↳ | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/6986aa398ca8121a3a6903eb?utm_campaign=1052&utm_source=git)** | Bowling Green, OH, US | On Site | Feb 06 |
-| **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Finance](https://jobright.ai/jobs/info/6986b3550f6f7e7a2ce1cb13?utm_campaign=1052&utm_source=git)** | Englewood, Colorado, United States | On Site | Feb 06 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/6971b530587dfa0bb55f7c64?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6986b2168da7a6120461983f?utm_campaign=1052&utm_source=git)** | US-CT-West Hartford | On Site | Feb 06 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6986af940f6f7e7a2ce1bfca?utm_campaign=1052&utm_source=git)** | West Hartford, CT, US | On Site | Feb 06 |
-| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Feb 06 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6986b3d98ca8121a3a691230?utm_campaign=1052&utm_source=git)** | US-IL-Chicago | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

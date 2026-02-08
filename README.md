@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/6986cf6b8da7a6120461d0db?utm_campaign=1052&utm_source=git)** | Bowling Green, OH | On Site | Feb 06 |
 | **[MCE - Magnetic Component Engineering](https://www.mceproducts.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6983e39d348f733a5c376da1?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/698821198da7a61204633f7f?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
-| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/698823338ca8121a3a6ab1f4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69881c318ca8121a3a6aa7b2?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Finance](https://jobright.ai/jobs/info/6986c2358ca8121a3a693020?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69881a858da7a612046332fc?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Accounting Intern](https://jobright.ai/jobs/info/6986aeda0f6f7e7a2ce1bea0?utm_campaign=1052&utm_source=git)** | West Hartford, CT | On Site | Feb 06 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/69868b978ca8121a3a68d90d?utm_campaign=1052&utm_source=git)** | Cobden, Ontario, Canada | On Site | Feb 06 |
 | **[Aquarian Holdings](http://www.aquarianlp.com)** | **[Aquarian Investments Intern - Real Estate (Summer 2027)](https://jobright.ai/jobs/info/69868b938ca8121a3a68d90a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 06 |
+| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/69868b378da7a61204615ceb?utm_campaign=1052&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

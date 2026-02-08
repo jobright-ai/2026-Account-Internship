@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/698885758ca8121a3a6b06a3?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 08 |
+| **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c317e25adaee6c9bda6e55?utm_campaign=1052&utm_source=git)** | Haleyville, AL | On Site | Feb 08 |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/6988808e8da7a612046390d8?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 08 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/691d19850b7dff73414ffbca?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Feb 08 |
-| **[Blue Ventis](blueventis.us)** | **[Audit Intern](https://jobright.ai/jobs/info/69885b110f6f7e7a2ce3a455?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Feb 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Delivery Group Internship – Philadelphia - 2026](https://jobright.ai/jobs/info/691709623ea85638ae1c70a5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 08 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (St. Louis)](https://jobright.ai/jobs/info/696b774c350cf4380312c905?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Feb 08 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/69884f7b0f6f7e7a2ce390e6?utm_campaign=1052&utm_source=git)** | Illinois, United States | On Site | Feb 08 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/693343ffa0dde7020e2ebfad?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Treasury](https://jobright.ai/jobs/info/698766d18ca8121a3a69ee9e?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Feb 07 |
 | **[Veltrana Group](veltranagroup.us)** | **[Audit Intern](https://jobright.ai/jobs/info/6987632a0f6f7e7a2ce2a4c9?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Feb 07 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Actuary & Business Intern](https://jobright.ai/jobs/info/69875ee48ca8121a3a69eb39?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Treasury](https://jobright.ai/jobs/info/69334e96764507023d1b3f95?utm_campaign=1052&utm_source=git)** | Clayton, MO | On Site | Feb 07 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 07 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Tax Accounting Intern (Summer 2027)](https://jobright.ai/jobs/info/696af289db26b618950e63c2?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Feb 07 |
@@ -93,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Accounting](https://jobright.ai/jobs/info/693354bfa0dde7020e2ecb73?utm_campaign=1052&utm_source=git)** | Carson, CA | On Site | Feb 07 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/6948b81ed1953b5d11c1bc70?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Special Servicing Intern- Summer 2026](https://jobright.ai/jobs/info/697c68483f57a335696613fc?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Payment Operations](https://jobright.ai/jobs/info/6986272b8da7a6120460d63c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Finance & Operations Cost Analysis Intern](https://jobright.ai/jobs/info/69879e9c8ca8121a3a6a238a?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Feb 07 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Deposit Operations Internship](https://jobright.ai/jobs/info/696ae8525fc86241853a2061?utm_campaign=1052&utm_source=git)** | Middletown, CT | On Site | Feb 07 |
 | **[Texas Instruments](http://www.ti.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/696afee7350cf43803123d64?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Fund Financial Operations Intern](https://jobright.ai/jobs/info/696ae1a2350cf4380312082e?utm_campaign=1052&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 06 |
 | **[ATKG](https://atkg.com/)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/696acdae5fc862418539ed23?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 06 |
 | **[StandardAero](http://www.standardaero.com/)** | **[FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/696bc8ee350cf43803131597?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
-| **[Primetals Technologies](https://primetals.com)** | **[Accounting Associate Internship](https://jobright.ai/jobs/info/6986cf800f6f7e7a2ce1ff83?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Feb 06 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Corporate Finance](https://jobright.ai/jobs/info/698103eb7f40342e15d9dd8a?utm_campaign=1052&utm_source=git)** | Port Washington, NY | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

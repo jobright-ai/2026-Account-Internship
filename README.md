@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McConnell Jones](https://mcconnelljones.com/)** | **[Audit Intern ~ Houston](https://jobright.ai/jobs/info/69880c5a8ca8121a3a6a854d?utm_campaign=1052&utm_source=git)** | Houston Office - Houston, TX 77081 | On Site | Feb 07 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Advisory Intern](https://jobright.ai/jobs/info/6987e1868da7a6120462d889?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[National Real Estate Intern - Summer 2026](https://jobright.ai/jobs/info/69528ea0f1f8465b79e9e4b7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[PPV/Excess Analyst Intern](https://jobright.ai/jobs/info/69879bc00f6f7e7a2ce2d854?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 07 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Love's Travel Stops](http://www.loves.com)** | **[Tax Accounting Intern (Summer 2027)](https://jobright.ai/jobs/info/696af289db26b618950e63c2?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Feb 07 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69337b59f131d96e48463b94?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Feb 07 |
 | **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c319665adaee6c9bda7131?utm_campaign=1052&utm_source=git)** | Springville, AL | On Site | Feb 07 |
-| **[INB, National Association](https://www.inb.com/)** | **[Finance & Credit Internship (Summer 2026)](https://jobright.ai/jobs/info/698800b08ca8121a3a6a7a1c?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Acctg](https://jobright.ai/jobs/info/6987401e0f6f7e7a2ce287fe?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Feb 07 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Finance - Summer 2026](https://jobright.ai/jobs/info/6959d979f1f8465b79f03875?utm_campaign=1052&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Budget & Sustainability](https://jobright.ai/jobs/info/69873ca68da7a612046253cc?utm_campaign=1052&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |

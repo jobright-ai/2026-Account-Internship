@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.us)** | **[Audit Intern](https://jobright.ai/jobs/info/69885b110f6f7e7a2ce3a455?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Feb 08 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Delivery Group Internship – Philadelphia - 2026](https://jobright.ai/jobs/info/691709623ea85638ae1c70a5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 08 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (St. Louis)](https://jobright.ai/jobs/info/696b774c350cf4380312c905?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Feb 08 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/69884f7b0f6f7e7a2ce390e6?utm_campaign=1052&utm_source=git)** | Illinois, United States | On Site | Feb 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Strategic Business Operations - Cost to Serve & Financial Modeling](https://jobright.ai/jobs/info/6988486b8da7a61204636568?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
 | **[Lynco Products](http://www.lyncoproducts.net)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69883abd8da7a61204635a36?utm_campaign=1052&utm_source=git)** | IL - Milan HQ - Milan, IL 61264 | On Site | Feb 07 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Veltrana Group](veltranagroup.us)** | **[Audit Intern](https://jobright.ai/jobs/info/6987632a0f6f7e7a2ce2a4c9?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Feb 07 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Actuary & Business Intern](https://jobright.ai/jobs/info/69875ee48ca8121a3a69eb39?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Treasury](https://jobright.ai/jobs/info/69334e96764507023d1b3f95?utm_campaign=1052&utm_source=git)** | Clayton, MO | On Site | Feb 07 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Insurance and Actuary Intern](https://jobright.ai/jobs/info/698784578da7a61204629ba6?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 07 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Tax Accounting Intern (Summer 2027)](https://jobright.ai/jobs/info/696af289db26b618950e63c2?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Feb 07 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69337b59f131d96e48463b94?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Feb 07 |
@@ -95,14 +97,13 @@ For a complete list, click the following sortable link below:
 | **[Texas Instruments](http://www.ti.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/696afee7350cf43803123d64?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/69870b7b0f6f7e7a2ce2497f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Corporate Finance (Hybrid)](https://jobright.ai/jobs/info/698707048ca8121a3a698ab6?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 07 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Customer Finance Intern](https://jobright.ai/jobs/info/696878ce639b452fb57e2518?utm_campaign=1052&utm_source=git)** | Malvern, PA | Hybrid | Feb 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Intern – Summer 2027](https://jobright.ai/jobs/info/69883d9e8da7a61204635dcc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Global Credit Risk](https://jobright.ai/jobs/info/6988400b0f6f7e7a2ce3880c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986df5f8da7a6120461ee2f?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Feb 06 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986dde28da7a6120461ebde?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Fedral Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6988353a8ca8121a3a6abf2f?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Feb 06 |
-| **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986dcd58ca8121a3a6964b5?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Feb 06 |
+| ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986dcd58ca8121a3a6964b5?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Feb 06 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/6986dc968ca8121a3a69647c?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/6988326a0f6f7e7a2ce3746d?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Feb 06 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/6986d7338ca8121a3a695c16?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Feb 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Dallas)](https://jobright.ai/jobs/info/698831608da7a61204634a40?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/698831f00f6f7e7a2ce36faf?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Primetals Technologies](https://primetals.com)** | **[Accounting Associate Internship](https://jobright.ai/jobs/info/6986cf800f6f7e7a2ce1ff83?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Feb 06 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Corporate Finance](https://jobright.ai/jobs/info/698103eb7f40342e15d9dd8a?utm_campaign=1052&utm_source=git)** | Port Washington, NY | On Site | Feb 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6986f19a8da7a6120462017a?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 06 |
-| **[Everstory Partners](http://www.everstorypartners.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69868fb88da7a6120461623b?utm_campaign=1052&utm_source=git)** | Altamonte Springs, FL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/69884f7b0f6f7e7a2ce390e6?utm_campaign=1052&utm_source=git)** | Illinois, United States | On Site | Feb 08 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Strategic Business Operations - Cost to Serve & Financial Modeling](https://jobright.ai/jobs/info/6988486b8da7a61204636568?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
 | **[Lynco Products](http://www.lyncoproducts.net)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69883abd8da7a61204635a36?utm_campaign=1052&utm_source=git)** | IL - Milan HQ - Milan, IL 61264 | On Site | Feb 07 |
 | **[McConnell Jones](https://mcconnelljones.com/)** | **[Audit Intern ~ Houston](https://jobright.ai/jobs/info/69880c5a8ca8121a3a6a854d?utm_campaign=1052&utm_source=git)** | Houston Office - Houston, TX 77081 | On Site | Feb 07 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Advisory Intern](https://jobright.ai/jobs/info/6987e1868da7a6120462d889?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/698832180f6f7e7a2ce37126?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | **[MCE - Magnetic Component Engineering](https://www.mceproducts.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6983e39d348f733a5c376da1?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/698821198da7a61204633f7f?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
-| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69881c318ca8121a3a6aa7b2?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Finance](https://jobright.ai/jobs/info/6986c2358ca8121a3a693020?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69881a858da7a612046332fc?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
 | **[Wolfe Research, LLC](http://www.wolferesearch.com)** | **[Equity Research Senior Associate/Vice President- Internet](https://jobright.ai/jobs/info/6986c1548ca8121a3a692fb0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Corporate Finance](https://jobright.ai/jobs/info/698103eb7f40342e15d9dd8a?utm_campaign=1052&utm_source=git)** | Port Washington, NY | On Site | Feb 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6986f19a8da7a6120462017a?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69868fb88da7a6120461623b?utm_campaign=1052&utm_source=git)** | Altamonte Springs, FL | On Site | Feb 06 |
-| **[Enact Mortgage Insurance](https://enactmi.com)** | **[Reinsurance Operations Analyst Intern](https://jobright.ai/jobs/info/696acea5350cf4380311e555?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

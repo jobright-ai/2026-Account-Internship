@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Margin Matching](https://jobright.ai/jobs/info/698900e10f6f7e7a2ce42248?utm_campaign=1052&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 08 |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Advisory Intern](https://jobright.ai/jobs/info/6988fb3a8da7a6120463f1c5?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 08 |
+| **[Equinix](http://www.equinix.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6988f7a28ca8121a3a6b586d?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 08 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6988eecf8da7a6120463e10e?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 08 |
 | **[Village of Mount Prospect](http://www.mountprospect.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/6988ee6b8da7a6120463e0e5?utm_campaign=1052&utm_source=git)** | Mount Prospect, IL | On Site | Feb 08 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6988ee608ca8121a3a6b4f2b?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Korean Business Network (KBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcd435fc86241853b1f08?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd0f15fc86241853b1f7f?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 08 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Risk & Sales Operations Intern](https://jobright.ai/jobs/info/6988a41d0f6f7e7a2ce3ddc1?utm_campaign=1052&utm_source=git)** | Oklahoma, United States | Remote | Feb 08 |
-| **[PwC](http://pwc.com)** | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696beb4c350cf438031323e2?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 08 |
-| ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bec71350cf43803132474?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 08 |
-| ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bceec350cf438031316c1?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

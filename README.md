@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[AutoNation](http://autonation.com/)** | **[Finance Analytics  Intern](https://jobright.ai/jobs/info/6986b0188ca8121a3a690f02?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 06 |
 | **[MetroNational](https://memorialcity.com)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/6986aedc8da7a61204619385?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[maurices](https://www.maurices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6986acda8da7a612046190d0?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Feb 06 |
-| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Capital Markets](https://jobright.ai/jobs/info/6986aa6f8ca8121a3a690455?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[Conning](http://www.conning.com/)** | **[Intern](https://jobright.ai/jobs/info/6986aa528ca8121a3a69041a?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
 | **[TD](https://www.td.com)** | **[Finance Operations Analyst I Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6986c9bb8ca8121a3a694392?utm_campaign=1052&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 06 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/6986a7cf8ca8121a3a68fba1?utm_campaign=1052&utm_source=git)** | West Lebanon, NH, US | On Site | Feb 06 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Accounting Intern](https://jobright.ai/jobs/info/6986aeda0f6f7e7a2ce1bea0?utm_campaign=1052&utm_source=git)** | West Hartford, CT | On Site | Feb 06 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/69868b978ca8121a3a68d90d?utm_campaign=1052&utm_source=git)** | Cobden, Ontario, Canada | On Site | Feb 06 |
 | **[Aquarian Holdings](http://www.aquarianlp.com)** | **[Aquarian Investments Intern - Real Estate (Summer 2027)](https://jobright.ai/jobs/info/69868b938ca8121a3a68d90a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Blue Ventis](blueventis.us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6986ac130f6f7e7a2ce1ba78?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Feb 06 |
+| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/69868b378da7a61204615ceb?utm_campaign=1052&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
+| **[Voya Financial](https://www.voya.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/696ac402350cf4380311d46d?utm_campaign=1052&utm_source=git)** | Hartford, CT | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

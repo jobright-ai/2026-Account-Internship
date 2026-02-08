@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/691d19850b7dff73414ffbca?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Feb 08 |
 | **[Blue Ventis](blueventis.us)** | **[Audit Intern](https://jobright.ai/jobs/info/69885b110f6f7e7a2ce3a455?utm_campaign=1052&utm_source=git)** | Massachusetts, United States | Remote | Feb 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Actuarial Delivery Group Internship – Philadelphia - 2026](https://jobright.ai/jobs/info/691709623ea85638ae1c70a5?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 08 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (St. Louis)](https://jobright.ai/jobs/info/696b774c350cf4380312c905?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StandardAero](http://www.standardaero.com/)** | **[FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/696bc8ee350cf43803131597?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
 | **[Primetals Technologies](https://primetals.com)** | **[Accounting Associate Internship](https://jobright.ai/jobs/info/6986cf800f6f7e7a2ce1ff83?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Feb 06 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Corporate Finance](https://jobright.ai/jobs/info/698103eb7f40342e15d9dd8a?utm_campaign=1052&utm_source=git)** | Port Washington, NY | On Site | Feb 06 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6986f19a8da7a6120462017a?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[maurices](https://www.maurices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6986acda8da7a612046190d0?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Feb 06 |
 | **[Conning](http://www.conning.com/)** | **[Intern](https://jobright.ai/jobs/info/6986aa528ca8121a3a69041a?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
 | **[TD](https://www.td.com)** | **[Finance Operations Analyst I Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6986c9bb8ca8121a3a694392?utm_campaign=1052&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Feb 06 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/6986a7cf8ca8121a3a68fba1?utm_campaign=1052&utm_source=git)** | West Lebanon, NH, US | On Site | Feb 06 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6986a62f0f6f7e7a2ce1b1c4?utm_campaign=1052&utm_source=git)** | Media, PA | On Site | Feb 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Financial Operations Internship](https://jobright.ai/jobs/info/696aece45fc86241853a2bff?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Feb 06 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69782eb188e2b47213bc3557?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Aquarian Holdings](http://www.aquarianlp.com)** | **[Aquarian Investments Intern - Real Estate (Summer 2027)](https://jobright.ai/jobs/info/69868b938ca8121a3a68d90a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/69868b378da7a61204615ceb?utm_campaign=1052&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
 | **[Voya Financial](https://www.voya.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/696ac402350cf4380311d46d?utm_campaign=1052&utm_source=git)** | Hartford, CT | Remote | Feb 06 |
+| **[Magna International](http://www.magna.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696baecddb26b618950f2bd3?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

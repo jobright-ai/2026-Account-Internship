@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd61e5fc86241853b2041?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 08 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c01ba5fc86241853b48fe?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 08 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696be78f5fc86241853b2afc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 08 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696becdd5fc86241853b2ce3?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Feb 08 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696beb195fc86241853b2bf0?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
+| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696becdd5fc86241853b2ce3?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Feb 08 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bebc75fc86241853b2c48?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 08 |
 | ↳ | **[Tax Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696be924db26b618950f55eb?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
 | ↳ | **[Audit Intern - Winter 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcf40db26b618950f48ce?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |

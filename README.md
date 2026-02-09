@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Accounting](https://jobright.ai/jobs/info/696d99a05fc86241853c6b08?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Feb 09 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Tax Internship - Silicon Valley](https://jobright.ai/jobs/info/6989efee4db8972cecff379c?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
+| ↳ | **[Summer 2026 Audit Internship - San Francisco](https://jobright.ai/jobs/info/6989ef4147434001cc682b48?utm_campaign=1052&utm_source=git)** | San Francisco County, CA | On Site | Feb 09 |
 | **[Circle](https://www.circle.com)** | **[Treasury Execution and Digital Operations Intern](https://jobright.ai/jobs/info/6989eeda47434001cc682a94?utm_campaign=1052&utm_source=git)** | Miami - remote first in US | Remote | Feb 09 |
 | ↳ | **[Treasury Execution and Digital Operations Intern](https://jobright.ai/jobs/info/6989ede50f6f7e7a2ce5071d?utm_campaign=1052&utm_source=git)** | Boise - remote first in US | Remote | Feb 09 |
 | **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Accounting Intern- Summer 2026](https://jobright.ai/jobs/info/6989ed1c0f6f7e7a2ce504d8?utm_campaign=1052&utm_source=git)** | Girl Scouts of Eastern Missouri - SAINT LOUIS, MO 63146 | Hybrid | Feb 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bcf98db26b618950f48f5?utm_campaign=1052&utm_source=git)** | Silicon Valley, CA | On Site | Feb 08 |
 | ↳ | **[Audit Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696c0583db26b618950f73cb?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Feb 08 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bceb7350cf438031316b2?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Feb 08 |
-| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68c9fa0bf61c922772a71a95?utm_campaign=1052&utm_source=git)** | Pensacola, FL | On Site | Feb 08 |
-| ↳ | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68cea481dbd9fb154ede19ac?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 08 |
-| **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bed8e5fc86241853b2d3d?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

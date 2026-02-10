@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AutoNation](http://autonation.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/698aad510f6f7e7a2ce5e2ae?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 09 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Risk, Controls, and Assurance Intern - 2026](https://jobright.ai/jobs/info/698aaa880f6f7e7a2ce5e07d?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 09 |
+| **[EnergySolutions](http://www.energysolutions.com)** | **[Summer Intern - Accounting & Finance](https://jobright.ai/jobs/info/698aaa2f0f6f7e7a2ce5e01a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
+| **[UMB Bank](https://www.umb.com/)** | **[Fund Accounting Intern](https://jobright.ai/jobs/info/698aa9364db8972cec000584?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 09 |
 | **[St. Louis Children's Hospital](http://www.stlouischildrens.org/)** | **[Intern - Finance](https://jobright.ai/jobs/info/698aa5f60f6f7e7a2ce5db66?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 09 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Finance Intern](https://jobright.ai/jobs/info/698aa5034db8972cec0000fb?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/698a9f99c5761b521a99e639?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Feb 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Circle](https://www.circle.com)** | **[Treasury Execution and Digital Operations Intern](https://jobright.ai/jobs/info/698a636e4db8972cecffa638?utm_campaign=1052&utm_source=git)** | Greater Phoenix Area | Hybrid | Feb 09 |
 | **[ISG](https://is-grp.com)** | **[Finance & Accounting Internship](https://jobright.ai/jobs/info/698a6ea74db8972cecffbe34?utm_campaign=1052&utm_source=git)** | Mankato, MN | On Site | Feb 09 |
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Long Term Intern Internal Financial Reporting](https://jobright.ai/jobs/info/698a42bb0f6f7e7a2ce55456?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Program Controls, Capex (8 Months)](https://jobright.ai/jobs/info/698a6b174db8972cecffb9c7?utm_campaign=1052&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Feb 09 |
-| ↳ | **[Intern, Finance (Controllership) (4 Months)](https://jobright.ai/jobs/info/698a67750f6f7e7a2ce58b2c?utm_campaign=1052&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Feb 09 |
-| ↳ | **[Intern, Finance (Program Controls) (8 Months)](https://jobright.ai/jobs/info/698a6dba4db8972cecffbd61?utm_campaign=1052&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Feb 09 |
-| ↳ | **[Intern, Finance (Marine) (4 Months)](https://jobright.ai/jobs/info/698a6ec50f6f7e7a2ce5967a?utm_campaign=1052&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

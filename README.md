@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6856a46dae0608f715a8a2ef?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Feb 12 |
 | **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking (SSG) - New York](https://jobright.ai/jobs/info/6976d65b3778585635105b70?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Miami)](https://jobright.ai/jobs/info/69720b21cda18b743864617b?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Feb 12 |
 | **[Empower](https://www.empower.com)** | **[Senior Manager Internal Audit](https://jobright.ai/jobs/info/698ddae278b4502f12a49b26?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | Hybrid | Feb 12 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[CAE](http://www.cae.com)** | **[C-FIN-200- Tax Intern-EN](https://jobright.ai/jobs/info/698d93380f6f7e7a2ce97e65?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 11 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Philadelphia (49580)](https://jobright.ai/jobs/info/6971621f333b6343a14deb02?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Feb 11 |
 | **[Akamine, Oyadomari & Kosaki CPAs, Inc.](http://www.aokcpas.com/)** | **[Intern - Audit - Spring 2027](https://jobright.ai/jobs/info/698d72020f6f7e7a2ce949da?utm_campaign=1052&utm_source=git)** | Honolulu, HI, US | On Site | Feb 11 |
-| **[Uber](http://www.uber.com)** | **[2026 Treasury Intern, Vanderbilt](https://jobright.ai/jobs/info/698d9d070f6f7e7a2ce98fbd?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Feb 11 |
-| ↳ | **[2026 Treasury Intern, Vanderbilt](https://jobright.ai/jobs/info/698db350f64d441a164fdcdd?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Feb 11 |
+| **[Uber](http://www.uber.com)** | **[2026 Treasury Intern, Vanderbilt](https://jobright.ai/jobs/info/698db350f64d441a164fdcdd?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Feb 11 |
+| ↳ | **[2026 Treasury Intern, Vanderbilt](https://jobright.ai/jobs/info/698d9d070f6f7e7a2ce98fbd?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Feb 11 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / White Plains (49583)](https://jobright.ai/jobs/info/69716ea1333b6343a14df628?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | Feb 11 |
 | ↳ | **[Winter Internship 2027 / Healthcare Advisory Intern (49584)](https://jobright.ai/jobs/info/697439cbbc8e722e7b19320d?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | Feb 11 |
 | **[Mastercard](http://www.mastercard.com)** | **[Finance Intern, Summer 2026 – St. Louis, MO](https://jobright.ai/jobs/info/698d8d210f6f7e7a2ce977d2?utm_campaign=1052&utm_source=git)** | O'Fallon, Missouri | On Site | Feb 11 |
@@ -128,9 +129,9 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69717250587dfa0bb55f1915?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | On Site | Feb 11 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/6971643651f726477183af2d?utm_campaign=1052&utm_source=git)** | Braintree, MA | On Site | Feb 11 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Ridgeland)](https://jobright.ai/jobs/info/698d8c7b0f6f7e7a2ce97713?utm_campaign=1052&utm_source=git)** | Ridgeland, MS | Hybrid | Feb 11 |
-| **[Akamine, Oyadomari & Kosaki CPAs, Inc.](http://www.aokcpas.com/)** | **[Intern - Audit - Fall 2026](https://jobright.ai/jobs/info/698da89978b4502f12a46295?utm_campaign=1052&utm_source=git)** | Honolulu, HI, US | On Site | Feb 11 |
-| ↳ | **[Intern - Tax - Spring 2027](https://jobright.ai/jobs/info/698d8965f64d441a164fad7b?utm_campaign=1052&utm_source=git)** | Honolulu, HI, US | On Site | Feb 11 |
+| **[Akamine, Oyadomari & Kosaki CPAs, Inc.](http://www.aokcpas.com/)** | **[Intern - Tax - Spring 2027](https://jobright.ai/jobs/info/698d8965f64d441a164fad7b?utm_campaign=1052&utm_source=git)** | Honolulu, HI, US | On Site | Feb 11 |
 | ↳ | **[Intern - Tax - Fall 2026](https://jobright.ai/jobs/info/698d895778b4502f12a43cb6?utm_campaign=1052&utm_source=git)** | Honolulu, HI, US | On Site | Feb 11 |
+| ↳ | **[Intern - Audit - Fall 2026](https://jobright.ai/jobs/info/698da89978b4502f12a46295?utm_campaign=1052&utm_source=git)** | Honolulu, HI, US | On Site | Feb 11 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / White Plains (49593)](https://jobright.ai/jobs/info/697166f451f726477183b1e4?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | Feb 11 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / Long Island (49596)](https://jobright.ai/jobs/info/697166e6587dfa0bb55f0775?utm_campaign=1052&utm_source=git)** | Jericho, NY | On Site | Feb 11 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / Providence (49591)](https://jobright.ai/jobs/info/6971650551f726477183b001?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Feb 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WIDIA](https://www.widia.com)** | **[Tax Intern](https://jobright.ai/jobs/info/698d775278b4502f12a41bcb?utm_campaign=1052&utm_source=git)** | Latrobe, PA | Hybrid | Feb 11 |
 | **[WestRock Company](http://www.westrock.com)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/6971588d587dfa0bb55ef96e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Operations Intern - Underwriting & Risk](https://jobright.ai/jobs/info/69715829587dfa0bb55ef8f2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Summer 2027](https://jobright.ai/jobs/info/69716247333b6343a14deb28?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

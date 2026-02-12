@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking (SSG) - New York](https://jobright.ai/jobs/info/6976d65b3778585635105b70?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 12 |
+| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Miami)](https://jobright.ai/jobs/info/69720b21cda18b743864617b?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Feb 12 |
+| **[Empower](https://www.empower.com)** | **[Senior Manager Internal Audit](https://jobright.ai/jobs/info/698ddae278b4502f12a49b26?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | Hybrid | Feb 12 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/698dd8c20f6f7e7a2ce9d870?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | Feb 12 |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Finance Intern Talent Pool](https://jobright.ai/jobs/info/698dd600f64d441a16500573?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Feb 12 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Southern MN](https://jobright.ai/jobs/info/69567c6baa05c26e7ab0bd3d?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Feb 12 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/695a107faa05c26e7ab3adaf?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 12 |
+| **[First Financial Bank Texas](https://ffin.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68c8fd98f9c6ff7aedf15ecd?utm_campaign=1052&utm_source=git)** | Abilene, TX | On Site | Feb 12 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Finance](https://jobright.ai/jobs/info/6966a4107a34f539205520ce?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Valorantum](valorantum.us)** | **[Finance Intern](https://jobright.ai/jobs/info/698dcaff78b4502f12a48cfc?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Feb 12 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Financial Risk Intern](https://jobright.ai/jobs/info/698dcae8f64d441a164ffca7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Feb 12 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WestRock Company](http://www.westrock.com)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/6971588d587dfa0bb55ef96e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Operations Intern - Underwriting & Risk](https://jobright.ai/jobs/info/69715829587dfa0bb55ef8f2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Summer 2027](https://jobright.ai/jobs/info/69716247333b6343a14deb28?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Feb 11 |
-| **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[Finance Intern - Nucor Towers & Structures 1](https://jobright.ai/jobs/info/698d7d2d0f6f7e7a2ce9670f?utm_campaign=1052&utm_source=git)** | Rock Hill, SC, US, 29730 | On Site | Feb 11 |
-| **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Accounting/Finance](https://jobright.ai/jobs/info/698d3c14f64d441a164f3f64?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Feb 11 |
-| **[Sikich](http://www.sikich.com)** | **[Spring 2027 Audit Intern (For-Profit)](https://jobright.ai/jobs/info/698d3af9f64d441a164f3cae?utm_campaign=1052&utm_source=git)** | Naperville, IL | Hybrid | Feb 11 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Long Island (49577)](https://jobright.ai/jobs/info/69716712333b6343a14defda?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Feb 11 |
-| **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Technology](https://jobright.ai/jobs/info/69715b91333b6343a14de62a?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Feb 11 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Fall 2026 (Irving, TX)](https://jobright.ai/jobs/info/698d396078b4502f12a3d1df?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Feb 11 |
-| **[OTR Solutions](http://www.otrsolutions.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/698d381d0f6f7e7a2ce903d5?utm_campaign=1052&utm_source=git)** | Roswell, GA | On Site | Feb 11 |
-| **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Reserves, Credit, and Applications Intern](https://jobright.ai/jobs/info/698d372978b4502f12a3cdfe?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bon Secours](https://www.bonsecours.com/)** | **[Risk and Insurance Intern - System Wide](https://jobright.ai/jobs/info/698e8443f64d441a1650cfe7?utm_campaign=1052&utm_source=git)** | Ohio City, OH | Remote | Feb 12 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 - Tax Intern, National Office – State and Local Tax (Southern California)](https://jobright.ai/jobs/info/698e7c2d0f6f7e7a2cea9566?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
 | **[Modesto Irrigation District](https://mid.org)** | **[Student Intern (Finance)](https://jobright.ai/jobs/info/698e7a9b0f6f7e7a2cea9258?utm_campaign=1052&utm_source=git)** | Modesto, CA | On Site | Feb 12 |
 | **[Stock Yards Bank & Trust](http://www.syb.com)** | **[Retail Banking Intern - Float Teller - Lexington](https://jobright.ai/jobs/info/6972ae0d9b83b424830eb669?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Feb 12 |
-| **[TC Professional Services](https://www.tc-group.com/)** | **[Accounting Apprentice](https://jobright.ai/jobs/info/698e7952f64d441a1650bdf4?utm_campaign=1052&utm_source=git)** | Dundee, OH | Hybrid | Feb 12 |
 | **[MCE - Magnetic Component Engineering](https://www.mceproducts.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6983e39d348f733a5c376da1?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Feb 12 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – Long Island, NY](https://jobright.ai/jobs/info/695c503922c9dc0d3d5441a1?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 12 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Strategic Finance](https://jobright.ai/jobs/info/698e69f678b4502f12a53353?utm_campaign=1052&utm_source=git)** | 11601 Wilshire Blvd, Los Angeles, CA, 90025, US | On Site | Feb 12 |
@@ -69,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Undergrad Intern – Fiduciary Trust Portfolio Management](https://jobright.ai/jobs/info/698e79dbf64d441a1650becc?utm_campaign=1052&utm_source=git)** | New York City, New York, United States of America | On Site | Feb 12 |
 | **[Weissman](https://www.weissmans.com/)** | **[Accounting Co-Op](https://jobright.ai/jobs/info/697ecc03ce48107c0542e22a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 12 |
 | **[Confluent](https://confluent.io)** | **[FPA Intern](https://jobright.ai/jobs/info/698073a549964d25b5e341e6?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Feb 12 |
+| **[Brixenta](brixenta.us)** | **[Finance Intern](https://jobright.ai/jobs/info/698e84740f6f7e7a2ceaa36c?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 12 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Procurement Intern](https://jobright.ai/jobs/info/69729bb2584a1c1ef6fda2b4?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Feb 12 |
 | **[NFI](http://www.nfiindustries.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/698e796bf64d441a1650be2e?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | Feb 12 |
 | **[Voya Financial](https://www.voya.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/698e506b0f6f7e7a2cea57f0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 12 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Accounting](https://jobright.ai/jobs/info/698e503d0f6f7e7a2cea57b1?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 12 |
@@ -136,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Summer Intern / Fairfax, VA](https://jobright.ai/jobs/info/698e6f4c78b4502f12a53d01?utm_campaign=1052&utm_source=git)** | Virginia, United States | On Site | Feb 12 |
 | **[Auterion](http://auterion.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/698e2c5e0f6f7e7a2cea3b65?utm_campaign=1052&utm_source=git)** | Arlington, Virginia | Hybrid | Feb 12 |
 | **[Wolfe Research, LLC](http://www.wolferesearch.com)** | **[Equity Research Senior Associate/Vice President- Internet](https://jobright.ai/jobs/info/6986c1548ca8121a3a692fb0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 12 |
+| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[FP&A Intern - Summer 2026](https://jobright.ai/jobs/info/698e81a4f64d441a1650cc5e?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Feb 12 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/697465be37785856350e7b95?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Feb 12 |
 | **[Flex-O-Glass, Inc.](https://www.flexoglass.com)** | **[Finance Internship in Manufacturing](https://jobright.ai/jobs/info/698e67b50f6f7e7a2cea71a3?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Southern MN](https://jobright.ai/jobs/info/697597c9206da320f49f8af1?utm_campaign=1052&utm_source=git)** | Austin, MN | On Site | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Derivative Ops Analyst, Summer 2026  (Co-op/Internship) – 4 Months](https://jobright.ai/jobs/info/698e1dea0f6f7e7a2cea2b5e?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 12 |
 | **[CBIZ](http://www.cbiz.com)** | **[Outsourced Accounting Solutions Intern / Summer 2027](https://jobright.ai/jobs/info/69564975aa05c26e7ab07fc5?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Feb 12 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/698e45b9f64d441a16507cba?utm_campaign=1052&utm_source=git)** | United States | On Site | Feb 12 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, International Tax Services - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/698e195c78b4502f12a4e633?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | Hybrid | Feb 12 |
-| ↳ | **[Assurance Intern - Winter 2027 (Jacksonville)](https://jobright.ai/jobs/info/698e190378b4502f12a4e5ed?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 12 |
-| **[Family Trust Federal Credit Union](https://www.familytrust.org)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/698e4722f64d441a16507dfa?utm_campaign=1052&utm_source=git)** | Rock Hill, South Carolina, United States | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

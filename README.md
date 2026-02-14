@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waldron Private Wealth](http://www.waldronprivatewealth.com)** | **[Investment Intern - Spring 2026 & Beyond](https://jobright.ai/jobs/info/6990e79c6ea51a7610f35d81?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | Feb 14 |
+| **[Harper & Pearson Company, P.C.](http://harperpearson.com)** | **[Audit Internship - 2028](https://jobright.ai/jobs/info/6990e2ca0cc8ea15f1db95a1?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 14 |
+| ↳ | **[Audit Internship - 2027](https://jobright.ai/jobs/info/6990e21e0cc8ea15f1db958b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 14 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Budgeting Intern](https://jobright.ai/jobs/info/6990de860cc8ea15f1db831e?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Insurance and Actuarial Advisory Services Intern](https://jobright.ai/jobs/info/6990ceaf0f6f7e7a2ced2f8d?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Feb 14 |
 | **[Alerus](https://www.alerus.com/)** | **[Wealth And Private Banking Intern](https://jobright.ai/jobs/info/6990ca8e0f6f7e7a2ced2cdd?utm_campaign=1052&utm_source=git)** | Fargo, ND | Hybrid | Feb 14 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6974458dbc8e722e7b193d63?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Intern](https://jobright.ai/jobs/info/69904f9a6ea51a7610f2dd1d?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Feb 14 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Senior Financial Analyst, PSET FP&A](https://jobright.ai/jobs/info/697454e8206da320f49e8eda?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69739bb337785856350d66e0?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Feb 14 |
-| **[Viant Technology](http://viantinc.com/)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69742a62bc8e722e7b192015?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Feb 14 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/697403d1206da320f49e1412?utm_campaign=1052&utm_source=git)** | Springfield, OH | On Site | Feb 14 |
-| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973ed1037785856350dbe21?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Feb 14 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69742c6f37785856350e264e?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

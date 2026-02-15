@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Capital Budgets](https://jobright.ai/jobs/info/6920ca31a49a885af9a3f30c?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Feb 15 |
+| **[WCF Insurance](https://www.wcf.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/698820d08da7a61204633c14?utm_campaign=1052&utm_source=git)** | Sandy, UT | On Site | Feb 15 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Asset Protection Analyst Intern](https://jobright.ai/jobs/info/6991add16ea51a7610f40a61?utm_campaign=1052&utm_source=git)** | Carlisle, PA | Hybrid | Feb 15 |
+| **[Sunshine Water Services](www.sunshinewater.com)** | **[Utility Accounts Assistant (Summer Intern/ Co-op)](https://jobright.ai/jobs/info/6991a96c6ea51a7610f407be?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Feb 15 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern](https://jobright.ai/jobs/info/69919c940f6f7e7a2cedefd4?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Feb 15 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Finance Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585a10aa05c26e7ab23b0b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 15 |
 | **[Culligan International](http://www.culligan.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6958375f9f1b381eb27118d8?utm_campaign=1052&utm_source=git)** | Libertyville, IL | On Site | Feb 15 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Tax Analyst - Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/698d4c95f64d441a164f5938?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Feb 15 |
 | **[Culligan International](http://www.culligan.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69583d749f1b381eb2712b1a?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Feb 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[April Housing](https://www.aprilhousing.com/)** | **[Investments Intern](https://jobright.ai/jobs/info/697413a8bc8e722e7b18f3e2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6974360a206da320f49e562b?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/68ce1ab9b2a74e1837edf58c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 14 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f379206da320f49df36e?utm_campaign=1052&utm_source=git)** | Miami, OH | On Site | Feb 14 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/698dbe77f64d441a164fed31?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Senior Financial Analyst, PSET FP&A](https://jobright.ai/jobs/info/697454e8206da320f49e8eda?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69739bb337785856350d66e0?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Feb 14 |
-| **[Viant Technology](http://viantinc.com/)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69742a62bc8e722e7b192015?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Feb 14 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/697403d1206da320f49e1412?utm_campaign=1052&utm_source=git)** | Springfield, OH | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

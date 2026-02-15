@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FAMU National Alumni Association](http://famunaa.org)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69915b810f6f7e7a2cedacb9?utm_campaign=1052&utm_source=git)** | Belmont, NC | On Site | Feb 14 |
+| **[Crest Vale](crestvale.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69914fae0cc8ea15f1dbdf43?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 14 |
 | **[WestRock Company](http://www.westrock.com)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/6971588d587dfa0bb55ef96e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Management Analyst Intern](https://jobright.ai/jobs/info/699133d70f6f7e7a2ced788f?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | ↳ | **[Portfolio Management Intern](https://jobright.ai/jobs/info/69912da30cc8ea15f1dbc318?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Corporate Treasury](https://jobright.ai/jobs/info/69741b6c206da320f49e3c52?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
 | ↳ | **[Intern - Commercial Credit](https://jobright.ai/jobs/info/6973d31037785856350da5e8?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
 | ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/69741eef37785856350e1803?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Strategic Business Operations - Cost to Serve & Financial Modeling](https://jobright.ai/jobs/info/699046740f6f7e7a2cecbb2b?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Feb 14 |
-| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - Investment Services](https://jobright.ai/jobs/info/69903d816ea51a7610f2c6e9?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/697993650791bc1d72304666?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Feb 14 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Production Finance Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/6990be3f0cc8ea15f1db778b?utm_campaign=1052&utm_source=git)** | Burbank, CA | On Site | Feb 14 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Finance Excellence Program Internship, Summer 2026](https://jobright.ai/jobs/info/69744d0f37785856350e49b9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 14 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Finance Intern](https://jobright.ai/jobs/info/6990b88d0cc8ea15f1db7656?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Production Finance Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/6990b84f6ea51a7610f338c8?utm_campaign=1052&utm_source=git)** | Burbank, CA | On Site | Feb 14 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/698dd534f64d441a16500445?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Feb 14 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/697703cd88e2b47213baeb8b?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Feb 14 |
@@ -87,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/6990a3320cc8ea15f1db58c2?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Feb 14 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, CG](https://jobright.ai/jobs/info/6990a2fd6ea51a7610f31c44?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Feb 14 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/698d0c78f64d441a164eea98?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Feb 14 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/699028850cc8ea15f1dadd88?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Feb 14 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Associate Analyst Graduate Program, CreditSights, New York - September 2026](https://jobright.ai/jobs/info/691a95a015b4156367189029?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[Withum](http://www.withum.com)** | **[Summer Interns 2026](https://jobright.ai/jobs/info/68cf15dc846f0b04af67f414?utm_campaign=1052&utm_source=git)** | Princeton, NJ | On Site | Feb 14 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/699023850f6f7e7a2cec8003?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
@@ -132,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Petco](https://www.petco.com/unleashed)** | **[Accounting Intern](https://jobright.ai/jobs/info/695ab2c4f1f8465b79f0ed69?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/697450e2bc8e722e7b196032?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Feb 14 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[Actuarial Summer Intern](https://jobright.ai/jobs/info/699074e66ea51a7610f2f5af?utm_campaign=1052&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Feb 14 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Finance Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69909e446ea51a7610f31b65?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 14 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/693c8ad3aa598a08c3ed5e82?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Feb 14 |
 | **[Transamerica](http://www.transamerica.com)** | **[Accounting Intern - Corporate Tax (Fall 2026, Full-time Hours)](https://jobright.ai/jobs/info/6973c95137785856350d9aac?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | Hybrid | Feb 14 |
 | **[MWH](https://mwhconstructors.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69740dc1bc8e722e7b18efe2?utm_campaign=1052&utm_source=git)** | Stayton, OR | On Site | Feb 14 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Viant Technology](http://viantinc.com/)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69742a62bc8e722e7b192015?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Feb 14 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/697403d1206da320f49e1412?utm_campaign=1052&utm_source=git)** | Springfield, OH | On Site | Feb 14 |
 | ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973ed1037785856350dbe21?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Feb 14 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69742c6f37785856350e264e?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Feb 14 |
+| **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Residential & Consumer Lending Management](https://jobright.ai/jobs/info/6973c4e1bc8e722e7b18923a?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Theofilis Group (TTG)](theofilisgroup.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69911aa90cc8ea15f1dbb663?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Summer 2026 / Orange County Area)](https://jobright.ai/jobs/info/6990ef3e6ea51a7610f36322?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | **[Waldron Private Wealth](http://www.waldronprivatewealth.com)** | **[Investment Intern - Spring 2026 & Beyond](https://jobright.ai/jobs/info/6990e79c6ea51a7610f35d81?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | Feb 14 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Budgeting Intern](https://jobright.ai/jobs/info/6990de860cc8ea15f1db831e?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973ed1037785856350dbe21?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Feb 14 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69742c6f37785856350e264e?utm_campaign=1052&utm_source=git)** | McLean, VA | Hybrid | Feb 14 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Residential & Consumer Lending Management](https://jobright.ai/jobs/info/6973c4e1bc8e722e7b18923a?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

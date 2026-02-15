@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Verses](techverses.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69915f7f0f6f7e7a2cedb4a3?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Feb 14 |
 | **[FAMU National Alumni Association](http://famunaa.org)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69915b810f6f7e7a2cedacb9?utm_campaign=1052&utm_source=git)** | Belmont, NC | On Site | Feb 14 |
 | **[Crest Vale](crestvale.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69914fae0cc8ea15f1dbdf43?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 14 |
 | **[WestRock Company](http://www.westrock.com)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/6971588d587dfa0bb55ef96e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Tax Internship - San Diego](https://jobright.ai/jobs/info/69908ffc6ea51a7610f3177b?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | Feb 14 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/695b4836f1f8465b79f166e8?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Feb 14 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking - CA (California)](https://jobright.ai/jobs/info/698c29200f6f7e7a2ce7ced1?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/698dbdfdf64d441a164feb1e?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/698e503678b4502f12a51759?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Feb 14 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Corporate Banking](https://jobright.ai/jobs/info/698bf9d991fdda424d58b752?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern / Latham, NY](https://jobright.ai/jobs/info/699084ce0cc8ea15f1db4a05?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Feb 14 |
@@ -143,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Goldbelt, Incorporated](http://goldbelt.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/691e308209cc522e8773730f?utm_campaign=1052&utm_source=git)** | Herndon, VA | On Site | Feb 14 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f379206da320f49df36e?utm_campaign=1052&utm_source=git)** | Miami, OH | On Site | Feb 14 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/698dbe77f64d441a164fed31?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
-| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Finance Intern](https://jobright.ai/jobs/info/6990548d0f6f7e7a2cecca48?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Intern](https://jobright.ai/jobs/info/69904f9a6ea51a7610f2dd1d?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Feb 14 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Senior Financial Analyst, PSET FP&A](https://jobright.ai/jobs/info/697454e8206da320f49e8eda?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69739bb337785856350d66e0?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Corporate Treasury](https://jobright.ai/jobs/info/69741b6c206da320f49e3c52?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
 | ↳ | **[Intern - Commercial Credit](https://jobright.ai/jobs/info/6973d31037785856350da5e8?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
 | ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/69741eef37785856350e1803?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 14 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Strategic Business Operations - Cost to Serve & Financial Modeling](https://jobright.ai/jobs/info/699046740f6f7e7a2cecbb2b?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

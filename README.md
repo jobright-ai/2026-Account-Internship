@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[EY](http://www.ey.com)** | **[Career Starters - Audit & Tax - April 2026 intake](https://jobright.ai/jobs/info/697683cf3778585635102f50?utm_campaign=1052&utm_source=git)** | Newcastle, CA | On Site | Feb 15 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future Finance Leaders Program - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/695a2e20aa05c26e7ab3c3ea?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Internal Audit - Birmingham](https://jobright.ai/jobs/info/68cda1bdb2a74e1837eda306?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Feb 15 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Procurement Intern](https://jobright.ai/jobs/info/6991eb640f6f7e7a2cee2b00?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 15 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Accounting (Winter/Spring)](https://jobright.ai/jobs/info/6974fefbbc8e722e7b19fea1?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Columbia, SC](https://jobright.ai/jobs/info/6870da30a5ae807a59cfc4f0?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Feb 15 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Tax Accounting Intern](https://jobright.ai/jobs/info/693e814faa598a08c3eed2d2?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Feb 15 |
@@ -83,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – Long Island, NY](https://jobright.ai/jobs/info/695c503922c9dc0d3d5441a1?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 15 |
 | **[Blue Ventis](blueventis.us)** | **[Marketing Finance Intern](https://jobright.ai/jobs/info/69918e260cc8ea15f1dc350d?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Feb 15 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship – White Plains, NY](https://jobright.ai/jobs/info/695c553922c9dc0d3d544ec4?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Feb 15 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/699180720cc8ea15f1dc2b6f?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 15 |
 | **[Camden Property Trust](https://www.camdenliving.com/)** | **[Asset Management Intern / Camden Corporate Office](https://jobright.ai/jobs/info/699180310cc8ea15f1dc2b26?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 15 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69917cca0cc8ea15f1dc27fa?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Risk Specialist Intern](https://jobright.ai/jobs/info/69917adb6ea51a7610f3e464?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[MWH](https://mwhconstructors.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69740dc1bc8e722e7b18efe2?utm_campaign=1052&utm_source=git)** | Stayton, OR | On Site | Feb 14 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/695832beaa05c26e7ab20f9d?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
 | ↳ | **[Portfolio Management Intern](https://jobright.ai/jobs/info/695832a7aa05c26e7ab20f68?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 14 |
+| **[MWH](https://mwhconstructors.com)** | **[Finance Intern](https://jobright.ai/jobs/info/697415aebc8e722e7b18f557?utm_campaign=1052&utm_source=git)** | Broomfield, CO | On Site | Feb 14 |
+| **[Safety National](https://www.safetynational.com)** | **[Actuarial Intern (graduation December 2027 or Later)](https://jobright.ai/jobs/info/6902938000a1816c41e9ff43?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

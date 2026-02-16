@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seagate Technology](http://www.seagate.com)** | **[Corporate Finance Intern - (AI/Analytics Focus)](https://jobright.ai/jobs/info/69851d0f0f6f7e7a2cdfa657?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 16 |
+| **[Kings Island](https://www.visitkingsisland.com/)** | **[Intern - Revenue Accounting](https://jobright.ai/jobs/info/6992d743e0bddb6acac114e7?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Feb 16 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Forensic Accounting Intern (Summer 2026 - Phoenix, AZ)](https://jobright.ai/jobs/info/6992c70cce78e77b4fd6999a?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Feb 15 |
 | **[Valemont](https://www.linkedin.com/company/109316021)** | **[Private Equity Analyst Internship](https://jobright.ai/jobs/info/6992c37dce78e77b4fd697e7?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 15 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/693dd73249a7695fbd044bb8?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Feb 15 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/6992b550e0bddb6acac0e2bf?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Feb 14 |
 | **[WestRock Company](http://www.westrock.com)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/6971588d587dfa0bb55ef96e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Bay Area)](https://jobright.ai/jobs/info/6992b724e0bddb6acac0e896?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Feb 14 |
-| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Plant Controllership](https://jobright.ai/jobs/info/6992a44881476f6176aa1b33?utm_campaign=1052&utm_source=git)** | Normal, IL | On Site | Feb 14 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Accounting/ Finance](https://jobright.ai/jobs/info/6992acd1e0bddb6acac0d526?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Feb 14 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69929564ce78e77b4fd64249?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Feb 14 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Risk and Insurance Intern - System Wide](https://jobright.ai/jobs/info/698ea8ec78b4502f12a5814a?utm_campaign=1052&utm_source=git)** | Ohio City, OH | Remote | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Petco](https://www.petco.com/unleashed)** | **[Accounting Intern](https://jobright.ai/jobs/info/695ab2c4f1f8465b79f0ed69?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Program Finance Intern](https://jobright.ai/jobs/info/6991d2400f6f7e7a2cee1585?utm_campaign=1052&utm_source=git)** | King of Prussia, PA | Hybrid | Feb 14 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[Actuarial Summer Intern](https://jobright.ai/jobs/info/699074e66ea51a7610f2f5af?utm_campaign=1052&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Feb 14 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Finance and Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698dca1b78b4502f12a48c03?utm_campaign=1052&utm_source=git)** | Anaheim, CA | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

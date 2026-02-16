@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Bradenton, FL](https://jobright.ai/jobs/info/6823aadfd08c1bf2cd0fce3a?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Feb 16 |
+| **[Covestro](https://www.covestro.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69933d0fe0bddb6acac185f8?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Feb 16 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Intern](https://jobright.ai/jobs/info/69933bb6e0bddb6acac18537?utm_campaign=1052&utm_source=git)** | Orlando, FL, USA | On Site | Feb 16 |
+| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Summer 2027](https://jobright.ai/jobs/info/695b95baaa05c26e7ab4f130?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Feb 16 |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/699335cce0bddb6acac18252?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Internship](https://jobright.ai/jobs/info/699330c1ce78e77b4fd70c67?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 16 |
+| **[Just Born, Inc.](http://www.justborn.com)** | **[Accounting & Financial Controls Intern - Summer](https://jobright.ai/jobs/info/69762db537785856350feae0?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 16 |
+| **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP Underwriting Intern, Alpharetta Office (2026 Summer)](https://jobright.ai/jobs/info/696a75e95fc86241853976f6?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Feb 16 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/68b1faae1ade4306aa633749?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 16 |
-| **[Orvanta](orvanta.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69931e73e0bddb6acac17142?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Feb 16 |
-| **[Crown Fund](www.crownfund.co)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69931bfee0bddb6acac16fe7?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 16 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/68b20095bc187f64e1bd8a4f?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Feb 16 |
+| ↳ | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/68b20095bc187f64e1bd8a4f?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Feb 16 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Financial Planning & Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/69762d9d37785856350fead8?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 16 |
-| **[CoreVista Strategies](corevistastrategies.us)** | **[Intern Finance](https://jobright.ai/jobs/info/69930984e0bddb6acac14c91?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 16 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 College Summer Intern (Department of Finance)](https://jobright.ai/jobs/info/69862a7a8da7a6120460dbff?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | ↳ | **[DWM Intern - 2026 College Student Summer Internship – Office of Financial Administration](https://jobright.ai/jobs/info/697b03761423772304eb0ec4?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a582840?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Financial Operations](https://jobright.ai/jobs/info/693c8bd8aa598a08c3ed5f75?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Finance Intern](https://jobright.ai/jobs/info/697d7b0f727747250d586219?utm_campaign=1052&utm_source=git)** | Arlington, TX | On Site | Feb 14 |
 | **[Newrez](https://www.newrez.com)** | **[2026 Summer Internship - Investor Reporting](https://jobright.ai/jobs/info/698596280f6f7e7a2ce0710b?utm_campaign=1052&utm_source=git)** | Coppell, TX | On Site | Feb 14 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/697993650791bc1d72304669?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | Feb 14 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking](https://jobright.ai/jobs/info/698c296d0f6f7e7a2ce7d157?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 14 |
-| ↳ | **[2027 Summer Internship, Early Careers - Corporate Banking (Houston)](https://jobright.ai/jobs/info/698c279b0f6f7e7a2ce7c45c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 14 |
-| **[PACCAR](http://www.paccar.com/)** | **[Purchasing Accounting - Summer Internship 2026](https://jobright.ai/jobs/info/693b29255f2c001987ed2796?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 14 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking](https://jobright.ai/jobs/info/698c27b791fdda424d58fa9d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

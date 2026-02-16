@@ -87,11 +87,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Portfolio Management Intern](https://jobright.ai/jobs/info/6991731a0f6f7e7a2cedd0aa?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Camden Property Trust](https://www.camdenliving.com/)** | **[Asset Management Intern / Camden Corporate Office](https://jobright.ai/jobs/info/6991b4cb0cc8ea15f1dc562e?utm_campaign=1052&utm_source=git)** | 2800 Post Oak Boulevard, Suite 2700, Houston, TX, 77056, US | On Site | Feb 14 |
 | **[WestRock Company](http://www.westrock.com)** | **[Finance Intern, Summer 2026](https://jobright.ai/jobs/info/6971588d587dfa0bb55ef96e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69929564ce78e77b4fd64249?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Feb 14 |
+| **[Mercy Health](http://www.mercy.com/)** | **[Risk and Insurance Intern - System Wide](https://jobright.ai/jobs/info/698ea8ec78b4502f12a5814a?utm_campaign=1052&utm_source=git)** | Ohio City, OH | Remote | Feb 14 |
+| **[Rivian](http://www.rivian.com)** | **[MBA Intern - Treasury, Capital Markets](https://jobright.ai/jobs/info/69929718e0bddb6acac0bfa7?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Feb 14 |
+| **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern (Flexible Schedule)](https://jobright.ai/jobs/info/69929571e0bddb6acac0ba91?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Management Analyst Intern](https://jobright.ai/jobs/info/699133d70f6f7e7a2ced788f?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Feb 14 |
-| **[HNI Corporation](http://www.hnicorp.com)** | **[Intern - Finance & Accounting Summer 2026](https://jobright.ai/jobs/info/69928fa281476f6176aa06d6?utm_campaign=1052&utm_source=git)** | Muscatine, IA | On Site | Feb 14 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Portfolio Management Intern](https://jobright.ai/jobs/info/69912da30cc8ea15f1dbc318?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Feb 14 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/69928b2b0f6f7e7a2cee9db8?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Risk Specialist Intern](https://jobright.ai/jobs/info/69913b310cc8ea15f1dbcaec?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Feb 14 |
+| ↳ | **[Portfolio Management Intern](https://jobright.ai/jobs/info/69912da30cc8ea15f1dbc318?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Feb 14 |
+| ↳ | **[Risk Specialist Intern](https://jobright.ai/jobs/info/69913b310cc8ea15f1dbcaec?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | **[The Theofilis Group (TTG)](theofilisgroup.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69911aa90cc8ea15f1dbb663?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Waldron Private Wealth](http://www.waldronprivatewealth.com)** | **[Investment Intern - Spring 2026 & Beyond](https://jobright.ai/jobs/info/6990e79c6ea51a7610f35d81?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | Feb 14 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6974458dbc8e722e7b193d63?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[April Housing](https://www.aprilhousing.com/)** | **[Financial Planning & Analysis - FP&A Intern](https://jobright.ai/jobs/info/69740de1206da320f49e1bf0?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Investment - Intern](https://jobright.ai/jobs/info/697434e8bc8e722e7b1929e5?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | **[Fall Creek®](http://www.fallcreeknursery.com)** | **[Finance Graduate Intern](https://jobright.ai/jobs/info/6974332037785856350e2cc7?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 14 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Portland)](https://jobright.ai/jobs/info/6991d7ae0cc8ea15f1dc6941?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Feb 14 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[Actuarial Summer Intern](https://jobright.ai/jobs/info/69907b510f6f7e7a2ceceef9?utm_campaign=1052&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 14 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Credit](https://jobright.ai/jobs/info/695836adf1f8465b79eed31c?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Feb 14 |
 | **[Seabrook Island Club](https://www.seabrookisland.com)** | **[Hospitality Intern - Accounting Department](https://jobright.ai/jobs/info/6974117cbc8e722e7b18f21b?utm_campaign=1052&utm_source=git)** | Johns Island, SC | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Portfolio Management Intern](https://jobright.ai/jobs/info/695832a7aa05c26e7ab20f68?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 14 |
 | **[MWH](https://mwhconstructors.com)** | **[Finance Intern](https://jobright.ai/jobs/info/697415aebc8e722e7b18f557?utm_campaign=1052&utm_source=git)** | Broomfield, CO | On Site | Feb 14 |
 | **[Safety National](https://www.safetynational.com)** | **[Actuarial Intern (graduation December 2027 or Later)](https://jobright.ai/jobs/info/6902938000a1816c41e9ff43?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 14 |
-| **[Pophouse](http://www.pophouse.design/)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/698fbe9b0cc8ea15f1da5bfd?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

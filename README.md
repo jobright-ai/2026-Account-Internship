@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StandardAero](http://www.standardaero.com/)** | **[LEAP Commercial Analyst Intern](https://jobright.ai/jobs/info/6940b3caaa598a08c3f0526b?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 17 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Program Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6978260e88e2b47213bc26a8?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Feb 17 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Denver)](https://jobright.ai/jobs/info/6977ee00fdeb8243a27ae6fc?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Corporate Finance](https://jobright.ai/jobs/info/69430f4c50bbaf765054e74b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Rea](http://reacpa.com)** | **[Business Valuation Internship](https://jobright.ai/jobs/info/699477d4e0bddb6acac2e4a8?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | Feb 17 |
+| **[PHINIA](https://phinia.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69947712e0bddb6acac2e38d?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Feb 17 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Intern Talent Pool](https://jobright.ai/jobs/info/699476adce78e77b4fd87263?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Feb 17 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Department Intern](https://jobright.ai/jobs/info/69947638ce78e77b4fd871ae?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Feb 17 |
+| **[GE Vernova](https://www.gevernova.com)** | **[Controls Product Management Cost Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698ed9f378b4502f12a5b99f?utm_campaign=1052&utm_source=git)** | Longmont, CO | On Site | Feb 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Global Markets, Equity Research](https://jobright.ai/jobs/info/6956e5979f1b381eb27019b9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | ↳ | **[2027 – Summer Analyst Internship - Global Markets, Sales & Trading](https://jobright.ai/jobs/info/6956e5c39f1b381eb27019cb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Deutsch Family Wine & Spirits](https://www.deutschfamily.com/brands/josh-cellars)** | **[Accounting Intern](https://jobright.ai/jobs/info/695c6fa1aa05c26e7ab5d99a?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Feb 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (San Diego)](https://jobright.ai/jobs/info/69932e9281476f6176aad582?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Finance Intern](https://jobright.ai/jobs/info/6994680ace78e77b4fd85e7d?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
 | **[S&P Global](https://www.spglobal.com)** | **[Cost & Supply Analytics Intern (Early Careers)](https://jobright.ai/jobs/info/6978314d39f7f96cc6d07997?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 17 |
@@ -141,20 +151,10 @@ For a complete list, click the following sortable link below:
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Finance Intern](https://jobright.ai/jobs/info/6993f816ce78e77b4fd7d661?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Audit + Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/6993ef83e0bddb6acac23a94?utm_campaign=1052&utm_source=git)** | Alexandria, LA | On Site | Feb 16 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Accounting Internship (Summer 2026) - Lexington, KY](https://jobright.ai/jobs/info/6993ebb3e0bddb6acac23358?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Feb 16 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Accounting](https://jobright.ai/jobs/info/69942030ce78e77b4fd815e8?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 16 |
-| ↳ | **[Intern: Finance & Treasury](https://jobright.ai/jobs/info/6994110b81476f6176abc9a2?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 16 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Finance & Treasury](https://jobright.ai/jobs/info/6994110b81476f6176abc9a2?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 16 |
+| ↳ | **[Intern: Accounting](https://jobright.ai/jobs/info/69942030ce78e77b4fd815e8?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 16 |
 | **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Audit + Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/6993e80381476f6176ab86b9?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Feb 16 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/6993e34de0bddb6acac22acc?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Feb 16 |
 | **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Audit + Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/6993e2a781476f6176ab7edf?utm_campaign=1052&utm_source=git)** | Hammond, LA | On Site | Feb 16 |
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[Summer 2026 Intern - Treasury](https://jobright.ai/jobs/info/6993e0d6e0bddb6acac2281d?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 16 |
-| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Audit + Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/6993de2c81476f6176ab789c?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Feb 16 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Procurement Analytics Intern](https://jobright.ai/jobs/info/6993de14ce78e77b4fd7b259?utm_campaign=1052&utm_source=git)** | Wheatland, PA | On Site | Feb 16 |
-| **[Frontier Airlines](http://www.flyfrontier.com)** | **[2026 Summer - Intern, Internal Audit](https://jobright.ai/jobs/info/6993d9e5e0bddb6acac22094?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 16 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Actuarial Research and Predictive Modeling Intern](https://jobright.ai/jobs/info/6993d9c0e0bddb6acac2206a?utm_campaign=1052&utm_source=git)** | Michigan, United States | Remote | Feb 16 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99969 Accounts Receivable Technician, Tahlequah](https://jobright.ai/jobs/info/6993fb7fce78e77b4fd7dd2c?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Feb 16 |
-| **[PACCAR](http://www.paccar.com/)** | **[External Reporting - Accounting - Summer Internship 2026](https://jobright.ai/jobs/info/6993d7cce0bddb6acac21e4d?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 16 |
-| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Risk and Insurance Intern - System Wide](https://jobright.ai/jobs/info/698f14f96ea51a7610f13ae7?utm_campaign=1052&utm_source=git)** | Ohio City, OH | Remote | Feb 16 |
-| **[Frontier Airlines](http://www.flyfrontier.com)** | **[2026 Summer -  Intern, Internal Audit](https://jobright.ai/jobs/info/6993cfe681476f6176ab6b59?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 16 |
-| **[TensorWave](https://tensorwave.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6993fafbce78e77b4fd7dad2?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Feb 16 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6993f9d8e0bddb6acac24c4b?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

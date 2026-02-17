@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/6993434a81476f6176aade18?utm_campaign=1052&utm_source=git)** | West Des Moines, IA | On Site | Feb 17 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Accounts Payable Intern, NA](https://jobright.ai/jobs/info/695c7268f1f8465b79f295cc?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| **[Fall Creek®](http://www.fallcreeknursery.com)** | **[Finance Undergrad Intern](https://jobright.ai/jobs/info/6977d30088e2b47213bbc9cb?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 17 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Corporate & Financial Institutions Coverage](https://jobright.ai/jobs/info/6943163fdd382f5f566909ae?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Robynex Automation](robynexautomation.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/699455e681476f6176ac0e40?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 17 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Asset Finance & Securitization](https://jobright.ai/jobs/info/69438c7994730b739876bddb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6934184df131d96e48469706?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Feb 17 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Winter 2027 Internship - Baltimore, MD](https://jobright.ai/jobs/info/695cd4105e4962051b59f0c1?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Feb 17 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6977c50252f3c27ec643e6fd?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Feb 17 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
 | ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206bc?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Due Diligence](https://jobright.ai/jobs/info/6993bf82e0bddb6acac20882?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6993bcbe81476f6176ab5ab6?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Feb 16 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Accounting Intern (Assurance or Tax) Bismarck, ND](https://jobright.ai/jobs/info/6993e1c0e0bddb6acac228f3?utm_campaign=1052&utm_source=git)** | Bismarck, ND | On Site | Feb 16 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6993bc0ae0bddb6acac204ce?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 16 |
-| **[First Federal Lakewood](http://ffl.net)** | **[Investment Services Intern](https://jobright.ai/jobs/info/6993df5fe0bddb6acac2266a?utm_campaign=1052&utm_source=git)** | Lakewood, OH | Hybrid | Feb 16 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Charlotte, NC](https://jobright.ai/jobs/info/695cd373f1f8465b79f2f4fc?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Feb 16 |
-| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/6993d844e0bddb6acac21eb5?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Hybrid | Feb 16 |
-| **[First Federal Lakewood](http://ffl.net)** | **[Investment Services Intern](https://jobright.ai/jobs/info/6993f416ce78e77b4fd7cfee?utm_campaign=1052&utm_source=git)** | Lakewood,OH,US | Hybrid | Feb 16 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Baltimore, MD](https://jobright.ai/jobs/info/695cd4195e4962051b59f0d1?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Feb 16 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Global Employer Services - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6993b5a881476f6176ab5264?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Feb 16 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Transitions](https://jobright.ai/jobs/info/6993d1d081476f6176ab6d0d?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

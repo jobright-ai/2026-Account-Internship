@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6977c50252f3c27ec643e6fd?utm_campaign=1052&utm_source=git)** | Windsor, CT | On Site | Feb 17 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
+| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206bc?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69944e44e0bddb6acac2b1e1?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Feb 17 |
+| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/693fd2ac49a7695fbd058782?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Feb 17 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf4e?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 17 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69944ccace78e77b4fd83d58?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 17 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840cd1b64a56a0da4e979da?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | Hybrid | Feb 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Business Process, Risk and Controls Intern](https://jobright.ai/jobs/info/695c4eaaf1f8465b79f26aca?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Feb 17 |
+| **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/693fd18f50bbaf76505206a7?utm_campaign=1052&utm_source=git)** | Appleton, WI | Hybrid | Feb 17 |
+| **[Nationwide](http://nationwide.com)** | **[Fall 2026 Controllership Internship](https://jobright.ai/jobs/info/69782689fdeb8243a27b1b69?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Feb 17 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: National Processing Group Internship – Memphis - 2026](https://jobright.ai/jobs/info/6958c5179f1b381eb271aa4f?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Feb 17 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf42?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 17 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Corporate Treasury Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698a4d9e0f6f7e7a2ce55e81?utm_campaign=1052&utm_source=git)** | Longmont, CO | On Site | Feb 17 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69943b8481476f6176abf512?utm_campaign=1052&utm_source=git)** | Norwood, MA | Hybrid | Feb 17 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/69943b2181476f6176abf4ab?utm_campaign=1052&utm_source=git)** | Wisconsin, United States | On Site | Feb 17 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Process, Risk and Controls Intern](https://jobright.ai/jobs/info/695c49d1aa05c26e7ab5a587?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 17 |
@@ -75,6 +89,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69943311e0bddb6acac29961?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Feb 17 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/6969d9a1f25a38006698a1ec?utm_campaign=1052&utm_source=git)** | Bedford, NH | On Site | Feb 17 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69943163e0bddb6acac297a3?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Business Process, Risk and Controls Intern](https://jobright.ai/jobs/info/695c4611f1f8465b79f254d4?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 17 |
+| ↳ | **[Business Process, Risk and Controls Intern](https://jobright.ai/jobs/info/695c2c95f1f8465b79f237ee?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 17 |
+| ↳ | **[Business Process, Risk and Controls Intern](https://jobright.ai/jobs/info/695c28e0f1f8465b79f23532?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Staff Retirement Plans Investments Intern](https://jobright.ai/jobs/info/69942f4ce0bddb6acac2954b?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69942e55e0bddb6acac29461?utm_campaign=1052&utm_source=git)** | Brighton, MI | On Site | Feb 17 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/69942e47e0bddb6acac29449?utm_campaign=1052&utm_source=git)** | Santa Clarita, CA | On Site | Feb 17 |
@@ -102,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Finance Intern](https://jobright.ai/jobs/info/6993f816ce78e77b4fd7d661?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Audit + Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/6993ef83e0bddb6acac23a94?utm_campaign=1052&utm_source=git)** | Alexandria, LA | On Site | Feb 16 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Accounting Internship (Summer 2026) - Lexington, KY](https://jobright.ai/jobs/info/6993ebb3e0bddb6acac23358?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Feb 16 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Finance & Treasury](https://jobright.ai/jobs/info/69940bcee0bddb6acac26af1?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 16 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Finance & Treasury](https://jobright.ai/jobs/info/6994110b81476f6176abc9a2?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 16 |
 | ↳ | **[Intern: Accounting](https://jobright.ai/jobs/info/69942030ce78e77b4fd815e8?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Feb 16 |
 | **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Audit + Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/6993e80381476f6176ab86b9?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Feb 16 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/6993e34de0bddb6acac22acc?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Feb 16 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Baltimore, MD](https://jobright.ai/jobs/info/695cd4195e4962051b59f0d1?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Feb 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Global Employer Services - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6993b5a881476f6176ab5264?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Transitions](https://jobright.ai/jobs/info/6993d1d081476f6176ab6d0d?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[Frontier Airlines](http://www.flyfrontier.com)** | **[Summer 2026 Intern - Treasury](https://jobright.ai/jobs/info/6993f67ae0bddb6acac246c3?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 16 |
-| **[Silvi Materials](http://silvi.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6993f109e0bddb6acac23c47?utm_campaign=1052&utm_source=git)** | Fairless Hills, PA, US | On Site | Feb 16 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6993e48681476f6176ab818e?utm_campaign=1052&utm_source=git)** | US-PA-Fairless Hills | On Site | Feb 16 |
-| **[Federal Signal Corporation](http://federalsignal.com)** | **[Intern -Finance, Accounting, or Business Administration](https://jobright.ai/jobs/info/6993d8a1e0bddb6acac21f1a?utm_campaign=1052&utm_source=git)** | University Park, Illinois, United States | On Site | Feb 16 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Actuarial Intern Life – Fall 2026 to Spring 2027](https://jobright.ai/jobs/info/6993f5cece78e77b4fd7d343?utm_campaign=1052&utm_source=git)** | West Des Moines, IA, US | On Site | Feb 16 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Budget Intern Mclean VA](https://jobright.ai/jobs/info/6993e20881476f6176ab7e5d?utm_campaign=1052&utm_source=git)** | United States-Virginia-McLean | On Site | Feb 16 |
-| **[ALO](https://www.aloyoga.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6993d7c881476f6176ab729c?utm_campaign=1052&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Due Diligence](https://jobright.ai/jobs/info/6993db24e0bddb6acac221c5?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
-| ↳ | **[Intern, Transitions](https://jobright.ai/jobs/info/6993d979e0bddb6acac2202d?utm_campaign=1052&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
-| ↳ | **[Intern, Due Diligence](https://jobright.ai/jobs/info/6993f21981476f6176ab9450?utm_campaign=1052&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
-| **[Federal Signal Corporation](http://federalsignal.com)** | **[Intern -Finance, Accounting, or Business Administration](https://jobright.ai/jobs/info/6993d37381476f6176ab6e7c?utm_campaign=1052&utm_source=git)** | University Park, IL | On Site | Feb 16 |
-| **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/6993d73be0bddb6acac21d88?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Hybrid | Feb 16 |
-| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Tax Intern - Fall 2026](https://jobright.ai/jobs/info/6993d235ce78e77b4fd7a60e?utm_campaign=1052&utm_source=git)** | Hammond, LA | On Site | Feb 16 |
-| **[Steelcase](https://www.steelcase.com/)** | **[2026 Year-Round Tax Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/6993cd4a81476f6176ab6914?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Feb 16 |
-| **[BDO USA](https://www.bdo.com/)** | **[Specialty Tax Services Intern, Global Employer Services - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6993afe6e0bddb6acac1f75b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Feb 16 |
-| **[City of Concord, NC](http://www.concordnc.gov)** | **[Budget & Strategy Intern](https://jobright.ai/jobs/info/6993ecc2ce78e77b4fd7c2d5?utm_campaign=1052&utm_source=git)** | Concord, NC | On Site | Feb 16 |
-| **[Main Line Health](https://www.mainlinehealth.org/locations/bryn-mawr-hospital)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6993e3f381476f6176ab80f4?utm_campaign=1052&utm_source=git)** | Radnor, Pennsylvania, United States | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protiviti](http://www.protiviti.com)** | **[Houston Internal Audit and Financial Advisory Intern - 2027](https://jobright.ai/jobs/info/6996d53581476f6176aed080?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Feb 19 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics, Seller Fees, WW Seller Economics](https://jobright.ai/jobs/info/6996d255ce78e77b4fdb099a?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Feb 19 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/6996c867ce78e77b4fdb02d8?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Feb 19 |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Corporate Tax](https://jobright.ai/jobs/info/6996c66981476f6176aec61b?utm_campaign=1052&utm_source=git)** | Wilmington, MA | Remote | Feb 19 |
+| **[TekniPlex](http://www.tekni-plex.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6996c50281476f6176aec4a9?utm_campaign=1052&utm_source=git)** | Van Wert, OH | Remote | Feb 19 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[BUDGET ANALYST INTERN, UCPATH](https://jobright.ai/jobs/info/6996b288ce78e77b4fdae706?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Tax Sales Strategy and Operations / Philadelphia Summer 2026](https://jobright.ai/jobs/info/69969d6d81476f6176ae8695?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Feb 18 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Fall 2026 / New York City](https://jobright.ai/jobs/info/6996bdc1e0bddb6acac55fc9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 18 |
+| ↳ | **[Associate Tax Summer 2026 / Austin](https://jobright.ai/jobs/info/6996c8e3ce78e77b4fdb031f?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Seller Fees, WW Seller Economics](https://jobright.ai/jobs/info/6996b482e0bddb6acac5527f?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Feb 18 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/699689e9ce78e77b4fdaa051?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Feb 18 |
 | **[Stratify Edge](stratifyedge.us)** | **[Assurance Intern](https://jobright.ai/jobs/info/6996a91781476f6176ae9cfe?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 18 |
@@ -127,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/699675eae0bddb6acac4eee2?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Groundwater Accounting Platform Intern](https://jobright.ai/jobs/info/69963084e0bddb6acac490a5?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/69965ef981476f6176ae2e83?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
-| **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Accounting Internship](https://jobright.ai/jobs/info/69967a41ce78e77b4fda8a58?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69965df7e0bddb6acac4cf89?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 18 |
 | ↳ | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6996500f81476f6176ae163f?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Feb 18 |
 | ↳ | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6996670ce0bddb6acac4dc69?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Actuarial Leadership Development Program (ALDP) Intern](https://jobright.ai/jobs/info/6996410be0bddb6acac4a65f?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Feb 18 |
 | **[Pitcairn](https://www.pitcairn.com)** | **[Family Wealth Intern](https://jobright.ai/jobs/info/69965021ce78e77b4fda513e?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Groundwater Accounting Platform Intern](https://jobright.ai/jobs/info/6996686a81476f6176ae388d?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 18 |
-| ↳ | **[Groundwater Accounting Platform Intern](https://jobright.ai/jobs/info/69965db5e0bddb6acac4cf23?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Feb 18 |
-| **[CBRE](https://www.cbre.com)** | **[SkillBridge Program - Investment Analyst Intern](https://jobright.ai/jobs/info/69965417e0bddb6acac4c2eb?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
-| **[DT Midstream](https://dtmidstream.com/)** | **[Finance Intern - Canonsburg, PA](https://jobright.ai/jobs/info/69965c8c81476f6176ae2a71?utm_campaign=1052&utm_source=git)** | Canonsburg, PA, US | On Site | Feb 18 |
-| **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Financial Services (Energy Settlement)](https://jobright.ai/jobs/info/6996535781476f6176ae1b66?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
-| **[Graycor](http://graycor.com)** | **[Investment Analyst Internship](https://jobright.ai/jobs/info/699648fa81476f6176ae0aae?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

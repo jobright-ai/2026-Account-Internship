@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/69967a27e0bddb6acac4f37e?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Feb 18 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6996720781476f6176ae44e8?utm_campaign=1052&utm_source=git)** | Iselin, NJ | Hybrid | Feb 18 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[ACCOUNTING INTERN, UCPATH](https://jobright.ai/jobs/info/699669bce0bddb6acac4e02b?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/6996631181476f6176ae3335?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 18 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Finance Intern](https://jobright.ai/jobs/info/699675e2ce78e77b4fda83b0?utm_campaign=1052&utm_source=git)** | Van Wert, Ohio, United States | Remote | Feb 18 |
 | **[PwC](http://pwc.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/699675b481476f6176ae4a69?utm_campaign=1052&utm_source=git)** | Silicon Valley, CA | On Site | Feb 18 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Audit Intern](https://jobright.ai/jobs/info/6996722fe0bddb6acac4e9f9?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Feb 18 |
+| **[Albourne](http://www.albourne.com)** | **[Operational Risk Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69967742ce78e77b4fda85ac?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69964701ce78e77b4fda432f?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Feb 18 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Tax Intern (Summer 2026)](https://jobright.ai/jobs/info/699642a781476f6176ae00f9?utm_campaign=1052&utm_source=git)** | Newark, NJ | Hybrid | Feb 18 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6996413d81476f6176adfed1?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Feb 18 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/699675eae0bddb6acac4eee2?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Groundwater Accounting Platform Intern](https://jobright.ai/jobs/info/69963084e0bddb6acac490a5?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/69965ef981476f6176ae2e83?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
+| **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Accounting Internship](https://jobright.ai/jobs/info/69967a41ce78e77b4fda8a58?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69965df7e0bddb6acac4cf89?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 18 |
 | ↳ | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6996500f81476f6176ae163f?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Feb 18 |
 | ↳ | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6996670ce0bddb6acac4dc69?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 18 |
@@ -127,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Macroeconomic Research, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/6996429ace78e77b4fda3c95?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 18 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26075 - Accounting Part-Time Intern](https://jobright.ai/jobs/info/69965285ce78e77b4fda554b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | **[Environmental Defense Fund](https://www.edf.org/)** | **[Groundwater Accounting Platform Intern](https://jobright.ai/jobs/info/699647adce78e77b4fda4437?utm_campaign=1052&utm_source=git)** | Boulder, CO | Hybrid | Feb 18 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/699661dbe0bddb6acac4d505?utm_campaign=1052&utm_source=git)** | Denver, Colorado | On Site | Feb 18 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/6996480a81476f6176ae0924?utm_campaign=1052&utm_source=git)** | Findlay, Ohio | On Site | Feb 18 |
 | ↳ | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/69965152ce78e77b4fda534d?utm_campaign=1052&utm_source=git)** | San Antonio, Texas | On Site | Feb 18 |
-| ↳ | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/6996480a81476f6176ae0924?utm_campaign=1052&utm_source=git)** | Findlay, Ohio | On Site | Feb 18 |
+| ↳ | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/699661dbe0bddb6acac4d505?utm_campaign=1052&utm_source=git)** | Denver, Colorado | On Site | Feb 18 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Intern](https://jobright.ai/jobs/info/69966080e0bddb6acac4d316?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Feb 18 |
 | **[MTS Health Partners](http://mtspartners.com)** | **[2027 Winter Analyst, Investment Banking](https://jobright.ai/jobs/info/6996521c81476f6176ae1964?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Feb 18 |
 | **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/699643e1ce78e77b4fda3e67?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Feb 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Cost Analytics Intern, NA](https://jobright.ai/jobs/info/6996350ace78e77b4fda2ad6?utm_campaign=1052&utm_source=git)** | Ashburn, Virginia | On Site | Feb 18 |
 | **[Gursey | Schneider LLP](http://gursey.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69960ee781476f6176adc920?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 18 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Corporate Development & M&A](https://jobright.ai/jobs/info/69964e3ace78e77b4fda4e14?utm_campaign=1052&utm_source=git)** | Lake Zurich, IL | On Site | Feb 18 |
-| **[Live Oak Bank](https://www.liveoakbank.com)** | **[Loan Operations Intern](https://jobright.ai/jobs/info/6996312381476f6176adec9a?utm_campaign=1052&utm_source=git)** | Wilmington, NC | On Site | Feb 18 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6996385ece78e77b4fda2dd0?utm_campaign=1052&utm_source=git)** | Bossier City, LA | On Site | Feb 18 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Audit Intern - Summer 2026 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/699656aece78e77b4fda5b6f?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

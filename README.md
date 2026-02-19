@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6933dd98764507023d1ba418?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Feb 19 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Finance Intern – Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/697aa20d8dbbf73badc7dddc?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 19 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da220698?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | Hybrid | Feb 19 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, FP&A](https://jobright.ai/jobs/info/697ae04fc532c4768fe09786?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Feb 19 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Summer 2027 (Bradenton, FL)](https://jobright.ai/jobs/info/68ed5acf81fdd1626d39b81b?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Feb 19 |
+| **[VettaFi](https://vettafi.com/)** | **[Index Research Intern](https://jobright.ai/jobs/info/697a5c15b4589b4ee87ca34e?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Feb 19 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a6?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 19 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Tax Sales Strategy and Operations / Philadelphia Summer 2026](https://jobright.ai/jobs/info/6996d9a181476f6176aed333?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Feb 19 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Internal Audit and Financial Advisory Intern - 2027](https://jobright.ai/jobs/info/6996d53581476f6176aed080?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Feb 19 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Seller Fees, WW Seller Economics](https://jobright.ai/jobs/info/6996d255ce78e77b4fdb099a?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Feb 19 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Procurement Intern](https://jobright.ai/jobs/info/6996c867ce78e77b4fdb02d8?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Feb 19 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern / Accounting General](https://jobright.ai/jobs/info/69965a1b81476f6176ae269c?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Feb 18 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69966cd781476f6176ae3e78?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Feb 18 |
 | **[Williams](https://www.williams.com)** | **[Business Intern (NYU Financial Engineering Students)](https://jobright.ai/jobs/info/69966fc7ce78e77b4fda7bb1?utm_campaign=1052&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Feb 18 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69964a1681476f6176ae0c51?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | Feb 18 |
-| **[Environmental Defense Fund](https://www.edf.org/)** | **[Groundwater Accounting Platform Intern](https://jobright.ai/jobs/info/69965fd481476f6176ae3002?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 18 |
-| **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Alternative Investments (May - August 2026)](https://jobright.ai/jobs/info/69966b1a81476f6176ae3c09?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 18 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2026 (San Diego)](https://jobright.ai/jobs/info/699661f981476f6176ae31ec?utm_campaign=1052&utm_source=git)** | 3570 Carmel Mountain Road, San Diego, CA, 92130, US | On Site | Feb 18 |
-| **[Ategrity Specialty Insurance Company](https://www.ategrity.com/)** | **[Underwriting Scholar Program](https://jobright.ai/jobs/info/6996593ce0bddb6acac4c8d3?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Feb 18 |
-| **[Travelers](https://www.travelers.com)** | **[Actuarial Leadership Development Program (ALDP) Intern](https://jobright.ai/jobs/info/6996410be0bddb6acac4a65f?utm_campaign=1052&utm_source=git)** | Hartford, CT | On Site | Feb 18 |
-| **[Pitcairn](https://www.pitcairn.com)** | **[Family Wealth Intern](https://jobright.ai/jobs/info/69965021ce78e77b4fda513e?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | Feb 18 |
-| **[Environmental Defense Fund](https://www.edf.org/)** | **[Groundwater Accounting Platform Intern](https://jobright.ai/jobs/info/6996686a81476f6176ae388d?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenLab Venture Studios](https://www.genlab.studio/)** | **[Venture Capital Analyst Intern (Investment Process Focused)](https://jobright.ai/jobs/info/69977fa2e0bddb6acac63457?utm_campaign=1052&utm_source=git)** | Everett, WA | Remote | Feb 19 |
+| **[Rabobank](http://www.rabobank.com)** | **[Internal Audit Summer Intern](https://jobright.ai/jobs/info/69978a4781476f6176af9fd0?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | Hybrid | Feb 19 |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern - Finance](https://jobright.ai/jobs/info/699788dee0bddb6acac63a9a?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Feb 19 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Inventory Control Intern (Cycle Count)](https://jobright.ai/jobs/info/698fefd30f6f7e7a2cec34b6?utm_campaign=1052&utm_source=git)** | Lake Zurich, IL | On Site | Feb 19 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Procurement Analyst Intern](https://jobright.ai/jobs/info/69977860e0bddb6acac62fa5?utm_campaign=1052&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Feb 19 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Accounting Intern - Summer Internship](https://jobright.ai/jobs/info/69976f74ce78e77b4fdbc68c?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 19 |
@@ -65,7 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Norfolk Southern](https://www.nscorp.com)** | **[2026 Fall Internal Audit Intern](https://jobright.ai/jobs/info/69976e6481476f6176af8c05?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Finance Internship](https://jobright.ai/jobs/info/69976e5fce78e77b4fdbc56b?utm_campaign=1052&utm_source=git)** | Midland, TX | On Site | Feb 19 |
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/69976e24ce78e77b4fdbc52c?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Feb 19 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Underwriter Associate Intern, AD&L](https://jobright.ai/jobs/info/69978a7e81476f6176afa00a?utm_campaign=1052&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 19 |
 | **[Alberta Investment Management Corporation (AIMCo)](http://www.aimco.ca)** | **[Intern, Public Equities (3-months)](https://jobright.ai/jobs/info/69976d99ce78e77b4fdbc486?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 19 |
+| **[Sagard](http://www.sagard.com)** | **[Investment Intern, Portage Ventures (Summer and Fall 2026 - 8 Months)](https://jobright.ai/jobs/info/696f008a9c3c52633455b2bc?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 19 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Finance Intern - Summer Internship](https://jobright.ai/jobs/info/69976957e0bddb6acac62231?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | Feb 19 |
 | **[College for Social Innovation](https://collegeforsocialinnovation.org/)** | **[Finance and Operations Intern](https://jobright.ai/jobs/info/6997694ae0bddb6acac62226?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Feb 19 |
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/69976927ce78e77b4fdbc173?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 19 |
@@ -86,18 +89,17 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Strategy & Investments Intern (4 Months)](https://jobright.ai/jobs/info/6997587e81476f6176af7d2c?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Feb 19 |
 | **[Alberta Investment Management Corporation (AIMCo)](http://www.aimco.ca)** | **[Intern, Public Equities (3-months)](https://jobright.ai/jobs/info/6997763ace78e77b4fdbcdfa?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 19 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Finance Internship](https://jobright.ai/jobs/info/69973b25e0bddb6acac5f177?utm_campaign=1052&utm_source=git)** | Midland, Texas | On Site | Feb 19 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Risk & Internal Controls Intern (Summer 2026; FIN)](https://jobright.ai/jobs/info/6997558ece78e77b4fdbb476?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Feb 19 |
 | **[Dropbox](https://www.dropbox.com)** | **[Tax & Treasury Intern (Summer 2026)](https://jobright.ai/jobs/info/699771cbe0bddb6acac62a5e?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 19 |
-| **[Brightly Software](https://www.brightlysoftware.com)** | **[Finance Excellence Program Internship, Summer 2026](https://jobright.ai/jobs/info/6997550881476f6176af7b66?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Feb 19 |
 | **[NetSPI](https://www.netspi.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69975468e0bddb6acac6157d?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 19 |
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/69977151ce78e77b4fdbc887?utm_campaign=1052&utm_source=git)** | Greater Cleveland | On Site | Feb 19 |
 | ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/699771a2ce78e77b4fdbc8d6?utm_campaign=1052&utm_source=git)** | Rochester, MN | On Site | Feb 19 |
-| ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6997728cce78e77b4fdbc9c8?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 19 |
 | ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/69978016ce78e77b4fdbd40d?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Feb 19 |
+| ↳ | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6997728cce78e77b4fdbc9c8?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 19 |
 | ↳ | **[Accounting Intern - Detroit 2026](https://jobright.ai/jobs/info/699771b281476f6176af8f7e?utm_campaign=1052&utm_source=git)** | US-MI-Detroit | On Site | Feb 19 |
 | ↳ | **[Accounting Intern - Detroit 2026](https://jobright.ai/jobs/info/69977711e0bddb6acac62edc?utm_campaign=1052&utm_source=git)** | Detroit, MI, US | On Site | Feb 19 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Accounting Intern - Summer Internship](https://jobright.ai/jobs/info/69977130e0bddb6acac629c8?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 19 |
-| ↳ | **[Finance Intern - Summer Internship](https://jobright.ai/jobs/info/69978436ce78e77b4fdbd661?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 19 |
+| **[HealthEdge](http://www.healthedge.com)** | **[Finance Intern - Summer Internship](https://jobright.ai/jobs/info/69978436ce78e77b4fdbd661?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 19 |
+| ↳ | **[Accounting Intern - Summer Internship](https://jobright.ai/jobs/info/699785e381476f6176af9de8?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | Feb 19 |
+| ↳ | **[Accounting Intern - Summer Internship](https://jobright.ai/jobs/info/69977130e0bddb6acac629c8?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 19 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Equities Middle Office Sophomore Summer Internship](https://jobright.ai/jobs/info/699752b2ce78e77b4fdbb2e6?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Feb 19 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/699752a881476f6176af79d5?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[Summer Accounting Intern](https://jobright.ai/jobs/info/6997803581476f6176af9acc?utm_campaign=1052&utm_source=git)** | Denver, CO, US | On Site | Feb 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69976e1be0bddb6acac626c9?utm_campaign=1052&utm_source=git)** | Ankeny, IA | Remote | Feb 19 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6997669fe0bddb6acac61f82?utm_campaign=1052&utm_source=git)** | Camden, NJ | Remote | Feb 19 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69975f55ce78e77b4fdbb9ab?utm_campaign=1052&utm_source=git)** | Cleveland, TN | Remote | Feb 19 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69976a14ce78e77b4fdbc259?utm_campaign=1052&utm_source=git)** | Glen Burnie, MD | Remote | Feb 19 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69975d8dce78e77b4fdbb8b3?utm_campaign=1052&utm_source=git)** | Longview, WA | Remote | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

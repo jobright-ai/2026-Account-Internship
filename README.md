@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Accounting Intern Summer 2026 - Finance](https://jobright.ai/jobs/info/69994a1481476f6176b1e660?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Keystone Cooperative](https://www.keystonecoop.com)** | **[Intern - Credit & Finance](https://jobright.ai/jobs/info/6999364fe0bddb6acac84818?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
 | **[nexAir, LLC](http://nexair.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6999334b81476f6176b1be8e?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Feb 20 |
 | **[ATB Financial](http://www.atb.com/)** | **[Risk Analyst Summer Student](https://jobright.ai/jobs/info/6993f992e0bddb6acac24b01?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 20 |
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/69992bf5ce78e77b4fdde0f3?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Hybrid | Feb 20 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/699928f381476f6176b1b02b?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/699928bfce78e77b4fdddb52?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 20 |
+| **[CBIZ](http://www.cbiz.com)** | **[Forensic Accounting and Litigation Intern / Summer & Fall 2026](https://jobright.ai/jobs/info/69994b3081476f6176b1ea10?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 20 |
 | **[ABF Freight](https://arcb.com/abf-freight)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69992725ce78e77b4fddd764?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Feb 20 |
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/6999254b81476f6176b1a928?utm_campaign=1052&utm_source=git)** | Camp Hill, PA | Hybrid | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Finance) Hybrid Schedule](https://jobright.ai/jobs/info/699924cfe0bddb6acac82b07?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
+| **[Hydro International](http://www.hydro-int.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69994dc181476f6176b1ef0f?utm_campaign=1052&utm_source=git)** | Draper, UT | Hybrid | Feb 20 |
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/69992435e0bddb6acac829ca?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Feb 20 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Intern - Manufacturing Accounting Intern](https://jobright.ai/jobs/info/69991eb5e0bddb6acac81f04?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Feb 20 |
 | **[Regal](https://www.regmovies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/699946dcce78e77b4fde0a1d?utm_campaign=1052&utm_source=git)** | Knoxville, TN | Hybrid | Feb 20 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Client Accounting Intern](https://jobright.ai/jobs/info/69991efbe0bddb6acac81f3b?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Finance) Hybrid Schedule](https://jobright.ai/jobs/info/6999157281476f6176b18d73?utm_campaign=1052&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[Aerolase](http://www.aerolase.com)** | **[INTERN Accounting Associate](https://jobright.ai/jobs/info/699916a0ce78e77b4fddb786?utm_campaign=1052&utm_source=git)** | Tarrytown, NY | On Site | Feb 20 |
-| **[CBIZ](http://www.cbiz.com)** | **[Forensic Accounting and Litigation Intern / Summer & Fall 2026](https://jobright.ai/jobs/info/6998f69381476f6176b1632d?utm_campaign=1052&utm_source=git)** | 53 State Street, 17th Floor, Boston, MA, 02109, US | On Site | Feb 20 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Internship - San Diego, CA](https://jobright.ai/jobs/info/69656c17a112b40266135519?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Feb 20 |
 | **[Avant](https://www.avant.com)** | **[Credit Risk Analytics Summer Internship](https://jobright.ai/jobs/info/69991faa81476f6176b19fbc?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 20 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Finance SEED Intern](https://jobright.ai/jobs/info/6999121081476f6176b18738?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 20 |
@@ -111,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[P/T INTERN, FINANCE](https://jobright.ai/jobs/info/69990ef481476f6176b18385?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Feb 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69990ae4e0bddb6acac80290?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Accounting Internship (Summer 2026)](https://jobright.ai/jobs/info/69992711e0bddb6acac82f9c?utm_campaign=1052&utm_source=git)** | Wilmington, MA | Hybrid | Feb 20 |
+| **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Commercial Finance](https://jobright.ai/jobs/info/69994930e0bddb6acac866b0?utm_campaign=1052&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2026 / Norfolk](https://jobright.ai/jobs/info/69990f6981476f6176b183b4?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Feb 20 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Intern - Manufacturing Accounting Intern](https://jobright.ai/jobs/info/6999089ce0bddb6acac7ff45?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Feb 20 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Corporate Accounting & Reporting (Summer 2026)](https://jobright.ai/jobs/info/6999216ce0bddb6acac82421?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[Accounting Internship (Summer 2026)](https://jobright.ai/jobs/info/6998ea1781476f6176b15001?utm_campaign=1052&utm_source=git)** | Wilmington, MA | Hybrid | Feb 20 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6998ea96e0bddb6acac7d53f?utm_campaign=1052&utm_source=git)** | San Jose, California | On Site | Feb 20 |
 | **[Javara](https://www.javararesearch.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6998e9aece78e77b4fdd77fa?utm_campaign=1052&utm_source=git)** | Winston Salem, NC | On Site | Feb 20 |
-| **[BMO](http://www.bmo.com)** | **[Junior Analyst, Investments, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6998fc7481476f6176b16d68?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 20 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Revenue Accounting](https://jobright.ai/jobs/info/6998bb33ce78e77b4fdd502f?utm_campaign=1052&utm_source=git)** | Mason, OH, US | On Site | Feb 20 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- New York, Mortgage Banking](https://jobright.ai/jobs/info/6998bab4e0bddb6acac7abda?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

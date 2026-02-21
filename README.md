@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/699a0195ce78e77b4fded2ca?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Feb 21 |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Summer 2026 / La Jolla, San Diego Area)](https://jobright.ai/jobs/info/6999fef4e0bddb6acac92b85?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 21 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Finance Intern](https://jobright.ai/jobs/info/6999f94481476f6176b2a9c6?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 21 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Intern](https://jobright.ai/jobs/info/6999efb6e0bddb6acac929ae?utm_campaign=1052&utm_source=git)** | Madison, WI | Remote | Feb 21 |
 | **[Arvento A](arventoa.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6999e9b781476f6176b2a705?utm_campaign=1052&utm_source=git)** | Kenosha, WI | Remote | Feb 21 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026 Summer Intern, Actuarial](https://jobright.ai/jobs/info/68c7a93e7d0db4114273f1c0?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Feb 21 |
 | **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6999e612e0bddb6acac91bef?utm_campaign=1052&utm_source=git)** | Pittsfield, MA, US | On Site | Feb 21 |
-| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Finance Intern](https://jobright.ai/jobs/info/6999e29681476f6176b28cbe?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 21 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/69618a65f3f4cd1325069a76?utm_campaign=1052&utm_source=git)** | Saginaw-Midland-BC Area | On Site | Feb 21 |
 | **[Reviora](reviora.us)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/6999de9581476f6176b28c11?utm_campaign=1052&utm_source=git)** | Wisconsin, United States | On Site | Feb 21 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed562e0db92422580bfa6?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Feb 21 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[ATKG](https://atkg.com/)** | **[Tax Internship - Spring 2027](https://jobright.ai/jobs/info/697d3dd2727747250d580f00?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 21 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/697d56ab727747250d5838da?utm_campaign=1052&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 21 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Global Banking Americas – Corporate Coverage – 2026 Summer Analyst Internship](https://jobright.ai/jobs/info/697d7817727747250d5860b9?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 21 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/699344afe0bddb6acac1892a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 21 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Intern - Accounts Payable](https://jobright.ai/jobs/info/697d54ca137a051025666b6f?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Finance Intern](https://jobright.ai/jobs/info/696109e7f3f4cd132505ff75?utm_campaign=1052&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
@@ -134,13 +135,10 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69954ddace78e77b4fd968df?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Feb 21 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/690bc0444a1b456627b1264c?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 21 |
 | ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698455eb8da7a612045e770b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 21 |
-| **[Orvanta](orvanta.us)** | **[Finance Intern](https://jobright.ai/jobs/info/699980e5e0bddb6acac8c793?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Feb 21 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Accounting Summer Internship](https://jobright.ai/jobs/info/69997e1ace78e77b4fde686a?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Feb 21 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/697cdef0727747250d578cc3?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Orvanta](orvanta.us)** | **[Revenue and Commercial Analyst Intern](https://jobright.ai/jobs/info/69997204ce78e77b4fde5994?utm_campaign=1052&utm_source=git)** | Yonkers, NY | On Site | Feb 21 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69996afdce78e77b4fde4b07?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 21 |
 | **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/6999687c81476f6176b21ac4?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Feb 21 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69997cede0bddb6acac8c190?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 20 |
 | **[Federal Rent A Fence](https://federalrentafence.com/)** | **[Finance + Data + Software Intern](https://jobright.ai/jobs/info/699952e1e0bddb6acac87aaf?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | Hybrid | Feb 20 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Business Summer Internship](https://jobright.ai/jobs/info/699969f1e0bddb6acac8a360?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Accounting Intern Summer 2026 - Finance](https://jobright.ai/jobs/info/6999e96881476f6176b2a6e7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 20 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Super.com](https://www.super.com)** | **[Chargeback Analyst Intern](https://jobright.ai/jobs/info/69955bf0e0bddb6acac3ec2f?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/69992435e0bddb6acac829ca?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Feb 20 |
 | **[Super.com](https://www.super.com)** | **[Chargeback Analyst Intern](https://jobright.ai/jobs/info/69955e0ace78e77b4fd98448?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 20 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Intern - Manufacturing Accounting Intern](https://jobright.ai/jobs/info/69991eb5e0bddb6acac81f04?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Feb 20 |
+| **[Regal](https://www.regmovies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/699946dcce78e77b4fde0a1d?utm_campaign=1052&utm_source=git)** | Knoxville, TN | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

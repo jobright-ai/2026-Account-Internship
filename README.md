@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/69992bf5ce78e77b4fdde0f3?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Hybrid | Feb 20 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/699928f381476f6176b1b02b?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
+| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/699928bfce78e77b4fdddb52?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 20 |
 | **[ABF Freight](https://arcb.com/abf-freight)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69992725ce78e77b4fddd764?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Feb 20 |
 | **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/6999254b81476f6176b1a928?utm_campaign=1052&utm_source=git)** | Camp Hill, PA | Hybrid | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Finance) Hybrid Schedule](https://jobright.ai/jobs/info/699924cfe0bddb6acac82b07?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
@@ -74,7 +77,12 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/6999116e81476f6176b185f0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Feb 20 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Tax Benefit Program](https://jobright.ai/jobs/info/69990bbfce78e77b4fdda87f?utm_campaign=1052&utm_source=git)** | Albany, Albany, NY, US | Hybrid | Feb 20 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Commercial & Operations Finance Intern](https://jobright.ai/jobs/info/699906a181476f6176b17b81?utm_campaign=1052&utm_source=git)** | Carlisle, PA | On Site | Feb 20 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Summer 2027 - SoCal](https://jobright.ai/jobs/info/699929f0e0bddb6acac8346e?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
+| **[Orvanta](orvanta.us)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/6999288481476f6176b1af3e?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Feb 20 |
+| **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[B & O Tax Intern](https://jobright.ai/jobs/info/6999289781476f6176b1af72?utm_campaign=1052&utm_source=git)** | Auburn, WA | On Site | Feb 20 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Financial statement Analysis Intern](https://jobright.ai/jobs/info/69992b9181476f6176b1b459?utm_campaign=1052&utm_source=git)** | Kenosha, WI | Remote | Feb 20 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Financial Analyst - Undergraduate & MBA](https://jobright.ai/jobs/info/69991a6ae0bddb6acac81753?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Feb 20 |
+| **[Regal](https://www.regmovies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6999308ee0bddb6acac83d9f?utm_campaign=1052&utm_source=git)** | Knoxville, Tennessee, United States | On Site | Feb 20 |
 | **[nexAir, LLC](http://nexair.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69992091ce78e77b4fddca64?utm_campaign=1052&utm_source=git)** | Memphis, Tennessee, United States | On Site | Feb 20 |
 | **[Tenaska](http://www.tenaska.com/)** | **[Intern, Credit Risk](https://jobright.ai/jobs/info/69991cfa81476f6176b19ad9?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Feb 20 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Client Accounting Intern](https://jobright.ai/jobs/info/69991efbe0bddb6acac81f3b?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Feb 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Purchasing Intern](https://jobright.ai/jobs/info/6998d8d881476f6176b14188?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Feb 20 |
 | **[Continental](https://www.continental.com)** | **[Intern - Tire Property Management / Finance, Year-Round](https://jobright.ai/jobs/info/6998d67481476f6176b13f7e?utm_campaign=1052&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Feb 20 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 – Dixon, IL](https://jobright.ai/jobs/info/697c71a2727747250d572358?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | Feb 20 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Finance](https://jobright.ai/jobs/info/6998a87b81476f6176b114c5?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Remote | Feb 20 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Venture Investing](https://jobright.ai/jobs/info/6998cce3e0bddb6acac7b8f8?utm_campaign=1052&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Feb 20 |
-| **[White Oak Enterprises](https://www.linkedin.com/company/100928731)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6998c935e0bddb6acac7b707?utm_campaign=1052&utm_source=git)** | Fulton, MD | Hybrid | Feb 20 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Financial Systems Intern, Summer](https://jobright.ai/jobs/info/6998cbd4ce78e77b4fdd5d42?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Genesee & Wyoming Inc.](https://www.gwrr.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6998c988e0bddb6acac7b74d?utm_campaign=1052&utm_source=git)** | Jacksonville, Florida, United States | On Site | Feb 20 |
-| **[CVG Airport - Cincinnati/Northern Kentucky International Airport](https://www.cvgairport.com)** | **[Intern - Financial Operations](https://jobright.ai/jobs/info/6998d64dce78e77b4fdd66c0?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Feb 20 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Finance - Business Aircraft (Summer 2026)](https://jobright.ai/jobs/info/6986c19c0f6f7e7a2ce1dd99?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 20 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedc2146e5b153e5a60abe?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

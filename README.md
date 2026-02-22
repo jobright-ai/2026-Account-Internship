@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Financial Analyst - Undergraduate & MBA](https://jobright.ai/jobs/info/699ab060ce78e77b4fdf7950?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Feb 21 |
+| ↳ | **[Summer 2026 Intern - Financial Analyst - Undergraduate & MBA](https://jobright.ai/jobs/info/699aa795e0bddb6acac9c790?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Feb 21 |
 | **[AVARY Group](https://www.avarygroup.biz)** | **[M&A Impact Interns (Founder’s Office Intern)](https://jobright.ai/jobs/info/699a9227ce78e77b4fdf6435?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Feb 21 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99969 Accounts Receivable Technician, Tahlequah](https://jobright.ai/jobs/info/699a91d5e0bddb6acac9b67b?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Feb 21 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Corporate Ventures Capital Intern](https://jobright.ai/jobs/info/699a631a81476f6176b2f0ef?utm_campaign=1052&utm_source=git)** | Raleigh | On Site | Feb 21 |
@@ -91,8 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Finance Intern](https://jobright.ai/jobs/info/6999d43c81476f6176b28927?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Finance Intern Talent Pool](https://jobright.ai/jobs/info/6999d40381476f6176b28907?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6999d338e0bddb6acac90b18?utm_campaign=1052&utm_source=git)** | Eau Claire, WI | On Site | Feb 21 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Assurance Intern (Sioux Falls)](https://jobright.ai/jobs/info/6961659ff3f4cd1325065df4?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Feb 21 |
-| ↳ | **[Tax Intern (Sioux Falls)](https://jobright.ai/jobs/info/69955cecce78e77b4fd98226?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Feb 21 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Tax Intern (Sioux Falls)](https://jobright.ai/jobs/info/69955cecce78e77b4fd98226?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Feb 21 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Finance Intern Talent Pool](https://jobright.ai/jobs/info/6999cf58ce78e77b4fdeafa9?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Remote | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Staff Accounting](https://jobright.ai/jobs/info/694601187d506e3808f14d42?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
 | **[Aristocrat](http://www.aristocrat.com)** | **[Intern, Commercial Finance](https://jobright.ai/jobs/info/6999cbaee0bddb6acac908e5?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Feb 21 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Symetra](http://www.symetra.com)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/697cdef0727747250d578cc3?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Federal Rent A Fence](https://federalrentafence.com/)** | **[Finance + Data + Software Intern](https://jobright.ai/jobs/info/699952e1e0bddb6acac87aaf?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | Hybrid | Feb 20 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Business Summer Internship](https://jobright.ai/jobs/info/699969f1e0bddb6acac8a360?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
-| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2026 Full-time Audit Internship](https://jobright.ai/jobs/info/699a9fe5ce78e77b4fdf6d04?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Feb 20 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Accounting Intern Summer 2026 - Finance](https://jobright.ai/jobs/info/699a8a7c81476f6176b318d7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Keystone Cooperative](https://www.keystonecoop.com)** | **[Intern - Credit & Finance](https://jobright.ai/jobs/info/6999364fe0bddb6acac84818?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Feb 20 |
 | **[CBIZ](http://www.cbiz.com)** | **[Forensic Accounting and Litigation Intern / Summer & Fall 2026](https://jobright.ai/jobs/info/69997a0881476f6176b23a0d?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 20 |

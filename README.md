@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b5c10e0bddb6acaca4645?utm_campaign=1052&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 22 |
+| ↳ | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b5a9a81476f6176b3c62e?utm_campaign=1052&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 22 |
+| **[VertoTech](vertotech.us)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/699b4b3681476f6176b3c3a9?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Feb 22 |
+| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Underwriting](https://jobright.ai/jobs/info/698c812d0f6f7e7a2ce83832?utm_campaign=1052&utm_source=git)** | Eagan, MN | Hybrid | Feb 22 |
+| **[Tigbourne Capital Ltd](https://www.tigbournecapital.com/)** | **[Private Equity Analyst Internship (Remote + Unpaid)](https://jobright.ai/jobs/info/699b4ac481476f6176b3c391?utm_campaign=1052&utm_source=git)** | St Louis, MO | Remote | Feb 22 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/699b48d6e0bddb6acaca434b?utm_campaign=1052&utm_source=git)** | Kenosha, WI | Remote | Feb 22 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/699b40f9e0bddb6acaca4234?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 22 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/699b40dae0bddb6acaca422d?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 22 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/699b3dbfe0bddb6acaca420a?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 22 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Finance Intern](https://jobright.ai/jobs/info/699b3a5881476f6176b3c21f?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Feb 22 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/699b3990e0bddb6acaca4193?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 22 |
-| **[Dynareon](dynareon.com)** | **[Finance Intern](https://jobright.ai/jobs/info/699b2e95e0bddb6acaca27fc?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[QuickBooks Intern](https://jobright.ai/jobs/info/699b2bc9ce78e77b4fdfd335?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/699b2788e0bddb6acaca277f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 22 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Intern](https://jobright.ai/jobs/info/699b2555ce78e77b4fdfd2ae?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Feb 22 |
 | **[Horizon Lane](horizonlane.net)** | **[Finance Internship](https://jobright.ai/jobs/info/699b248a81476f6176b3a6b7?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
 | **[Highgate](https://www.highgate.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/699b1e6b81476f6176b3a65f?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 22 |
 | **[Brixenta](brixenta.us)** | **[Finance Year-Round Internship](https://jobright.ai/jobs/info/699b1a78e0bddb6acaca265a?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Feb 22 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6945b1e5d1953b5d11beae33?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 22 |
 | **[Sunshine Water Services](www.sunshinewater.com)** | **[Utility Accounts Assistant (Summer Intern/ Co-op)](https://jobright.ai/jobs/info/699ae46dce78e77b4fdfac83?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Feb 22 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/699aae3ae0bddb6acac9cedf?utm_campaign=1052&utm_source=git)** | Haldimand County, Ontario, Canada | On Site | Feb 22 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/699a7b00ce78e77b4fdf39d1?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Feb 22 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/69626ea125e18715077f4939?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 22 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69686cd41703f05405aa2319?utm_campaign=1052&utm_source=git)** | Clayton, MO | On Site | Feb 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/699a928d81476f6176b33741?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Feb 22 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68d2fb34f0d9af73038ddbfe?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/699024340f6f7e7a2cec868b?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Feb 22 |
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6986b35a0f6f7e7a2ce1cb2b?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Feb 22 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6999327ae0bddb6acac84046?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Feb 22 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/698bfa090f6f7e7a2ce78835?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/68afe469e723db6c9b7b4980?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 22 |
 | **[PIM Brands](https://pimbrands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/68f1ba82f462172a5a7dbc52?utm_campaign=1052&utm_source=git)** | Somerset, NJ | On Site | Feb 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/697d54c8137a051025666b33?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | On Site | Feb 21 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Underwriting Internship (Financial Lines)](https://jobright.ai/jobs/info/697d0443727747250d57bb35?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/697d586f137a0510256677af?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb30?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Portfolio Management](https://jobright.ai/jobs/info/697d8625abff4c399a9c3d66?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

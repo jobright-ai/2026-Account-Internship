@@ -60,6 +60,8 @@ For a complete list, click the following sortable link below:
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Corporate Ventures Capital Intern](https://jobright.ai/jobs/info/699a631a81476f6176b2f0ef?utm_campaign=1052&utm_source=git)** | Raleigh | On Site | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Internal Audit Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6307ce78e77b4fdf1da9?utm_campaign=1052&utm_source=git)** | Austin GLO Main FL101700 N Congress Ave | On Site | Feb 21 |
 | ↳ | **[GLO - Financial Management Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a5c45e0bddb6acac961a6?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
+| ↳ | **[GLO - Internal Audit Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6b82e0bddb6acac98141?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
+| ↳ | **[GLO - Financial Management Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a67c8ce78e77b4fdf293b?utm_campaign=1052&utm_source=git)** | Austin GLO Main FL71700 N Congress Ave | On Site | Feb 21 |
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/699a2b48e0bddb6acac95057?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Feb 21 |
 | **[DT Midstream](https://dtmidstream.com/)** | **[Finance Intern - Tulsa, OK](https://jobright.ai/jobs/info/699a200381476f6176b2cf34?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Feb 21 |
 | **[Jostens](http://jostens.com)** | **[Temporary Accounts Payable Assistant](https://jobright.ai/jobs/info/699a1a7281476f6176b2b4e0?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Feb 21 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Finance Intern](https://jobright.ai/jobs/info/6999d43c81476f6176b28927?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Finance Intern Talent Pool](https://jobright.ai/jobs/info/6999d40381476f6176b28907?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6999d338e0bddb6acac90b18?utm_campaign=1052&utm_source=git)** | Eau Claire, WI | On Site | Feb 21 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Internship](https://jobright.ai/jobs/info/6999d2fce0bddb6acac90af1?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Feb 21 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Finance Internship](https://jobright.ai/jobs/info/6999d2bce0bddb6acac90ace?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Assurance Intern (Sioux Falls)](https://jobright.ai/jobs/info/6961659ff3f4cd1325065df4?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Feb 21 |
 | ↳ | **[Tax Intern (Sioux Falls)](https://jobright.ai/jobs/info/69955cecce78e77b4fd98226?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Feb 21 |
@@ -110,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Finance Intern](https://jobright.ai/jobs/info/696109e7f3f4cd132505ff75?utm_campaign=1052&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69614f57f3f4cd1325064933?utm_campaign=1052&utm_source=git)** | Macon, GA | On Site | Feb 21 |
+| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Accounting Internship - Las Vegas](https://jobright.ai/jobs/info/699a7c6381476f6176b30e79?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 21 |
 | **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Finance Intern](https://jobright.ai/jobs/info/6999abe9e0bddb6acac8fc9f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Quality Operations Systems Auditor Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995c91cce78e77b4fd9d553?utm_campaign=1052&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 21 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Financial Planning & Analysis (FP&A) Analyst Intern](https://jobright.ai/jobs/info/697d0495137a05102565f9be?utm_campaign=1052&utm_source=git)** | Warren, NJ | Hybrid | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Finance) Hybrid Schedule](https://jobright.ai/jobs/info/699924cfe0bddb6acac82b07?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
 | **[Hydro International](http://www.hydro-int.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69994dc181476f6176b1ef0f?utm_campaign=1052&utm_source=git)** | Draper, UT | Hybrid | Feb 20 |
 | **[Super.com](https://www.super.com)** | **[Chargeback Analyst Intern](https://jobright.ai/jobs/info/69955bf0e0bddb6acac3ec2f?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Delta Dental Ins.](https://www.deltadentalins.com)** | **[2026 Summer Underwriting Intern](https://jobright.ai/jobs/info/69992435e0bddb6acac829ca?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Feb 20 |
-| **[Super.com](https://www.super.com)** | **[Chargeback Analyst Intern](https://jobright.ai/jobs/info/69955e0ace78e77b4fd98448?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

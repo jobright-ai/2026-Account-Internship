@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Financial Management Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a5c45e0bddb6acac961a6?utm_campaign=1052&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/699a2b48e0bddb6acac95057?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Feb 21 |
 | **[DT Midstream](https://dtmidstream.com/)** | **[Finance Intern - Tulsa, OK](https://jobright.ai/jobs/info/699a200381476f6176b2cf34?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Feb 21 |
 | **[Jostens](http://jostens.com)** | **[Temporary Accounts Payable Assistant](https://jobright.ai/jobs/info/699a1a7281476f6176b2b4e0?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Feb 21 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698455eb8da7a612045e770b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 21 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Accounting Summer Internship](https://jobright.ai/jobs/info/69997e1ace78e77b4fde686a?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Feb 21 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/697cdef0727747250d578cc3?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 21 |
-| **[Orvanta](orvanta.us)** | **[Revenue and Commercial Analyst Intern](https://jobright.ai/jobs/info/69997204ce78e77b4fde5994?utm_campaign=1052&utm_source=git)** | Yonkers, NY | On Site | Feb 21 |
 | **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/6999687c81476f6176b21ac4?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Feb 21 |
 | **[Federal Rent A Fence](https://federalrentafence.com/)** | **[Finance + Data + Software Intern](https://jobright.ai/jobs/info/699952e1e0bddb6acac87aaf?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | Hybrid | Feb 20 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Business Summer Internship](https://jobright.ai/jobs/info/699969f1e0bddb6acac8a360?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |

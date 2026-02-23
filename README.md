@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aztec Group](https://aztec.group)** | **[Investor Services Associate Intern](https://jobright.ai/jobs/info/699cce70e0bddb6acacbda89?utm_campaign=1052&utm_source=git)** | Radnor, PA | Hybrid | Feb 23 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Internal Audit Internship](https://jobright.ai/jobs/info/699cc84cce78e77b4fe1862a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Feb 23 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Accounting](https://jobright.ai/jobs/info/699cc6cb81476f6176b558e1?utm_campaign=1052&utm_source=git)** | San Mateo, CA | On Site | Feb 23 |
 | **[ElevateBio](https://www.elevate.bio/basecamp)** | **[Finance Intern](https://jobright.ai/jobs/info/699cbeec81476f6176b552f9?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Feb 23 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/699cb38ee0bddb6acacbc389?utm_campaign=1052&utm_source=git)** | Houston, Texas | On Site | Feb 23 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/699cb2fee0bddb6acacbc2e9?utm_campaign=1052&utm_source=git)** | Del Rio, TX | On Site | Feb 23 |
 | **[Venerable](https://www.venerable.com/)** | **[Intern - Audit & Advisory](https://jobright.ai/jobs/info/699cb1ae81476f6176b544ac?utm_campaign=1052&utm_source=git)** | PA-West Chester - Dunwoody Dr | Hybrid | Feb 23 |
+| **[Peoples Gas](http://www.peoplesgasdelivery.com)** | **[Project Controls Cost Analyst](https://jobright.ai/jobs/info/699ccc0cce78e77b4fe1890b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Accounts Payable Intern](https://jobright.ai/jobs/info/699cc91c81476f6176b55aa6?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 23 |
 | **[Glatfelter Insurance Group](https://www.glatfelters.com/)** | **[Actuarial Summer Intern](https://jobright.ai/jobs/info/699ca7d081476f6176b53ccd?utm_campaign=1052&utm_source=git)** | York, PA | On Site | Feb 23 |
 | **[Advantage Capital](http://www.advantagecap.com/)** | **[Impact Measurement and Management Intern](https://jobright.ai/jobs/info/699ca709ce78e77b4fe1697d?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Client Accounting Intern](https://jobright.ai/jobs/info/699c997981476f6176b5342c?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Feb 23 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Finance Intern - Summer](https://jobright.ai/jobs/info/699c985c81476f6176b5336c?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL, US | Hybrid | Feb 23 |
 | **[Rakuten](http://global.rakuten.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/699cc775ce78e77b4fe18587?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | On Site | Feb 23 |
+| ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/699ccddfe0bddb6acacbda2c?utm_campaign=1052&utm_source=git)** | San Mateo, California | On Site | Feb 23 |
 | **[Mallinckrodt Pharmaceuticals](http://mallinckrodt.com)** | **[Internal Controls Intern](https://jobright.ai/jobs/info/699cb96a81476f6176b54cb4?utm_campaign=1052&utm_source=git)** | Hazelwood, MO | Hybrid | Feb 23 |
 | **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[FP&A Intern](https://jobright.ai/jobs/info/699c979de0bddb6acacbafa2?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Feb 23 |
 | **[Norfolk & Dedham Insurance](http://www.NDGroup.com)** | **[Student Intern- Actuarial (Dedham)](https://jobright.ai/jobs/info/699cbe41ce78e77b4fe17f93?utm_campaign=1052&utm_source=git)** | Dedham, MA | On Site | Feb 23 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b5a9a81476f6176b3c62e?utm_campaign=1052&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 22 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Underwriting](https://jobright.ai/jobs/info/698c812d0f6f7e7a2ce83832?utm_campaign=1052&utm_source=git)** | Eagan, MN | Hybrid | Feb 22 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/699b62d6ce78e77b4fdff5ca?utm_campaign=1052&utm_source=git)** | US-MA-Boston | On Site | Feb 22 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b646081476f6176b3cb4d?utm_campaign=1052&utm_source=git)** | North Carolina | Hybrid | Feb 22 |
-| ↳ | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b6508ce78e77b4fdff719?utm_campaign=1052&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 22 |
-| ↳ | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b6664e0bddb6acaca4bc5?utm_campaign=1052&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 22 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/699b64c7e0bddb6acaca4b02?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 22 |
-| ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/699b63eace78e77b4fdff669?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 22 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b6508ce78e77b4fdff719?utm_campaign=1052&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 22 |
+| ↳ | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b646081476f6176b3cb4d?utm_campaign=1052&utm_source=git)** | North Carolina | Hybrid | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

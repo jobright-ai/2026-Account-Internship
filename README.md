@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Custom Truck One Source](https://www.customtruck.com/)** | **[TREASURY INTERN](https://jobright.ai/jobs/info/699c19cece78e77b4fe0a65b?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Feb 23 |
 | **[VertoTech](vertotech.us)** | **[Finance Job](https://jobright.ai/jobs/info/699bf5b681476f6176b45cb3?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Feb 22 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/699c10ba81476f6176b46e2c?utm_campaign=1052&utm_source=git)** | Kenosha, WI | Remote | Feb 22 |
 | **[Custom Truck One Source](https://www.customtruck.com/)** | **[TREASURY INTERN](https://jobright.ai/jobs/info/699be46be0bddb6acacacc4b?utm_campaign=1052&utm_source=git)** | Kansas City, MO, US | On Site | Feb 22 |
 | **[Eurofins BioPharma Product Testing North America](https://www.eurofinsus.com/bpt)** | **[Financial Data Analyst - Internship](https://jobright.ai/jobs/info/699bc82bce78e77b4fe042cb?utm_campaign=1052&utm_source=git)** | Lancaster, PA | Hybrid | Feb 22 |
 | **[San Pasqual Fiduciary Trust Company](https://www.spftc.com/)** | **[Summer Associate (Paid Internship)](https://jobright.ai/jobs/info/699bc043e0bddb6acaca8f53?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Feb 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6945b06663141d1884553d98?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 21 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6945b0f663141d1884553e3f?utm_campaign=1052&utm_source=git)** | Lexington, KY | Hybrid | Feb 21 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/697d54c8137a051025666b33?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | On Site | Feb 21 |
-| **[MSIG USA](https://www.msigusa.com/)** | **[Underwriting Internship (Financial Lines)](https://jobright.ai/jobs/info/697d0443727747250d57bb35?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/697d586f137a0510256677af?utm_campaign=1052&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

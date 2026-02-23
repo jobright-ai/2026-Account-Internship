@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Finance Intern](https://jobright.ai/jobs/info/699c440cce78e77b4fe0ebdd?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 23 |
 | **[Sunshine Water Services](www.sunshinewater.com)** | **[Utility Accounts Assistant (Summer Intern/ Co-op)](https://jobright.ai/jobs/info/699c344781476f6176b4a530?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Feb 23 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Budget &amp; Sustainability](https://jobright.ai/jobs/info/699c31ddce78e77b4fe0cea8?utm_campaign=1052&utm_source=git)** | Coral Springs, FL | On Site | Feb 23 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697f74b7ce48107c05438936?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Feb 23 |
-| **[Brixenta](brixenta.us)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/699c2ce381476f6176b49aa7?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Feb 23 |
+| **[Brixenta](brixenta.net)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/699c2ce381476f6176b49aa7?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Feb 23 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Accounting Intern Summer 2026](https://jobright.ai/jobs/info/68d16c08cece431f8b583a31?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Feb 23 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Manufacturing (Sedalia)](https://jobright.ai/jobs/info/690e50ae44146d3b6ec52d5c?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | Feb 23 |
 | **[Custom Truck One Source](https://www.customtruck.com/)** | **[TREASURY INTERN](https://jobright.ai/jobs/info/699c19cece78e77b4fe0a65b?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Feb 23 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b6508ce78e77b4fdff719?utm_campaign=1052&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 22 |
 | ↳ | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b646081476f6176b3cb4d?utm_campaign=1052&utm_source=git)** | North Carolina | Hybrid | Feb 22 |
 | ↳ | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b6664e0bddb6acaca4bc5?utm_campaign=1052&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 22 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/699b64c7e0bddb6acaca4b02?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 22 |
-| ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/699b63eace78e77b4fdff669?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 22 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/699b63eace78e77b4fdff669?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 22 |
+| ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/699b64c7e0bddb6acaca4b02?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 22 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/699b40f9e0bddb6acaca4234?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 22 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/699b40dae0bddb6acaca422d?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 22 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/699b3dbfe0bddb6acaca420a?utm_campaign=1052&utm_source=git)** | Canada | Remote | Feb 22 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/699aae3ae0bddb6acac9cedf?utm_campaign=1052&utm_source=git)** | Haldimand County, Ontario, Canada | On Site | Feb 22 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/69626ea125e18715077f4939?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 22 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69686cd41703f05405aa2319?utm_campaign=1052&utm_source=git)** | Clayton, MO | On Site | Feb 22 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Finance Intern](https://jobright.ai/jobs/info/699ad5c0e0bddb6acaca006a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 22 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68d2fb34f0d9af73038ddbfe?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 22 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers - Investment Banking (Washington DC, Chicago)](https://jobright.ai/jobs/info/698bfa090f6f7e7a2ce78835?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Global Transaction Tax - Summer 2026](https://jobright.ai/jobs/info/68afe469e723db6c9b7b4980?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 22 |

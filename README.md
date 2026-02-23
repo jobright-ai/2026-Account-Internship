@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Finance Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/6996409481476f6176adfdf9?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Feb 23 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/699c51d881476f6176b4d4d9?utm_campaign=1052&utm_source=git)** | Eau Claire, WI | Remote | Feb 23 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern - Summer 2026 (Nashville)](https://jobright.ai/jobs/info/6992acb8e0bddb6acac0d4a9?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Feb 23 |
+| **[Centers for Medicare & Medicaid Services](http://cms.gov/)** | **[Student Intern (Actuarial Science)](https://jobright.ai/jobs/info/699c4853ce78e77b4fe0eee0?utm_campaign=1052&utm_source=git)** | Baltimore County, MD | On Site | Feb 23 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Finance Intern](https://jobright.ai/jobs/info/699c440cce78e77b4fe0ebdd?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 23 |
 | **[Sunshine Water Services](www.sunshinewater.com)** | **[Utility Accounts Assistant (Summer Intern/ Co-op)](https://jobright.ai/jobs/info/699c344781476f6176b4a530?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Feb 23 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Budget &amp; Sustainability](https://jobright.ai/jobs/info/699c31ddce78e77b4fe0cea8?utm_campaign=1052&utm_source=git)** | Coral Springs, FL | On Site | Feb 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Intern - Accounts Payable](https://jobright.ai/jobs/info/697d54ca137a051025666b6f?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Finance Intern](https://jobright.ai/jobs/info/696109e7f3f4cd132505ff75?utm_campaign=1052&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
-| **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69614f57f3f4cd1325064933?utm_campaign=1052&utm_source=git)** | Macon, GA | On Site | Feb 21 |
-| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Accounting Internship - Las Vegas](https://jobright.ai/jobs/info/699a7c6381476f6176b30e79?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Quality Operations Systems Auditor Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995c91cce78e77b4fd9d553?utm_campaign=1052&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 21 |
-| **[MSIG USA](https://www.msigusa.com/)** | **[Financial Planning & Analysis (FP&A) Analyst Intern](https://jobright.ai/jobs/info/697d0495137a05102565f9be?utm_campaign=1052&utm_source=git)** | Warren, NJ | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

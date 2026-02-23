@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynareon](dynareon.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/699ba464ce78e77b4fe01845?utm_campaign=1052&utm_source=git)** | Kenosha, WI | On Site | Feb 22 |
 | **[Tigbourne Capital Ltd](https://www.tigbournecapital.com/)** | **[Private Equity Analyst Internship (Remote + Unpaid)](https://jobright.ai/jobs/info/699b8bf081476f6176b3e910?utm_campaign=1052&utm_source=git)** | St Louis, MO | Remote | Feb 22 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b6a22ce78e77b4fdff894?utm_campaign=1052&utm_source=git)** | Cary, NC | Hybrid | Feb 22 |
 | **[First American Equipment Finance](http://faef.com)** | **[Credit Intern](https://jobright.ai/jobs/info/699b6852ce78e77b4fdff81b?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Financial Strategy Intern, NA](https://jobright.ai/jobs/info/69624a8e2cbf4e44756c4148?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 21 |
 | **[Xometry](https://www.xometry.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6945b06663141d1884553d98?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 21 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6945b0f663141d1884553e3f?utm_campaign=1052&utm_source=git)** | Lexington, KY | Hybrid | Feb 21 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/697d54c8137a051025666b33?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tigbourne Capital Ltd](https://www.tigbournecapital.com/)** | **[Private Equity Analyst Internship (Remote + Unpaid)](https://jobright.ai/jobs/info/699b8bf081476f6176b3e910?utm_campaign=1052&utm_source=git)** | St Louis, MO | Remote | Feb 22 |
 | **[Novalyft Media](novalyftmedia.us)** | **[Intern Finance](https://jobright.ai/jobs/info/699b78f5ce78e77b4fe01422?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 22 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's)](https://jobright.ai/jobs/info/699b6a22ce78e77b4fdff894?utm_campaign=1052&utm_source=git)** | Cary, NC | Hybrid | Feb 22 |
 | **[First American Equipment Finance](http://faef.com)** | **[Credit Intern](https://jobright.ai/jobs/info/699b6852ce78e77b4fdff81b?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Feb 22 |
@@ -80,9 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/699b3990e0bddb6acaca4193?utm_campaign=1052&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[QuickBooks Intern](https://jobright.ai/jobs/info/699b2bc9ce78e77b4fdfd335?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/699b2788e0bddb6acaca277f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 22 |
-| **[Horizon Lane](horizonlane.net)** | **[Finance Internship](https://jobright.ai/jobs/info/699b248a81476f6176b3a6b7?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Feb 22 |
 | **[Highgate](https://www.highgate.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/699b1e6b81476f6176b3a65f?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Feb 22 |
-| **[Brixenta](brixenta.us)** | **[Finance Year-Round Internship](https://jobright.ai/jobs/info/699b1a78e0bddb6acaca265a?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Feb 22 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[Analyst, Revenue Management (Evergreen)](https://jobright.ai/jobs/info/697e125cabff4c399a9ce252?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Feb 22 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Internship Opportunities](https://jobright.ai/jobs/info/68c84a99f9c6ff7aedf0c974?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 22 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/69439678dd382f5f5669b6d1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 22 |
@@ -117,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/699a2b48e0bddb6acac95057?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Feb 21 |
 | **[DT Midstream](https://dtmidstream.com/)** | **[Finance Intern - Tulsa, OK](https://jobright.ai/jobs/info/699a200381476f6176b2cf34?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Feb 21 |
 | **[Jostens](http://jostens.com)** | **[Temporary Accounts Payable Assistant](https://jobright.ai/jobs/info/699a1a7281476f6176b2b4e0?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Feb 21 |
-| **[Energy Northwest](https://www.energy-northwest.com)** | **[Accounting & Budgets Intern YEAR-ROUND](https://jobright.ai/jobs/info/699a145bce78e77b4fdedbc0?utm_campaign=1052&utm_source=git)** | Richland, WA | On Site | Feb 21 |
 | **[North Horizon Holdings Inc.](https://northhorizon.com)** | **[Junior Accountant, Coop](https://jobright.ai/jobs/info/699a1097ce78e77b4fdedae4?utm_campaign=1052&utm_source=git)** | North York, Ontario, Canada | On Site | Feb 21 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026 Summer Intern, Actuarial](https://jobright.ai/jobs/info/68c7a93e7d0db4114273f1c0?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Feb 21 |
 | **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6999e612e0bddb6acac91bef?utm_campaign=1052&utm_source=git)** | Pittsfield, MA, US | On Site | Feb 21 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Internal Audit Internship (Operations) - Las Vegas](https://jobright.ai/jobs/info/697d3cf9727747250d580dd2?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 21 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/6999a21fe0bddb6acac8e2e2?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Feb 21 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Underwriting Intern (Retail Property)](https://jobright.ai/jobs/info/697d0aa6727747250d57c0c8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 21 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Financial Strategy Intern, NA](https://jobright.ai/jobs/info/69624a8e2cbf4e44756c4148?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 21 |
+| **[Xometry](https://www.xometry.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6945b06663141d1884553d98?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

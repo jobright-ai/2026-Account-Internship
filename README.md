@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Accounting Financial Reporting - Collegiate Associate Intern](https://jobright.ai/jobs/info/698114247f40342e15d9ee5c?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Feb 24 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Investments EIM (HYBRID)](https://jobright.ai/jobs/info/699a7090e0bddb6acac98614?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
+| ↳ | **[2026 Summer Intern - Financial Controls Office & Accounting (HYBRID)](https://jobright.ai/jobs/info/6969f3d11703f05405abfbe8?utm_campaign=1052&utm_source=git)** | Syracuse, NY | Hybrid | Feb 24 |
 | **[SCI Engineering, Inc.](http://sciengineering.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/699da9d4ce78e77b4fe2c473?utm_campaign=1052&utm_source=git)** | 01 St Charles - St Charles, MO 63301 | On Site | Feb 24 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Treasurer / Investor Relations Intern](https://jobright.ai/jobs/info/699da8f381476f6176b6930e?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Feb 24 |
 | **[OSPORTS](http://www.osports.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/699da82481476f6176b6926e?utm_campaign=1052&utm_source=git)** | Cleveland Office Headquarters - CLEVELAND, OH 44114 | Hybrid | Feb 24 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[MSI](https://msimga.com/)** | **[Underwriting Intern - MSI](https://jobright.ai/jobs/info/6980feb6abff4c399a9fccd5?utm_campaign=1052&utm_source=git)** | Holmdel, NJ | Hybrid | Feb 24 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Financial Planning & Analysis (HYBRID)](https://jobright.ai/jobs/info/698560088da7a612045fe902?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Finance Internship - Freight Analyst](https://jobright.ai/jobs/info/694a016b7d506e3808f51cb8?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Feb 24 |
-| **[Veltrana Group](veltranagroup.us)** | **[Finance Intern (Talent Pool)](https://jobright.ai/jobs/info/699d982c81476f6176b6775b?utm_campaign=1052&utm_source=git)** | Ohio, United States | Remote | Feb 24 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/698146f27f40342e15da3823?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Feb 24 |
 | **[Coach USA](http://www.coachusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/699d96a4e0bddb6acaccf05a?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Feb 24 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[ACCOUNTING TECHNICIAN 1 Internship-Summer-02182026-75451](https://jobright.ai/jobs/info/6997078581476f6176af13cf?utm_campaign=1052&utm_source=git)** | Davidson County, TN | Hybrid | Feb 24 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[FP&A Summer Intern](https://jobright.ai/jobs/info/699d2581e0bddb6acacc4bb1?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | Feb 23 |
 | ↳ | **[FP&A Summer Intern](https://jobright.ai/jobs/info/699d2312ce78e77b4fe1fa91?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 23 |
 | **[Arkansas Department of Transportation](https://www.ardot.gov)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/699d215a81476f6176b5c78d?utm_campaign=1052&utm_source=git)** | Little Rock, Arkansas, United States | On Site | Feb 23 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Finance &amp; Accounting Intern](https://jobright.ai/jobs/info/699d231ee0bddb6acacc4795?utm_campaign=1052&utm_source=git)** | 12500 West Creek Pkwy | On Site | Feb 23 |
-| ↳ | **[Finance &amp; Accounting Intern](https://jobright.ai/jobs/info/699d136d81476f6176b5b402?utm_campaign=1052&utm_source=git)** | Virginia | On Site | Feb 23 |
-| ↳ | **[Finance &amp; Accounting Intern](https://jobright.ai/jobs/info/699d1e3ece78e77b4fe1f214?utm_campaign=1052&utm_source=git)** | Richmond, Virginia (VA) | On Site | Feb 23 |
-| **[Machias Savings Bank](https://www.machiassavings.bank)** | **[Commercial Banking Intern](https://jobright.ai/jobs/info/699d287781476f6176b5d447?utm_campaign=1052&utm_source=git)** | Brewer, Maine, United States | On Site | Feb 23 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Finance &amp; Accounting Intern](https://jobright.ai/jobs/info/699d1e3ece78e77b4fe1f214?utm_campaign=1052&utm_source=git)** | Richmond, Virginia (VA) | On Site | Feb 23 |
+| ↳ | **[Finance &amp; Accounting Intern](https://jobright.ai/jobs/info/699d231ee0bddb6acacc4795?utm_campaign=1052&utm_source=git)** | 12500 West Creek Pkwy | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

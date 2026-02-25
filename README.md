@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Network Health WI](https://networkhealth.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69823cc7a314e7636905a207?utm_campaign=1052&utm_source=git)** | Brookfield, WI | Hybrid | Feb 25 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/699ebea8ce78e77b4fe46410?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 25 |
+| **[Delek US](http://www.delekus.com/about-us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/699ebb7581476f6176b82fb1?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Feb 25 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/699eae1be0bddb6acace917f?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 25 |
 | **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/699ea0eee0bddb6acace6b30?utm_campaign=1052&utm_source=git)** | Fairport, NY | Hybrid | Feb 24 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Feb 24 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Fall 2027 / Memphis](https://jobright.ai/jobs/info/699e8b96ce78e77b4fe3f263?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Feb 24 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Credit Analyst](https://jobright.ai/jobs/info/699e8b2ece78e77b4fe3f1cc?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Feb 24 |
 | **[Blattner](https://www.blattnercompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/699e6955ce78e77b4fe3a50c?utm_campaign=1052&utm_source=git)** | Avon, MN | On Site | Feb 24 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Internship](https://jobright.ai/jobs/info/699e62e5e0bddb6acacde4d0?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Feb 24 |
+| **[Brixenta](brixenta.net)** | **[Finance Year-Round Internship](https://jobright.ai/jobs/info/699eb0f081476f6176b8214a?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Feb 24 |
 | **[NSF](http://www.nsf.org)** | **[Retail Audit Intern](https://jobright.ai/jobs/info/699e81d181476f6176b7af43?utm_campaign=1052&utm_source=git)** | 789 N. Dixboro Road, Ann Arbor, MI, 48105, US | Hybrid | Feb 24 |
 | ↳ | **[Retail Audit Operations Intern](https://jobright.ai/jobs/info/699e844cce78e77b4fe3e36e?utm_campaign=1052&utm_source=git)** | 789 N. Dixboro Road, Ann Arbor, MI, 48105, US | Hybrid | Feb 24 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/699e85face78e77b4fe3e5db?utm_campaign=1052&utm_source=git)** | Brentwood, TN, US, 37027 | On Site | Feb 24 |
@@ -88,9 +93,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship, Finance](https://jobright.ai/jobs/info/699e9c0981476f6176b7e7a5?utm_campaign=1052&utm_source=git)** | Delano, CA, USA | On Site | Feb 24 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/699e4af081476f6176b73c26?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Feb 24 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Tangible Property Services Tax Intern - Summer 2026](https://jobright.ai/jobs/info/699e663c81476f6176b77050?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
+| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Accounting Internship – Phoenix](https://jobright.ai/jobs/info/699eb4dd81476f6176b82956?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Feb 24 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Baton Rouge, LA](https://jobright.ai/jobs/info/699e43eace78e77b4fe35efc?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Feb 24 |
 | **[Ardian](https://www.ardian.com/)** | **[Co-Investment Intern (Private Equity)- September 2026 I NYC](https://jobright.ai/jobs/info/699e6eefe0bddb6acacdfe3a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Accounting Internship – Phoenix](https://jobright.ai/jobs/info/699e9c3381476f6176b7e803?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | On Site | Feb 24 |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/699ea797e0bddb6acace8101?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Strategic Operations & Finance Intern, SACC-San Diego, Fall 2026](https://jobright.ai/jobs/info/699e73d4e0bddb6acace0a83?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Feb 24 |
 | **[Ardian](https://www.ardian.com/)** | **[Co-Investment Intern (Private Equity)– September 2026 I NYC](https://jobright.ai/jobs/info/699e8a0be0bddb6acace3cec?utm_campaign=1052&utm_source=git)** | New-York | On Site | Feb 24 |
 | ↳ | **[Infrastructure Intern – September 2026 I NYC](https://jobright.ai/jobs/info/699e8284ce78e77b4fe3e194?utm_campaign=1052&utm_source=git)** | New-York | On Site | Feb 24 |
@@ -108,6 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Northmarq](http://www.northmarq.com)** | **[Debt Equity Summer 2026 Internship](https://jobright.ai/jobs/info/699e2873ce78e77b4fe33a62?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Feb 24 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Madison)](https://jobright.ai/jobs/info/699e4a34ce78e77b4fe36b01?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Feb 24 |
 | **[Emergence Software](https://www.emsoft.com)** | **[MBA Strategic Finance Intern](https://jobright.ai/jobs/info/699e4ca281476f6176b73f9b?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 24 |
+| **[zachis.it](http://www.zachis.it)** | **[Quantitative Strategy Associate](https://jobright.ai/jobs/info/699eb5f9ce78e77b4fe45cc5?utm_campaign=1052&utm_source=git)** | Corydon, IN | Remote | Feb 24 |
+| **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Commercial Banking Summer Intern](https://jobright.ai/jobs/info/699ec807e0bddb6acaceb9a1?utm_campaign=1052&utm_source=git)** | Williston, VT | On Site | Feb 24 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Credits and Incentives Tax Intern - Summer 2027](https://jobright.ai/jobs/info/699e465de0bddb6acacdadb9?utm_campaign=1052&utm_source=git)** | McLean | On Site | Feb 24 |
 | **[BDO](https://global-www.bdo.global/)** | **[Core Tax Intern - Winter 2027 (Madison)](https://jobright.ai/jobs/info/699e5b2881476f6176b75a52?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Feb 24 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Corporate Finance](https://jobright.ai/jobs/info/699e52b3ce78e77b4fe37b35?utm_campaign=1052&utm_source=git)** | Columbia, MD | Hybrid | Feb 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/699e385181476f6176b71b4c?utm_campaign=1052&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Feb 24 |
 | **[Ipsen](http://www.ipsen.com)** | **[R&D Finance Intern](https://jobright.ai/jobs/info/699e430681476f6176b72c4b?utm_campaign=1052&utm_source=git)** | Cambridge (US) | Hybrid | Feb 24 |
 | **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/699e031a81476f6176b6f18f?utm_campaign=1052&utm_source=git)** | 130 Perinton Pkwy, Fairport, NY 14450, USA | Hybrid | Feb 24 |
-| **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Construction Finance - Summer Internship](https://jobright.ai/jobs/info/699e86dfe0bddb6acace35bd?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Feb 24 |
-| **[Saalex Solutions - A Saalex Company](https://www.saalex.com)** | **[Junior Financial Analyst (Internship)](https://jobright.ai/jobs/info/699e7c40ce78e77b4fe3d19c?utm_campaign=1052&utm_source=git)** | Washington, District of Columbia, United States | On Site | Feb 24 |
-| **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[Valuation Intern (Fall 2026) - Cedar Rapids, IA](https://jobright.ai/jobs/info/699e620ae0bddb6acacde315?utm_campaign=1052&utm_source=git)** | Cedar Rapids, Iowa, United States | On Site | Feb 24 |
-| **[Crown Castle](https://www.crowncastle.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/699e2843e0bddb6acacd8393?utm_campaign=1052&utm_source=git)** | Canonsburg, PA | Hybrid | Feb 24 |
-| **[Saia Inc.](https://saia.com)** | **[Finance Intern-Accounting](https://jobright.ai/jobs/info/699e3d3ece78e77b4fe35328?utm_campaign=1052&utm_source=git)** | Johns Creek, GA | On Site | Feb 24 |
-| ↳ | **[Finance Intern- FP&A](https://jobright.ai/jobs/info/699e3d1a81476f6176b721e6?utm_campaign=1052&utm_source=git)** | Johns Creek, GA | On Site | Feb 24 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Accounting – Goldenvoice](https://jobright.ai/jobs/info/699dfd5781476f6176b6ef50?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit](https://jobright.ai/jobs/info/699dfcc3e0bddb6acacd6779?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 24 |
-| **[Citi](https://www.citi.com)** | **[Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027](https://jobright.ai/jobs/info/694ab4c43019f50a4fe5ca0d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

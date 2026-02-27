@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SITE Resource Group](http://www.siterg.com)** | **[Accounts Payable - Summer Student](https://jobright.ai/jobs/info/69a14730d29bbd4d8e6ae693?utm_campaign=1052&utm_source=git)** | Cold Lake, Alberta, Canada | On Site | Feb 26 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/69a14181d29bbd4d8e6ad89e?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Feb 26 |
 | **[Cadence](https://www.cadence.com)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/69a129056b458d060735e2fd?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
+| **[Razer Inc.](https://www.razer.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69a14539b600907a96277836?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 26 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Fund Management Intern](https://jobright.ai/jobs/info/69a143efb600907a96277541?utm_campaign=1052&utm_source=git)** | Durham, NC | Hybrid | Feb 26 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[WVUHS Finance Intern](https://jobright.ai/jobs/info/69a1237481476f6176bb7c6c?utm_campaign=1052&utm_source=git)** | Weirton, WV | On Site | Feb 26 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Finance AI Innovation Intern - Hybrid](https://jobright.ai/jobs/info/69a14398d29bbd4d8e6adde9?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 26 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[The Knot Worldwide](https://www.theknotww.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a103555218a81676723bbb?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / Evansville](https://jobright.ai/jobs/info/69a104666b458d060735bb52?utm_campaign=1052&utm_source=git)** | Evansville, IN | On Site | Feb 26 |
 | ↳ | **[Associate Audit Fall 2027 / Raleigh](https://jobright.ai/jobs/info/69a0f98181476f6176bb543d?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Feb 26 |
-| ↳ | **[Intern Audit Summer 2027 / Louisville](https://jobright.ai/jobs/info/69a112616b458d060735c75d?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Feb 26 |
 | ↳ | **[Intern Tax Summer 2027 / Louisville](https://jobright.ai/jobs/info/69a113e45218a81676724a66?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Feb 26 |
+| ↳ | **[Intern Audit Summer 2027 / Louisville](https://jobright.ai/jobs/info/69a112616b458d060735c75d?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Feb 26 |
 | ↳ | **[Intern Tax Summer 2027 / Cincinnati](https://jobright.ai/jobs/info/69a0f34681476f6176bb4f2d?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[Crombie REIT](http://crombiereit.com/)** | **[Intern, Accounts Receivable & Accounts Payable](https://jobright.ai/jobs/info/69a0f46e81476f6176bb5041?utm_campaign=1052&utm_source=git)** | New Glasgow, Nova Scotia, Canada | Hybrid | Feb 26 |
 | ↳ | **[Intern, Accounts Receivable & Accounts Payable](https://jobright.ai/jobs/info/69a0ffb05218a81676723920?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[Finance and Data Analytics Intern](https://jobright.ai/jobs/info/69a0ce0d81476f6176bb17fa?utm_campaign=1052&utm_source=git)** | St. Paul, MN | Hybrid | Feb 26 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Digital & Streaming Finance](https://jobright.ai/jobs/info/69a0a6800836fe79d861a891?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Feb 26 |
 | **[State Street](https://www.statestreet.com/)** | **[IT Business Analyst – Data & Regulatory Reporting, Fulltime Internship (July - Dec 2026)](https://jobright.ai/jobs/info/69a0c5690836fe79d861c5fc?utm_campaign=1052&utm_source=git)** | Quincy, MA | On Site | Feb 26 |
-| **[Republic Bank](http://www.republicbank.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69a0a5f281476f6176baf4bd?utm_campaign=1052&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 26 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/69a0c5f95218a8167671f147?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

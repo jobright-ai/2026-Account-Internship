@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Internship](https://jobright.ai/jobs/info/69a35434b600907a96299094?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 28 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69a3540bb600907a96299085?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a348b40da45516f16c8512?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Orbient 24](orbient24.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69a340200da45516f16c7b8d?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Feb 28 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/696a93badb26b618950dbd0a?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[US Tax Intern - Summer 2026](https://jobright.ai/jobs/info/696ab66cdb26b618950df40b?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | **[Clyvra](clyvra.net)** | **[Finance Intern](https://jobright.ai/jobs/info/69a32a450da45516f16c7333?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Feb 28 |
 | **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/69a28fab0da45516f16be4dc?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Finance Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/69a307a60da45516f16c639d?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Feb 28 |
 | **[First Turn Capital](www.firstturncapital.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69a30615359fe034b1ce59fe?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69866b250f6f7e7a2ce16040?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Feb 28 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/698691a88da7a6120461657d?utm_campaign=1052&utm_source=git)** | Winchester, Ontario, Canada | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[University Intern, Financial Due Diligence](https://jobright.ai/jobs/info/69a2a596359fe034b1cdfb13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Intern - Fiducient](https://jobright.ai/jobs/info/69a2a5930da45516f16c0656?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | **[TP ICAP](https://www.tpicap.com/)** | **[Global Broking Intern](https://jobright.ai/jobs/info/69a29d0f359fe034b1cdeab8?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 27 |
-| **[CME Group](http://www.cmegroup.com)** | **[Accounting Internship Summer 2026](https://jobright.ai/jobs/info/69a299a6b600907a9628f42f?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

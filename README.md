@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kids in the Game](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a348b40da45516f16c8512?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Orbient 24](orbient24.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69a340200da45516f16c7b8d?utm_campaign=1052&utm_source=git)** | Miami, FL | Remote | Feb 28 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/696a93badb26b618950dbd0a?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/696aa0da5fc8624185399a24?utm_campaign=1052&utm_source=git)** | Cottonwood Heights, UT | On Site | Feb 28 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Red Wing, MN](https://jobright.ai/jobs/info/696abf81350cf4380311cc9d?utm_campaign=1052&utm_source=git)** | Red Wing, MN | Hybrid | Feb 28 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Pricing Analytics Intern](https://jobright.ai/jobs/info/69867c348ca8121a3a68c7e8?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Feb 28 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026](https://jobright.ai/jobs/info/69a285df0da45516f16bd953?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
+| ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/69a2a34d359fe034b1cdf5ab?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Asset/Portfolio Analysis Summer Intern](https://jobright.ai/jobs/info/69865f648ca8121a3a689b6d?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Feb 28 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance Intern](https://jobright.ai/jobs/info/69a31fe90da45516f16c6d5d?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Feb 28 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Finance Intern / Support Center](https://jobright.ai/jobs/info/69a31fd4b600907a962971d0?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Feb 28 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/698691a88da7a6120461657d?utm_campaign=1052&utm_source=git)** | Winchester, Ontario, Canada | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696bae3f350cf4380312f841?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696baecddb26b618950f2bd3?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2027](https://jobright.ai/jobs/info/699be8bf81476f6176b45575?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Feb 28 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance - Summer 2026](https://jobright.ai/jobs/info/69869bb48ca8121a3a68e9e7?utm_campaign=1052&utm_source=git)** | Whitehall, MI | On Site | Feb 28 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Tax Intern / Woodland Hills (47232)](https://jobright.ai/jobs/info/68c65351db52c07d28847277?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
 | **[Reeves Construction Company](http://reevescc.com)** | **[DELTA / AR Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/69a2ffd8b600907a96296528?utm_campaign=1052&utm_source=git)** | Paragould, AR | On Site | Feb 28 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta](https://jobright.ai/jobs/info/699ffc1fce78e77b4fe610f2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Financial Due Diligence](https://jobright.ai/jobs/info/69a2a596359fe034b1cdfb13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Intern - Fiducient](https://jobright.ai/jobs/info/69a2a5930da45516f16c0656?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
-| **[Matson Logistics](http://www.matsonlogistics.com)** | **[FP&A, Treasury and IR Intern](https://jobright.ai/jobs/info/69a29ed90da45516f16bf82a?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 27 |
 | **[TP ICAP](https://www.tpicap.com/)** | **[Global Broking Intern](https://jobright.ai/jobs/info/69a29d0f359fe034b1cdeab8?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 27 |
 | **[CME Group](http://www.cmegroup.com)** | **[Accounting Internship Summer 2026](https://jobright.ai/jobs/info/69a299a6b600907a9628f42f?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

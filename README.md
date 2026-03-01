@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69a3faac359fe034b1ceec59?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 01 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69a3ec34b600907a9629e7a3?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 28 |
 | **[TRDI](https://trdi.org/)** | **[Accounting - Intern](https://jobright.ai/jobs/info/69a3d5f40da45516f16cc9ad?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
 | **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/69a3bef7b600907a9629c217?utm_campaign=1052&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Feb 28 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Veltrana Group](veltranagroup.us)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/69a383ffb600907a96299a28?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Feb 28 |
 | **[Zenvica X](zenvicax.us)** | **[Finance Year-Round Internship](https://jobright.ai/jobs/info/69a374830da45516f16c92b6?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Feb 28 |
 | **[Matcon Limited](https://www.matconibc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a372ed359fe034b1ce88f3?utm_campaign=1052&utm_source=git)** | Benton Harbor, Michigan | On Site | Feb 28 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Internship](https://jobright.ai/jobs/info/69a35434b600907a96299094?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 28 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69a3540bb600907a96299085?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a348b40da45516f16c8512?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/696a93badb26b618950dbd0a?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
@@ -145,7 +145,8 @@ For a complete list, click the following sortable link below:
 | **[NRECA](https://www.electric.coop/)** | **[Procurement Intern](https://jobright.ai/jobs/info/698669800f6f7e7a2ce15cd5?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Investment Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/6986d0240f6f7e7a2ce20122?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Feb 28 |
 | **[BiggsKofford](https://www.biggskofford.com/)** | **[Tax Internship 2027 (Denver)](https://jobright.ai/jobs/info/69a2c175359fe034b1ce20a3?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 28 |
-| ↳ | **[Audit Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/69a2befd0da45516f16c26cd?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
+| **[Matson Logistics](http://www.matsonlogistics.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a404ee359fe034b1cef84c?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
+| **[BiggsKofford](https://www.biggskofford.com/)** | **[Audit Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/69a2befd0da45516f16c26cd?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Pricing Analyst Intern Multiple Locations - R10224139-2](https://jobright.ai/jobs/info/69a2bc97359fe034b1ce1b4d?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Feb 28 |
 | ↳ | **[2026 Pricing Analyst Intern Multiple Locations - R10224139](https://jobright.ai/jobs/info/69a2b89eb600907a9629241f?utm_campaign=1052&utm_source=git)** | Aurora, CO | On Site | Feb 28 |
 | ↳ | **[2026 Pricing Analyst Intern Multiple Locations - R10224139-3](https://jobright.ai/jobs/info/69a2b84a0da45516f16c1dc0?utm_campaign=1052&utm_source=git)** | Redondo Beach, CA | On Site | Feb 28 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sol Systems](http://www.solsystems.com/)** | **[Commercial Asset Management Summer Intern](https://jobright.ai/jobs/info/69a2a6e4359fe034b1cdfcb4?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Feb 28 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Administrative (Accounting)](https://jobright.ai/jobs/info/69a2a6150da45516f16c06f9?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Feb 28 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Kering  Tax Intern](https://jobright.ai/jobs/info/69a2c2bfb600907a962930a4?utm_campaign=1052&utm_source=git)** | Wayne, NJ | On Site | Feb 28 |
-| **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta](https://jobright.ai/jobs/info/699ffc1fce78e77b4fe610f2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
-| **[Ankura](https://ankura.com)** | **[University Intern, Financial Due Diligence](https://jobright.ai/jobs/info/69a2a596359fe034b1cdfb13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
+| **[Matson Logistics](http://www.matsonlogistics.com)** | **[FP&A, Treasury and IR Intern](https://jobright.ai/jobs/info/69a404800da45516f16d031e?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

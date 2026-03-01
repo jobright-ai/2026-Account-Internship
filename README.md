@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69a4a4420da45516f16d66a2?utm_campaign=1052&utm_source=git)** | Troy, MI | Hybrid | Mar 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Finance Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/69a498fbb600907a962a5d8e?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Mar 01 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Finance Internship](https://jobright.ai/jobs/info/69a498d1b600907a962a5d46?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Mar 01 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69a49890b600907a962a5cd8?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 01 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69a4986c0da45516f16d5a0d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 01 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69a4967c0da45516f16d5875?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Mar 01 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bec185fc86241853b2c76?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 01 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Intern](https://jobright.ai/jobs/info/69a4ab100da45516f16d6a2f?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate Payroll - Summer Internship 2026](https://jobright.ai/jobs/info/69188af545fb6f5ead8a5d37?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Mar 01 |
 | **[Tigbourne Capital Ltd](https://www.tigbournecapital.com/)** | **[Private Alternatives Analyst Internship (Remote + Unpaid)](https://jobright.ai/jobs/info/69a48a3f359fe034b1cf46bd?utm_campaign=1052&utm_source=git)** | St Louis, MO | Remote | Mar 01 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/69181c4915b415636717ebaa?utm_campaign=1052&utm_source=git)** | Sheboygan, WI | On Site | Mar 01 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Canandaigua National Bank](http://cnbank.com)** | **[Wealth Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69a4717d359fe034b1cf3c25?utm_campaign=1052&utm_source=git)** | BASIN PARK 1150, Pittsford, NY, US | Hybrid | Mar 01 |
 | ↳ | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47134b600907a962a48e6?utm_campaign=1052&utm_source=git)** | Canandaigua, NY, US | Hybrid | Mar 01 |
 | ↳ | **[Audit Intern (Summer 2026)](https://jobright.ai/jobs/info/69a470ee0da45516f16d4697?utm_campaign=1052&utm_source=git)** | BASIN PARK 1150, Pittsford, NY, US | Hybrid | Mar 01 |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Finance Intern](https://jobright.ai/jobs/info/69a46d72b600907a962a47e6?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Mar 01 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Financial Planning & Analysis Summer Internship](https://jobright.ai/jobs/info/6979234152f3c27ec64569a1?utm_campaign=1052&utm_source=git)** | West Chester, PA | Hybrid | Mar 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/691651969c388539cbdf9d89?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
 | **[Fortitude Re](https://fortitude-re.com)** | **[Investments Intern - Summer 2026](https://jobright.ai/jobs/info/6917a2aebcdbf3560c9c9a70?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Mar 01 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6995323be0bddb6acac3ba42?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Acctg](https://jobright.ai/jobs/info/6987401e0f6f7e7a2ce287fe?utm_campaign=1052&utm_source=git)** | Danville, KY | On Site | Mar 01 |
 | **[Velastra](velastra.us)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/69a43f68b600907a962a34a8?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Mar 01 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship](https://jobright.ai/jobs/info/69a43725b600907a962a2a2a?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c317e25adaee6c9bda6e55?utm_campaign=1052&utm_source=git)** | Haleyville, AL | On Site | Mar 01 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/691d19850b7dff73414ffbca?utm_campaign=1052&utm_source=git)** | Topeka, KS | Hybrid | Mar 01 |
 | **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/69a0c03c5218a8167671eb6d?utm_campaign=1052&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Mar 01 |

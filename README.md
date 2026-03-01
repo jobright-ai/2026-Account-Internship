@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[SWBC](https://www.swbc.com)** | **[Ad Valorem Property Tax Intern](https://jobright.ai/jobs/info/69865c930f6f7e7a2ce142fb?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/6971b530587dfa0bb55f7c64?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 28 |
 | **[SWBC](https://www.swbc.com)** | **[Ad Valorem Tax Agent Intern](https://jobright.ai/jobs/info/6986592f8da7a61204610d79?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Accounting](https://jobright.ai/jobs/info/69a3320fb600907a96297c79?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Feb 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69a3304d0da45516f16c76ff?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Feb 28 |
 | **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/69a2721f0da45516f16bbd3c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
 | **[ATKG](https://atkg.com/)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/696acdae5fc862418539ed23?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
@@ -84,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026](https://jobright.ai/jobs/info/69a285df0da45516f16bd953?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/69a2a34d359fe034b1cdf5ab?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Asset/Portfolio Analysis Summer Intern](https://jobright.ai/jobs/info/69865f648ca8121a3a689b6d?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Feb 28 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Finance Intern](https://jobright.ai/jobs/info/69a31fe90da45516f16c6d5d?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Feb 28 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Finance Intern / Support Center](https://jobright.ai/jobs/info/69a31fd4b600907a962971d0?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Feb 28 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/698690288da7a612046162d5?utm_campaign=1052&utm_source=git)** | Morrisburg, Ontario, Canada | On Site | Feb 28 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69869f0e8da7a61204617bdc?utm_campaign=1052&utm_source=git)** | West Lebanon, NH | On Site | Feb 28 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Kering  Tax Intern](https://jobright.ai/jobs/info/69a2c2bfb600907a962930a4?utm_campaign=1052&utm_source=git)** | Wayne, NJ | On Site | Feb 28 |
 | **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta](https://jobright.ai/jobs/info/699ffc1fce78e77b4fe610f2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Financial Due Diligence](https://jobright.ai/jobs/info/69a2a596359fe034b1cdfb13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
+| **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Intern - Fiducient](https://jobright.ai/jobs/info/69a2a5930da45516f16c0656?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
+| **[TP ICAP](https://www.tpicap.com/)** | **[Global Broking Intern](https://jobright.ai/jobs/info/69a29d0f359fe034b1cdeab8?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

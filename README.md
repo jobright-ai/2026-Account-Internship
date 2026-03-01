@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c319665adaee6c9bda7131?utm_campaign=1052&utm_source=git)** | Springville, AL | On Site | Mar 01 |
+| **[Kernutt Stokes](http://kernuttstokes.com)** | **[Winter Tax Intern](https://jobright.ai/jobs/info/69a42c0a359fe034b1cf1b9f?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | Mar 01 |
 | **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Commercial Lending Intern - Austin, Congress](https://jobright.ai/jobs/info/69a40b910da45516f16d149a?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | Mar 01 |
 | **[Mercadien](https://www.mercadien.com/)** | **[Winter 2027 Accounting Intern](https://jobright.ai/jobs/info/69a40969b600907a962a1437?utm_campaign=1052&utm_source=git)** | Hamilton, NJ | On Site | Mar 01 |
 | ↳ | **[Summer 2027 Accounting Intern](https://jobright.ai/jobs/info/69a40894b600907a962a11e9?utm_campaign=1052&utm_source=git)** | Hamilton, NJ | On Site | Mar 01 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Pricing Analytics Intern](https://jobright.ai/jobs/info/69867c348ca8121a3a68c7e8?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Feb 28 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2026](https://jobright.ai/jobs/info/69a285df0da45516f16bd953?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 28 |
 | ↳ | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/69a2a34d359fe034b1cdf5ab?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Accounting](https://jobright.ai/jobs/info/69a429cab600907a962a27dd?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Feb 28 |
 | **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[Asset/Portfolio Analysis Summer Intern](https://jobright.ai/jobs/info/69865f648ca8121a3a689b6d?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Feb 28 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Finance Intern / Support Center](https://jobright.ai/jobs/info/69a31fd4b600907a962971d0?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Feb 28 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/698690288da7a612046162d5?utm_campaign=1052&utm_source=git)** | Morrisburg, Ontario, Canada | On Site | Feb 28 |
@@ -134,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69321b9fd0010831497bfaa1?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Feb 28 |
 | **[CRH](http://crh.com)** | **[Intern: Finance](https://jobright.ai/jobs/info/69a2e1f70da45516f16c4070?utm_campaign=1052&utm_source=git)** | Belmont, NH | On Site | Feb 28 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/698c247de4f6572f0e442343?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 28 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/699329ea81476f6176aad088?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Deposit Operations](https://jobright.ai/jobs/info/698d7f5578b4502f12a42d18?utm_campaign=1052&utm_source=git)** | Union, NJ | On Site | Feb 28 |
 | **[Stiles Machinery | Enhancement Technologies](https://www.stilesmachinery.com/specialized-services/etech-enhance)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a2db95359fe034b1ce3489?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Feb 28 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Digital Transformation & Operations Procurement](https://jobright.ai/jobs/info/6986a10b8ca8121a3a68f0e2?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/691a9adbbcdbf3560c9d91df?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69a414300da45516f16d1c48?utm_campaign=1052&utm_source=git)** | Naples, FL | On Site | Feb 28 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Pricing Analyst Intern Multiple Locations - R10224139](https://jobright.ai/jobs/info/69a2b89eb600907a9629241f?utm_campaign=1052&utm_source=git)** | Aurora, CO | On Site | Feb 28 |
-| ↳ | **[2026 Pricing Analyst Intern Multiple Locations - R10224139-3](https://jobright.ai/jobs/info/69a2b84a0da45516f16c1dc0?utm_campaign=1052&utm_source=git)** | Redondo Beach, CA | On Site | Feb 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69a40c45b600907a962a1ab0?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

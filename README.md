@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Executive Pathways Budget Operations Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f1b5b600907a96295223?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Feb 28 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Special Servicing Intern- Summer 2026](https://jobright.ai/jobs/info/697c68483f57a335696613fc?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Intern - Accounts Receivable](https://jobright.ai/jobs/info/698689cc0f6f7e7a2ce18b30?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Feb 28 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69933046e0bddb6acac17ffe?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[CRH](http://crh.com)** | **[Finance and Accounting Intern - Shared Services Center](https://jobright.ai/jobs/info/69a2e913b600907a96294af9?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Feb 28 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69a2e5b6359fe034b1ce39ba?utm_campaign=1052&utm_source=git)** | Bulls Gap, TN | On Site | Feb 28 |
 | **[Crowe BGK](https://crowebgk.com/)** | **[Stagiaire d'été en assurance 2027 / Summer Assurance Intern 2027](https://jobright.ai/jobs/info/69a2e4990da45516f16c42df?utm_campaign=1052&utm_source=git)** | Westmount, Quebec, Canada | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta](https://jobright.ai/jobs/info/699ffc1fce78e77b4fe610f2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Financial Due Diligence](https://jobright.ai/jobs/info/69a2a596359fe034b1cdfb13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Intern - Fiducient](https://jobright.ai/jobs/info/69a2a5930da45516f16c0656?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
+| **[TP ICAP](https://www.tpicap.com/)** | **[Global Broking Intern](https://jobright.ai/jobs/info/69a29d0f359fe034b1cdeab8?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

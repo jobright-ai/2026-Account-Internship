@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Internship](https://jobright.ai/jobs/info/69a3b513b600907a9629b9a4?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 28 |
+| **[Gast](http://www.gastmfg.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a3b2690da45516f16cb56d?utm_campaign=1052&utm_source=git)** | Benton Harbor, MI | On Site | Feb 28 |
 | **[Veltrana Group](veltranagroup.us)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/69a383ffb600907a96299a28?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Feb 28 |
 | **[Zenvica X](zenvicax.us)** | **[Finance Year-Round Internship](https://jobright.ai/jobs/info/69a374830da45516f16c92b6?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Feb 28 |
 | **[Matcon Limited](https://www.matconibc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a372ed359fe034b1ce88f3?utm_campaign=1052&utm_source=git)** | Benton Harbor, Michigan | On Site | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Kering  Tax Intern](https://jobright.ai/jobs/info/69a2c2bfb600907a962930a4?utm_campaign=1052&utm_source=git)** | Wayne, NJ | On Site | Feb 28 |
 | **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta](https://jobright.ai/jobs/info/699ffc1fce78e77b4fe610f2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Financial Due Diligence](https://jobright.ai/jobs/info/69a2a596359fe034b1cdfb13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Intern - Fiducient](https://jobright.ai/jobs/info/69a2a5930da45516f16c0656?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
-| **[TP ICAP](https://www.tpicap.com/)** | **[Global Broking Intern](https://jobright.ai/jobs/info/69a29d0f359fe034b1cdeab8?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

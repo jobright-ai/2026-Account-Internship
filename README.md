@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Finance Internship](https://jobright.ai/jobs/info/69a43725b600907a962a2a2a?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c317e25adaee6c9bda6e55?utm_campaign=1052&utm_source=git)** | Haleyville, AL | On Site | Mar 01 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/691d19850b7dff73414ffbca?utm_campaign=1052&utm_source=git)** | Topeka, KS | Hybrid | Mar 01 |
+| **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/69a0c03c5218a8167671eb6d?utm_campaign=1052&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Mar 01 |
 | **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c319665adaee6c9bda7131?utm_campaign=1052&utm_source=git)** | Springville, AL | On Site | Mar 01 |
 | **[Kernutt Stokes](http://kernuttstokes.com)** | **[Winter Tax Intern](https://jobright.ai/jobs/info/69a42c0a359fe034b1cf1b9f?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | Mar 01 |
 | **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Commercial Lending Intern - Austin, Congress](https://jobright.ai/jobs/info/69a40b910da45516f16d149a?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | Mar 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BiggsKofford](https://www.biggskofford.com/)** | **[Tax Internship 2027 (Denver)](https://jobright.ai/jobs/info/69a2c175359fe034b1ce20a3?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Feb 28 |
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a404ee359fe034b1cef84c?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Feb 28 |
 | **[BiggsKofford](https://www.biggskofford.com/)** | **[Audit Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/69a2befd0da45516f16c26cd?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Pricing Analyst Intern Multiple Locations - R10224139-2](https://jobright.ai/jobs/info/69a2bc97359fe034b1ce1b4d?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Feb 28 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/691a9adbbcdbf3560c9d91df?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69a414300da45516f16d1c48?utm_campaign=1052&utm_source=git)** | Naples, FL | On Site | Feb 28 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Pricing Analyst Intern Multiple Locations - R10224139](https://jobright.ai/jobs/info/69a2b89eb600907a9629241f?utm_campaign=1052&utm_source=git)** | Aurora, CO | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

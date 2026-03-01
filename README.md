@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zenvica X](zenvicax.us)** | **[Finance Year-Round Internship](https://jobright.ai/jobs/info/69a374830da45516f16c92b6?utm_campaign=1052&utm_source=git)** | Louisville, KY | Remote | Feb 28 |
+| **[Matcon Limited](https://www.matconibc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a372ed359fe034b1ce88f3?utm_campaign=1052&utm_source=git)** | Benton Harbor, Michigan | On Site | Feb 28 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Internship](https://jobright.ai/jobs/info/69a35434b600907a96299094?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 28 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69a3540bb600907a96299085?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a348b40da45516f16c8512?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/696ac5265fc862418539df66?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | ↳ | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac6955fc862418539e21c?utm_campaign=1052&utm_source=git)** | Novi, MI | On Site | Feb 28 |
 | ↳ | **[US Tax Intern - Summer 2026](https://jobright.ai/jobs/info/696ab66cdb26b618950df40b?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| **[Clyvra](clyvra.net)** | **[Finance Intern](https://jobright.ai/jobs/info/69a32a450da45516f16c7333?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Feb 28 |
 | **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2026](https://jobright.ai/jobs/info/69a28fab0da45516f16be4dc?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
 | **[First Turn Capital](www.firstturncapital.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69a30615359fe034b1ce59fe?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Feb 28 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69866b250f6f7e7a2ce16040?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Truist](https://www.truist.com)** | **[2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta](https://jobright.ai/jobs/info/699ffc1fce78e77b4fe610f2?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Financial Due Diligence](https://jobright.ai/jobs/info/69a2a596359fe034b1cdfb13?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Intern - Fiducient](https://jobright.ai/jobs/info/69a2a5930da45516f16c0656?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
-| **[TP ICAP](https://www.tpicap.com/)** | **[Global Broking Intern](https://jobright.ai/jobs/info/69a29d0f359fe034b1cdeab8?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/69a3bef7b600907a9629c217?utm_campaign=1052&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Feb 28 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Internship](https://jobright.ai/jobs/info/69a3b513b600907a9629b9a4?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Feb 28 |
 | **[Gast](http://www.gastmfg.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a3b2690da45516f16cb56d?utm_campaign=1052&utm_source=git)** | Benton Harbor, MI | On Site | Feb 28 |
 | **[Veltrana Group](veltranagroup.us)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/69a383ffb600907a96299a28?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Feb 28 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Finance Intern](https://jobright.ai/jobs/info/69a31bd2359fe034b1ce6336?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Feb 28 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/69a3187d0da45516f16c6a84?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Feb 28 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Tax Intern](https://jobright.ai/jobs/info/698665470f6f7e7a2ce15468?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Finance Intern](https://jobright.ai/jobs/info/69a3144c0da45516f16c671b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Feb 28 |
 | **[Horizon Lane](horizonlane.net)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69a312010da45516f16c66a1?utm_campaign=1052&utm_source=git)** | Kenosha, WI | Remote | Feb 28 |
 | **[Velastra](velastra.us)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a3106f359fe034b1ce5d6b?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Feb 28 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Internship Finance](https://jobright.ai/jobs/info/69a30f8e359fe034b1ce5cd2?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |

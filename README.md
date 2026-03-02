@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.us)** | **[Finance Intern Role](https://jobright.ai/jobs/info/69a4e786359fe034b1cf7194?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Mar 01 |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/69a4e6ad0da45516f16d7b07?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Wells Fargo Advisors](https://www.wellsfargoadvisors.com)** | **[Financial Advisor Intern or Associate](https://jobright.ai/jobs/info/69a4d5820da45516f16d7723?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Mar 01 |
 | **[Frank Winston Crum Insurance](https://www.fwcruminsurance.com)** | **[Risk Management & Insurance Internship](https://jobright.ai/jobs/info/69a4c9930da45516f16d73e9?utm_campaign=1052&utm_source=git)** | Clearwater, FL | On Site | Mar 01 |
 | **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69a4a4420da45516f16d66a2?utm_campaign=1052&utm_source=git)** | Troy, MI | Hybrid | Mar 01 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Finance Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/69a498fbb600907a962a5d8e?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Mar 01 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Finance Internship](https://jobright.ai/jobs/info/69a498d1b600907a962a5d46?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Mar 01 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69a49890b600907a962a5cd8?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 01 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69a4986c0da45516f16d5a0d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 01 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69a4637c0da45516f16d4227?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 01 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Financial Planning & Analysis Intern - 2026](https://jobright.ai/jobs/info/69a4601a359fe034b1cf3537?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Mar 01 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69a45f87359fe034b1cf34f1?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 01 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Entry Level Finance Analyst Expert Intern](https://jobright.ai/jobs/info/69a45d1a359fe034b1cf33db?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
 | **[Orvanta](joinorvanta.com)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/69a45d05359fe034b1cf33cb?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Mar 01 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd0f15fc86241853b1f7f?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | **[Stratify Edge](stratifyedge.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69a45688359fe034b1cf32d9?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Mar 01 |

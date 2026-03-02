@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[True Northon](https://www.linkedin.com/company/108612821)** | **[Finance Intern](https://jobright.ai/jobs/info/69a4f47c359fe034b1cf8589?utm_campaign=1052&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69a4ef39b600907a962a8a3e?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Mar 01 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Finance Intern](https://jobright.ai/jobs/info/69a4eef10da45516f16d88ed?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Finance Intern Role](https://jobright.ai/jobs/info/69a4e786359fe034b1cf7194?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Mar 01 |
 | **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/69a4e6ad0da45516f16d7b07?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Wells Fargo Advisors](https://www.wellsfargoadvisors.com)** | **[Financial Advisor Intern or Associate](https://jobright.ai/jobs/info/69a4d5820da45516f16d7723?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Mar 01 |
@@ -132,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Asset Management Intern / Support Center](https://jobright.ai/jobs/info/697fd7d3abff4c399a9e841c?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Feb 28 |
 | **[Matcon Limited](https://www.matconibc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a372ed359fe034b1ce88f3?utm_campaign=1052&utm_source=git)** | Benton Harbor, Michigan | On Site | Feb 28 |
 | **[Standard Solar](http://www.standardsolar.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/698ba4570f6f7e7a2ce71e44?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Feb 28 |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69a3540bb600907a96299085?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a348b40da45516f16c8512?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/696a93badb26b618950dbd0a?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/696aa0da5fc8624185399a24?utm_campaign=1052&utm_source=git)** | Cottonwood Heights, UT | On Site | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/698690288da7a612046162d5?utm_campaign=1052&utm_source=git)** | Morrisburg, Ontario, Canada | On Site | Feb 28 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69869f0e8da7a61204617bdc?utm_campaign=1052&utm_source=git)** | West Lebanon, NH | On Site | Feb 28 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/698695fd8ca8121a3a68e599?utm_campaign=1052&utm_source=git)** | Pembroke, Ontario, Canada | On Site | Feb 28 |
-| ↳ | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/69868b978ca8121a3a68d90d?utm_campaign=1052&utm_source=git)** | Cobden, Ontario, Canada | On Site | Feb 28 |
-| **[TTX Company](http://www.ttx.com)** | **[Year-Round Tax Intern](https://jobright.ai/jobs/info/698665470f6f7e7a2ce15468?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

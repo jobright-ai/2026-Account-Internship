@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Frank Winston Crum Insurance](https://www.fwcruminsurance.com)** | **[Risk Management & Insurance Internship](https://jobright.ai/jobs/info/69a4c9930da45516f16d73e9?utm_campaign=1052&utm_source=git)** | Clearwater, FL | On Site | Mar 01 |
 | **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69a4a4420da45516f16d66a2?utm_campaign=1052&utm_source=git)** | Troy, MI | Hybrid | Mar 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Finance Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/69a498fbb600907a962a5d8e?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Mar 01 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Finance Internship](https://jobright.ai/jobs/info/69a498d1b600907a962a5d46?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Mar 01 |
@@ -74,8 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68c7ab95c96a22563ecf40e4?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Mar 01 |
 | **[PwC](http://pwc.com)** | **[Tax Japanese Business Network (JBN) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/699cba1481476f6176b54d9f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Mar 01 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696be963db26b618950f5625?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 01 |
-| **[Velastra](velastra.us)** | **[Finance Year-Round Internship](https://jobright.ai/jobs/info/69a47e45b600907a962a4e1b?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
-| **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd06adb26b618950f495f?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Mar 01 |
+| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd06adb26b618950f495f?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Mar 01 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bed4e350cf438031324f5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68cc42b17342c7623ae61db0?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Mar 01 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bedb45fc86241853b2d47?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Mar 01 |
@@ -107,8 +107,7 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/696bd0f15fc86241853b1f7f?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | **[Stratify Edge](stratifyedge.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69a45688359fe034b1cf32d9?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Mar 01 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69a45670b600907a962a3fa4?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69a452c3b600907a962a3f2e?utm_campaign=1052&utm_source=git)** | Kenosha, WI | Remote | Mar 01 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/69a44f72359fe034b1cf30ab?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 01 |
+| ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69a44f72359fe034b1cf30ab?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 01 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69a44f200da45516f16d3bb7?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68cbad3fba798c1a501d3d29?utm_campaign=1052&utm_source=git)** | Cullman, AL | On Site | Mar 01 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/69a44652359fe034b1cf2d33?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Tax Intern](https://jobright.ai/jobs/info/698665470f6f7e7a2ce15468?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
 | **[Velastra](velastra.us)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a3106f359fe034b1ce5d6b?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Feb 28 |
 | **[Magna International](http://www.magna.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/696ab5fe5fc862418539c58f?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 28 |
+| ↳ | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

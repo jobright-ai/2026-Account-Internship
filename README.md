@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo Advisors](https://www.wellsfargoadvisors.com)** | **[Financial Advisor Intern or Associate](https://jobright.ai/jobs/info/69a4d5820da45516f16d7723?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Mar 01 |
 | **[Frank Winston Crum Insurance](https://www.fwcruminsurance.com)** | **[Risk Management & Insurance Internship](https://jobright.ai/jobs/info/69a4c9930da45516f16d73e9?utm_campaign=1052&utm_source=git)** | Clearwater, FL | On Site | Mar 01 |
 | **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69a4a4420da45516f16d66a2?utm_campaign=1052&utm_source=git)** | Troy, MI | Hybrid | Mar 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Finance Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/69a498fbb600907a962a5d8e?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Mar 01 |
@@ -128,7 +129,9 @@ For a complete list, click the following sortable link below:
 | **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/69a3bef7b600907a9629c217?utm_campaign=1052&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Feb 28 |
 | **[Gast](http://www.gastmfg.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a3b2690da45516f16cb56d?utm_campaign=1052&utm_source=git)** | Benton Harbor, MI | On Site | Feb 28 |
 | **[Veltrana Group](veltranagroup.us)** | **[Finance Intern – Financial Planning & Analysis](https://jobright.ai/jobs/info/69a383ffb600907a96299a28?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | Feb 28 |
+| **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Asset Management Intern / Support Center](https://jobright.ai/jobs/info/697fd7d3abff4c399a9e841c?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Feb 28 |
 | **[Matcon Limited](https://www.matconibc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a372ed359fe034b1ce88f3?utm_campaign=1052&utm_source=git)** | Benton Harbor, Michigan | On Site | Feb 28 |
+| **[Standard Solar](http://www.standardsolar.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/698ba4570f6f7e7a2ce71e44?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Feb 28 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69a3540bb600907a96299085?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a348b40da45516f16c8512?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/696a93badb26b618950dbd0a?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/698695fd8ca8121a3a68e599?utm_campaign=1052&utm_source=git)** | Pembroke, Ontario, Canada | On Site | Feb 28 |
 | ↳ | **[CPA Co-Op Student - Summer](https://jobright.ai/jobs/info/69868b978ca8121a3a68d90d?utm_campaign=1052&utm_source=git)** | Cobden, Ontario, Canada | On Site | Feb 28 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Tax Intern](https://jobright.ai/jobs/info/698665470f6f7e7a2ce15468?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Feb 28 |
-| **[Velastra](velastra.us)** | **[Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a3106f359fe034b1ce5d6b?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Feb 28 |
-| **[Magna International](http://www.magna.com/)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/696ab5fe5fc862418539c58f?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

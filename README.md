@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Financial Analyst Intern - Operational Finance](https://jobright.ai/jobs/info/69a67677e567421f4257790f?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Mar 02 |
+| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Portfolio Engineering, Capital Markets, CMIA (May 2026 - 8 months)](https://jobright.ai/jobs/info/69a674fbe567421f42577760?utm_campaign=1052&utm_source=git)** | Toronto, Canada | On Site | Mar 02 |
+| **[The Kinetic Group](https://thekineticgroup.com/)** | **[Finance and Accounting Intern - Federal Ammunition](https://jobright.ai/jobs/info/69a6747ee567421f4257773e?utm_campaign=1052&utm_source=git)** | Anoka, MN | On Site | Mar 02 |
+| **[Clyvra](clyvra.net)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69a672a8e567421f425775a8?utm_campaign=1052&utm_source=git)** | Kenosha, WI | Remote | Mar 02 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Summer Intern - Portfolio Management & Property Operations](https://jobright.ai/jobs/info/69a66be4d706a731db385ba8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 02 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Treasury Year-Round Intern](https://jobright.ai/jobs/info/69a65f512c0d8b0f5cd07fca?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Mar 02 |
 | **[Marshall Reddick Real Estate](https://www.marshallreddick.com/)** | **[Private Lending Intern](https://jobright.ai/jobs/info/69a65c72d706a731db38457e?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | Mar 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Finance Intern](https://jobright.ai/jobs/info/69a5f853359fe034b1d0bb3f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 02 |
 | **[NSA Storage](http://www.nationalstorageaffiliates.com/)** | **[ACQUISITIONS - INVESTMENTS INTERN](https://jobright.ai/jobs/info/69a5f834b600907a962bc9e9?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Mar 02 |
 | **[Nokia](http://www.nokia.com)** | **[Finance Co-op/Intern](https://jobright.ai/jobs/info/69a61507359fe034b1d0e60b?utm_campaign=1052&utm_source=git)** | Kanata, Ontario, Canada | On Site | Mar 02 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GTA Office – Opportunities in Turnaround & Restructuring – Intern/Co-op – Summer 2027](https://jobright.ai/jobs/info/69a5f7c3b600907a962bc909?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
-| ↳ | **[GTA Office – Opportunities in Valuations (Dispute Advisory Services) – Co-op Winter 2027](https://jobright.ai/jobs/info/69a5f791359fe034b1d0ba76?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
-| **[Steele Solutions, Inc](https://steelesolutions.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a62593359fe034b1d0f6fc?utm_campaign=1052&utm_source=git)** | Tiffin, OH, US | On Site | Mar 02 |
-| **[Ohio Cat](http://www.ohiocat.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a5f5c20da45516f16ec2c6?utm_campaign=1052&utm_source=git)** | Broadview Heights, OH | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

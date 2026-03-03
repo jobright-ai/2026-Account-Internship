@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PCL Construction](http://www.pcl.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/69a68ca7708b430a607aefec?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | Mar 02 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69a688ef1a944544ef632f8e?utm_campaign=1052&utm_source=git)** | Roseville, CA | On Site | Mar 02 |
+| **[Amazon](https://amazon.com)** | **[Economist Intern, Prime Science, Prime Science](https://jobright.ai/jobs/info/69a684e5e567421f425789df?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GTA Office – Opportunities in Actuarial – Co-op/Intern – Fall 2026 (8 months), Winter 2027 or Summer 2027 Start](https://jobright.ai/jobs/info/69a68096e567421f4257856a?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
+| ↳ | **[GTA Office – Opportunities in Valuations (Complex Financial Instruments) – Co-op/Intern – Fall 2026 (8-month), Winter 2027 or Summer 2027 Start](https://jobright.ai/jobs/info/69a6807be567421f4257855e?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
+| ↳ | **[GTA Office – CPA Opportunities in Transaction Services (Financial Due Diligence) – Co-op/Intern – Fall 2026, Winter 2027 or Summer 2027 Start](https://jobright.ai/jobs/info/69a67e92e567421f425781cf?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
+| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Portfolio Engineering, Capital Markets, CMIA (May 2026 - 8 months)](https://jobright.ai/jobs/info/69a67c35e567421f42577e7c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Financial Analyst Intern - Operational Finance](https://jobright.ai/jobs/info/69a67677e567421f4257790f?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Mar 02 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Portfolio Engineering, Capital Markets, CMIA (May 2026 - 8 months)](https://jobright.ai/jobs/info/69a674fbe567421f42577760?utm_campaign=1052&utm_source=git)** | Toronto, Canada | On Site | Mar 02 |
 | **[The Kinetic Group](https://thekineticgroup.com/)** | **[Finance and Accounting Intern - Federal Ammunition](https://jobright.ai/jobs/info/69a6747ee567421f4257773e?utm_campaign=1052&utm_source=git)** | Anoka, MN | On Site | Mar 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Finance - Summer 2026 Internship](https://jobright.ai/jobs/info/69a60452b600907a962bdf10?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Mar 02 |
 | ↳ | **[Finance - Summer 2026 Internship](https://jobright.ai/jobs/info/69a60357359fe034b1d0cb5f?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Mar 02 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Festival Accounting Intern](https://jobright.ai/jobs/info/69a60241359fe034b1d0c9c4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
-| **[Orvanta](joinorvanta.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69a60136359fe034b1d0c81d?utm_campaign=1052&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Mar 02 |
-| **[Roers Companies](https://roerscompanies.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69a5fed00da45516f16ed2d8?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Mar 02 |
-| **[TTX Company](http://www.ttx.com)** | **[Year-Round Financial Controls Intern](https://jobright.ai/jobs/info/69a5fcb70da45516f16ecec9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 02 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a61858b600907a962bfb9f?utm_campaign=1052&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Mar 02 |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Finance Intern](https://jobright.ai/jobs/info/69a5f853359fe034b1d0bb3f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 02 |
-| **[NSA Storage](http://www.nationalstorageaffiliates.com/)** | **[ACQUISITIONS - INVESTMENTS INTERN](https://jobright.ai/jobs/info/69a5f834b600907a962bc9e9?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Mar 02 |
-| **[Nokia](http://www.nokia.com)** | **[Finance Co-op/Intern](https://jobright.ai/jobs/info/69a61507359fe034b1d0e60b?utm_campaign=1052&utm_source=git)** | Kanata, Ontario, Canada | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

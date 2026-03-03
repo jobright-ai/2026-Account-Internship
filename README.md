@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69a69576708b430a607afb99?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Mar 03 |
+| **[Meridien Labs](meridienlabs.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69a693a0f707784310afe8f6?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Mar 02 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Accounting - Summer 2026](https://jobright.ai/jobs/info/69a691aaf707784310afe5bf?utm_campaign=1052&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| ↳ | **[Intern, Corporate Finance - Summer 2026](https://jobright.ai/jobs/info/69a691381a944544ef6337bd?utm_campaign=1052&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[PCL Construction](http://www.pcl.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/69a68ca7708b430a607aefec?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | Mar 02 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69a688ef1a944544ef632f8e?utm_campaign=1052&utm_source=git)** | Roseville, CA | On Site | Mar 02 |
 | **[Amazon](https://amazon.com)** | **[Economist Intern, Prime Science, Prime Science](https://jobright.ai/jobs/info/69a684e5e567421f425789df?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Advanced Planning Intern](https://jobright.ai/jobs/info/69a6094c359fe034b1d0d41f?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 02 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Tax Intern](https://jobright.ai/jobs/info/69a625b20da45516f16f0942?utm_campaign=1052&utm_source=git)** | Evanston, IL | On Site | Mar 02 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Finance/Accounting Intern](https://jobright.ai/jobs/info/69a0ed415218a816767229ae?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
-| **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a60474b600907a962bdf49?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
-| **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Finance - Summer 2026 Internship](https://jobright.ai/jobs/info/69a60452b600907a962bdf10?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | Hybrid | Mar 02 |
-| ↳ | **[Finance - Summer 2026 Internship](https://jobright.ai/jobs/info/69a60357359fe034b1d0cb5f?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Mar 02 |
-| **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Festival Accounting Intern](https://jobright.ai/jobs/info/69a60241359fe034b1d0c9c4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

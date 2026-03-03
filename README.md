@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudl](http://www.hudl.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/698a2cc50f6f7e7a2ce542cf?utm_campaign=1052&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 03 |
+| ↳ | **[Receivables Intern](https://jobright.ai/jobs/info/698a320f47434001cc6868cc?utm_campaign=1052&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 03 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69a6b70876bbe83d3afa18e8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 03 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Capital & Project Accounting](https://jobright.ai/jobs/info/69a6b69376bbe83d3afa1866?utm_campaign=1052&utm_source=git)** | Austell, GA | On Site | Mar 03 |
+| **[CIM Group](https://www.cimgroup.com)** | **[OFS Intern](https://jobright.ai/jobs/info/698a300a47434001cc68678a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
+| **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Finance Intern](https://jobright.ai/jobs/info/698aa5034db8972cec0000fb?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
+| **[Peckham Industries, Inc.](http://peckham.com)** | **[Estimating Intern (Req #: 1284)](https://jobright.ai/jobs/info/69a6b20a1b924d33c2d12b3e?utm_campaign=1052&utm_source=git)** | Hudson Falls, NY | On Site | Mar 03 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Actuary Intern](https://jobright.ai/jobs/info/69a6af581fc3d83b780916db?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 03 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a6a578f707784310b0026b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 03 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Investment Oversight Intern (Summer 2026)](https://jobright.ai/jobs/info/69a69e69f11be161e274eebd?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Mar 03 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69a69576708b430a607afb99?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Mar 03 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Accounting - Summer 2026](https://jobright.ai/jobs/info/69a691aaf707784310afe5bf?utm_campaign=1052&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | ↳ | **[Intern, Corporate Finance - Summer 2026](https://jobright.ai/jobs/info/69a691381a944544ef6337bd?utm_campaign=1052&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
+| **[Pembina Pipeline Corporation](http://www.pembina.com/)** | **[Property Tax Intern](https://jobright.ai/jobs/info/69a6b17276bbe83d3afa11fc?utm_campaign=1052&utm_source=git)** | Calgary | On Site | Mar 02 |
 | **[PCL Construction](http://www.pcl.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/69a68ca7708b430a607aefec?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | Mar 02 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69a688ef1a944544ef632f8e?utm_campaign=1052&utm_source=git)** | Roseville, CA | On Site | Mar 02 |
 | **[Amazon](https://amazon.com)** | **[Economist Intern, Prime Science, Prime Science](https://jobright.ai/jobs/info/69a684e5e567421f425789df?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arlo Technologies, Inc.](https://www.arlo.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69a61a58359fe034b1d0ec47?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Counterparty Analyst Intern](https://jobright.ai/jobs/info/69a638dac161375ab07378af?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Revenue Accounting Intern, Summer 2026](https://jobright.ai/jobs/info/69a6185a359fe034b1d0ea78?utm_campaign=1052&utm_source=git)** | Lubbock, TX | On Site | Mar 02 |
-| **[Peckham Industries, Inc.](http://peckham.com)** | **[Finance Intern](https://jobright.ai/jobs/info/699eda7794ef206f184ddcff?utm_campaign=1052&utm_source=git)** | Brewster, NY | On Site | Mar 02 |
-| **[Kao EMEA & Americas](http://www.kao.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a617a0b600907a962bfadd?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 02 |
-| **[Corient](https://corient.com)** | **[Portfolio Implementation Intern, Summer 2026](https://jobright.ai/jobs/info/69a61771b600907a962bfaa8?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Mar 02 |
-| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Cost Accountant – Intern](https://jobright.ai/jobs/info/69a6172cb600907a962bfa5a?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Mar 02 |
-| **[Aerolase](http://www.aerolase.com)** | **[INTERN Accounting Associate](https://jobright.ai/jobs/info/69a61729b600907a962bfa58?utm_campaign=1052&utm_source=git)** | Tarrytown, NY | On Site | Mar 02 |
-| **[Tyler Technologies](https://www.tylertech.com)** | **[Revenue Accounting Intern, Summer 2026](https://jobright.ai/jobs/info/69a61682359fe034b1d0e843?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Mar 02 |
-| **[Arcosa Inc.](https://www.arcosa.com/)** | **[Mergers & Acquisitions Intern](https://jobright.ai/jobs/info/69a6164a359fe034b1d0e7ef?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
-| **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Finance Intern](https://jobright.ai/jobs/info/69a64d5dd706a731db382c7d?utm_campaign=1052&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 02 |
-| **[OdysseyRe](http://www.odysseyre.com/)** | **[2026, Auto Claims Intern](https://jobright.ai/jobs/info/69a61503359fe034b1d0e604?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

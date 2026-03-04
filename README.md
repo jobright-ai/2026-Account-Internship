@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gordon Tax](www.gordontax.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a7e6f1637232443f65403a?utm_campaign=1052&utm_source=git)** | Skokie, IL | On Site | Mar 04 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - Greater Chicagoland](https://jobright.ai/jobs/info/69a7e40b76bbe83d3afb5d37?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[Mission US](https://missionunderwriters.com/)** | **[Underwriting Intern (Summer)](https://jobright.ai/jobs/info/69a7d36a76bbe83d3afb5166?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Mar 03 |
 | **[Dexter Magnetic Technologies](http://dextermag.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69a7ca9f637232443f652840?utm_campaign=1052&utm_source=git)** | Elk Grove Village, IL | On Site | Mar 03 |
 | **[Montecito Bank & Trust](https://montecito.bank)** | **[Enterprise Lending Intern](https://jobright.ai/jobs/info/69a7c58a76bbe83d3afb4177?utm_campaign=1052&utm_source=git)** | Goleta, CA, US | On Site | Mar 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance and Business Operations Intern, Energy Storage](https://jobright.ai/jobs/info/695c8e899a87b95a9397e283?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Mar 03 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6978493d39f7f96cc6d0a61a?utm_campaign=1052&utm_source=git)** | Carson City, NV | On Site | Mar 03 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e383aeb99ec3563b0e0f7a?utm_campaign=1052&utm_source=git)** | Myrtle Beach, SC | On Site | Mar 03 |
-| **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[E&S Underwriting - Summer 2026 Internship](https://jobright.ai/jobs/info/69a72bb12672cb0acb4b9a11?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Mar 03 |
-| **[Winged Keel Group](http://wingedkeel.com)** | **[Wealth Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a72b4676bbe83d3afa87c3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

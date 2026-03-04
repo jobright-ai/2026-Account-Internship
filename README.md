@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dexter Magnetic Technologies](http://dextermag.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69a7ca9f637232443f652840?utm_campaign=1052&utm_source=git)** | Elk Grove Village, IL | On Site | Mar 03 |
+| **[Montecito Bank & Trust](https://montecito.bank)** | **[Enterprise Lending Intern](https://jobright.ai/jobs/info/69a7c58a76bbe83d3afb4177?utm_campaign=1052&utm_source=git)** | Goleta, CA, US | On Site | Mar 03 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Corporate Finance Internship](https://jobright.ai/jobs/info/69a7c23076bbe83d3afb3ee9?utm_campaign=1052&utm_source=git)** | Houston, TX | Remote | Mar 03 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 – Group Financial Planning & Analysis (Hybrid)](https://jobright.ai/jobs/info/69a7ae82637232443f64fc23?utm_campaign=1052&utm_source=git)** | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG | Hybrid | Mar 03 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Internal Audit and Controls Intern / Charlotte Summer 2026](https://jobright.ai/jobs/info/69a7a9c476bbe83d3afb0d75?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Mar 03 |
 | **[Gusto](https://www.gusto.com)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69a7a71a76bbe83d3afb0a11?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 03 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Sunoco LP](https://www.sunocolp.com)** | **[Intern - M&A](https://jobright.ai/jobs/info/69a79f0976bbe83d3afb0122?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 03 |
 | **[IQ-EQ](https://iqeq.com)** | **[Intern - Private Wealth](https://jobright.ai/jobs/info/69a79d6a637232443f64df3e?utm_campaign=1052&utm_source=git)** | Bedford, NH | On Site | Mar 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[2027 Investment Banking Summer Analyst (LATAM Investment Banking), New York City](https://jobright.ai/jobs/info/69a79cb6637232443f64dea7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[Valorantum](valorantum.net)** | **[Finance Intern - Financial Analysis](https://jobright.ai/jobs/info/69a79af4637232443f64dcea?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Mar 03 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Intern - Revenue & Royalties Accounting](https://jobright.ai/jobs/info/69a799ee637232443f64dc11?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Mar 03 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Commercial Loan Servicing (Summer 2026)](https://jobright.ai/jobs/info/69a7989b637232443f64dabc?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Mar 03 |
 | **[ASML](https://www.asml.com)** | **[Internship - R&D Finance Analyst](https://jobright.ai/jobs/info/69a796c776bbe83d3afaf8d2?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Mar 03 |
@@ -133,8 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Financial Analyst Intern Dullas VA](https://jobright.ai/jobs/info/69a7626476bbe83d3afac4e8?utm_campaign=1052&utm_source=git)** | United States-Virginia-Dulles | On Site | Mar 03 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Raytheon -Summer Finance Intern - Onsite AZ](https://jobright.ai/jobs/info/69a76a892672cb0acb4be070?utm_campaign=1052&utm_source=git)** | US-AZ-TUCSON-807 ~ 1151 E Hermans Rd ~ BLDG 807 | On Site | Mar 03 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/69a73ef42672cb0acb4baaeb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Finance Intern - Financial Analysis](https://jobright.ai/jobs/info/69a7731576bbe83d3afad707?utm_campaign=1052&utm_source=git)** | Birmingham, AL | Remote | Mar 03 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/69a73d8b2672cb0acb4ba991?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Mar 03 |
+| ↳ | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/69a73d8b2672cb0acb4ba991?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Mar 03 |
 | **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69a76bd676bbe83d3afacf3c?utm_campaign=1052&utm_source=git)** | US - Apex, NC | On Site | Mar 03 |
 | **[Digital Federal Credit Union](https://www.dcu.org)** | **[ACH/Bill Pay Intern, Full-Time, Hybrid Marlborough MA](https://jobright.ai/jobs/info/69a73cae76bbe83d3afa9798?utm_campaign=1052&utm_source=git)** | Marlborough, Massachusetts, United States | Hybrid | Mar 03 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Wealth Management) Hybrid Schedule](https://jobright.ai/jobs/info/69a73bc82672cb0acb4ba7a7?utm_campaign=1052&utm_source=git)** | Olney, Maryland, United States | Hybrid | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[E&S Underwriting - Summer 2026 Internship](https://jobright.ai/jobs/info/69a72bb12672cb0acb4b9a11?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Mar 03 |
 | **[Winged Keel Group](http://wingedkeel.com)** | **[Wealth Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a72b4676bbe83d3afa87c3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 03 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Investment Client Services Intern - Year Round Intern](https://jobright.ai/jobs/info/698a4cbb4db8972cecff8b6a?utm_campaign=1052&utm_source=git)** | Franklin, WI | Hybrid | Mar 03 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d90b99ec3563b0e0b2e?utm_campaign=1052&utm_source=git)** | North Charleston, SC | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anders](http://anderscpa.com/)** | **[State and Local Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6971d619cda45e6953580986?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Mar 05 |
 | **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Intern](https://jobright.ai/jobs/info/69a92c7b7ac93962b7091d8c?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Mar 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69a92c4d2580d3183f0160df?utm_campaign=1052&utm_source=git)** | Columbus, IN | On Site | Mar 04 |
 | **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Transaction Advisory Services Intern (Summer 2026) - Boston, MA](https://jobright.ai/jobs/info/69a91cf879f3f4037f43d07f?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 04 |
@@ -84,7 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Intern](https://jobright.ai/jobs/info/69a8e5d279f3f4037f4375f9?utm_campaign=1052&utm_source=git)** | Carmel, IN | On Site | Mar 04 |
 | **[SoLa Impact](https://www.solaimpact.com)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/699eddc381476f6176b85444?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
 | **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Intern](https://jobright.ai/jobs/info/69a8e29479f3f4037f4371c7?utm_campaign=1052&utm_source=git)** | Richardson, TX | On Site | Mar 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a8dfee7ac93962b708c098?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 04 |
+| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Accounting/Finance (Summer 2026)](https://jobright.ai/jobs/info/69a941a20bc35444388b30f1?utm_campaign=1052&utm_source=git)** | United States | On Site | Mar 04 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Intern](https://jobright.ai/jobs/info/69a8dfee7ac93962b708c098?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69a8de0979f3f4037f436b2a?utm_campaign=1052&utm_source=git)** | Bingham Farms, MI | On Site | Mar 04 |
 | **[Christian Brothers Services](https://www.cbservices.org/)** | **[Enterprise Operations - Health Intern - Billing & Eligibility](https://jobright.ai/jobs/info/69a8ffe77ac93962b708eb1e?utm_campaign=1052&utm_source=git)** | ROMEOVILLE, IL 60446 | On Site | Mar 04 |
 | **[LMCU](https://www.lmcu.org/)** | **[Investments Intern](https://jobright.ai/jobs/info/69a8d8247ac93962b708b2cf?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Mar 04 |
@@ -92,6 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Tanium](http://www.tanium.com)** | **[Sales Finance Intern](https://jobright.ai/jobs/info/69a8d50a79f3f4037f435d91?utm_campaign=1052&utm_source=git)** | Addison, TX | Hybrid | Mar 04 |
 | **[Cologix, Inc.](http://www.cologix.com)** | **[Intern - Procurement Analyst (Remote: USA)](https://jobright.ai/jobs/info/69a8d4df7ac93962b708ad8f?utm_campaign=1052&utm_source=git)** | Columbus, OH | Remote | Mar 04 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a8d4522580d3183f00f243?utm_campaign=1052&utm_source=git)** | Bonita Springs, FL | On Site | Mar 04 |
+| **[San Pasqual Fiduciary Trust Company](https://www.spftc.com/)** | **[Summer Associate (Paid Internship)](https://jobright.ai/jobs/info/69a945fd0bc35444388b33f7?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a9516e7f9271426f88307a?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | **[Paterson Grain](http://www.patersongrain.com)** | **[Accounting Student &#8211; Winnipeg, MB](https://jobright.ai/jobs/info/69a8d30f79f3f4037f43596e?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Mar 04 |
 | **[Minnetronix Medical](https://minnetronixmedical.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69a910bf79f3f4037f43c510?utm_campaign=1052&utm_source=git)** | 1635 Energy Park Dr, St Paul, MN 55108, USA | On Site | Mar 04 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a8d21d7ac93962b708a8a6?utm_campaign=1052&utm_source=git)** | Rayne, LA | On Site | Mar 04 |
@@ -106,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Summer 2027 / Houston](https://jobright.ai/jobs/info/69a8cc107ac93962b7089e5b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | ↳ | **[Associate Tax Winter 2027 / Charlotte South Park](https://jobright.ai/jobs/info/69a8cafb2580d3183f00e21b?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 04 |
 | **[Lake Ridge Bank](https://www.lakeridge.bank)** | **[Treasury Management Intern](https://jobright.ai/jobs/info/69a8e83a7ac93962b708cb58?utm_campaign=1052&utm_source=git)** | Monona,WI,US | On Site | Mar 04 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting Intern, Summer 2026](https://jobright.ai/jobs/info/69a8eca87ac93962b708d19e?utm_campaign=1052&utm_source=git)** | US-MA-Cambridge | On Site | Mar 04 |
-| ↳ | **[Accounting Intern, Summer 2026](https://jobright.ai/jobs/info/69a8ffbc79f3f4037f43aa0e?utm_campaign=1052&utm_source=git)** | Cambridge, MA, US | On Site | Mar 04 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting Intern, Summer 2026](https://jobright.ai/jobs/info/69a8ffbc79f3f4037f43aa0e?utm_campaign=1052&utm_source=git)** | Cambridge, MA, US | On Site | Mar 04 |
+| ↳ | **[Accounting Intern, Summer 2026](https://jobright.ai/jobs/info/69a8eca87ac93962b708d19e?utm_campaign=1052&utm_source=git)** | US-MA-Cambridge | On Site | Mar 04 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Fall 2026 / Richmond](https://jobright.ai/jobs/info/69a8c9617ac93962b7089995?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Mar 04 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a8f21679f3f4037f438d42?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Winter 2027 / Houston](https://jobright.ai/jobs/info/69a8c78c2580d3183f00dc89?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 04 |
@@ -122,11 +126,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69a8bf272580d3183f00cf0c?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Mar 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69a8bc937ac93962b708847e?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | Mar 04 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Accounting - R10669](https://jobright.ai/jobs/info/69a8bc352580d3183f00c9a4?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 04 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Winter 2027 / Charlotte South Park](https://jobright.ai/jobs/info/69a946e82615b60842abc50f?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 04 |
 | **[PRG Real Estate](http://prgrealestate.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a8b5d12580d3183f00c008?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Mar 04 |
 | **[Highgate](https://www.highgate.com)** | **[Accounting Intern, Summer 2026](https://jobright.ai/jobs/info/69a8b57f79f3f4037f431646?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Mar 04 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69a8ea912580d3183f011317?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | Mar 04 |
 | **[PetIQ](https://petiq.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69a8b20e7ac93962b70874e7?utm_campaign=1052&utm_source=git)** | Eagle, ID | On Site | Mar 04 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Underwriting Intern - Accident & Health (Hybrid)](https://jobright.ai/jobs/info/69a8b19f7ac93962b7087448?utm_campaign=1052&utm_source=git)** | Morristown, NJ | Hybrid | Mar 04 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69a950537f9271426f882ba9?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 04 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69a946b12615b60842abc4e0?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 04 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69a947472615b60842abc553?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Intern, Equity](https://jobright.ai/jobs/info/69a8e2f07ac93962b708c5d2?utm_campaign=1052&utm_source=git)** | MA Boston - PanAgora | On Site | Mar 04 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69a8fa042580d3183f012789?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Mar 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Accounting](https://jobright.ai/jobs/info/69a8fb3f2580d3183f01288e?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 04 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Internship - Operational Accounting Intern](https://jobright.ai/jobs/info/69a8b9a979f3f4037f432369?utm_campaign=1052&utm_source=git)** | Mount Laurel, NJ | Hybrid | Mar 04 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Denver & Colorado Springs, CO](https://jobright.ai/jobs/info/69a895ff79f3f4037f428fc0?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 04 |
 | ↳ | **[Tax/Audit Intern - Summer 2027 - Denver & Colorado Springs, CO](https://jobright.ai/jobs/info/69a894132580d3183f009779?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Mar 04 |
-| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Intern](https://jobright.ai/jobs/info/69a8d05a79f3f4037f4353ff?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Mar 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a8d96079f3f4037f4365ab?utm_campaign=1052&utm_source=git)** | Columbus, IN, US | On Site | Mar 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a8b79a7ac93962b7087da3?utm_campaign=1052&utm_source=git)** | Westerville, OH, US | On Site | Mar 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a8c1e82580d3183f00d367?utm_campaign=1052&utm_source=git)** | Lexington, KY, US | On Site | Mar 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a8ba242580d3183f00c679?utm_campaign=1052&utm_source=git)** | Carmel, IN, US | On Site | Mar 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a8c2117ac93962b7088e23?utm_campaign=1052&utm_source=git)** | Richardson, TX, US | On Site | Mar 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a8c39f79f3f4037f4339b9?utm_campaign=1052&utm_source=git)** | Bingham Farms, MI, US | On Site | Mar 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a8bd2a2580d3183f00cb4d?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | On Site | Mar 04 |
-| **[Blue Cross Blue Shield of Wyoming](http://bcbswy.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69a8d88779f3f4037f43640a?utm_campaign=1052&utm_source=git)** | Corporate Office, Cheyenne WY | On Site | Mar 04 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Intern](https://jobright.ai/jobs/info/69a8c1e82580d3183f00d367?utm_campaign=1052&utm_source=git)** | Lexington, KY, US | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

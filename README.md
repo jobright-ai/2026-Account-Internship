@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Deseret Mutual Benefit Administrators (DMBA)](https://www.dmba.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69ab475b7e1fab39d382e2b4?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Mar 06 |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[Financial Management Intern](https://jobright.ai/jobs/info/69ab4bd77e1fab39d382e4aa?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
+| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Investments & Development Internship](https://jobright.ai/jobs/info/69ab4b9d2747003c3d50fa4c?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Finance Intern Administrative College](https://jobright.ai/jobs/info/69ab46e07e1fab39d382e0cb?utm_campaign=1052&utm_source=git)** | Cleveland, OH | Hybrid | Mar 06 |
 | **[Veeco](http://www.veeco.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ab46c02747003c3d50f64b?utm_campaign=1052&utm_source=git)** | US - NY - Plainview | On Site | Mar 06 |
 | **[Healthfirst](https://healthfirst.org)** | **[Finance Risk Analytics Intern (Financial Planning &amp; Analysis) - 2026 Summer Internship](https://jobright.ai/jobs/info/69a14c86b600907a96278c88?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
@@ -68,9 +69,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op or Intern, Assurance (GTA Offices) Fall 2027](https://jobright.ai/jobs/info/69ab44672747003c3d50f238?utm_campaign=1052&utm_source=git)** | Toronto - Bay St | Hybrid | Mar 06 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern – IT Audit](https://jobright.ai/jobs/info/69ab445f2747003c3d50f207?utm_campaign=1052&utm_source=git)** | CT Southington | On Site | Mar 06 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Summer 2027](https://jobright.ai/jobs/info/69ab44507e1fab39d382dd4f?utm_campaign=1052&utm_source=git)** | Toronto - Bay St | Hybrid | Mar 06 |
-| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Summer 2027](https://jobright.ai/jobs/info/69ab444f142d5b4265fc8d2e?utm_campaign=1052&utm_source=git)** | Markham | Hybrid | Mar 06 |
-| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Fall 2027](https://jobright.ai/jobs/info/69ab444f7e1fab39d382dd4c?utm_campaign=1052&utm_source=git)** | Markham | Hybrid | Mar 06 |
 | ↳ | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69ab444f7e1fab39d382dd4b?utm_campaign=1052&utm_source=git)** | Markham | Hybrid | Mar 06 |
+| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Fall 2027](https://jobright.ai/jobs/info/69ab444f7e1fab39d382dd4c?utm_campaign=1052&utm_source=git)** | Markham | Hybrid | Mar 06 |
+| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Summer 2027](https://jobright.ai/jobs/info/69ab444f142d5b4265fc8d2e?utm_campaign=1052&utm_source=git)** | Markham | Hybrid | Mar 06 |
 | ↳ | **[Co-op or Intern, Assurance (GTA Offices) Fall 2027](https://jobright.ai/jobs/info/69ab444e142d5b4265fc8d24?utm_campaign=1052&utm_source=git)** | Oakville | Hybrid | Mar 06 |
 | ↳ | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69ab444e142d5b4265fc8d26?utm_campaign=1052&utm_source=git)** | Oakville | Hybrid | Mar 06 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern – IT Audit](https://jobright.ai/jobs/info/69ab44487e1fab39d382dd25?utm_campaign=1052&utm_source=git)** | NY WP Hamilton | On Site | Mar 06 |
@@ -110,9 +111,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Internship](https://jobright.ai/jobs/info/69ab2e777e1fab39d382c294?utm_campaign=1052&utm_source=git)** | San Ramon | On Site | Mar 06 |
 | ↳ | **[Summer 2026 Accounting Internship](https://jobright.ai/jobs/info/69ab2e672747003c3d50d81c?utm_campaign=1052&utm_source=git)** | San Ramon, CA, US | On Site | Mar 06 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Accounting and Finance)](https://jobright.ai/jobs/info/69ab2cc57e1fab39d382c00c?utm_campaign=1052&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
-| **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, International Tax Services - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab28be7e1fab39d382b197?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Mar 06 |
+| **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab28be7e1fab39d382b199?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Mar 06 |
+| ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab28be7e1fab39d382b197?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Mar 06 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab28be7e1fab39d382b198?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Mar 06 |
-| ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab28be7e1fab39d382b199?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Mar 06 |
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab27d5142d5b4265fc605a?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Mar 06 |
 | **[LATICRETE International](https://laticrete.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ab27d17e1fab39d382af9f?utm_campaign=1052&utm_source=git)** | Connecticut, Bethany - Bld1 | On Site | Mar 06 |
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Accounting](https://jobright.ai/jobs/info/69ab27c07e1fab39d382af26?utm_campaign=1052&utm_source=git)** | Minneapolis | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Industry Specialized Services - Summer 2026 (Chicago)](https://jobright.ai/jobs/info/69ab0a907e1fab39d3829804?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Houston, Mortgage Banking](https://jobright.ai/jobs/info/69ab0a312747003c3d50b074?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Mar 06 |
 | **[Weissman](https://www.weissmans.com/)** | **[Accounting Co-Op](https://jobright.ai/jobs/info/697ecc03ce48107c0542e22a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Mar 06 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Fall 2027 / Dallas](https://jobright.ai/jobs/info/69ab29662747003c3d50c968?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Credit Intern](https://jobright.ai/jobs/info/6997141281476f6176af2e53?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 07 |
+| **[TTX Company](http://www.ttx.com)** | **[Year-Round Accounts Payable Intern](https://jobright.ai/jobs/info/699cc91c81476f6176b55aa6?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 07 |
+| **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[HQ Intern - Medical Billing](https://jobright.ai/jobs/info/69ac8209142d5b4265fdc7f1?utm_campaign=1052&utm_source=git)** | Columbia, MD | On Site | Mar 07 |
+| **[IDEMIA Public Security](https://www.idemia.com/business/idemia-public-security)** | **[Finance Internship - Corporate Relations, Summer 2026](https://jobright.ai/jobs/info/69ac8209142d5b4265fdc7f0?utm_campaign=1052&utm_source=git)** | Brandon, FL | On Site | Mar 07 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Finance Internship - Corporate Relations, Summer 2026](https://jobright.ai/jobs/info/69ac80a67e1fab39d38415cc?utm_campaign=1052&utm_source=git)** | US-FL | On Site | Mar 07 |
+| ↳ | **[Finance Internship - Corporate Relations, Summer 2026](https://jobright.ai/jobs/info/69ac8097142d5b4265fdc77c?utm_campaign=1052&utm_source=git)** | UNAVAILABLE, FL, US | On Site | Mar 07 |
+| **[Guardian Partners Inc.](https://www.guardiancapital.com/gpi/)** | **[Investment Operations Intern](https://jobright.ai/jobs/info/69ac805e2747003c3d521c39?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 07 |
 | **[MMI Engineered Solutions](https://www.mmi-es.com/)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69ac7e912747003c3d521bff?utm_campaign=1052&utm_source=git)** | Saline, MI | On Site | Mar 07 |
 | **[Pacific Coast Producers](http://pacificcoastproducers.com)** | **[Seasonal Accounting Intern](https://jobright.ai/jobs/info/69ac7e3a142d5b4265fdbdeb?utm_campaign=1052&utm_source=git)** | Lodi, CA | On Site | Mar 07 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2027 Tax Intern - Virginia Beach](https://jobright.ai/jobs/info/695856d6aa05c26e7ab23a73?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Mar 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Summer 2027](https://jobright.ai/jobs/info/69ab93567e1fab39d38300cb?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 06 |
 | ↳ | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69ab91a12747003c3d51113f?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 06 |
 | ↳ | **[Co-op or Intern, Assurance (GTA Offices) Fall 2027](https://jobright.ai/jobs/info/69ab918e142d5b4265fcaafa?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 06 |
-| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Summer 2027](https://jobright.ai/jobs/info/69ab917c142d5b4265fcaac7?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Mar 06 |
-| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Fall 2027](https://jobright.ai/jobs/info/69ab916d142d5b4265fcaa8a?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Mar 06 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Treasury Summer Intern](https://jobright.ai/jobs/info/69ac4c33142d5b4265fda31f?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Mar 06 |
-| **[Marine Harvest Group](http://www.marineharvest.com)** | **[Accounting Summer Student](https://jobright.ai/jobs/info/69ac214c2747003c3d51ec16?utm_campaign=1052&utm_source=git)** | Campbell River, British Columbia, Canada | On Site | Mar 06 |
-| **[Spangler Candy Company](http://spanglercandy.com)** | **[Cost Accounting Intern](https://jobright.ai/jobs/info/69abc575142d5b4265fd2fb0?utm_campaign=1052&utm_source=git)** | Bryan, OH 43506 | On Site | Mar 06 |
-| **[Ensono](https://www.ensono.com)** | **[Accountant - Intern](https://jobright.ai/jobs/info/69ab9569142d5b4265fcb4d0?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Intern Internal Audit](https://jobright.ai/jobs/info/69abb5037e1fab39d3833fae?utm_campaign=1052&utm_source=git)** | Las Vegas, NV, United States | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

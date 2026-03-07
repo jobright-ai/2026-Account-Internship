@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69ac93042747003c3d5229fc?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 07 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69ac92e67e1fab39d3842764?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 07 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Credit Intern](https://jobright.ai/jobs/info/6997141281476f6176af2e53?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Accounts Payable Intern](https://jobright.ai/jobs/info/699cc91c81476f6176b55aa6?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 07 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[HQ Intern - Medical Billing](https://jobright.ai/jobs/info/69ac8209142d5b4265fdc7f1?utm_campaign=1052&utm_source=git)** | Columbia, MD | On Site | Mar 07 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69aa759b2ebd316bece22ebd?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2026 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/698fb5230f6f7e7a2cec01a0?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 07 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69abb0962747003c3d5148f6?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Mar 07 |
-| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69abdeea142d5b4265fd4f8a?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69a553a40da45516f16df1f1?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Mar 07 |
 | **[Withum](http://www.withum.com)** | **[Summer Interns 2026](https://jobright.ai/jobs/info/68cf15dc846f0b04af67f414?utm_campaign=1052&utm_source=git)** | Princeton, NJ | On Site | Mar 07 |
 | **[Fogelman Properties](https://www.fogelman.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69744d19bc8e722e7b194581?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Mar 07 |
@@ -106,7 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SUMMER COLLEGE INTERN - ACS](https://jobright.ai/jobs/info/69ac251d2747003c3d51f5ca?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 07 |
 | **[Pophouse](http://www.pophouse.design/)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/698fbe9b0cc8ea15f1da5bfd?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Mar 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Portland)](https://jobright.ai/jobs/info/6992bbe0ce78e77b4fd68b8b?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Mar 07 |
-| ↳ | **[Intern - Operational Finance (Sacramento)](https://jobright.ai/jobs/info/69a5563c359fe034b1cfec3c?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Mar 07 |
+| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/69ac99157e1fab39d38434b5?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Mar 07 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Sacramento)](https://jobright.ai/jobs/info/69a5563c359fe034b1cfec3c?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Mar 07 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Finance Intern](https://jobright.ai/jobs/info/698fe1000f6f7e7a2cec2722?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 07 |
 | **[ATI](https://www.forging.com)** | **[Finance (Accounting) Intern- 2026](https://jobright.ai/jobs/info/69a65d032c0d8b0f5cd07bf3?utm_campaign=1052&utm_source=git)** | Natrona Heights, PA | On Site | Mar 07 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Investment - Intern](https://jobright.ai/jobs/info/6974344237785856350e2d7a?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69ab937f7e1fab39d3830172?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
 | **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Summer Internship](https://jobright.ai/jobs/info/692e2f34ef4b48533d13d56c?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Mar 06 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Summer 2027](https://jobright.ai/jobs/info/69ab93567e1fab39d38300cb?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 06 |
-| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69ab91a12747003c3d51113f?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 06 |
-| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Fall 2027](https://jobright.ai/jobs/info/69ab918e142d5b4265fcaafa?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

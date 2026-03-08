@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[A24](http://a24films.com/)** | **[Film Production Finance Intern](https://jobright.ai/jobs/info/69ad0372142d5b4265fe29c6?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Mar 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/69ad03697e1fab39d3847877?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Mar 07 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Financial Planning & Analysis Summer Internship](https://jobright.ai/jobs/info/6979234152f3c27ec64569a1?utm_campaign=1052&utm_source=git)** | West Chester, PA | Hybrid | Mar 07 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/69acd49b142d5b4265fe0872?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
-| ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69acd49b142d5b4265fe0873?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69acd49b142d5b4265fe0873?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
+| ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69acd49b142d5b4265fe0872?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/69acd4907e1fab39d3845707?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Spring 2026 / San Diego Area)](https://jobright.ai/jobs/info/69acd47d7e1fab39d3845701?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69accf557e1fab39d3844c17?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 07 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Fall 2026 Internship](https://jobright.ai/jobs/info/69abe2892747003c3d51c852?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Fall 2026 Internship](https://jobright.ai/jobs/info/69abd945142d5b4265fd4205?utm_campaign=1052&utm_source=git)** | US-NY-New York | Hybrid | Mar 06 |
 | **[County of Riverside](https://rivco.org)** | **[Treasurer-Tax Collector Unpaid Student Internship](https://jobright.ai/jobs/info/69ad012c7e1fab39d384776d?utm_campaign=1052&utm_source=git)** | Riverside County, CA | On Site | Mar 06 |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[OMB - Intern](https://jobright.ai/jobs/info/69ad0f6e2747003c3d529c54?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 06 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Intern Internal Audit](https://jobright.ai/jobs/info/69abb687142d5b4265fd012a?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 06 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Associate Audit Winter 2027 / Jackson](https://jobright.ai/jobs/info/69abae762747003c3d51459f?utm_campaign=1052&utm_source=git)** | Jackson, MS | On Site | Mar 06 |
 | **[Pembina Pipeline Corporation](http://www.pembina.com/)** | **[Treasury Operations Intern](https://jobright.ai/jobs/info/69ababb3142d5b4265fce2db?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 06 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Summer 2027](https://jobright.ai/jobs/info/69abaab37e1fab39d38330b5?utm_campaign=1052&utm_source=git)** | Bozeman, MT | On Site | Mar 06 |
-| ↳ | **[Accounting Internship, Summer 2027](https://jobright.ai/jobs/info/69abaa672747003c3d51436b?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

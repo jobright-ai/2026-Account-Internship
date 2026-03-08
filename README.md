@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Relevate Health](https://www.relevatehealth.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69adb0c92747003c3d53061e?utm_campaign=1052&utm_source=git)** | Arkansas, United States | Remote | Mar 08 |
+| **[Relevate Health](https://www.relevatehealth.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69adba907e1fab39d384fcf0?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Mar 08 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69adba8a7e1fab39d384fcd1?utm_campaign=1052&utm_source=git)** | Colorado, United States | Remote | Mar 08 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69adb9d4142d5b4265fead72?utm_campaign=1052&utm_source=git)** | Alabama, United States | Remote | Mar 08 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69adb0c92747003c3d53061e?utm_campaign=1052&utm_source=git)** | Arkansas, United States | Remote | Mar 08 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69adad1f2747003c3d5305c9?utm_campaign=1052&utm_source=git)** | Alaska, United States | Remote | Mar 08 |
 | **[Honeywell](http://www.honeywell.com)** | **[Future Finance Leaders Program - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/695a2e20aa05c26e7ab3c3ea?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 08 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Columbia, SC](https://jobright.ai/jobs/info/6870da30a5ae807a59cfc4f0?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Mar 08 |
@@ -71,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern ( IT)-Hybrid](https://jobright.ai/jobs/info/6958ba12aa05c26e7ab29b80?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 08 |
 | **[Davies North America](http://iasclaims.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/695e75bea112b402660d2c9f?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ | On Site | Mar 08 |
 | **[Domtar](http://www.domtar.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/6974453037785856350e3cb5?utm_campaign=1052&utm_source=git)** | Hawesville, KY | On Site | Mar 08 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/699bcfa181476f6176b425f2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
-| ↳ | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/69a630f2359fe034b1d0ff35?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/69a630f2359fe034b1d0ff35?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
+| ↳ | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/699bcfa181476f6176b425f2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/698e503678b4502f12a51759?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Mar 08 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, CG](https://jobright.ai/jobs/info/6990a2fd6ea51a7610f31c44?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Mar 08 |
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern (Hybrid)](https://jobright.ai/jobs/info/69929571e0bddb6acac0ba91?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 08 |
@@ -133,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Banker Intern](https://jobright.ai/jobs/info/69901ba30f6f7e7a2cec6c61?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Mar 07 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69a7321f76bbe83d3afa8d95?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
 | ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e21a93f782d2f1afb16bd?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
-| ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/691e0a6b09cc522e87735340?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
 | ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/691e118a09cc522e87735a44?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Mar 07 |
+| ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/691e0a6b09cc522e87735340?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Accountant, Assurance and Accounting, Summer 2027](https://jobright.ai/jobs/info/6990014d0cc8ea15f1da9905?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 07 |
 | **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6974408f37785856350e39ab?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Mar 07 |
 | **[ATKG](https://atkg.com/)** | **[Forensics Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69010073d5259a1b3cff0581?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SUMMER COLLEGE INTERN - ACS](https://jobright.ai/jobs/info/69ac251d2747003c3d51f5ca?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 07 |
 | **[Pophouse](http://www.pophouse.design/)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/698fbe9b0cc8ea15f1da5bfd?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Mar 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Portland)](https://jobright.ai/jobs/info/6992bbe0ce78e77b4fd68b8b?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Mar 07 |
-| ↳ | **[Intern - Operational Finance (Sacramento)](https://jobright.ai/jobs/info/69a5563c359fe034b1cfec3c?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Mar 07 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Finance Intern](https://jobright.ai/jobs/info/698fe1000f6f7e7a2cec2722?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 07 |
-| **[ATI](https://www.atimaterials.com)** | **[Finance (Accounting) Intern- 2026](https://jobright.ai/jobs/info/69a65d032c0d8b0f5cd07bf3?utm_campaign=1052&utm_source=git)** | Natrona Heights, PA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

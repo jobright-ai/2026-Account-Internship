@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69adce302747003c3d53248c?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 08 |
+| **[Agate Housing and Services](https://agatemn.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69adcdba142d5b4265feb938?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 08 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69adba907e1fab39d384fcf0?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Mar 08 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69adba8a7e1fab39d384fcd1?utm_campaign=1052&utm_source=git)** | Colorado, United States | Remote | Mar 08 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69adb9d4142d5b4265fead72?utm_campaign=1052&utm_source=git)** | Alabama, United States | Remote | Mar 08 |
@@ -67,8 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Treasury Summer Intern](https://jobright.ai/jobs/info/69ad9fda7e1fab39d384f8ca?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Mar 08 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern Undergrad Admin](https://jobright.ai/jobs/info/6973af6937785856350d89b8?utm_campaign=1052&utm_source=git)** | Cadillac, MI | On Site | Mar 08 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Finance](https://jobright.ai/jobs/info/6973bedf206da320f49dba1a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Mar 08 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/69abb0a9142d5b4265fce4b3?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69acf16a7e1fab39d3846621?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Mar 08 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69acf16a7e1fab39d3846621?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Mar 08 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Financial Operations](https://jobright.ai/jobs/info/693c8bd8aa598a08c3ed5f75?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 08 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69aa4d202ebd316bece20d28?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 08 |
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern ( IT)-Hybrid](https://jobright.ai/jobs/info/6958ba12aa05c26e7ab29b80?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 08 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Credit](https://jobright.ai/jobs/info/695836adf1f8465b79eed31c?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Mar 08 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Investment - Intern](https://jobright.ai/jobs/info/697434e8bc8e722e7b1929e5?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Seattle)](https://jobright.ai/jobs/info/6992b550e0bddb6acac0e2bf?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
+| **[Transamerica](http://www.transamerica.com)** | **[Accounting Intern - Corporate Tax (Fall 2026, Full-time Hours)](https://jobright.ai/jobs/info/69adc884142d5b4265feafab?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | Hybrid | Mar 08 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/695834f5f1f8465b79eecdc9?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Mar 08 |
 | ↳ | **[Commercial Finance Intern](https://jobright.ai/jobs/info/695832beaa05c26e7ab20f9d?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Mar 08 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/68ce1ab9b2a74e1837edf58c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Finance / Accounting](https://jobright.ai/jobs/info/68ea4bb58369791ef7820bf2?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 07 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - ACS](https://jobright.ai/jobs/info/69ac254d142d5b4265fd9077?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 07 |
 | ↳ | **[SUMMER COLLEGE INTERN - ACS](https://jobright.ai/jobs/info/69ac251d2747003c3d51f5ca?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 07 |
-| **[Pophouse](http://www.pophouse.design/)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/698fbe9b0cc8ea15f1da5bfd?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Mar 07 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Portland)](https://jobright.ai/jobs/info/6992bbe0ce78e77b4fd68b8b?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

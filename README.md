@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Treasury Summer Intern](https://jobright.ai/jobs/info/69ad9fda7e1fab39d384f8ca?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Mar 08 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern Undergrad Admin](https://jobright.ai/jobs/info/6973af6937785856350d89b8?utm_campaign=1052&utm_source=git)** | Cadillac, MI | On Site | Mar 08 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Finance](https://jobright.ai/jobs/info/6973bedf206da320f49dba1a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Mar 08 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69acf16a7e1fab39d3846621?utm_campaign=1052&utm_source=git)** | Mishawaka, IN | On Site | Mar 08 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Financial Operations](https://jobright.ai/jobs/info/693c8bd8aa598a08c3ed5f75?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 08 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69aa4d202ebd316bece20d28?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 08 |
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern ( IT)-Hybrid](https://jobright.ai/jobs/info/6958ba12aa05c26e7ab29b80?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Subscription Finance, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69ad874e142d5b4265fea674?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 07 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Financial Operations Audit Intern-2](https://jobright.ai/jobs/info/6982cd0c8232105a2d0b299e?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Mar 07 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Finance / Accounting](https://jobright.ai/jobs/info/68ea4bb58369791ef7820bf2?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 07 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - ACS](https://jobright.ai/jobs/info/69ac254d142d5b4265fd9077?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

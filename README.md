@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MARKHAM](markham.co)** | **[Business Operations and New Business Intern](https://jobright.ai/jobs/info/69aca51b142d5b4265fdf06b?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Mar 07 |
+| **[Mutual of America Financial Group](http://www.mutualofamerica.com)** | **[Financial Reporting – 2026 Summer Internship](https://jobright.ai/jobs/info/69aca5122747003c3d5245f4?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 07 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69ac93042747003c3d5229fc?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 07 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69ac92e67e1fab39d3842764?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 07 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Credit Intern](https://jobright.ai/jobs/info/6997141281476f6176af2e53?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 07 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Banker Intern](https://jobright.ai/jobs/info/69901ba30f6f7e7a2cec6c61?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Mar 07 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69a7321f76bbe83d3afa8d95?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
 | ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e21a93f782d2f1afb16bd?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
-| ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/691e0a6b09cc522e87735340?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
 | ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/691e118a09cc522e87735a44?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Mar 07 |
+| ↳ | **[Audit & Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/691e0a6b09cc522e87735340?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Accountant, Assurance and Accounting, Summer 2027](https://jobright.ai/jobs/info/6990014d0cc8ea15f1da9905?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 07 |
 | **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6974408f37785856350e39ab?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Mar 07 |
 | **[ATKG](https://atkg.com/)** | **[Forensics Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69010073d5259a1b3cff0581?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern- Finance](https://jobright.ai/jobs/info/69ab96b6142d5b4265fcb948?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Mar 06 |
 | **[State Street](https://www.statestreet.com/)** | **[Subscription Finance, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69a18e54b600907a9627fcdb?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 06 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69ab937f7e1fab39d3830172?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
-| **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Summer Internship](https://jobright.ai/jobs/info/692e2f34ef4b48533d13d56c?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Mar 06 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Summer 2027](https://jobright.ai/jobs/info/69ab93567e1fab39d38300cb?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

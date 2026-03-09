@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Auditing](https://jobright.ai/jobs/info/69aea976bd1a716b431041f5?utm_campaign=1052&utm_source=git)** | Tempe, AZ | Hybrid | Mar 09 |
+| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Pricing & Proposals Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d59063502c0aded6d1b9?utm_campaign=1052&utm_source=git)** | Chandler, AZ | Hybrid | Mar 09 |
 | **[Atlas Energy Solutions](https://atlas.energy)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ae98d45224a240f103b21e?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Mar 09 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern_PTIN5C_Revenue Assurance](https://jobright.ai/jobs/info/69ae90407c309707d4afda5b?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Mar 09 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Auditing](https://jobright.ai/jobs/info/69ae8dde7c309707d4afd934?utm_campaign=1052&utm_source=git)** | Tempe, AZ, US | Hybrid | Mar 09 |
@@ -75,15 +77,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d6?utm_campaign=1052&utm_source=git)** | KY Home Based | Remote | Mar 08 |
 | ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d8?utm_campaign=1052&utm_source=git)** | NY Home Based | Remote | Mar 08 |
 | ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4cfc7c309707d4af858f?utm_campaign=1052&utm_source=git)** | MN Home Based | Remote | Mar 08 |
-| ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4ce34f6bcc18280967ac?utm_campaign=1052&utm_source=git)** | CT Home Based | Remote | Mar 08 |
 | ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4ce34f6bcc18280967ab?utm_campaign=1052&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ae4ce34f6bcc18280967af?utm_campaign=1052&utm_source=git)** | Dallas, Texas | Remote | Mar 08 |
+| ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4ce34f6bcc18280967ac?utm_campaign=1052&utm_source=git)** | CT Home Based | Remote | Mar 08 |
 | **[State Street](https://www.statestreet.com/)** | **[CLO & Private Credit, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/699f8b0081476f6176b930b8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 08 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring Tax 2027 Full-time Internship](https://jobright.ai/jobs/info/68c90048983e6768bc555227?utm_campaign=1052&utm_source=git)** | Pensacola, Florida, United States | On Site | Mar 08 |
 | **[Adelphi Research | Global Pharma Market Insight Consultancy](https://adelphiresearch.com/)** | **[2026 Bold Beginners - Finance Intern](https://jobright.ai/jobs/info/69a5c27f0da45516f16e6c5f?utm_campaign=1052&utm_source=git)** | Doylestown, PA | On Site | Mar 08 |
 | **[NextGen Security](http://nextgensecured.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69add6d42747003c3d5326dc?utm_campaign=1052&utm_source=git)** | Exton, PA | On Site | Mar 08 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69add6c12747003c3d532688?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 08 |
-| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69adce302747003c3d53248c?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 08 |
 | **[Agate Housing and Services](https://agatemn.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69adcdba142d5b4265feb938?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 08 |
 | **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Financial Operations & Revenue Analyst Intern](https://jobright.ai/jobs/info/69ae99185224a240f103b302?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Mar 08 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69adba907e1fab39d384fcf0?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Mar 08 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Spring 2027, Tribal Audit](https://jobright.ai/jobs/info/69ae3e713de6821aaccd7888?utm_campaign=1052&utm_source=git)** | Great Falls, MT | On Site | Mar 07 |
 | **[State Street](https://www.statestreet.com/)** | **[Global Credit Finance - Business Support Team Analyst, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69ad874f2747003c3d52ffdf?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 07 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Summer 2027](https://jobright.ai/jobs/info/69ae34af3de6821aaccd7421?utm_campaign=1052&utm_source=git)** | Helena, MT | On Site | Mar 07 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69acd49b142d5b4265fe0873?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
-| ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69acd49b142d5b4265fe0872?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/69acd49b142d5b4265fe0872?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
+| ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69acd49b142d5b4265fe0873?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/69acd4907e1fab39d3845707?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 07 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/69accf557e1fab39d3844c17?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 07 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69accdb62747003c3d5252ae?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/69740803206da320f49e17ef?utm_campaign=1052&utm_source=git)** | Cumberland, MD | On Site | Mar 07 |
 | **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/699017bb6ea51a7610f28195?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Mar 07 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Las Vegas, NV](https://jobright.ai/jobs/info/697310161790715e866c11ea?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 07 |
-| **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - International, Tax](https://jobright.ai/jobs/info/698f9a850f6f7e7a2cebe239?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -59,16 +59,16 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/69ae66c23de6821aaccdbde0?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Mar 08 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/69ae66af7c309707d4afa288?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Mar 08 |
-| ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/69ae66a87c309707d4afa274?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Mar 08 |
 | ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/69ae66a87c309707d4afa273?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Mar 08 |
+| ↳ | **[Staff Auditor Intern-Hire Date June 2026](https://jobright.ai/jobs/info/69ae66a87c309707d4afa274?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Mar 08 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99969 Accounts Receivable Technician, Tahlequah](https://jobright.ai/jobs/info/69ae511d7c309707d4af8d7c?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Mar 08 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d6?utm_campaign=1052&utm_source=git)** | KY Home Based | Remote | Mar 08 |
-| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d2?utm_campaign=1052&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d2?utm_campaign=1052&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
+| ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d6?utm_campaign=1052&utm_source=git)** | KY Home Based | Remote | Mar 08 |
 | ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4d077c309707d4af85d8?utm_campaign=1052&utm_source=git)** | NY Home Based | Remote | Mar 08 |
 | ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4cfc7c309707d4af858f?utm_campaign=1052&utm_source=git)** | MN Home Based | Remote | Mar 08 |
-| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ae4ce34f6bcc18280967af?utm_campaign=1052&utm_source=git)** | Dallas, Texas | Remote | Mar 08 |
 | ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4ce34f6bcc18280967ab?utm_campaign=1052&utm_source=git)** | GA Atlanta | Remote | Mar 08 |
 | ↳ | **[Accounting & Financial Reporting Intern](https://jobright.ai/jobs/info/69ae4ce34f6bcc18280967ac?utm_campaign=1052&utm_source=git)** | CT Home Based | Remote | Mar 08 |
+| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ae4ce34f6bcc18280967af?utm_campaign=1052&utm_source=git)** | Dallas, Texas | Remote | Mar 08 |
 | **[State Street](https://www.statestreet.com/)** | **[CLO & Private Credit, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/699f8b0081476f6176b930b8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 08 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring Tax 2027 Full-time Internship](https://jobright.ai/jobs/info/68c90048983e6768bc555227?utm_campaign=1052&utm_source=git)** | Pensacola, Florida, United States | On Site | Mar 08 |
 | **[Adelphi Research | Global Pharma Market Insight Consultancy](https://adelphiresearch.com/)** | **[2026 Bold Beginners - Finance Intern](https://jobright.ai/jobs/info/69a5c27f0da45516f16e6c5f?utm_campaign=1052&utm_source=git)** | Doylestown, PA | On Site | Mar 08 |
@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern ( IT)-Hybrid](https://jobright.ai/jobs/info/6958ba12aa05c26e7ab29b80?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 08 |
 | **[Davies North America](http://iasclaims.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/695e75bea112b402660d2c9f?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ | On Site | Mar 08 |
 | **[Domtar](http://www.domtar.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/6974453037785856350e3cb5?utm_campaign=1052&utm_source=git)** | Hawesville, KY | On Site | Mar 08 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/69a630f2359fe034b1d0ff35?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
-| ↳ | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/699bcfa181476f6176b425f2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/699bcfa181476f6176b425f2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 08 |
+| ↳ | **[Intern - Operational Finance (SoCal)](https://jobright.ai/jobs/info/69a630f2359fe034b1d0ff35?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/698e503678b4502f12a51759?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Mar 08 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, CG](https://jobright.ai/jobs/info/6990a2fd6ea51a7610f31c44?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Mar 08 |
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern (Hybrid)](https://jobright.ai/jobs/info/69929571e0bddb6acac0ba91?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 08 |
@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/695834f5f1f8465b79eecdc9?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Mar 08 |
 | ↳ | **[Commercial Finance Intern](https://jobright.ai/jobs/info/695832beaa05c26e7ab20f9d?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Mar 08 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/68ce1ab9b2a74e1837edf58c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 08 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Mar 08 |
-| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973ed1037785856350dbe21?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Mar 08 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973ed1037785856350dbe21?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Mar 08 |
+| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Mar 08 |
 | ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f379206da320f49df36e?utm_campaign=1052&utm_source=git)** | Miami, OH | On Site | Mar 08 |
 | **[Viant Technology](http://viantinc.com/)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69742a62bc8e722e7b192015?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Mar 08 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/697403d1206da320f49e1412?utm_campaign=1052&utm_source=git)** | Springfield, OH | On Site | Mar 08 |
@@ -111,11 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Goldbelt, Incorporated](http://goldbelt.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6992b1e2ce78e77b4fd66209?utm_campaign=1052&utm_source=git)** | Herndon, VA | On Site | Mar 08 |
 | **[Culligan International](http://www.culligan.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69583d749f1b381eb2712b1a?utm_campaign=1052&utm_source=git)** | Rosemont, IL | On Site | Mar 08 |
 | **[Rotech Healthcare](http://rotech.com)** | **[Medical Billing & Collections Specialist (INTERN)](https://jobright.ai/jobs/info/69ad3b212747003c3d52d758?utm_campaign=1052&utm_source=git)** | Lakeland, FL | On Site | Mar 08 |
-| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/69ae6ec97c309707d4afa683?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Mar 07 |
+| **[Transamerica](http://www.transamerica.com)** | **[Accounting/Finance Intern - Internal Controls (Fall 2026, Full-time Hours)](https://jobright.ai/jobs/info/69ae79217c309707d4afbd1d?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | Hybrid | Mar 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/69ae34c77c309707d4af5899?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Mar 07 |
 | **[A24](http://a24films.com/)** | **[Film Production Finance Intern](https://jobright.ai/jobs/info/69ad0372142d5b4265fe29c6?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Mar 07 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Financial Planning & Analysis Summer Internship](https://jobright.ai/jobs/info/6979234152f3c27ec64569a1?utm_campaign=1052&utm_source=git)** | West Chester, PA | Hybrid | Mar 07 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69ae5d0e4f6bcc1828098398?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Bay Area)](https://jobright.ai/jobs/info/69ae5cec7c309707d4af93fb?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Mar 07 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Spring 2027, Tribal Audit](https://jobright.ai/jobs/info/69ae3e713de6821aaccd7888?utm_campaign=1052&utm_source=git)** | Great Falls, MT | On Site | Mar 07 |
 | **[State Street](https://www.statestreet.com/)** | **[Global Credit Finance - Business Support Team Analyst, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69ad874f2747003c3d52ffdf?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Quad City Bank & Trust](http://qcbt.com)** | **[Credit Administration Intern](https://jobright.ai/jobs/info/699009566ea51a7610f276be?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Mar 07 |
 | ↳ | **[Community Banker Intern](https://jobright.ai/jobs/info/69901ba30f6f7e7a2cec6c61?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Mar 07 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69a7321f76bbe83d3afa8d95?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
+| ↳ | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/691e21a93f782d2f1afb16bd?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

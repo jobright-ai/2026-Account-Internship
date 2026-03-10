@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[International Tax Senior Associate](https://jobright.ai/jobs/info/69b06954dfaeda6ff59a332f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 10 |
+| **[Lewis Representation LLC](https://lewisrepresentation.com)** | **[Finance and Accounting Summer Intern](https://jobright.ai/jobs/info/69b06921dfaeda6ff59a3299?utm_campaign=1052&utm_source=git)** | Gales Ferry, CT | On Site | Mar 10 |
+| **[Dunmore](http://www.dunmore.com/)** | **[Corporate Tax Intern](https://jobright.ai/jobs/info/69b068df0b2db6275c044fd0?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 10 |
+| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Accounting](https://jobright.ai/jobs/info/69b0679f7495006450969614?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
+| ↳ | **[Wonderful Scholar Summer Internship, Finance](https://jobright.ai/jobs/info/69b0679174950064509695e8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
+| **[PACCAR](http://www.paccar.com/)** | **[External Reporting - Accounting - Summer Internship 2026](https://jobright.ai/jobs/info/6993d7cce0bddb6acac21e4d?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Mar 10 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/697b187317b11b1c2e421b13?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Mar 10 |
+| ↳ | **[Tax Intern - Spring 2027 - Champaign/Bloomington/Peoria, IL](https://jobright.ai/jobs/info/69b065587495006450968f3d?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | Mar 10 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Damages & Valuations (Summer 2026)](https://jobright.ai/jobs/info/69b064e2dfaeda6ff59a28ee?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Mar 10 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Intern](https://jobright.ai/jobs/info/69b0642edfaeda6ff59a2722?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Mar 10 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69b060b2dfaeda6ff59a2054?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 10 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - Fixed Asset Audit](https://jobright.ai/jobs/info/69a66dde2c0d8b0f5cd08c92?utm_campaign=1052&utm_source=git)** | Arkansas, United States | On Site | Mar 10 |
 | **[Brother USA](https://brother-usa.com)** | **[Senior Analyst, International Tax](https://jobright.ai/jobs/info/69054a51122e8474c78d820d?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Mar 10 |
@@ -126,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Finance Project Intern](https://jobright.ai/jobs/info/6993c43cce78e77b4fd79b1a?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Mar 10 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Accounts Payable Intern, NA](https://jobright.ai/jobs/info/695c7268f1f8465b79f295cc?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Product Management Cost Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698ed9f378b4502f12a5b99f?utm_campaign=1052&utm_source=git)** | Longmont, CO | On Site | Mar 10 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Asset Finance & Securitization](https://jobright.ai/jobs/info/69438c7994730b739876bddb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 10 |
-| ↳ | **[2027 – Summer Analyst Internship - Global Markets, Sales & Trading](https://jobright.ai/jobs/info/6956e5c39f1b381eb27019cb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Global Markets, Sales & Trading](https://jobright.ai/jobs/info/6956e5c39f1b381eb27019cb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| ↳ | **[2027 - Summer Analyst Internship – Global Banking, Asset Finance & Securitization](https://jobright.ai/jobs/info/69438c7994730b739876bddb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - C&I Lending](https://jobright.ai/jobs/info/695c787df1f8465b79f29bf5?utm_campaign=1052&utm_source=git)** | Newark, NJ | On Site | Mar 10 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Corporate & Financial Institutions Coverage](https://jobright.ai/jobs/info/6943163fdd382f5f566909ae?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Procure to Pay](https://jobright.ai/jobs/info/69942c40e0bddb6acac29251?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Mar 10 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: National Processing Group Internship – Memphis - 2026](https://jobright.ai/jobs/info/6958c5179f1b381eb271aa4f?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Mar 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdf42?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 10 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Actuarial Intern / Co-Op - Preferred Candidate](https://jobright.ai/jobs/info/69afed33dfaeda6ff598ffed?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 10 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b3?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Mar 10 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Actuarial Intern / Co-Op - Preferred Candidate](https://jobright.ai/jobs/info/69afec0ff63f733065b4115e?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 10 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206d4?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 10 |
-| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a582840?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Mar 10 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/698d79900f6f7e7a2ce95826?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Mar 10 |
-| ↳ | **[Credit Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/699152ae0cc8ea15f1dbec57?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Mar 10 |
-| ↳ | **[Macro Analyst Internship: Summer 2026](https://jobright.ai/jobs/info/6991430d6ea51a7610f39874?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Mar 10 |
-| **[Lynden](https://www.lynden.com)** | **[Accounting Intern - SeaTac](https://jobright.ai/jobs/info/69afc366f63f733065b3a668?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
-| **[Withum](http://www.withum.com)** | **[Real Estate Valuation Summer 2026 Internship](https://jobright.ai/jobs/info/69afbf63f63f733065b398a5?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 09 |
-| **[AmFirst](https://www.amfirst.org)** | **[Summer Internship 2026 - Auditing](https://jobright.ai/jobs/info/69afbc35f63f733065b38d79?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

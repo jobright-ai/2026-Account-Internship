@@ -129,11 +129,11 @@ For a complete list, click the following sortable link below:
 | **[GBLI | Global Indemnity](https://gbli.com)** | **[Intern - Accounting/Finance](https://jobright.ai/jobs/info/69af4655dfaeda6ff5976812?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Mar 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Accounting (Year-Round) - Fall 2026 Start](https://jobright.ai/jobs/info/69af4440dfaeda6ff597659f?utm_campaign=1052&utm_source=git)** | WI-Milwaukee | On Site | Mar 09 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69af44386b21de023e6076c6?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 09 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af44366b21de023e6076bc?utm_campaign=1052&utm_source=git)** | Michigan - Troy (Rehmann Office) | On Site | Mar 09 |
-| ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c83d?utm_campaign=1052&utm_source=git)** | Florida - Orlando (Rehmann Office) | On Site | Mar 09 |
-| ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af44366b21de023e6076be?utm_campaign=1052&utm_source=git)** | Michigan - Detroit (Rehmann Office) | On Site | Mar 09 |
-| ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c839?utm_campaign=1052&utm_source=git)** | Michigan - Lansing (Rehmann Office) | On Site | Mar 09 |
+| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af44366b21de023e6076be?utm_campaign=1052&utm_source=git)** | Michigan - Detroit (Rehmann Office) | On Site | Mar 09 |
 | ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af44366b21de023e6076bd?utm_campaign=1052&utm_source=git)** | Ohio - Cleveland (Rehmann Office) | On Site | Mar 09 |
+| ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af44366b21de023e6076bc?utm_campaign=1052&utm_source=git)** | Michigan - Troy (Rehmann Office) | On Site | Mar 09 |
+| ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c839?utm_campaign=1052&utm_source=git)** | Michigan - Lansing (Rehmann Office) | On Site | Mar 09 |
+| ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c83d?utm_campaign=1052&utm_source=git)** | Florida - Orlando (Rehmann Office) | On Site | Mar 09 |
 | ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af44356b21de023e6076bb?utm_campaign=1052&utm_source=git)** | Michigan - Jackson (Rehmann Office) | On Site | Mar 09 |
 | ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4435749500645093c82f?utm_campaign=1052&utm_source=git)** | Michigan - Grand Rapids (Rehmann Office) | On Site | Mar 09 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Procurement Intern](https://jobright.ai/jobs/info/69af4434749500645093c828?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 09 |

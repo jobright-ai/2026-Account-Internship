@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Finance (FinTech)](https://jobright.ai/jobs/info/69b1e4a1548f140066e7eb55?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Mar 11 |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[Co-Op/Intern 2 (BUDGET)](https://jobright.ai/jobs/info/69b1e45e548f140066e7ea24?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 11 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/69b1de01d04c69566c7449f4?utm_campaign=1052&utm_source=git)** | Charleston, WV | On Site | Mar 11 |
 | ↳ | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/69b1ddeb65de58104c71132f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 | **[China Life Asset Management Company](http://www.clamc.com)** | **[Intern](https://jobright.ai/jobs/info/69b1ddbe65de58104c7112a8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 11 |
@@ -97,9 +99,11 @@ For a complete list, click the following sortable link below:
 | **[Trü Frü](https://trufru.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1c347548f140066e787d9?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69b1c2ed548f140066e786ce?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Pharmacy Department Intern - Summer 2026](https://jobright.ai/jobs/info/69b1c2dd65de58104c70bfa0?utm_campaign=1052&utm_source=git)** | Providence County, RI | Hybrid | Mar 11 |
+| **[Universal Stainless & Alloy Products Inc](https://www.univstainless.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b1e35b548f140066e7e52d?utm_campaign=1052&utm_source=git)** | Bridgeville, PA | On Site | Mar 11 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b1c2b165de58104c70bf5b?utm_campaign=1052&utm_source=git)** | Dublin, VA | On Site | Mar 11 |
 | **[Winged Keel Group](http://wingedkeel.com)** | **[Wealth Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a72b4676bbe83d3afa87c3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 11 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b1c28265de58104c70bf05?utm_campaign=1052&utm_source=git)** | Dublin, Virginia, United States | On Site | Mar 11 |
+| **[Texas State Auditor's Office](https://sao.texas.gov)** | **[Audit Intern](https://jobright.ai/jobs/info/69b1e1bf65de58104c711d9e?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Mar 11 |
 | **[MBE CPAs](https://mbe.cpa)** | **[Audit Internship](https://jobright.ai/jobs/info/69b1c0ee548f140066e784d4?utm_campaign=1052&utm_source=git)** | 4747 North 7th Street ste 412, Phoenix, AZ 85014, USA | On Site | Mar 11 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Accounting & Finance](https://jobright.ai/jobs/info/69b1c000d04c69566c73fd76?utm_campaign=1052&utm_source=git)** | Chantilly, VA | On Site | Mar 11 |
 | **[Nevada Gold Mines](http://www.nevadagoldmines.com)** | **[Henderson - Finance Internship Summer 2026](https://jobright.ai/jobs/info/69951854e0bddb6acac3a1e3?utm_campaign=1052&utm_source=git)** | Henderson, NV | On Site | Mar 11 |
@@ -131,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a7efd04c69566c73ef0b?utm_campaign=1052&utm_source=git)** | 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Mar 11 |
 | ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a7eed04c69566c73ef06?utm_campaign=1052&utm_source=git)** | 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Mar 11 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/69b1a59065de58104c70ab3e?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Mar 11 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69abdef72747003c3d51b74a?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Mar 11 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69a013b781476f6176ba17a2?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 11 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69a013b781476f6176ba17a2?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 11 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69abdef72747003c3d51b74a?utm_campaign=1052&utm_source=git)** | Coral Gables, FL | On Site | Mar 11 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69a8937279f3f4037f428528?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Mar 11 |
 | **[Chugach Government Solutions, LLC](http://chugachgov.com)** | **[Management Program Technician I - Intern](https://jobright.ai/jobs/info/69b1a38d548f140066e7729f?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Mar 11 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Equity Strategies Intern](https://jobright.ai/jobs/info/69b1c2fc548f140066e78703?utm_campaign=1052&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carpool Logistics](http://carpoollogistics.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/69b19786d04c69566c73e39d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Finance Support Intern](https://jobright.ai/jobs/info/69b1d44b65de58104c70fa99?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Finance (Onsite: CA)](https://jobright.ai/jobs/info/69b195a4d04c69566c73e314?utm_campaign=1052&utm_source=git)** | Santa Monica, California | On Site | Mar 11 |
-| ↳ | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Finance (Onsite: CA)](https://jobright.ai/jobs/info/69b195a1548f140066e76943?utm_campaign=1052&utm_source=git)** | Woodland Hills, California | On Site | Mar 11 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Winter 2027](https://jobright.ai/jobs/info/69b192b265de58104c709cf1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 11 |
-| **[BioSpace](http://www.biospace.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/69b19249548f140066e766ac?utm_campaign=1052&utm_source=git)** | West Lebanon, NH | On Site | Mar 11 |
-| **[Five Rings](https://fiverings.com)** | **[Account Analyst Intern](https://jobright.ai/jobs/info/69b1908dd04c69566c73de28?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

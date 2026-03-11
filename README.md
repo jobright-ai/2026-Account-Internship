@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroll](http://www.kroll.com/)** | **[Junior Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/69b0f39d749500645098210d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Tampa)](https://jobright.ai/jobs/info/69b0f3950b2db6275c05e4f3?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Mar 10 |
 | **[accessiBe](https://accessibe.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69aedac87495006450933aed?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Mar 10 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/6966d30b5ad3a93f82323ad1?utm_campaign=1052&utm_source=git)** | Canonsburg, PA | Hybrid | Mar 10 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Tampa)](https://jobright.ai/jobs/info/69b0e8ab7495006450980897?utm_campaign=1052&utm_source=git)** | 501 E. Kennedy Blvd., Tampa, FL, 33602, US | On Site | Mar 10 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/69b0e88adfaeda6ff59bb743?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Mar 10 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0ebb90b2db6275c05d81b?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Mar 10 |
 | ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0a7967495006450975c15?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Mar 10 |
-| ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/69b0e887dfaeda6ff59bb73c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Mar 10 |
 | ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/69b0e88ddfaeda6ff59bb749?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA, United States | On Site | Mar 10 |
-| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/69b0a7937495006450975bf8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Mar 10 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management (State Street IM) - Operational Risk Management - Summer Internship 2026](https://jobright.ai/jobs/info/69b07bd5749500645096d16a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 10 |
+| ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/69b0e887dfaeda6ff59bb73c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

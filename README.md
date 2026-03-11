@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/69b0afba74950064509773ab?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Mar 10 |
+| **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69b0acca7495006450976ccf?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Mar 10 |
+| **[First American](http://www.firstam.com)** | **[Undergraduate Finance Intern (Hybrid)](https://jobright.ai/jobs/info/69b0ac5adfaeda6ff59afbcb?utm_campaign=1052&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 10 |
+| **[Atos Medical](http://www.atosmedical.com)** | **[Medical Reimbursement Intern](https://jobright.ai/jobs/info/69b0ac25dfaeda6ff59afade?utm_campaign=1052&utm_source=git)** | New Berlin, WI | Hybrid | Mar 10 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Credit](https://jobright.ai/jobs/info/69b0ac160b2db6275c050bfe?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Mar 10 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/69b0a59d0b2db6275c04f677?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | Hybrid | Mar 10 |
 | ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/69b0a59c0b2db6275c04f676?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 10 |
 | ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0a591749500645097588f?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Mar 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Odyssey Relocation Management](https://odysseyrelo.com)** | **[Client Financial Services Intern](https://jobright.ai/jobs/info/69b08554dfaeda6ff59a879b?utm_campaign=1052&utm_source=git)** | Maple Grove,MN,US | On Site | Mar 10 |
 | **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern - Accounting](https://jobright.ai/jobs/info/69b084ce0b2db6275c049ba3?utm_campaign=1052&utm_source=git)** | Addison, TX, US | On Site | Mar 10 |
 | ↳ | **[Concentra Corporate Summer Intern - Accounting](https://jobright.ai/jobs/info/69b084d00b2db6275c049bb1?utm_campaign=1052&utm_source=git)** | US-TX-Addison | On Site | Mar 10 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Treasury Intern](https://jobright.ai/jobs/info/69b0a3a5749500645097528a?utm_campaign=1052&utm_source=git)** | Washington - Spokane Valley | On Site | Mar 10 |
-| **[Sonar](http://sonarsource.com)** | **[Purchase to Pay Intern (Paid Internship)](https://jobright.ai/jobs/info/69b05e340b2db6275c0429d7?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Mar 10 |
-| **[Van Cleef & Arpels](https://www.vancleefarpels.com)** | **[Intern, Van Cleef & Arpels Finance](https://jobright.ai/jobs/info/69b05d317495006450967bfc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 10 |
-| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Audit + Assurance Intern](https://jobright.ai/jobs/info/6993de2c81476f6176ab789c?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Mar 10 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69abb0fe142d5b4265fce6e0?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

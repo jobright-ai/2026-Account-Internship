@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Summer 2027](https://jobright.ai/jobs/info/69ab93567e1fab39d38300cb?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 10 |
+| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69aba0447e1fab39d3831801?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Mar 10 |
+| **[ERCOT](http://www.ercot.com/)** | **[Intern - Financial Planning & Analysis](https://jobright.ai/jobs/info/69b0d2a60b2db6275c05801e?utm_campaign=1052&utm_source=git)** | Taylor, TX | Hybrid | Mar 10 |
 | **[Loblaw Companies Limited](http://www.loblaw.ca/en.html)** | **[Finance Analyst, Order to Cash - Co-op Student](https://jobright.ai/jobs/info/69b0d156dfaeda6ff59b664f?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Mar 10 |
 | **[AXIS (AXIS Capital)](http://www.axiscapital.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69b0d0010b2db6275c05745c?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[IT Internal Audit Intern (Summer 2026)](https://jobright.ai/jobs/info/69a92dc879f3f4037f43ee76?utm_campaign=1052&utm_source=git)** | Newark, NJ | Remote | Mar 10 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Financial Administrative Intern](https://jobright.ai/jobs/info/69b0b8e67495006450978bf6?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 10 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Corporate Banking Group, Risk & Operations, Birmingham AL](https://jobright.ai/jobs/info/69b0b8900b2db6275c05226c?utm_campaign=1052&utm_source=git)** | Hoover, AL | On Site | Mar 10 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Foundations 2026](https://jobright.ai/jobs/info/69b0b556749500645097804a?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Mar 10 |
+| **[AICPA](https://www.aicpa-cima.com)** | **[Paid Summer Intern - Audit & Accounting](https://jobright.ai/jobs/info/69b0e1f1749500645097fb62?utm_campaign=1052&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Mar 10 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/69b0afba74950064509773ab?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Mar 10 |
 | **[Novogradac](https://www.novoco.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69b0acca7495006450976ccf?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Mar 10 |
 | **[Atos Medical](http://www.atosmedical.com)** | **[Medical Reimbursement Intern](https://jobright.ai/jobs/info/69b0ac25dfaeda6ff59afade?utm_campaign=1052&utm_source=git)** | New Berlin, WI | Hybrid | Mar 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crash Champions](https://crashchampions.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69b06bd07495006450969ff5?utm_campaign=1052&utm_source=git)** | Westmont, IL | On Site | Mar 10 |
 | **[Acument Global Technologies - North America](http://www.acument.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69b06b837495006450969e1f?utm_campaign=1052&utm_source=git)** | Sterling Heights, MI | On Site | Mar 10 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[International Tax Senior Associate](https://jobright.ai/jobs/info/69b06954dfaeda6ff59a332f?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 10 |
-| **[Lewis Representation LLC](https://lewisrepresentation.com)** | **[Finance and Accounting Summer Intern](https://jobright.ai/jobs/info/69b06921dfaeda6ff59a3299?utm_campaign=1052&utm_source=git)** | Gales Ferry, CT | On Site | Mar 10 |
-| **[Dunmore](http://www.dunmore.com/)** | **[Corporate Tax Intern](https://jobright.ai/jobs/info/69b068df0b2db6275c044fd0?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Accounting](https://jobright.ai/jobs/info/69b0679f7495006450969614?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
-| ↳ | **[Wonderful Scholar Summer Internship, Finance](https://jobright.ai/jobs/info/69b0679174950064509695e8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exus Renewables North America](www.exus.us)** | **[Project Finance Intern](https://jobright.ai/jobs/info/69b26dbea8ac8e70ff664f5f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Accounting](https://jobright.ai/jobs/info/69b26b06ad360c0340a73362?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 12 |
+| **[Figure](https://www.figure.ai)** | **[Strategic Finance & Capital Markets Intern [Summer 2026]New](https://jobright.ai/jobs/info/69b26adfa8ac8e70ff664cf7?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| **[CEC](https://cecfg.com)** | **[Financial Planning & Analysis Intern (32578)](https://jobright.ai/jobs/info/69b26365ae2a534885e96ad6?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 11 |
+| **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b25855ad360c0340a71f18?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[INTERNAL AUDITOR 4 - 75943](https://jobright.ai/jobs/info/69b25203ad360c0340a70a29?utm_campaign=1052&utm_source=git)** | Davidson County, TN | On Site | Mar 11 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69b24590ad360c0340a6ff5e?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 11 |
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/69b2458ead360c0340a6ff5d?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 11 |
@@ -110,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/69b1ddeb65de58104c71132f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern-Tacoma (FOR ACQUISITION ONLY)](https://jobright.ai/jobs/info/69b1fab8d04c69566c749d3b?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Mar 11 |
 | **[PCL Construction](http://www.pcl.com)** | **[Procurement Intern Summer 2026](https://jobright.ai/jobs/info/69b1dc69548f140066e7d00b?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Mar 11 |
-| **[Gen](https://www.gendigital.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164e5?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69b1fa92548f140066e826a2?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
+| **[Gen](https://www.gendigital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1fa91548f140066e826a1?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164e5?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance - Summer 2026](https://jobright.ai/jobs/info/69b1fa84548f140066e82666?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Mar 11 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b1da11d04c69566c743e0d?utm_campaign=1052&utm_source=git)** | Sewickley, PA | On Site | Mar 11 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/69b1fa95d04c69566c749c40?utm_campaign=1052&utm_source=git)** | USA PA Pittsburgh | On Site | Mar 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Accounting](https://jobright.ai/jobs/info/69b1c9bd65de58104c70dc5c?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Mar 11 |
 | **[PwC Canada](https://www.pwc.com/ca/en/)** | **[May 2027 - Actuarial P&C Non-CPA - Summer Intern - Montreal](https://jobright.ai/jobs/info/69b1e96b65de58104c713673?utm_campaign=1052&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Motion Picture Group Financial Planning & Analysis – Summer 2026](https://jobright.ai/jobs/info/69b1c7cb548f140066e79802?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Mar 11 |
-| **[International Association of Chiefs of Police](https://www.theiacp.org)** | **[Accounting Intern - Spring 2026](https://jobright.ai/jobs/info/69b1c752d04c69566c741134?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Mar 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Finance Intern – TV Distribution & Networks – Summer 2026](https://jobright.ai/jobs/info/69b1c722548f140066e795c5?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Mar 11 |
-| **[Trü Frü](https://trufru.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1c347548f140066e787d9?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
-| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69b1c2ed548f140066e786ce?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 11 |
-| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Pharmacy Department Intern - Summer 2026](https://jobright.ai/jobs/info/69b1c2dd65de58104c70bfa0?utm_campaign=1052&utm_source=git)** | Providence County, RI | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

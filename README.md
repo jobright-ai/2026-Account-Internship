@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69b21b7f65de58104c7190da?utm_campaign=1052&utm_source=git)** | Sudbury,MA,US | On Site | Mar 11 |
+| **[OC Sports & Entertainment](https://www.ocvibe.com/)** | **[Accounting Intern, AREP](https://jobright.ai/jobs/info/69b21611d04c69566c74b849?utm_campaign=1052&utm_source=git)** | Anaheim | On Site | Mar 11 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Pricing & Monetization Analyst](https://jobright.ai/jobs/info/69b2105765de58104c717db8?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 11 |
 | **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, International Tax (August 2027)](https://jobright.ai/jobs/info/69b20fc7d04c69566c74b3bb?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 11 |
 | **[Gen](https://www.gendigital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b20ce7d04c69566c74b036?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 11 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[China Life Asset Management Company](http://www.clamc.com)** | **[Intern](https://jobright.ai/jobs/info/69b1ddbe65de58104c7112a8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern-Tacoma (FOR ACQUISITION ONLY)](https://jobright.ai/jobs/info/69b1fab8d04c69566c749d3b?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Mar 11 |
 | **[PCL Construction](http://www.pcl.com)** | **[Procurement Intern Summer 2026](https://jobright.ai/jobs/info/69b1dc69548f140066e7d00b?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Mar 11 |
-| **[Gen](https://www.gendigital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1fa92548f140066e826a2?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164e5?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
+| **[Gen](https://www.gendigital.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164e5?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69b1fa91548f140066e826a1?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance - Summer 2026](https://jobright.ai/jobs/info/69b1fa84548f140066e82666?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Mar 11 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b1da11d04c69566c743e0d?utm_campaign=1052&utm_source=git)** | Sewickley, PA | On Site | Mar 11 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/69b1fa95d04c69566c749c40?utm_campaign=1052&utm_source=git)** | USA PA Pittsburgh | On Site | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts Water Resources Authority](https://www.linkedin.com/company/mwra)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69b1f84665de58104c71604b?utm_campaign=1052&utm_source=git)** | Chelsea,MA,US | On Site | Mar 11 |
 | **[FreedomPay](https://corporate.freedompay.com/)** | **[Summer Intern 2026 - Accounting](https://jobright.ai/jobs/info/69b1b97965de58104c70b910?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Mar 11 |
 | **[Acron Aviation](https://acronaviation.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69b1b971548f140066e78033?utm_campaign=1052&utm_source=git)** | Sanford, FL | On Site | Mar 11 |
-| **[Trü Frü](https://trufru.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1b91965de58104c70b8a4?utm_campaign=1052&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Mar 11 |
-| **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Winter 2027 (Anchorage)](https://jobright.ai/jobs/info/69b1fc78548f140066e82a57?utm_campaign=1052&utm_source=git)** | 3601 C Street, Anchorage, AK, 99503, US | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

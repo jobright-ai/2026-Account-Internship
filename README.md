@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69b26ea0ae2a534885e97e72?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 12 |
+| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69b26ea0ae2a534885e97e74?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 12 |
 | **[Exus Renewables North America](www.exus.us)** | **[Project Finance Intern](https://jobright.ai/jobs/info/69b26dbea8ac8e70ff664f5f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Accounting](https://jobright.ai/jobs/info/69b26b06ad360c0340a73362?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 12 |
 | **[Figure](https://www.figure.ai)** | **[Strategic Finance & Capital Markets Intern [Summer 2026]New](https://jobright.ai/jobs/info/69b26adfa8ac8e70ff664cf7?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b201a1548f140066e832b3?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 11 |
 | **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Corporate Accounting & Finance Intern](https://jobright.ai/jobs/info/69b20055d04c69566c74a779?utm_campaign=1052&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Greenville](https://jobright.ai/jobs/info/69b1fe20548f140066e82d1d?utm_campaign=1052&utm_source=git)** | Greenville, SC | On Site | Mar 11 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Corporate Accounting](https://jobright.ai/jobs/info/69b1fe1e548f140066e82d11?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 11 |
-| ↳ | **[Intern - RRE Accounting](https://jobright.ai/jobs/info/69b1fe1e548f140066e82d0e?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 11 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern - RRE Accounting](https://jobright.ai/jobs/info/69b1fe1e548f140066e82d0e?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 11 |
+| ↳ | **[Intern - Corporate Accounting](https://jobright.ai/jobs/info/69b1fe1e548f140066e82d11?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 11 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/69b1fc66d04c69566c74a12a?utm_campaign=1052&utm_source=git)** | 33 600 Anton Boulevard , Costa Mesa, CA, 92626, US | On Site | Mar 11 |
 | **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/69b1fc5e65de58104c716981?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA, United States | On Site | Mar 11 |
 | **[Motion](https://www.motion.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1fbce65de58104c716898?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Mar 11 |
@@ -115,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/69b1ddeb65de58104c71132f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern-Tacoma (FOR ACQUISITION ONLY)](https://jobright.ai/jobs/info/69b1fab8d04c69566c749d3b?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Mar 11 |
 | **[PCL Construction](http://www.pcl.com)** | **[Procurement Intern Summer 2026](https://jobright.ai/jobs/info/69b1dc69548f140066e7d00b?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Mar 11 |
-| **[Gen](https://www.gendigital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1fa91548f140066e826a1?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
+| **[Gen](https://www.gendigital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164de?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164e5?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance - Summer 2026](https://jobright.ai/jobs/info/69b1fa84548f140066e82666?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Mar 11 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b1da11d04c69566c743e0d?utm_campaign=1052&utm_source=git)** | Sewickley, PA | On Site | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1ea2d65de58104c713917?utm_campaign=1052&utm_source=git)** | Windsor, Ontario, Canada | Hybrid | Mar 11 |
 | **[Albourne](http://www.albourne.com)** | **[Private Markets Investment Due Diligence Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69b1ca23548f140066e79c39?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Accounting](https://jobright.ai/jobs/info/69b1c9bd65de58104c70dc5c?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Mar 11 |
-| **[PwC Canada](https://www.pwc.com/ca/en/)** | **[May 2027 - Actuarial P&C Non-CPA - Summer Intern - Montreal](https://jobright.ai/jobs/info/69b1e96b65de58104c713673?utm_campaign=1052&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Mar 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Motion Picture Group Financial Planning & Analysis – Summer 2026](https://jobright.ai/jobs/info/69b1c7cb548f140066e79802?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

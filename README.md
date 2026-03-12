@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Contemporary Amperex Technology USA Inc](http://www.catl.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b23c4ca8ac8e70ff66107f?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Mar 11 |
+| **[International](https://www.international.com)** | **[Finance Leadership and Development Internship](https://jobright.ai/jobs/info/69a6502d2c0d8b0f5cd0644b?utm_campaign=1052&utm_source=git)** | Lisle, IL | On Site | Mar 11 |
+| **[Cytek Biosciences](https://cytekbio.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69b22db865de58104c71a333?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Mar 11 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/69b22629548f140066e86392?utm_campaign=1052&utm_source=git)** | One Bush Street, San Francisco, CA, 94104, US | On Site | Mar 11 |
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/69b2260b65de58104c719b7c?utm_campaign=1052&utm_source=git)** | One Bush Street, San Francisco, CA, 94104, US | On Site | Mar 11 |
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69b2260a65de58104c719b6f?utm_campaign=1052&utm_source=git)** | One Bush Street, San Francisco, CA, 94104, US | On Site | Mar 11 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/69b2254c548f140066e86251?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[2026 Summer Finance Intern](https://jobright.ai/jobs/info/69b222bfd04c69566c74d4d2?utm_campaign=1052&utm_source=git)** | St Louis Park, MN | On Site | Mar 11 |
-| ↳ | **[2026 Summer Finance Intern](https://jobright.ai/jobs/info/69b21cf4548f140066e85a1d?utm_campaign=1052&utm_source=git)** | St Louis Park, MN | On Site | Mar 11 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Accounting Intern (Accounts Receivable)](https://jobright.ai/jobs/info/69b21cd865de58104c7191c4?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 11 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b21c99d04c69566c74cff2?utm_campaign=1052&utm_source=git)** | Sewickley,PA,US | On Site | Mar 11 |
 | **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69b21b7f65de58104c7190da?utm_campaign=1052&utm_source=git)** | Sudbury,MA,US | On Site | Mar 11 |
 | **[OC Sports & Entertainment](https://www.ocvibe.com/)** | **[Accounting Intern, AREP](https://jobright.ai/jobs/info/69b21611d04c69566c74b849?utm_campaign=1052&utm_source=git)** | Anaheim | On Site | Mar 11 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/69b2332dad360c0340a6ef3e?utm_campaign=1052&utm_source=git)** | Iselin, NJ | Hybrid | Mar 11 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Pricing & Monetization Analyst](https://jobright.ai/jobs/info/69b2105765de58104c717db8?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 11 |
 | **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, International Tax (August 2027)](https://jobright.ai/jobs/info/69b20fc7d04c69566c74b3bb?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 11 |
 | **[Gen](https://www.gendigital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b20ce7d04c69566c74b036?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 11 |
@@ -103,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/69b1ddeb65de58104c71132f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern-Tacoma (FOR ACQUISITION ONLY)](https://jobright.ai/jobs/info/69b1fab8d04c69566c749d3b?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Mar 11 |
 | **[PCL Construction](http://www.pcl.com)** | **[Procurement Intern Summer 2026](https://jobright.ai/jobs/info/69b1dc69548f140066e7d00b?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Mar 11 |
-| **[Gen](https://www.gendigital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164de?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
+| **[Gen](https://www.gendigital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b1fa92548f140066e826a2?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164e5?utm_campaign=1052&utm_source=git)** | USA - Arizona, Tempe | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance - Summer 2026](https://jobright.ai/jobs/info/69b1fa84548f140066e82666?utm_campaign=1052&utm_source=git)** | Culver City, California | On Site | Mar 11 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b1da11d04c69566c743e0d?utm_campaign=1052&utm_source=git)** | Sewickley, PA | On Site | Mar 11 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1cecc548f140066e7aab6?utm_campaign=1052&utm_source=git)** | Strathroy, Ontario, Canada | Hybrid | Mar 11 |
 | ↳ | **[Co-op or Intern, Assurance or Financial Reporting & Insights - Kitchener-Waterloo Offices - May 2027](https://jobright.ai/jobs/info/69b1ce5c65de58104c70ea5a?utm_campaign=1052&utm_source=git)** | Brantford, Ontario, Canada | Hybrid | Mar 11 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/69b1ce3f548f140066e7a8c8?utm_campaign=1052&utm_source=git)** | New Castle, PA | On Site | Mar 11 |
-| ↳ | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/69b1ce33548f140066e7a88a?utm_campaign=1052&utm_source=git)** | West Virginia, United States | On Site | Mar 11 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1ce2fd04c69566c741e93?utm_campaign=1052&utm_source=git)** | Sarnia, Ontario, Canada | Hybrid | Mar 11 |
 | ↳ | **[Co-op or Intern, Assurance or Financial Reporting & Insights - Kitchener-Waterloo Offices - May 2027](https://jobright.ai/jobs/info/69b1ce20d04c69566c741e2b?utm_campaign=1052&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Mar 11 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69b1fa76d04c69566c749bb5?utm_campaign=1052&utm_source=git)** | Athens, GA, USA | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winged Keel Group](http://wingedkeel.com)** | **[Wealth Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a72b4676bbe83d3afa87c3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 11 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b1c28265de58104c70bf05?utm_campaign=1052&utm_source=git)** | Dublin, Virginia, United States | On Site | Mar 11 |
 | **[Texas State Auditor's Office](https://sao.texas.gov)** | **[Audit Intern](https://jobright.ai/jobs/info/69b1e1bf65de58104c711d9e?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Mar 11 |
-| **[MBE CPAs](https://mbe.cpa)** | **[Audit Internship](https://jobright.ai/jobs/info/69b1c0ee548f140066e784d4?utm_campaign=1052&utm_source=git)** | 4747 North 7th Street ste 412, Phoenix, AZ 85014, USA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

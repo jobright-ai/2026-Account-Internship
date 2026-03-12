@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Loan Syndications](https://jobright.ai/jobs/info/69b31ae8ae2a534885ea69ad?utm_campaign=1052&utm_source=git)** | Charlotte Metro | On Site | Mar 12 |
+| **[MBE CPAs](https://mbe.cpa)** | **[Public Accounting Internship](https://jobright.ai/jobs/info/69b31ae5ae2a534885ea69a0?utm_campaign=1052&utm_source=git)** | Sun Prairie, WI | On Site | Mar 12 |
+| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Summer 2026 / Orange County Area)](https://jobright.ai/jobs/info/69b31038a8ac8e70ff67309e?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 12 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6997253481476f6176af41c0?utm_campaign=1052&utm_source=git)** | Wayne, PA | Hybrid | Mar 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship](https://jobright.ai/jobs/info/69b30b5ca8ac8e70ff672e1e?utm_campaign=1052&utm_source=git)** | San Ramon, CA | On Site | Mar 12 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/69ad00f87e1fab39d3847541?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 12 |
 | ↳ | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/69b112217495006450985a6e?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Mar 12 |
@@ -119,10 +123,10 @@ For a complete list, click the following sortable link below:
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Finance](https://jobright.ai/jobs/info/69b2ffd5ad360c0340a811be?utm_campaign=1052&utm_source=git)** | Roanoke, VA | On Site | Mar 12 |
 | **[Primerica](https://www.primerica.com)** | **[Securities Operations Finance Intern](https://jobright.ai/jobs/info/69b2cc8aa8ac8e70ff66d5d7?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Mar 12 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/699675eae0bddb6acac4eee2?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Mar 12 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69964701ce78e77b4fda432f?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Mar 12 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69a65de0e567421f42576571?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Mar 12 |
 | ↳ | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/699653afce78e77b4fda5720?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Mar 12 |
 | ↳ | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69965bcbce78e77b4fda6451?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 12 |
-| ↳ | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69a65de0e567421f42576571?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Mar 12 |
+| ↳ | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69964701ce78e77b4fda432f?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Mar 12 |
 | ↳ | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69964969ce78e77b4fda46d1?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 12 |
 | ↳ | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/699be6a8e0bddb6acacacdc0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 12 |
 | ↳ | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69b0db9b749500645097e6ae?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Montana Department of Transportation](http://mdt.mt.gov)** | **[Internship MDT Accounting- Fall](https://jobright.ai/jobs/info/69b2a857ae2a534885e9cb89?utm_campaign=1052&utm_source=git)** | Helena, MT | On Site | Mar 12 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Financial Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa2c19d60e431a16c3932?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Mar 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206d0?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Mar 12 |
-| **[Sprinklr](http://www.sprinklr.com)** | **[Revenue Analyst Intern](https://jobright.ai/jobs/info/699665abe0bddb6acac4da82?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| **[Hilcorp](http://www.hilcorp.com)** | **[I-26075 - Accounting Part-Time Intern](https://jobright.ai/jobs/info/69965285ce78e77b4fda554b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 12 |
-| **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a686c0f707784310afde3d?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Mar 12 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, FP&A](https://jobright.ai/jobs/info/697ae04fc532c4768fe09786?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

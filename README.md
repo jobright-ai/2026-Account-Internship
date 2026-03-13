@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/69b38b61ae2a534885eaf597?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Senior Financial Analyst, PSET FP&A](https://jobright.ai/jobs/info/6933eeb6f131d96e48468447?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
+| **[Jasco Products](http://byjasco.com/)** | **[PRICING INTERN](https://jobright.ai/jobs/info/69b38905ad360c0340a8afd9?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Mar 12 |
+| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69b388c9ae2a534885eaf3f7?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Mar 12 |
+| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Investment Services Intern](https://jobright.ai/jobs/info/69b385ccad360c0340a8aa93?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 12 |
 | **[POSH](www.poshcars.io)** | **[Accounting Intern / Junior Accountant](https://jobright.ai/jobs/info/69b384b8a8ac8e70ff67c872?utm_campaign=1052&utm_source=git)** | Richardson, TX | On Site | Mar 12 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[State Tax Internship](https://jobright.ai/jobs/info/69b38209a8ac8e70ff67c807?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Mar 12 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Finance](https://jobright.ai/jobs/info/69b381cead360c0340a8a915?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Mar 12 |
@@ -110,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[Tax Analyst Intern](https://jobright.ai/jobs/info/69b33de2a8ac8e70ff677f3e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Cost & Schedule Control Intern -McLean VA - R10225716](https://jobright.ai/jobs/info/69b33a89a8ac8e70ff677dcf?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Mar 12 |
 | ↳ | **[2026 Financial Planning Analyst Intern - McLean VA - R10224460](https://jobright.ai/jobs/info/69b33a59ae2a534885eaa609?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Mar 12 |
+| **[Western Industries](https://www.linkedin.com/company/105607068)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69b38841ae2a534885eaf2fe?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Mar 12 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Wealth Management (HYBRID)](https://jobright.ai/jobs/info/69b337adae2a534885eaa125?utm_campaign=1052&utm_source=git)** | UNITED STATES-NC-Charlotte, UNITED STATES-NY-Syracuse | Hybrid | Mar 12 |
 | ↳ | **[2026 Summer Intern - Wealth Management (HYBRID)](https://jobright.ai/jobs/info/69b3372fa8ac8e70ff677ac7?utm_campaign=1052&utm_source=git)** | UNITED STATES-NY-New York | Hybrid | Mar 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Core Tax Intern - Summer 2027 (Anchorage)](https://jobright.ai/jobs/info/69b33647ae2a534885ea9fe5?utm_campaign=1052&utm_source=git)** | 3601 C Street, Anchorage, AK, 99503, US | On Site | Mar 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69ad0796142d5b4265fe2afc?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Mar 12 |
 | **[Crown Fund](www.crownfund.co)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69b34f5fae2a534885eab397?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Mar 12 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Loan Syndications](https://jobright.ai/jobs/info/69b31e3aad360c0340a8347a?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 12 |
-| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - MLTC+ MAP Risk Analyst](https://jobright.ai/jobs/info/69b31ca7ad360c0340a82ecc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Loan Syndications](https://jobright.ai/jobs/info/69b31ae8ae2a534885ea69ad?utm_campaign=1052&utm_source=git)** | Charlotte Metro | On Site | Mar 12 |
-| **[Security National Bank](https://www.snbconnect.com)** | **[Investment Services Intern - Omaha, NE / PT / Onsite](https://jobright.ai/jobs/info/69b339f5ae2a534885eaa56c?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Mar 12 |
-| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Revenue and Recovery](https://jobright.ai/jobs/info/69b338dbae2a534885eaa1a8?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
-| ↳ | **[Summer Intern - Internal Auditor](https://jobright.ai/jobs/info/69b338ebae2a534885eaa1b7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| ↳ | **[Summer Intern - Payment Integrity](https://jobright.ai/jobs/info/69b338c0a8ac8e70ff677b47?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

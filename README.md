@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 Tax Sophomore Summer Internship](https://jobright.ai/jobs/info/69976e7e81476f6176af8c24?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 13 |
+| **[WPM Real Estate Management](http://wpmllc.com)** | **[Lead Audit Intern](https://jobright.ai/jobs/info/69b3f22406c1ba00c545167e?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | On Site | Mar 13 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Damages & Valuations (Summer 2026)](https://jobright.ai/jobs/info/69b30f43a8ac8e70ff672ffa?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 13 |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Portfolio Management Intern](https://jobright.ai/jobs/info/69b3f1c13b74eb1e2c80feae?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
+| **[Teradata](https://www.teradata.com)** | **[FP&A Intern - Global Services](https://jobright.ai/jobs/info/69979d06e0bddb6acac64ea1?utm_campaign=1052&utm_source=git)** | San Diego, CA | Remote | Mar 13 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6933cd07a0dde7020e2f1dd6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
+| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840d3e4afe20e899a582849?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Mar 13 |
+| **[Aloha Pacific Federal Credit Union](https://www.alohapacific.com/)** | **[Summer Intern (Accounting)](https://jobright.ai/jobs/info/69b3e4113b74eb1e2c80e84f?utm_campaign=1052&utm_source=git)** | Kaimuki Plaza, Honolulu, HI, US | On Site | Mar 13 |
+| **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Treasury](https://jobright.ai/jobs/info/6997c27c81476f6176afee14?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 13 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68cb7ed09e3a822f5d246d82?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Mar 13 |
+| **[Aloha Pacific Federal Credit Union](https://www.alohapacific.com/)** | **[Summer Intern (Consumer Lending)](https://jobright.ai/jobs/info/69b3e0e906c1ba00c54508ce?utm_campaign=1052&utm_source=git)** | Kaimuki Plaza, Honolulu, HI, US | On Site | Mar 13 |
+| ↳ | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69b3e0c94ee278351528563e?utm_campaign=1052&utm_source=git)** | Kaimuki Plaza, Honolulu, HI, US | On Site | Mar 13 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68d77b00295f8e37655db0c4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
+| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206ba?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Houston)](https://jobright.ai/jobs/info/699aa80bce78e77b4fdf70cf?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Mar 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/69b3cf70ad360c0340a8ff75?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 | **[Association of International Certified Professional Accountants](http://www.aicpaglobal.com/)** | **[Paid Summer Intern - Audit & Attestation](https://jobright.ai/jobs/info/69b3c669ae2a534885eb2b80?utm_campaign=1052&utm_source=git)** | Durham, NC | Remote | Mar 13 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Victoria Office – CPA Opportunities in Private Enterprise Audit – 4-month Co-op – January 2027 Start](https://jobright.ai/jobs/info/69b3c659ae2a534885eb2b47?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Mar 13 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Treasury Intern](https://jobright.ai/jobs/info/69b33005ad360c0340a85542?utm_campaign=1052&utm_source=git)** | US Northville MI (3057) | On Site | Mar 12 |
 | **[Healthfirst](https://healthfirst.org)** | **[Finance Risk Analytics Intern (Financial Planning &amp; Analysis) - 2026 Summer Internship](https://jobright.ai/jobs/info/69b32fe2ae2a534885ea9563?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Santander](https://www.santander.com/)** | **[Intern - Financial & Commercial Planning](https://jobright.ai/jobs/info/69b32d36ae2a534885ea91c2?utm_campaign=1052&utm_source=git)** | Miami | On Site | Mar 12 |
-| **[Sagard](http://www.sagard.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/69b32d36ae2a534885ea91bf?utm_campaign=1052&utm_source=git)** | Toronto - ON - Canada | On Site | Mar 12 |
-| **[BDO](https://global-www.bdo.global/)** | **[Core Tax Intern - Summer 2027 (Anchorage)](https://jobright.ai/jobs/info/69b32d2aa8ac8e70ff676eac?utm_campaign=1052&utm_source=git)** | Anchorage, AK, United States | On Site | Mar 12 |
-| ↳ | **[Tax Intern, International Tax Services - Milwaukee (Summer 2027)](https://jobright.ai/jobs/info/69b32d26ad360c0340a85270?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Mar 12 |
-| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Milwaukee)](https://jobright.ai/jobs/info/69b32d20ad360c0340a8526c?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Mar 12 |
-| ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (Minneapolis)](https://jobright.ai/jobs/info/69b32d1ead360c0340a85267?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Mar 12 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Finance and Accounting Year-Round Intern](https://jobright.ai/jobs/info/69b32ccbad360c0340a851c3?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Mar 12 |
-| **[Webster Bank](https://www.websterbank.com)** | **[Intern Commercial Loan Support](https://jobright.ai/jobs/info/69b32bd0a8ac8e70ff676b1f?utm_campaign=1052&utm_source=git)** | CT Southington | On Site | Mar 12 |
-| **[Sol Systems](http://www.solsystems.com/)** | **[Procurement Summer Intern](https://jobright.ai/jobs/info/69b32893ae2a534885ea8c95?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Mar 12 |
-| **[Tenneco](https://www.tenneco.com/)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/69b326a5a8ac8e70ff6760c7?utm_campaign=1052&utm_source=git)** | Northville, MI | On Site | Mar 12 |
-| ↳ | **[Treasury Intern](https://jobright.ai/jobs/info/69b3268aa8ac8e70ff676040?utm_campaign=1052&utm_source=git)** | Northville, MI | On Site | Mar 12 |
-| **[Sagard](http://www.sagard.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/69b3261dad360c0340a84624?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 12 |
-| **[Zayo Group](https://www.zayo.com)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/69b32575ad360c0340a844a4?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 12 |
-| **[Byline Bank](https://www.bylinebank.com)** | **[2026 Wealth Management Summer Internship, Chicago, IL](https://jobright.ai/jobs/info/69b3256aad360c0340a8447c?utm_campaign=1052&utm_source=git)** | Evanston, IL | Hybrid | Mar 12 |
-| **[North Bay Regional Health Centre (NBRHC)](https://nbrhc.on.ca/)** | **[Inventory Manager & Bookkeeper {NU F-26-013}](https://jobright.ai/jobs/info/69b32534a8ac8e70ff675ae9?utm_campaign=1052&utm_source=git)** | North Bay, Ontario, Canada | On Site | Mar 12 |
-| **[Mapletree](http://www.mapletree.com.sg)** | **[Intern, Asset Management, United States](https://jobright.ai/jobs/info/69b3250fa8ac8e70ff675a19?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

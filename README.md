@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Charlotte)](https://jobright.ai/jobs/info/69b396cfad360c0340a8b860?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 12 |
+| ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Tampa)](https://jobright.ai/jobs/info/69b396a7a8ac8e70ff67d6f2?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Mar 12 |
+| ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Tampa)](https://jobright.ai/jobs/info/69b396a2a8ac8e70ff67d6f1?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Mar 12 |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Accounts Receivable Technician Intern](https://jobright.ai/jobs/info/69b38ed1ae2a534885eaf6b7?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 12 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/69b38b61ae2a534885eaf597?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Senior Financial Analyst, PSET FP&A](https://jobright.ai/jobs/info/6933eeb6f131d96e48468447?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 12 |
 | **[Jasco Products](http://byjasco.com/)** | **[PRICING INTERN](https://jobright.ai/jobs/info/69b38905ad360c0340a8afd9?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | Mar 12 |
@@ -84,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Hyatt](http://www.hyatt.com/)** | **[Hyatt Summer Intern](https://jobright.ai/jobs/info/69b36b60ae2a534885ead41a?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern Commercial Loan Support](https://jobright.ai/jobs/info/69b36a39a8ac8e70ff67a9b3?utm_campaign=1052&utm_source=git)** | Southington, CT | On Site | Mar 12 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Cost Recovery](https://jobright.ai/jobs/info/69b369a8a8ac8e70ff67a6a9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 12 |
+| **[Webster Bank](https://www.websterbank.com)** | **[Intern Commercial Loan Support](https://jobright.ai/jobs/info/69b368b4ae2a534885eaca3d?utm_campaign=1052&utm_source=git)** | Southington, CT | On Site | Mar 12 |
 | **[Primerica](https://www.primerica.com)** | **[Securities Operations Finance Intern](https://jobright.ai/jobs/info/69b368a4ae2a534885eac9d9?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Mar 12 |
 | **[Blue Heron](https://blueheron.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b366f8a8ac8e70ff679aa9?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 12 |
 | **[Methode Electronics](http://methode.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b36597ad360c0340a87e38?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Mar 12 |
@@ -98,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Tampa)](https://jobright.ai/jobs/info/69b377eea8ac8e70ff67bd3f?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Mar 12 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Accounting Year-Round Intern](https://jobright.ai/jobs/info/69b3500bad360c0340a8707a?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Mar 12 |
 | **[Terex Corporation](http://www.terex.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69b355f0ae2a534885eab840?utm_campaign=1052&utm_source=git)** | Bothell, WA | Hybrid | Mar 12 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[Accounts Receivable Technician Intern](https://jobright.ai/jobs/info/69b355e0ae2a534885eab824?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/69b353f9ae2a534885eab6cd?utm_campaign=1052&utm_source=git)** | 4 515 S Flower St, Los Angeles, CA, 90071, US | On Site | Mar 12 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Wealth Management (HYBRID)](https://jobright.ai/jobs/info/69b35341ad360c0340a872fd?utm_campaign=1052&utm_source=git)** | Syracuse, NY | Hybrid | Mar 12 |
 | **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/69b34e6fa8ac8e70ff67899a?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Mar 12 |
@@ -132,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69b3304dad360c0340a855b8?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Mar 12 |
 | **[Simplot Company](http://www.simplot.com/)** | **[Accounting Intern (Long Term)](https://jobright.ai/jobs/info/69b33012a8ac8e70ff6771ab?utm_campaign=1052&utm_source=git)** | Simplot Headquarters - Boise | On Site | Mar 12 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69b33011a8ac8e70ff67719e?utm_campaign=1052&utm_source=git)** | US Northville MI (3057) | On Site | Mar 12 |
-| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/69b33005ad360c0340a85543?utm_campaign=1052&utm_source=git)** | US Northville MI (3057) | On Site | Mar 12 |
 | ↳ | **[Treasury Intern](https://jobright.ai/jobs/info/69b33005ad360c0340a85542?utm_campaign=1052&utm_source=git)** | US Northville MI (3057) | On Site | Mar 12 |
+| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/69b33005ad360c0340a85543?utm_campaign=1052&utm_source=git)** | US Northville MI (3057) | On Site | Mar 12 |
 | **[Healthfirst](https://healthfirst.org)** | **[Finance Risk Analytics Intern (Financial Planning &amp; Analysis) - 2026 Summer Internship](https://jobright.ai/jobs/info/69b32fe2ae2a534885ea9563?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Santander](https://www.santander.com/)** | **[Intern - Financial & Commercial Planning](https://jobright.ai/jobs/info/69b32d36ae2a534885ea91c2?utm_campaign=1052&utm_source=git)** | Miami | On Site | Mar 12 |
 | **[Sagard](http://www.sagard.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/69b32d36ae2a534885ea91bf?utm_campaign=1052&utm_source=git)** | Toronto - ON - Canada | On Site | Mar 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mapletree](http://www.mapletree.com.sg)** | **[Intern, Asset Management, United States](https://jobright.ai/jobs/info/69b3250fa8ac8e70ff675a19?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Mar 12 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69b352aba8ac8e70ff678c40?utm_campaign=1052&utm_source=git)** | Sinton, TX | On Site | Mar 12 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Finance Intern (2026)](https://jobright.ai/jobs/info/69b322d9ae2a534885ea7c48?utm_campaign=1052&utm_source=git)** | Brentwood, TN | Hybrid | Mar 12 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, USTV Finance - Summer 2026](https://jobright.ai/jobs/info/69b3224fa8ac8e70ff6751c7?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Mar 12 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69ad0796142d5b4265fe2afc?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Mar 12 |
-| **[Crown Fund](www.crownfund.co)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69b34f5fae2a534885eab397?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Mar 12 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Loan Syndications](https://jobright.ai/jobs/info/69b31e3aad360c0340a8347a?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

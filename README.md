@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citi](https://www.citi.com)** | **[Banking - Investment Banking, Summer Analyst, Calgary - CAN, 2027](https://jobright.ai/jobs/info/69b4e82206c1ba00c5467d90?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 13 |
+| **[CME Group](http://www.cmegroup.com)** | **[IT Audit Intern - Summer 2026](https://jobright.ai/jobs/info/69b4e63d3b74eb1e2c825ac7?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Financial Controls Intern](https://jobright.ai/jobs/info/69a5fcb70da45516f16ecec9?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/69b4d42006c1ba00c54653c6?utm_campaign=1052&utm_source=git)** | Midland, TX | On Site | Mar 13 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b4cee2569738374139c599?utm_campaign=1052&utm_source=git)** | Costa Mesa, California, United States | On Site | Mar 13 |
@@ -69,6 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Anduril Industries](https://www.anduril.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b4caf53b74eb1e2c822783?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | On Site | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Partner Management Information Analyst Intern](https://jobright.ai/jobs/info/69b4cae706c1ba00c5464815?utm_campaign=1052&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Mar 13 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Credit Risk Modeling Intern (ECM)](https://jobright.ai/jobs/info/69b4cadc06c1ba00c54647f8?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 13 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1ce2fd04c69566c741e93?utm_campaign=1052&utm_source=git)** | Sarnia, Ontario, Canada | Hybrid | Mar 13 |
+| ↳ | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1cedd548f140066e7ab08?utm_campaign=1052&utm_source=git)** | Woodstock, Ontario, Canada | Hybrid | Mar 13 |
+| ↳ | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1ea2d65de58104c713917?utm_campaign=1052&utm_source=git)** | Windsor, Ontario, Canada | Hybrid | Mar 13 |
+| ↳ | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1cef2548f140066e7ab5a?utm_campaign=1052&utm_source=git)** | Chatham, Ontario, Canada | Hybrid | Mar 13 |
 | **[Calvert Home Mortgage Investment Corporation](https://chmic.ca/)** | **[Financial Analyst Summer Student (Analytics & Business Intelligence Focus)](https://jobright.ai/jobs/info/69b4c552569738374139b751?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 13 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Tax Summer Intern](https://jobright.ai/jobs/info/69b4c4793b74eb1e2c822371?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Mar 13 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[SRD Macro and Market Research Intern](https://jobright.ai/jobs/info/69b4c36106c1ba00c5464278?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Mar 13 |
@@ -139,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts Institute of Technology](http://web.mit.edu)** | **[Advisor for Student Accounts and Customer Service](https://jobright.ai/jobs/info/69b4775e3b74eb1e2c81c927?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Hybrid | Mar 13 |
 | **[William Blair](http://www.williamblair.com)** | **[Equity Research Intern - Summer 2027](https://jobright.ai/jobs/info/69b476e25697383741394eb7?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Sally Finance Intern](https://jobright.ai/jobs/info/69b475185697383741394ce7?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Mar 13 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b4a1513b74eb1e2c81fd1d?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 13 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b4a1583b74eb1e2c81fd30?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 13 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Client Accounting Intern (Mid-Market Tech)](https://jobright.ai/jobs/info/69b4748d5697383741394c4c?utm_campaign=1052&utm_source=git)** | Frisco, TX | Hybrid | Mar 13 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Corporate Finance](https://jobright.ai/jobs/info/69b474875697383741394c47?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Credit Analyst](https://jobright.ai/jobs/info/69b472555697383741394935?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Mar 13 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b46beb06c1ba00c545d749?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Corporate Tax](https://jobright.ai/jobs/info/69b46b145697383741393361?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 13 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[International US Tax Intern - Winter 2027](https://jobright.ai/jobs/info/69b468a056973837413929a1?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 13 |
-| **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Banking Internship](https://jobright.ai/jobs/info/69b4688a3b74eb1e2c819f20?utm_campaign=1052&utm_source=git)** | Louisville, Georgia, United States | On Site | Mar 13 |
-| ↳ | **[Banking Internship](https://jobright.ai/jobs/info/69b4688a3b74eb1e2c819f21?utm_campaign=1052&utm_source=git)** | Martinez, Georgia, United States | On Site | Mar 13 |
-| **[CN](http://www.cn.ca)** | **[Intern, Internal Audit - Indigenous- EN](https://jobright.ai/jobs/info/69a801581fc3d83b78096594?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 13 |
-| ↳ | **[Intern, Internal Audit - Indigenous- EN](https://jobright.ai/jobs/info/69a5578d359fe034b1cff11a?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
-| ↳ | **[Intern, Accounting - Indigenous- EN](https://jobright.ai/jobs/info/6993502d81476f6176aafc6f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
-| **[Continental](https://www.continental.com)** | **[Intern - Logistics Finance / Controlling, Year-Round](https://jobright.ai/jobs/info/69b468253b74eb1e2c819df1?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | On Site | Mar 13 |
-| **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Banking Internship](https://jobright.ai/jobs/info/69b467be569738374139280b?utm_campaign=1052&utm_source=git)** | Savannah, Georgia, United States | On Site | Mar 13 |
+| **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Banking Internship](https://jobright.ai/jobs/info/69b4688a3b74eb1e2c819f21?utm_campaign=1052&utm_source=git)** | Martinez, Georgia, United States | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

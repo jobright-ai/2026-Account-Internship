@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69b7b50e3b74eb1e2c8560d6?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 16 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Season Intern](https://jobright.ai/jobs/info/69b7b2483b74eb1e2c854b49?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Mar 16 |
 | ↳ | **[Tax Season Intern](https://jobright.ai/jobs/info/69b7b2473b74eb1e2c854b45?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 16 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Season Intern](https://jobright.ai/jobs/info/69b793f806c1ba00c5494d51?utm_campaign=1052&utm_source=git)** | Richmond, VA, US | Hybrid | Mar 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/69b78df13b74eb1e2c8527a8?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Mar 15 |
-| **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Season Intern](https://jobright.ai/jobs/info/69b78d203b74eb1e2c85271e?utm_campaign=1052&utm_source=git)** | Alexandria, VA, US | Hybrid | Mar 15 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69b78d2006c1ba00c549478c?utm_campaign=1052&utm_source=git)** | Alexandria, VA, US | On Site | Mar 15 |
+| **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69b78d2006c1ba00c549478c?utm_campaign=1052&utm_source=git)** | Alexandria, VA, US | On Site | Mar 15 |
+| ↳ | **[Tax Season Intern](https://jobright.ai/jobs/info/69b78d203b74eb1e2c85271e?utm_campaign=1052&utm_source=git)** | Alexandria, VA, US | Hybrid | Mar 15 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[Equity Research Internship Opportunity – Summer 2027](https://jobright.ai/jobs/info/69b78ca906c1ba00c5494723?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | Hybrid | Mar 15 |
 | ↳ | **[Equity Research Internship Opportunity – Summer 2027](https://jobright.ai/jobs/info/69b78c963b74eb1e2c8526c7?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Mar 15 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1cecc548f140066e7aab6?utm_campaign=1052&utm_source=git)** | Strathroy, Ontario, Canada | Hybrid | Mar 15 |
@@ -101,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Accounts Payable/Site Payments Intern- Summer 2026](https://jobright.ai/jobs/info/6961e10ff3f4cd132506daed?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 15 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/69626ea125e18715077f4939?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Mar 15 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698449110f6f7e7a2cde9d83?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Mar 15 |
+| **[Fargo Park District](https://www.fargoparks.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b7b4fe3b74eb1e2c8560ac?utm_campaign=1052&utm_source=git)** | Fargo, ND | On Site | Mar 14 |
 | **[Alter Domus](http://www.alterdomus.com)** | **[Funds US Tax Accounting Intern](https://jobright.ai/jobs/info/69b63a0306c1ba00c5480d3d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Mar 14 |
 | ↳ | **[Funds US Tax Accounting Intern](https://jobright.ai/jobs/info/69b6381656973837413b75bc?utm_campaign=1052&utm_source=git)** | Ogden, UT | On Site | Mar 14 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69b7803206c1ba00c549322c?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Mar 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Air Products](https://www.airproducts.com/)** | **[Summer Intern - Accounting (Internal Audit) FY26](https://jobright.ai/jobs/info/699938ed81476f6176b1c5ec?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Mar 14 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Corporate Finance](https://jobright.ai/jobs/info/69b536a106c1ba00c546fbe0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Client Accounting Intern](https://jobright.ai/jobs/info/69991efbe0bddb6acac81f3b?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Mar 14 |
-| **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Finance Intern](https://jobright.ai/jobs/info/69b56e253b74eb1e2c830e7f?utm_campaign=1052&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 14 |
-| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Loan Collateral Ops) Hybrid Schedule](https://jobright.ai/jobs/info/6998e13ae0bddb6acac7cbc9?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

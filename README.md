@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[IMI](http://www.imiplc.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b5c6f556973837413b2c26?utm_campaign=1052&utm_source=git)** | Palmer, MA | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b5c38556973837413b2b4f?utm_campaign=1052&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[FCX Performance](http://fcxperformance.com)** | **[Accounting-Finance Rotating Intern](https://jobright.ai/jobs/info/69b5b8e23b74eb1e2c839184?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Mar 14 |
-| **[CAPSTAN MARINE, LLC](https://www.linkedin.com/company/59304403)** | **[Summer Intern](https://jobright.ai/jobs/info/69b7917b3b74eb1e2c852ce0?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Mar 14 |
 | **[FreedomPay](https://corporate.freedompay.com/)** | **[Summer Intern 2026 - Accounting](https://jobright.ai/jobs/info/69b5d71056973837413b36de?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Mar 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Budget Management Intern](https://jobright.ai/jobs/info/69b5b3b33b74eb1e2c8380c8?utm_campaign=1052&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Marine Claims Intern](https://jobright.ai/jobs/info/6999010081476f6176b17516?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Client Accounting Intern](https://jobright.ai/jobs/info/69991efbe0bddb6acac81f3b?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Mar 14 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Finance Intern](https://jobright.ai/jobs/info/69b56e253b74eb1e2c830e7f?utm_campaign=1052&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 14 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Loan Collateral Ops) Hybrid Schedule](https://jobright.ai/jobs/info/6998e13ae0bddb6acac7cbc9?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Intern - Manufacturing Accounting Intern](https://jobright.ai/jobs/info/69991eb5e0bddb6acac81f04?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

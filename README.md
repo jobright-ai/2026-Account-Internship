@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cigna Healthcare](http://www.cigna.com)** | **[Internal Audit SOC-1 Reporting Intern](https://jobright.ai/jobs/info/69b81ff106c1ba00c549e6f7?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 16 |
+| **[Ryan](http://ryan.com)** | **[Intern IV](https://jobright.ai/jobs/info/69b81fda3b74eb1e2c85c314?utm_campaign=1052&utm_source=git)** | Austin | On Site | Mar 16 |
+| **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter, Third Party Residential Underwriting – BMBE](https://jobright.ai/jobs/info/69b81f6d3b74eb1e2c85c240?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 16 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance or Financial Reporting & Insights - London-Windsor Offices - May 2027](https://jobright.ai/jobs/info/69b1ea90d04c69566c7470a3?utm_campaign=1052&utm_source=git)** | London, Ontario, Canada | Hybrid | Mar 16 |
+| ↳ | **[Co-op or Intern, Assurance or Financial Reporting & Insights - Kitchener-Waterloo Offices - May 2027](https://jobright.ai/jobs/info/69b1ce14d04c69566c741dd6?utm_campaign=1052&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Mar 16 |
+| **[Heartland Bank and Trust Company](http://hbtbank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/69b81c5a56973837413d4a14?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Mar 16 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance or Financial Reporting & Insights - Kitchener-Waterloo Offices - May 2027](https://jobright.ai/jobs/info/69b1ce5c65de58104c70ea5a?utm_campaign=1052&utm_source=git)** | Brantford, Ontario, Canada | Hybrid | Mar 16 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Finance Intern - Waring Division](https://jobright.ai/jobs/info/69b270a3ae2a534885e98624?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Mar 16 |
+| **[Kline Hill Partners](http://klinehill.com/)** | **[Fall 2026 Intern](https://jobright.ai/jobs/info/69b8161c56973837413d472f?utm_campaign=1052&utm_source=git)** | Greenwich, Connecticut, United States | On Site | Mar 16 |
+| **[Ryan](http://ryan.com)** | **[Intern IV](https://jobright.ai/jobs/info/69b815c53b74eb1e2c85bcde?utm_campaign=1052&utm_source=git)** | Austin, CO | On Site | Mar 16 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Procurement Analyst](https://jobright.ai/jobs/info/68f139bae6870116b1f55145?utm_campaign=1052&utm_source=git)** | Hagerstown, MD | On Site | Mar 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/6989c83c47434001cc67f531?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Mar 16 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/69b32575ad360c0340a844a4?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 16 |
@@ -97,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Centennial Bank](https://www.my100bank.com/)** | **[Intern - Investment Services](https://jobright.ai/jobs/info/69b6e7c356973837413c203f?utm_campaign=1052&utm_source=git)** | Panama City Beach, FL | On Site | Mar 15 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - Finance](https://jobright.ai/jobs/info/696c8825350cf4380313a6d2?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Mar 15 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69b6c21d3b74eb1e2c847e98?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Mar 15 |
-| **[Brookfield](https://bam.brookfield.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/69b65f6c56973837413ba07e?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/699344afe0bddb6acac1892a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 15 |
 | **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6918394715b415636717ff5e?utm_campaign=1052&utm_source=git)** | New Glasgow, Nova Scotia, Canada | Hybrid | Mar 15 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69b4d1dd569738374139c655?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Mar 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dream Finders Homes](https://www.dreamfindershomes.com/)** | **[Treasury Analyst Intern](https://jobright.ai/jobs/info/69b5668606c1ba00c5471920?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | Mar 14 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69b565d33b74eb1e2c82f1a6?utm_campaign=1052&utm_source=git)** | Conyers, GA | On Site | Mar 14 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69b565323b74eb1e2c82f135?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Mar 14 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics, WW Returns & ReCommerce](https://jobright.ai/jobs/info/69b5609e3b74eb1e2c82e955?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Mar 14 |
-| ↳ | **[Intern - Economics, WW Returns and ReCommerce Economics & Intelligence](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e92a?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Mar 14 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Intern - Accounts Payable](https://jobright.ai/jobs/info/697d54ca137a051025666b6f?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
-| **[Avant](https://www.avant.com)** | **[Credit Risk Analytics Summer Internship](https://jobright.ai/jobs/info/69a3680e359fe034b1ce8632?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 14 |
-| **[Symetra](http://www.symetra.com)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/699d09e581476f6176b5a95d?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 14 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - Global Financial Reporting Systems/OneStream](https://jobright.ai/jobs/info/6996559b81476f6176ae1ed3?utm_campaign=1052&utm_source=git)** | Hartsville, SC | On Site | Mar 14 |
-| **[MSIG USA](https://www.msigusa.com/)** | **[Financial Planning & Analysis (FP&A) Analyst Intern](https://jobright.ai/jobs/info/69aaa6299ca4e908ec661ab1?utm_campaign=1052&utm_source=git)** | Warren, NJ | Hybrid | Mar 14 |
-| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1e0378c62e63bc7fd0850?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Mar 14 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb30?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

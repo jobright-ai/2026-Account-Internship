@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Season Intern](https://jobright.ai/jobs/info/69b7b2483b74eb1e2c854b49?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | Mar 16 |
+| ↳ | **[Tax Season Intern](https://jobright.ai/jobs/info/69b7b2473b74eb1e2c854b45?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 16 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Season Intern](https://jobright.ai/jobs/info/69b793f806c1ba00c5494d51?utm_campaign=1052&utm_source=git)** | Richmond, VA, US | Hybrid | Mar 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/69b78df13b74eb1e2c8527a8?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Mar 15 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Season Intern](https://jobright.ai/jobs/info/69b78d203b74eb1e2c85271e?utm_campaign=1052&utm_source=git)** | Alexandria, VA, US | Hybrid | Mar 15 |
@@ -69,8 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[North America Finance Intern (Customer Development)](https://jobright.ai/jobs/info/69b717ec06c1ba00c548df95?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 15 |
 | **[Continental](https://www.continental.com)** | **[Intern - Corporate Tax, Year-Round](https://jobright.ai/jobs/info/69a6441fe567421f42573808?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | On Site | Mar 15 |
 | ↳ | **[Intern - Financial Systems, Year-Round](https://jobright.ai/jobs/info/69a698e8f707784310aff062?utm_campaign=1052&utm_source=git)** | Fort Mill, SC | Hybrid | Mar 15 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69b7153306c1ba00c548df2b?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 15 |
-| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69b7149d3b74eb1e2c84bf98?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 15 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69b7149d3b74eb1e2c84bf98?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 15 |
 | **[Security National Bank](https://www.snbconnect.com)** | **[Investment Services Intern - Omaha, NE / PT / Onsite](https://jobright.ai/jobs/info/69b70f8056973837413c484b?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Mar 15 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69b70ba956973837413c4792?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 15 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69b6fcbf56973837413c3702?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Client Accounting Intern](https://jobright.ai/jobs/info/69991efbe0bddb6acac81f3b?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Mar 14 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Finance Intern](https://jobright.ai/jobs/info/69b56e253b74eb1e2c830e7f?utm_campaign=1052&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 14 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Loan Collateral Ops) Hybrid Schedule](https://jobright.ai/jobs/info/6998e13ae0bddb6acac7cbc9?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Intern - Manufacturing Accounting Intern](https://jobright.ai/jobs/info/69991eb5e0bddb6acac81f04?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

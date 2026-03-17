@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ion Bank](http://ionbank.com)** | **[Accounting Intern - Summer](https://jobright.ai/jobs/info/69b9abb606c1ba00c54bac63?utm_campaign=1052&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Mar 17 |
+| **[Weaver](http://www.weaver.com)** | **[Valuation Services Intern - Summer 2026](https://jobright.ai/jobs/info/69b9abb406c1ba00c54bac4d?utm_campaign=1052&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 17 |
+| ↳ | **[Valuation Services Intern - Summer 2026](https://jobright.ai/jobs/info/69b9abb456973837413f200d?utm_campaign=1052&utm_source=git)** | DALLAS, Texas, United States | On Site | Mar 17 |
+| **[Airbnb](https://www.airbnb.com)** | **[Accounting Intern, Statutory Reporting](https://jobright.ai/jobs/info/69b99cf93b74eb1e2c878385?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 17 |
+| **[Authentic Brands Group](https://authentic.com)** | **[Tax Summer Intern](https://jobright.ai/jobs/info/69b99ce156973837413f16ba?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Mar 17 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Finance](https://jobright.ai/jobs/info/69b99c5456973837413f157d?utm_campaign=1052&utm_source=git)** | Brooklyn, New York | Hybrid | Mar 17 |
 | **[JAS Worldwide](http://www.jas.com)** | **[Tax Department Intern (Finance)](https://jobright.ai/jobs/info/69b999db3b74eb1e2c8780b3?utm_campaign=1052&utm_source=git)** | United States of America, Georgia, Atlanta | On Site | Mar 17 |
 | **[Aqua](https://www.aquawater.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69b999cb3b74eb1e2c87805a?utm_campaign=1052&utm_source=git)** | PA NORTH SHORE - 375 | On Site | Mar 17 |
 | **[State Street](https://www.statestreet.com/)** | **[Index Strategy,6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b999c006c1ba00c54ba1de?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | On Site | Mar 17 |
@@ -100,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[Business Valuation Intern](https://jobright.ai/jobs/info/69b2363aae2a534885e92b75?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 17 |
 | **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Tax Intern - Not-For-Profit (2026) - Harrison, NY](https://jobright.ai/jobs/info/68b9d8fa8043103d4f21af6a?utm_campaign=1052&utm_source=git)** | Harrison, NY | On Site | Mar 17 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Pricing Analyst](https://jobright.ai/jobs/info/69a108216b458d060735be6a?utm_campaign=1052&utm_source=git)** | Port Washington, NY | On Site | Mar 16 |
-| **[EAGLE Certification Group](https://www.eaglecertificationgroup.com)** | **[Intern - Global GAP & Primus](https://jobright.ai/jobs/info/69b8c04306c1ba00c54aeec6?utm_campaign=1052&utm_source=git)** | Dayton,OH,US | Hybrid | Mar 16 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - Global Financial Reporting Systems/OneStream](https://jobright.ai/jobs/info/6996559b81476f6176ae1ed3?utm_campaign=1052&utm_source=git)** | Hartsville, SC | On Site | Mar 16 |
 | **[Prosperity Life](https://prosperitylife.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69b8ba7b3b74eb1e2c86c6a0?utm_campaign=1052&utm_source=git)** | Austin, TX, USA | On Site | Mar 16 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69b8ba503b74eb1e2c86c67e?utm_campaign=1052&utm_source=git)** | Metairie,LA,US | On Site | Mar 16 |
@@ -108,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Corporate Tax](https://jobright.ai/jobs/info/69b46b145697383741393361?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 16 |
 | **[STAR Financial Bank](https://www.starfinancial.com)** | **[PERSONAL BANKER INTERN - ZIONSVILLE HIGH SCHOOL STUDENT INTERN (Fall 2026)](https://jobright.ai/jobs/info/69b8b4363b74eb1e2c86b27c?utm_campaign=1052&utm_source=git)** | Zionsville, Indiana, United States | On Site | Mar 16 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69b8c73106c1ba00c54af345?utm_campaign=1052&utm_source=git)** | GA-Atlanta | On Site | Mar 16 |
-| **[Sound Physicians](http://www.soundphysicians.com)** | **[Regional Finance Intern](https://jobright.ai/jobs/info/69b8c3793b74eb1e2c86ce4a?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 16 |
-| ↳ | **[Revenue Cycle Analyst Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af051?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 16 |
+| **[Sound Physicians](http://www.soundphysicians.com)** | **[Revenue Cycle Analyst Intern](https://jobright.ai/jobs/info/69b8c39a06c1ba00c54af051?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 16 |
+| ↳ | **[Regional Finance Intern](https://jobright.ai/jobs/info/69b8c3793b74eb1e2c86ce4a?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 16 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Finance Intern - Baptist Medical Center](https://jobright.ai/jobs/info/69b89b2406c1ba00c54a9603?utm_campaign=1052&utm_source=git)** | OK, United States | On Site | Mar 16 |
 | ↳ | **[Finance Intern - Ponca City](https://jobright.ai/jobs/info/69b89af656973837413dfd4e?utm_campaign=1052&utm_source=git)** | Ponca City, OK, United States | On Site | Mar 16 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[Content Business Intern](https://jobright.ai/jobs/info/69b894e756973837413df67f?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 16 |
@@ -127,34 +132,29 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Atlantic Region Property and Casualty (hybrid)](https://jobright.ai/jobs/info/69b87da43b74eb1e2c86545b?utm_campaign=1052&utm_source=git)** | Wakefield, MA | Hybrid | Mar 16 |
 | **[UF Health](https://ufhealth.org/)** | **[Intern / Finance / Variable / Part Time](https://jobright.ai/jobs/info/69b4c2ae569738374139b088?utm_campaign=1052&utm_source=git)** | Gainesville, FL | On Site | Mar 16 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd92b?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd927?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd92a?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd929?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd92c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd929?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd925?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd928?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd927?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd92a?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879c556973837413dd926?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bd56973837413dd91a?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bd56973837413dd917?utm_campaign=1052&utm_source=git)** | Greater Tampa Bay Area | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bd56973837413dd91b?utm_campaign=1052&utm_source=git)** | Salinas, CA | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bd56973837413dd919?utm_campaign=1052&utm_source=git)** | Everett, WA | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bc56973837413dd90f?utm_campaign=1052&utm_source=git)** | Medford, OR | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bd56973837413dd917?utm_campaign=1052&utm_source=git)** | Greater Tampa Bay Area | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bc56973837413dd912?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bc56973837413dd911?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879bc56973837413dd90f?utm_campaign=1052&utm_source=git)** | Medford, OR | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b756973837413dd906?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd904?utm_campaign=1052&utm_source=git)** | Bellingham, WA | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b756973837413dd905?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd900?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd8fd?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Mar 16 |
+| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd901?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd8fe?utm_campaign=1052&utm_source=git)** | Redwood Valley, CA | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd8ff?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b756973837413dd905?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd8fd?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd900?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd901?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879b656973837413dd904?utm_campaign=1052&utm_source=git)** | Bellingham, WA | On Site | Mar 16 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b481063b74eb1e2c81dc98?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Mar 16 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b8796f3b74eb1e2c864e66?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e48?utm_campaign=1052&utm_source=git)** | New Castle, PA | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e43?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Mar 16 |
 | ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e44?utm_campaign=1052&utm_source=git)** | Rancho Cordova, CA | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e49?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e4b?utm_campaign=1052&utm_source=git)** | Augusta, GA | On Site | Mar 16 |
-| ↳ | **[Tax and Audit Associates (BT Intern Conversions Only)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e45?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

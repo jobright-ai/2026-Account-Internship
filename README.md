@@ -145,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Investment Risk Analyst Intern](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bc4?utm_campaign=1052&utm_source=git)** | Madison Wisconsin | On Site | Mar 17 |
 | **[Northwest Bank](https://www.northwest.bank)** | **[TM Analyst Intern](https://jobright.ai/jobs/info/69b97b3256973837413efa14?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Mar 17 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Corporate Accounting & Audit Intern - Summer 2026](https://jobright.ai/jobs/info/699cf748ce78e77b4fe1b3e5?utm_campaign=1052&utm_source=git)** | Marshall, MN | On Site | Mar 17 |
+| **[Angel Oak Mortgage Solutions](http://angeloakms.com)** | **[INTERN-Financial Planning & Analysis](https://jobright.ai/jobs/info/69ba46c63b74eb1e2c883664?utm_campaign=1052&utm_source=git)** | Angel Oak Mortgage Solutions LLC - Atlanta, GA 30328 | On Site | Mar 17 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/69b971113b74eb1e2c875d90?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Mar 17 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Data Analytics – Internal Audit (Fall 2026)](https://jobright.ai/jobs/info/69b9706056973837413ee8e6?utm_campaign=1052&utm_source=git)** | Toronto | On Site | Mar 17 |
 | **[City National Bank](http://www.bankatcity.com)** | **[Retail Banking Intern - Lexington, KY](https://jobright.ai/jobs/info/69b95fc056973837413ee2bc?utm_campaign=1052&utm_source=git)** | Lexington, KY, US | On Site | Mar 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/699d5eb7ce78e77b4fe2645c?utm_campaign=1052&utm_source=git)** | Waco, TX | On Site | Mar 17 |
 | ↳ | **[Intern - Finance](https://jobright.ai/jobs/info/69a405360da45516f16d0483?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Mar 17 |
 | **[Minnesota Management and Budget](https://mn.gov/mmb/)** | **[Finance Manager - Financial Services Director](https://jobright.ai/jobs/info/69b9620956973837413ee4e8?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Mar 17 |
-| **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[FP&A Intern](https://jobright.ai/jobs/info/69a7cf7076bbe83d3afb4dc8?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

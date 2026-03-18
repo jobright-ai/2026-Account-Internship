@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba070e06c1ba00c54c20f1?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Mar 17 |
 | **[Amazon](https://amazon.com)** | **[Economist Intern, FBA Science, FBA Science](https://jobright.ai/jobs/info/69ba068606c1ba00c54c20af?utm_campaign=1052&utm_source=git)** | Bellevue, Washington, USA | On Site | Mar 17 |
 | **[St. Peter's Health](https://www.stpetes.org)** | **[Finance Accounting Intern - Finance](https://jobright.ai/jobs/info/69ba067356973837413f9229?utm_campaign=1052&utm_source=git)** | 2475 E Broadway St, Helena, MT, 59601, US | On Site | Mar 17 |
+| **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Finance Intern / Support Center](https://jobright.ai/jobs/info/69a31fd4b600907a962971d0?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Mar 17 |
 | **[Western National Insurance](https://wnins.com)** | **[Commercial Lines Underwriting Intern](https://jobright.ai/jobs/info/69b9ef9956973837413f797f?utm_campaign=1052&utm_source=git)** | Anchorage,AK,US | On Site | Mar 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Partnerships - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69b9eb3b3b74eb1e2c87dc6f?utm_campaign=1052&utm_source=git)** | 15 One International Place, Boston, MA, 02110, US | On Site | Mar 17 |
 | **[Stewart Title](https://www.stewart.com/)** | **[API Banking & Exchange Intern](https://jobright.ai/jobs/info/69b9e9b856973837413f702f?utm_campaign=1052&utm_source=git)** | USA CA Roseville - 1420 Rocky Ridge Dr | On Site | Mar 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Finance Internship - Freight Analyst](https://jobright.ai/jobs/info/694a016b7d506e3808f51cb8?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Mar 17 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/699d5eb7ce78e77b4fe2645c?utm_campaign=1052&utm_source=git)** | Waco, TX | On Site | Mar 17 |
 | ↳ | **[Intern - Finance](https://jobright.ai/jobs/info/69a405360da45516f16d0483?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Mar 17 |
-| **[Minnesota Management and Budget](https://mn.gov/mmb/)** | **[Finance Manager - Financial Services Director](https://jobright.ai/jobs/info/69b9620956973837413ee4e8?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

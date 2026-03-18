@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[M&A Intern (Deal Side) - Summer 2026](https://jobright.ai/jobs/info/69ba2e1756973837413fae57?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
+| ↳ | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2df03b74eb1e2c882336?utm_campaign=1052&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
 | **[AAA Northeast](http://www.aaa.com)** | **[Accounting Internship (58307)](https://jobright.ai/jobs/info/69ba237606c1ba00c54c41e4?utm_campaign=1052&utm_source=git)** | Providence, RI 02904 | On Site | Mar 17 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/69ba228a06c1ba00c54c4148?utm_campaign=1052&utm_source=git)** | 10975 Grandview Dr, Overland Park, KS 66210, USA | Hybrid | Mar 17 |
 | ↳ | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/69ba21e456973837413fa9da?utm_campaign=1052&utm_source=git)** | 1 SW Security Benefit Pl, Topeka, KS 66606, USA | Hybrid | Mar 17 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Internship Summer 2027](https://jobright.ai/jobs/info/69b9d07606c1ba00c54bece5?utm_campaign=1052&utm_source=git)** | Wayne, PA, US | On Site | Mar 17 |
 | **[Janel Group](http://www.janelgroup.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69b9cfc93b74eb1e2c87cada?utm_campaign=1052&utm_source=git)** | Garden City, NY | On Site | Mar 17 |
 | **[Ion Bank](http://ionbank.com)** | **[Accounting Intern - Summer](https://jobright.ai/jobs/info/69b9abb606c1ba00c54bac63?utm_campaign=1052&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Mar 17 |
-| **[Weaver](http://www.weaver.com)** | **[Valuation Services Intern - Summer 2026](https://jobright.ai/jobs/info/69b9abb406c1ba00c54bac4d?utm_campaign=1052&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 17 |
-| ↳ | **[Valuation Services Intern - Summer 2026](https://jobright.ai/jobs/info/69b9abb456973837413f200d?utm_campaign=1052&utm_source=git)** | DALLAS, Texas, United States | On Site | Mar 17 |
+| **[Weaver](http://www.weaver.com)** | **[Valuation Services Intern - Summer 2026](https://jobright.ai/jobs/info/69b9abb456973837413f200d?utm_campaign=1052&utm_source=git)** | DALLAS, Texas, United States | On Site | Mar 17 |
+| ↳ | **[Valuation Services Intern - Summer 2026](https://jobright.ai/jobs/info/69b9abb406c1ba00c54bac4d?utm_campaign=1052&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 17 |
 | **[CN](http://www.cn.ca)** | **[Intern, Treasury & Taxation-Indigenous- EN](https://jobright.ai/jobs/info/69b261bbae2a534885e96740?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Mar 17 |
 | **[SWBC](https://www.swbc.com)** | **[Accounting Intern (Shareholder Services)](https://jobright.ai/jobs/info/698110607f40342e15d9eb34?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 17 |
 | **[Airbnb](https://www.airbnb.com)** | **[Accounting Intern, Statutory Reporting](https://jobright.ai/jobs/info/69b99cf93b74eb1e2c878385?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California Community Foundation](http://www.calfund.org/)** | **[Investments Intern](https://jobright.ai/jobs/info/699d446ce0bddb6acacc9691?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 17 |
 | **[HITT Contracting Inc.](http://www.hitt.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/699cf8de81476f6176b5867e?utm_campaign=1052&utm_source=git)** | Falls Church, VA | On Site | Mar 17 |
 | **[Hudson Advisors L.P.](http://www.hudson-advisors.com)** | **[Quant Intern, Residential Credit](https://jobright.ai/jobs/info/698beb0a06d9b06224961f0b?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Mar 17 |
-| **[Wipfli](http://www.wipfli.com)** | **[Business Valuation Intern](https://jobright.ai/jobs/info/69b2363aae2a534885e92b75?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 17 |
-| **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Tax Intern - Not-For-Profit (2026) - Harrison, NY](https://jobright.ai/jobs/info/68b9d8fa8043103d4f21af6a?utm_campaign=1052&utm_source=git)** | Harrison, NY | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

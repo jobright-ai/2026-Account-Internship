@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mouser Electronics](http://mouser.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/699ef0dd94ef206f184e0474?utm_campaign=1052&utm_source=git)** | Mansfield, TX | On Site | Mar 19 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/699fbe9481476f6176b97792?utm_campaign=1052&utm_source=git)** | Bedford, MA | On Site | Mar 19 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Internal Audit Intern (Summer 2026)](https://jobright.ai/jobs/info/699faca681476f6176b965d8?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Mar 19 |
+| **[April Housing](https://www.aprilhousing.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69a580a20da45516f16e2d8a?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
+| **[Empower](https://www.empower.com)** | **[Experienced Tax Specialist - High Net Worth Planning](https://jobright.ai/jobs/info/699f0700ce78e77b4fe4bac9?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 19 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6982ce158232105a2d0b2a81?utm_campaign=1052&utm_source=git)** | Bedford, MA | On Site | Mar 19 |
+| **[VB Spine](https://vbspineco.com)** | **[Intern, Finance (Accounting)](https://jobright.ai/jobs/info/69a0145981476f6176ba19c0?utm_campaign=1052&utm_source=git)** | Allendale, NJ | On Site | Mar 19 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/698269a50f6f7e7a2cdb9379?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[TechnipFMC](https://www.technipfmc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a2aad80da45516f16c0f07?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 19 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Real Property Tax](https://jobright.ai/jobs/info/69bbd28b5b89c002acf091d1?utm_campaign=1052&utm_source=git)** | Houston | On Site | Mar 19 |
@@ -140,21 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Finance Intern (Minnesota)](https://jobright.ai/jobs/info/69bb0e523b74eb1e2c896e82?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern  Finance Controlling COE Central Forecast](https://jobright.ai/jobs/info/69bb0dbf06c1ba00c54d7864?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/699e415ce0bddb6acacda333?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 18 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Client Accounting Intern (Real Estate & Asset Management)](https://jobright.ai/jobs/info/69bb2be63b74eb1e2c899a9d?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Mar 18 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Client Accounting Intern (Real Estate & Asset Management)](https://jobright.ai/jobs/info/69bb2c475697383741412ab0?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Mar 18 |
 | ↳ | **[Summer 2026 Client Accounting Intern (Real Estate & Asset Management)](https://jobright.ai/jobs/info/69bb2d3806c1ba00c54da3d9?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
-| ↳ | **[Summer 2026 Client Accounting Intern (Real Estate & Asset Management)](https://jobright.ai/jobs/info/69bb2c475697383741412ab0?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Mar 18 |
 | ↳ | **[Summer 2026 Client Accounting Intern (Real Estate & Asset Management)](https://jobright.ai/jobs/info/69bb2d4606c1ba00c54da3ee?utm_campaign=1052&utm_source=git)** | Greater Kalamazoo Area | On Site | Mar 18 |
+| ↳ | **[Summer 2026 Client Accounting Intern (Real Estate & Asset Management)](https://jobright.ai/jobs/info/69bb2be63b74eb1e2c899a9d?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Mar 18 |
 | **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69bb0c76569738374140faa1?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Mar 18 |
 | **[Olsson](https://www.olsson.com)** | **[Accounting Student Internship](https://jobright.ai/jobs/info/69bb0b6d3b74eb1e2c896667?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Mar 18 |
 | **[CooperVision](http://coopervision.com)** | **[Pricing Strategy - INTERN](https://jobright.ai/jobs/info/69bb0a9b06c1ba00c54d6ea9?utm_campaign=1052&utm_source=git)** | Victor, NY | On Site | Mar 18 |
 | **[Daybreak Game Company LLC](https://www.daybreakgames.com/home)** | **[Accountant Intern](https://jobright.ai/jobs/info/69bb0a58569738374140ed03?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States of America | Hybrid | Mar 18 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Long-Term Care - Rate Setting Analyst](https://jobright.ai/jobs/info/69bb09da3b74eb1e2c895fca?utm_campaign=1052&utm_source=git)** | Wisconsin, United States | Remote | Mar 18 |
 | **[Pinnacle Bank](https://www.pinnbank.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69bb0926569738374140e63a?utm_campaign=1052&utm_source=git)** | Gretna, NE | On Site | Mar 18 |
-| **[The Evans Network of Companies](http://www.evansdelivery.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69bb275706c1ba00c54da107?utm_campaign=1052&utm_source=git)** | Schuylkill Haven,PA,US | On Site | Mar 18 |
-| **[Jabil](https://www.jabil.com)** | **[Treasury Analyst Intern](https://jobright.ai/jobs/info/69bb08b6569738374140e426?utm_campaign=1052&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Mar 18 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Quality Assurance Internal Auditor 2](https://jobright.ai/jobs/info/69bb07893b74eb1e2c8959cb?utm_campaign=1052&utm_source=git)** | Savannah, GA | On Site | Mar 18 |
-| **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Actuarial](https://jobright.ai/jobs/info/69bb078506c1ba00c54d6334?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 18 |
-| **[Lake Trust Credit Union](https://laketrust.org/)** | **[Accounting Internship (Summer 2026)](https://jobright.ai/jobs/info/69a8e96d2580d3183f011202?utm_campaign=1052&utm_source=git)** | Brighton, MI | On Site | Mar 18 |
-| **[Multnomah County](https://multco.us)** | **[Auditor's Office - Performance Audit Internship](https://jobright.ai/jobs/info/69bb270856973837414126a8?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
-| ↳ | **[DCM - Central Budget Office Internship](https://jobright.ai/jobs/info/69bb26aa3b74eb1e2c89951e?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

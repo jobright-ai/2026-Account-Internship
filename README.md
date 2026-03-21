@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/69bee9ff393a1008f744bc3d?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Mar 21 |
+| **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Taxpayer Advocate Grad Intern](https://jobright.ai/jobs/info/69bee85c393a1008f744bbe1?utm_campaign=1052&utm_source=git)** | Manhattan, NY | On Site | Mar 21 |
+| **[AFL](http://www.AFLglobal.com)** | **[AFL Finance/Accounting Internship- Summer 2026](https://jobright.ai/jobs/info/69867a118da7a612046145c6?utm_campaign=1052&utm_source=git)** | Duncan, SC | On Site | Mar 21 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern – Spring 2027 – Bethlehem, PA](https://jobright.ai/jobs/info/68f9e3a68a7359609b8c75b1?utm_campaign=1052&utm_source=git)** | Bethlehem, PA | On Site | Mar 21 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[General Accounting Intern Fall 2026](https://jobright.ai/jobs/info/69686949f25a38006696d5f5?utm_campaign=1052&utm_source=git)** | Columbus, MS | On Site | Mar 21 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/69bee542b1060245628449a3?utm_campaign=1052&utm_source=git)** | Cottonwood Heights, UT | On Site | Mar 21 |
+| **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2026  Investment Internship](https://jobright.ai/jobs/info/69691bd91703f05405aaeea3?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 21 |
+| **[Citi](https://www.citi.com)** | **[Banking - Commercial Banking, Summer Analyst, New York City - US, 2027](https://jobright.ai/jobs/info/69bee533393a1008f744bb49?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[SWBC](https://www.swbc.com)** | **[Ad Valorem Property Tax Intern](https://jobright.ai/jobs/info/69865c930f6f7e7a2ce142fb?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 21 |
 | **[Prysmian](https://www.prysmian.com)** | **[McKinney Accounting Intern](https://jobright.ai/jobs/info/69a24a5c0da45516f16b909c?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Mar 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69bce72e4828227293fefcca?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Mar 21 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb2fb1060245628360b8?utm_campaign=1052&utm_source=git)** | Oregon, United States | Hybrid | Mar 20 |
 | ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb28b10602456283609d?utm_campaign=1052&utm_source=git)** | Yakima, WA | Hybrid | Mar 20 |
 | ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb21b106024562836082?utm_campaign=1052&utm_source=git)** | Idaho, United States | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb21b106024562836083?utm_campaign=1052&utm_source=git)** | Salem, OR | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb21b106024562836084?utm_campaign=1052&utm_source=git)** | Burlington, WA | Hybrid | Mar 20 |
 | ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb21b106024562836085?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfacb482822729300b283?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfabd482822729300b259?utm_campaign=1052&utm_source=git)** | Pocatello, ID | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfabd482822729300b25a?utm_campaign=1052&utm_source=git)** | Coeur d'Alene, ID | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfaba393a1008f743d608?utm_campaign=1052&utm_source=git)** | Lewiston, ID | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfaba393a1008f743d607?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfab5482822729300b23e?utm_campaign=1052&utm_source=git)** | Utah, United States | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

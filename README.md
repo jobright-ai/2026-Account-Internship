@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lompoc Unified School District](http://www.lusd.org)** | **[Budget Analyst](https://jobright.ai/jobs/info/69bf634b79e36d3a847bf818?utm_campaign=1052&utm_source=git)** | Lompoc, CA | On Site | Mar 21 |
 | **[Core Natural Resources](https://www.corenaturalresources.com/)** | **[Intern Corporate Accounting & Reporting](https://jobright.ai/jobs/info/69bf4676393a1008f744fa2f?utm_campaign=1052&utm_source=git)** | CONSOL Energy, 275 Technology Drive Suite 101, Canonsburg, Pennsylvania, United States of America | On Site | Mar 21 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69bf0b68b1060245628465ce?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 21 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69bf0b47393a1008f744db0d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Weldaloy Specialty Forgings](https://weldaloy.com/)** | **[Procurement Intern (Part-Time)](https://jobright.ai/jobs/info/69be022cb106024562836789?utm_campaign=1052&utm_source=git)** | Warren, MI | On Site | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: Financial Analyst](https://jobright.ai/jobs/info/69bdfd9bb1060245628363ad?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb37b1060245628360d0?utm_campaign=1052&utm_source=git)** | Washington, United States | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb2fb1060245628360b8?utm_campaign=1052&utm_source=git)** | Oregon, United States | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

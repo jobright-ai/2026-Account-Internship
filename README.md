@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/69c00ba179e36d3a847c8c90?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 22 |
+| **[Magna International](http://www.magna.com/)** | **[US Tax Intern - Summer 2026](https://jobright.ai/jobs/info/696ab66cdb26b618950df40b?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Mar 22 |
+| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Finance Department)](https://jobright.ai/jobs/info/69bffd9a79e36d3a847c845e?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Mar 22 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69bffce62c312363dcd2ac16?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
+| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68cbad3fba798c1a501d3d29?utm_campaign=1052&utm_source=git)** | Cullman, AL | On Site | Mar 22 |
+| **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c319665adaee6c9bda7131?utm_campaign=1052&utm_source=git)** | Springville, AL | On Site | Mar 22 |
+| ↳ | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c317e25adaee6c9bda6e55?utm_campaign=1052&utm_source=git)** | Haleyville, AL | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696baecddb26b618950f2bd3?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | ↳ | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/696ac5265fc862418539df66?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | ↳ | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Mar 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MSIG USA](https://www.msigusa.com/)** | **[Underwriting Internship (Financial Lines)](https://jobright.ai/jobs/info/6969a1051703f05405aba001?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
 | **[Wilbert Plastic Services](https://wilbertplastics.com/)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c1cadc4d652f044775a0c1?utm_campaign=1052&utm_source=git)** | Belmont, NC | On Site | Mar 21 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Staff Accountant](https://jobright.ai/jobs/info/69be7b58b10602456283fef3?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 21 |
-| **[PartnerRe](http://www.partnerre.com/)** | **[Actuarial Internship - Non-Life Pricing & Analytics](https://jobright.ai/jobs/info/698678208ca8121a3a68c16d?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Mar 21 |
-| **[Tk̓emlúps te Secwépemc](http://tkemlups.ca)** | **[Accounts Receivable Technician](https://jobright.ai/jobs/info/69be6d96b10602456283f9c2?utm_campaign=1052&utm_source=git)** | Kamloops, BC | On Site | Mar 21 |
-| **[Fiera Capital](http://www.fieracapital.com)** | **[Intern, Fiera Comox (Summer 2027)](https://jobright.ai/jobs/info/69bfb5b27798f73e35e48e11?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Mar 21 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Finance Intern - Accounting Associate](https://jobright.ai/jobs/info/69be57fd482822729301303b?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Mar 21 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Commercial Finance Intern, Americas (June through August)](https://jobright.ai/jobs/info/69be5562393a1008f744502c?utm_campaign=1052&utm_source=git)** | Needham, MA | On Site | Mar 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69bfaa5e2c312363dcd26f0e?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 21 |
-| **[Boardwalk](https://www.bwalk.com)** | **[Intern, Investments](https://jobright.ai/jobs/info/69be5163b10602456283c9dd?utm_campaign=1052&utm_source=git)** | Calgary, AB | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

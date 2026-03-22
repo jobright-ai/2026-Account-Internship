@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/696baecddb26b618950f2bd3?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Mar 22 |
+| ↳ | **[Internal Audit Intern - Summer 2026](https://jobright.ai/jobs/info/696ac5265fc862418539df66?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Mar 22 |
+| ↳ | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Mar 22 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 22 |
 | **[Alumni Ventures](http://www.av.vc)** | **[Investment Team Intern](https://jobright.ai/jobs/info/69b09a830b2db6275c04d7f0?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 22 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Financial Data Engineering Intern](https://jobright.ai/jobs/info/69b674be3b74eb1e2c844956?utm_campaign=1052&utm_source=git)** | Kaukauna, WI | Hybrid | Mar 22 |
 | **[Sandisk](https://www.sandisk.com)** | **[Summer 2026 Intern, Digital Transformation & Operations Procurement](https://jobright.ai/jobs/info/6986a10b8ca8121a3a68f0e2?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Mar 22 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/69acf759142d5b4265fe1d4a?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb862c312363dcd28280?utm_campaign=1052&utm_source=git)** | Wilmington, NC | On Site | Mar 22 |
-| ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb862c312363dcd28282?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 22 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb862c312363dcd28282?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 22 |
+| ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb862c312363dcd28280?utm_campaign=1052&utm_source=git)** | Wilmington, NC | On Site | Mar 22 |
 | ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb812c312363dcd2827e?utm_campaign=1052&utm_source=git)** | Chapel Hill, NC | On Site | Mar 22 |
 | ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfb87a7798f73e35e49559?utm_campaign=1052&utm_source=git)** | Greenville, NC | On Site | Mar 22 |
 | ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfb7c179e36d3a847c5c4b?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Mar 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Commercial Finance Intern, Americas (June through August)](https://jobright.ai/jobs/info/69be5562393a1008f744502c?utm_campaign=1052&utm_source=git)** | Needham, MA | On Site | Mar 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69bfaa5e2c312363dcd26f0e?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 21 |
 | **[Boardwalk](https://www.bwalk.com)** | **[Intern, Investments](https://jobright.ai/jobs/info/69be5163b10602456283c9dd?utm_campaign=1052&utm_source=git)** | Calgary, AB | On Site | Mar 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69bfaa097798f73e35e4834b?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Mar 21 |
-| **[Bourns, Inc.](http://www.bourns.com/)** | **[Finance and Accounting Intern - Junior](https://jobright.ai/jobs/info/69be70124828227293014752?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | Mar 21 |
-| **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Banking Internship](https://jobright.ai/jobs/info/69be85a5393a1008f7446f8f?utm_campaign=1052&utm_source=git)** | Sylvania, GA | On Site | Mar 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69bf97f92c312363dcd24db0?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

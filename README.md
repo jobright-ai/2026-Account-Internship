@@ -139,6 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Boardwalk](https://www.bwalk.com)** | **[Intern, Investments](https://jobright.ai/jobs/info/69be5163b10602456283c9dd?utm_campaign=1052&utm_source=git)** | Calgary, AB | On Site | Mar 21 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Finance and Accounting Intern - Junior](https://jobright.ai/jobs/info/69be71ad393a1008f7446aec?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | Mar 21 |
 | **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Banking Internship](https://jobright.ai/jobs/info/69be85a5393a1008f7446f8f?utm_campaign=1052&utm_source=git)** | Sylvania, GA | On Site | Mar 21 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69bf81db2c312363dcd23e80?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 20 |
+| ↳ | **[State and Local Tax - Sales and Use Intern - Summer 2027](https://jobright.ai/jobs/info/69bf7dc62c312363dcd23570?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Mar 20 |
 | **[Drexel University](http://drexel.edu)** | **[Automation Accountant](https://jobright.ai/jobs/info/69be1d1a482822729300d6ce?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern- Pricing Strategy](https://jobright.ai/jobs/info/69be18ab393a1008f743f55c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Mar 20 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69be15a4393a1008f743eff8?utm_campaign=1052&utm_source=git)** | Brewster, NY | On Site | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Accounting Technician at UNC Chapel Hill](https://jobright.ai/jobs/info/6998f947ce78e77b4fdd91c5?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Mar 20 |
 | **[Weldaloy Specialty Forgings](https://weldaloy.com/)** | **[Procurement Intern (Part-Time)](https://jobright.ai/jobs/info/69be022cb106024562836789?utm_campaign=1052&utm_source=git)** | Warren, MI | On Site | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: Financial Analyst](https://jobright.ai/jobs/info/69bdfd9bb1060245628363ad?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 20 |
-| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb37b1060245628360d0?utm_campaign=1052&utm_source=git)** | Washington, United States | Hybrid | Mar 20 |
-| ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdfb2fb1060245628360b7?utm_campaign=1052&utm_source=git)** | Bend, OR | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

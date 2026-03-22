@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alumni Ventures](http://www.av.vc)** | **[Investment Team Intern](https://jobright.ai/jobs/info/69b09a830b2db6275c04d7f0?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 22 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Financial Data Engineering Intern](https://jobright.ai/jobs/info/69b674be3b74eb1e2c844956?utm_campaign=1052&utm_source=git)** | Kaukauna, WI | Hybrid | Mar 22 |
 | **[Sandisk](https://www.sandisk.com)** | **[Summer 2026 Intern, Digital Transformation & Operations Procurement](https://jobright.ai/jobs/info/6986a10b8ca8121a3a68f0e2?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Mar 22 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/69acf759142d5b4265fe1d4a?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Transfer Pricing Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/698ffd196ea51a7610f261d2?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Intern](https://jobright.ai/jobs/info/6969c960f25a38006698850e?utm_campaign=1052&utm_source=git)** | Greater Kalamazoo Area | On Site | Mar 21 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Private Wealth Management Intern](https://jobright.ai/jobs/info/69a22bcb359fe034b1cd6961?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Accounting Intern - Dallas South](https://jobright.ai/jobs/info/69a55d67359fe034b1cffd96?utm_campaign=1052&utm_source=git)** | Rowlett, TX | On Site | Mar 21 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Accounting Intern - Dallas South](https://jobright.ai/jobs/info/69a55d67359fe034b1cffd96?utm_campaign=1052&utm_source=git)** | Rowlett, TX | On Site | Mar 21 |
 | **[Chevron](http://www.chevron.com)** | **[Aviation Maintenance Administrative Associate](https://jobright.ai/jobs/info/69be999cb1060245628411cb?utm_campaign=1052&utm_source=git)** | Sugar Land, TX | On Site | Mar 21 |
 | **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69a1cbfab600907a9628291c?utm_campaign=1052&utm_source=git)** | New Castle, PA | On Site | Mar 21 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship – Audit & Business Consultation Intern](https://jobright.ai/jobs/info/69a1bd4eb600907a96282021?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Finance and Accounting Intern - Junior](https://jobright.ai/jobs/info/69be70124828227293014752?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | Mar 21 |
 | **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Banking Internship](https://jobright.ai/jobs/info/69be85a5393a1008f7446f8f?utm_campaign=1052&utm_source=git)** | Sylvania, GA | On Site | Mar 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69bf97f92c312363dcd24db0?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
-| ↳ | **[State and Local Tax - Sales and Use Intern - Summer 2027](https://jobright.ai/jobs/info/69bf99647798f73e35e46810?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

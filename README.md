@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69c0ed0579e36d3a847d5a68?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 23 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69c0ecf47798f73e35e596c0?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 23 |
+| **[LONG Building Technologies](http://long.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c0e4d72c312363dcd3640f?utm_campaign=1052&utm_source=git)** | Littleton, CO | On Site | Mar 22 |
+| **[Warner Norcross + Judd](http://wnj.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c0dec07798f73e35e56edb?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Mar 22 |
+| **[Security Finance](https://www.securityfinance.com)** | **[1040 Tax Intern](https://jobright.ai/jobs/info/69c0ddcb79e36d3a847d3251?utm_campaign=1052&utm_source=git)** | Spartanburg, SC | On Site | Mar 22 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern](https://jobright.ai/jobs/info/69c0c10179e36d3a847d0a35?utm_campaign=1052&utm_source=git)** | Doral, FL | On Site | Mar 22 |
 | **[Rohit Group](http://www.rohitgroup.com/)** | **[Procurement (Inventory) Summer Student](https://jobright.ai/jobs/info/69c0b0377798f73e35e530b1?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Mar 22 |
 | **[Dedham Savings](http://dedhamsavings.com)** | **[Credit Intern](https://jobright.ai/jobs/info/69c078d379e36d3a847cce48?utm_campaign=1052&utm_source=git)** | Dedham,MA,US | On Site | Mar 22 |
@@ -72,8 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Gast](http://www.gastmfg.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69a3b2690da45516f16cb56d?utm_campaign=1052&utm_source=git)** | Benton Harbor, MI | On Site | Mar 22 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/69c00ba179e36d3a847c8c90?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[US Tax Intern - Summer 2026](https://jobright.ai/jobs/info/696ab66cdb26b618950df40b?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Mar 22 |
-| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Finance Department)](https://jobright.ai/jobs/info/69bffd9a79e36d3a847c845e?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Mar 22 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69bffce62c312363dcd2ac16?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68cbad3fba798c1a501d3d29?utm_campaign=1052&utm_source=git)** | Cullman, AL | On Site | Mar 22 |
 | **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c319665adaee6c9bda7131?utm_campaign=1052&utm_source=git)** | Springville, AL | On Site | Mar 22 |
 | ↳ | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c317e25adaee6c9bda6e55?utm_campaign=1052&utm_source=git)** | Haleyville, AL | On Site | Mar 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bcca62e6a0d9792584da3b?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 21 |
 | ↳ | **[Finance Intern-Spring 2026 (Indianapolis)](https://jobright.ai/jobs/info/69a81b5d295e854151e53665?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 21 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Transfer Pricing Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/698ffd196ea51a7610f261d2?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Intern](https://jobright.ai/jobs/info/6969c960f25a38006698850e?utm_campaign=1052&utm_source=git)** | Greater Kalamazoo Area | On Site | Mar 21 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Private Wealth Management Intern](https://jobright.ai/jobs/info/69a22bcb359fe034b1cd6961?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Mar 21 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Accounting Intern - Dallas South](https://jobright.ai/jobs/info/69a55d67359fe034b1cffd96?utm_campaign=1052&utm_source=git)** | Rowlett, TX | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

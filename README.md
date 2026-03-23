@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LiftHER Career](https://lifthercareer.com/)** | **[Risk Analyst – Fellowship Program](https://jobright.ai/jobs/info/69c0625a7798f73e35e4f92f?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Mar 22 |
 | **[Joyce/Dayton](http://joycedayton.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c055902c312363dcd2d3d4?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Mar 22 |
 | **[San Diego Center for Children](https://www.centerforchildren.org/)** | **[Finance & Operations Intern - MBA](https://jobright.ai/jobs/info/69c04a4a79e36d3a847cad7a?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Mar 22 |
 | ↳ | **[Finance & Operations Intern](https://jobright.ai/jobs/info/69c04a3f7798f73e35e4e7db?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Mar 22 |
@@ -95,8 +96,6 @@ For a complete list, click the following sortable link below:
 | **[iRobot](https://www.irobot.com)** | **[Spring Accounting Intern (April-August)](https://jobright.ai/jobs/info/69bf0654393a1008f744d6e0?utm_campaign=1052&utm_source=git)** | Bedford, MA | On Site | Mar 21 |
 | **[Pinnacle Bank](https://www.pinnbank.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69bf0631b1060245628461ee?utm_campaign=1052&utm_source=git)** | Gretna, NE | On Site | Mar 21 |
 | **[Lake City Bank](http://lakecitybank.com)** | **[Credit and Commercial Banking Intern](https://jobright.ai/jobs/info/69bf1cceb106024562846f6e?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 21 |
-| **[Spring Venture Group](https://springventuregroup.com/)** | **[Staff Accountant - Intern](https://jobright.ai/jobs/info/69bfcf927798f73e35e4a739?utm_campaign=1052&utm_source=git)** | Kansas City, MO, US | On Site | Mar 21 |
-| ↳ | **[Treasury Analyst - Intern](https://jobright.ai/jobs/info/69bfcfae2c312363dcd292ea?utm_campaign=1052&utm_source=git)** | Kansas City, MO, US | On Site | Mar 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Budget Coordinator (Administrative Support Coordinator I)](https://jobright.ai/jobs/info/69bef265393a1008f744c7fc?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | Mar 21 |
 | **[ANB Bank](http://anbbank.com)** | **[Loan Servicing Specialist I, II or III, Circle](https://jobright.ai/jobs/info/69bef253393a1008f744c7cf?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Mar 21 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver, Colorado Springs, and Salt Lake City UT](https://jobright.ai/jobs/info/69bee9ff393a1008f744bc3d?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Mar 21 |
@@ -113,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Pricing Analytics Intern](https://jobright.ai/jobs/info/69867c348ca8121a3a68c7e8?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Mar 21 |
 | ↳ | **[Financial Analyst Intern - Merchandise Finance](https://jobright.ai/jobs/info/698686368ca8121a3a68d58e?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Mar 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69869f0e8da7a61204617bdc?utm_campaign=1052&utm_source=git)** | West Lebanon, NH | On Site | Mar 21 |
-| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern  Nottingham Financial Group](https://jobright.ai/jobs/info/69bed0dbb106024562843aa5?utm_campaign=1052&utm_source=git)** | Plattsburgh, NY | On Site | Mar 21 |
+| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern  Nottingham Financial Group](https://jobright.ai/jobs/info/69bed0dbb106024562843aa1?utm_campaign=1052&utm_source=git)** | Plattsburgh, NY | On Site | Mar 21 |
 | **[Gardner Cryogenics](https://www.gardnercryo.com/)** | **[Summer Intern - Accounting (Internal Audit) FY26](https://jobright.ai/jobs/info/69bf763d2c312363dcd230c8?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Mar 21 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Deal Team Specialist Intern](https://jobright.ai/jobs/info/6986be590f6f7e7a2ce1d906?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Mar 21 |
 | **[Atria Management Company](http://AtriaCareers.com)** | **[Intern](https://jobright.ai/jobs/info/698563760f6f7e7a2ce01fc7?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Accounting Intern - Dallas South](https://jobright.ai/jobs/info/69a55d67359fe034b1cffd96?utm_campaign=1052&utm_source=git)** | Rowlett, TX | On Site | Mar 21 |
 | **[Chevron](http://www.chevron.com)** | **[Aviation Maintenance Administrative Associate](https://jobright.ai/jobs/info/69be999cb1060245628411cb?utm_campaign=1052&utm_source=git)** | Sugar Land, TX | On Site | Mar 21 |
 | **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69a1cbfab600907a9628291c?utm_campaign=1052&utm_source=git)** | New Castle, PA | On Site | Mar 21 |
+| **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship – Audit & Business Consultation Intern](https://jobright.ai/jobs/info/69a1bd4eb600907a96282021?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

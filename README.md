@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rohit Group](http://www.rohitgroup.com/)** | **[Procurement (Inventory) Summer Student](https://jobright.ai/jobs/info/69c0b0377798f73e35e530b1?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Mar 22 |
 | **[Dedham Savings](http://dedhamsavings.com)** | **[Credit Intern](https://jobright.ai/jobs/info/69c078d379e36d3a847cce48?utm_campaign=1052&utm_source=git)** | Dedham,MA,US | On Site | Mar 22 |
 | **[LiftHER Career](https://lifthercareer.com/)** | **[Risk Analyst – Fellowship Program](https://jobright.ai/jobs/info/69c0625a7798f73e35e4f92f?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Mar 22 |
 | **[Joyce/Dayton](http://joycedayton.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c055902c312363dcd2d3d4?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Mar 22 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Alumni Ventures](http://www.av.vc)** | **[Investment Team Intern](https://jobright.ai/jobs/info/69b09a830b2db6275c04d7f0?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 22 |
 | **[Sandisk](https://www.sandisk.com)** | **[Summer 2026 Intern, Digital Transformation & Operations Procurement](https://jobright.ai/jobs/info/6986a10b8ca8121a3a68f0e2?utm_campaign=1052&utm_source=git)** | Milpitas, CA | On Site | Mar 22 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/69acf759142d5b4265fe1d4a?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb862c312363dcd28280?utm_campaign=1052&utm_source=git)** | Wilmington, NC | On Site | Mar 22 |
-| ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb862c312363dcd28282?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 22 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb862c312363dcd28282?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 22 |
+| ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb862c312363dcd28280?utm_campaign=1052&utm_source=git)** | Wilmington, NC | On Site | Mar 22 |
 | ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfbb812c312363dcd2827e?utm_campaign=1052&utm_source=git)** | Chapel Hill, NC | On Site | Mar 22 |
 | ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfb87a7798f73e35e49559?utm_campaign=1052&utm_source=git)** | Greenville, NC | On Site | Mar 22 |
 | ↳ | **[2026 - Finance Intern](https://jobright.ai/jobs/info/69bfb7c179e36d3a847c5c4b?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Mar 22 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Pricing Analytics Intern](https://jobright.ai/jobs/info/69867c348ca8121a3a68c7e8?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Mar 21 |
 | ↳ | **[Financial Analyst Intern - Merchandise Finance](https://jobright.ai/jobs/info/698686368ca8121a3a68d58e?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Mar 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69869f0e8da7a61204617bdc?utm_campaign=1052&utm_source=git)** | West Lebanon, NH | On Site | Mar 21 |
-| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern  Nottingham Financial Group](https://jobright.ai/jobs/info/69bed0dbb106024562843aa1?utm_campaign=1052&utm_source=git)** | Plattsburgh, NY | On Site | Mar 21 |
+| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Intern  Nottingham Financial Group](https://jobright.ai/jobs/info/69bed0dbb106024562843aa5?utm_campaign=1052&utm_source=git)** | Plattsburgh, NY | On Site | Mar 21 |
 | **[Gardner Cryogenics](https://www.gardnercryo.com/)** | **[Summer Intern - Accounting (Internal Audit) FY26](https://jobright.ai/jobs/info/69bf763d2c312363dcd230c8?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Mar 21 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Deal Team Specialist Intern](https://jobright.ai/jobs/info/6986be590f6f7e7a2ce1d906?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Mar 21 |
 | **[Atria Management Company](http://AtriaCareers.com)** | **[Intern](https://jobright.ai/jobs/info/698563760f6f7e7a2ce01fc7?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Mar 21 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Finance Intern](https://jobright.ai/jobs/info/698565498da7a612045ff4f4?utm_campaign=1052&utm_source=git)** | Woodridge, IL | On Site | Mar 21 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68ba22998043103d4f21db00?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 21 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intake & Agency Reporting Intern](https://jobright.ai/jobs/info/69beaf264828227293017045?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Mar 21 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69beaccab106024562842629?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a1fbb2b600907a962849c4?utm_campaign=1052&utm_source=git)** | Commerce, CA | On Site | Mar 21 |
 | **[Coinbase](https://www.coinbase.com)** | **[Business Controller Intern](https://jobright.ai/jobs/info/69681532639b452fb57da3ad?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69b060b2dfaeda6ff59a2054?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 21 |

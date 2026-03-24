@@ -103,14 +103,14 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a9516e7f9271426f88307a?utm_campaign=1052&utm_source=git)** | Paramus, NJ | Hybrid | Mar 23 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1d6b975f7ff1cd8102d3a?utm_campaign=1052&utm_source=git)** | The Woodlands, TX | On Site | Mar 23 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Summer Intern, Commercial Insurance - June 2026](https://jobright.ai/jobs/info/69bc8b534828227293fe6d60?utm_campaign=1052&utm_source=git)** | Whitehouse Station, NJ | On Site | Mar 23 |
-| **[GHA Technologies, Inc](http://gha-associates.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6880c94629ad6b2744adbf56?utm_campaign=1052&utm_source=git)** | Gilbert, AZ | On Site | Mar 23 |
+| **[GHA Technologies, Inc](http://gha-associates.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6862fa2ae4591759d560bf4c?utm_campaign=1052&utm_source=git)** | Glendale, AZ | On Site | Mar 23 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6880c94629ad6b2744adbf56?utm_campaign=1052&utm_source=git)** | Gilbert, AZ | On Site | Mar 23 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fa2ae4591759d560bf49?utm_campaign=1052&utm_source=git)** | Mesa, AZ | On Site | Mar 23 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fa2ae4591759d560bf5f?utm_campaign=1052&utm_source=git)** | Avondale, AZ | On Site | Mar 23 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fa2ae4591759d560bf4c?utm_campaign=1052&utm_source=git)** | Glendale, AZ | On Site | Mar 23 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f7100862048?utm_campaign=1052&utm_source=git)** | Goodyear, AZ | On Site | Mar 23 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f7100862044?utm_campaign=1052&utm_source=git)** | Paradise Valley, AZ | On Site | Mar 23 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f710086203b?utm_campaign=1052&utm_source=git)** | Peoria, AZ | On Site | Mar 23 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f7100862034?utm_campaign=1052&utm_source=git)** | Surprise, AZ | On Site | Mar 23 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fed848122f7100862044?utm_campaign=1052&utm_source=git)** | Paradise Valley, AZ | On Site | Mar 23 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6862fa2ae4591759d560bf54?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Mar 23 |
 | **[Magna International](http://www.magna.com/)** | **[Finance Intern/Co-op Student](https://jobright.ai/jobs/info/69c1d35e79e36d3a847ee69d?utm_campaign=1052&utm_source=git)** | Holly, MI | On Site | Mar 23 |
 | **[Tutera Senior Living and Health Care](http://tutera.com)** | **[CORP_Senior Accountant](https://jobright.ai/jobs/info/69c1d2ea79e36d3a847ee5c6?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Mar 23 |

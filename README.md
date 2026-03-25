@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[2026 Summer Accounting Intern](https://jobright.ai/jobs/info/698bf45a06d9b062249629cd?utm_campaign=1052&utm_source=git)** | Palm Bay, FL | On Site | Mar 25 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Officer(Hybrid)](https://jobright.ai/jobs/info/69c392177a7a0045db896014?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Mar 25 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69bc72c945e08b3dc1f92e0c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
+| ↳ | **[2026 Summer Accounting Intern](https://jobright.ai/jobs/info/698bf45a06d9b062249629cd?utm_campaign=1052&utm_source=git)** | Palm Bay, FL | On Site | Mar 25 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accounting Technician](https://jobright.ai/jobs/info/69c386947a7a0045db895916?utm_campaign=1052&utm_source=git)** | Northridge, California, United States | Hybrid | Mar 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[IT Internal Audit Intern](https://jobright.ai/jobs/info/69c3807f753c101b2157590f?utm_campaign=1052&utm_source=git)** | Houston, TX, USA | On Site | Mar 24 |
-| ↳ | **[Investor Relations Intern](https://jobright.ai/jobs/info/69c3806f94007a2195e009bf?utm_campaign=1052&utm_source=git)** | Work From Home - New York - New York City | Remote | Mar 24 |
 | ↳ | **[IT Internal Audit Intern](https://jobright.ai/jobs/info/69c3806f94007a2195e009be?utm_campaign=1052&utm_source=git)** | US CA Beverly Hills - 325 N Maple Drive | On Site | Mar 24 |
+| ↳ | **[Investor Relations Intern](https://jobright.ai/jobs/info/69c3806f94007a2195e009bf?utm_campaign=1052&utm_source=git)** | Work From Home - New York - New York City | Remote | Mar 24 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f39753c101b215758c5?utm_campaign=1052&utm_source=git)** | Sault Ste. Marie, ON | Hybrid | Mar 24 |
-| ↳ | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f2794007a2195e00943?utm_campaign=1052&utm_source=git)** | Barrie, ON | Hybrid | Mar 24 |
 | ↳ | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f2794007a2195e00944?utm_campaign=1052&utm_source=git)** | North Bay, ON | Hybrid | Mar 24 |
+| ↳ | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f2794007a2195e00943?utm_campaign=1052&utm_source=git)** | Barrie, ON | Hybrid | Mar 24 |
 | ↳ | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f1994007a2195e00916?utm_campaign=1052&utm_source=git)** | Huntsville, ON | Hybrid | Mar 24 |
 | **[American Beacon Partners](http://www.ambeacon.com/)** | **[Finance & Accounting Summer Intern](https://jobright.ai/jobs/info/69c3735e753c101b21573cfc?utm_campaign=1052&utm_source=git)** | Irving,TX,US | Hybrid | Mar 24 |
 | **[The Theofilis Group (TTG)](theofilisgroup.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69c3723594007a2195dfec32?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 24 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Morning Brew Inc.](http://morningbrewinc.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/69c2f2c1753c101b21566336?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Mar 24 |
 | **[National Basketball Players Association (NBPA)](https://nbpa.com/)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/69c31085753c101b21568d69?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f177ec22f8310ab0f5a2?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41d7?utm_campaign=1052&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Mar 24 |
-| ↳ | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12c00?utm_campaign=1052&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12c00?utm_campaign=1052&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | Mar 24 |
 | ↳ | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d0?utm_campaign=1052&utm_source=git)** | 2001 S STATE ST | On Site | Mar 24 |
-| ↳ | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41f4?utm_campaign=1052&utm_source=git)** | 84114 | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

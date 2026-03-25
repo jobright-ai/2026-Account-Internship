@@ -57,12 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[2026 Summer Accounting Intern](https://jobright.ai/jobs/info/698bf45a06d9b062249629cd?utm_campaign=1052&utm_source=git)** | Palm Bay, FL | On Site | Mar 25 |
+| **[California State University, Northridge](https://www.csun.edu/)** | **[Accounting Technician](https://jobright.ai/jobs/info/69c386947a7a0045db895916?utm_campaign=1052&utm_source=git)** | Northridge, California, United States | Hybrid | Mar 24 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[IT Internal Audit Intern](https://jobright.ai/jobs/info/69c3807f753c101b2157590f?utm_campaign=1052&utm_source=git)** | Houston, TX, USA | On Site | Mar 24 |
+| ↳ | **[Investor Relations Intern](https://jobright.ai/jobs/info/69c3806f94007a2195e009bf?utm_campaign=1052&utm_source=git)** | Work From Home - New York - New York City | Remote | Mar 24 |
+| ↳ | **[IT Internal Audit Intern](https://jobright.ai/jobs/info/69c3806f94007a2195e009be?utm_campaign=1052&utm_source=git)** | US CA Beverly Hills - 325 N Maple Drive | On Site | Mar 24 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f39753c101b215758c5?utm_campaign=1052&utm_source=git)** | Sault Ste. Marie, ON | Hybrid | Mar 24 |
+| ↳ | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f2794007a2195e00943?utm_campaign=1052&utm_source=git)** | Barrie, ON | Hybrid | Mar 24 |
+| ↳ | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f2794007a2195e00944?utm_campaign=1052&utm_source=git)** | North Bay, ON | Hybrid | Mar 24 |
+| ↳ | **[Financial Analyst, Valuations & Modelling](https://jobright.ai/jobs/info/69c37f1994007a2195e00916?utm_campaign=1052&utm_source=git)** | Huntsville, ON | Hybrid | Mar 24 |
 | **[American Beacon Partners](http://www.ambeacon.com/)** | **[Finance & Accounting Summer Intern](https://jobright.ai/jobs/info/69c3735e753c101b21573cfc?utm_campaign=1052&utm_source=git)** | Irving,TX,US | Hybrid | Mar 24 |
 | **[The Theofilis Group (TTG)](theofilisgroup.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69c3723594007a2195dfec32?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 24 |
 | **[American Beacon Partners](http://www.ambeacon.com/)** | **[Finance & Accounting - CFO Support Summer Intern](https://jobright.ai/jobs/info/69c372107a7a0045db89303e?utm_campaign=1052&utm_source=git)** | Irving,TX,US | Hybrid | Mar 24 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Technology Assurance Audit Intern / New York Summer 2026](https://jobright.ai/jobs/info/69c36db07a7a0045db892a28?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
 | **[Jet Support Services, Inc. (JSSI)](https://jetsupport.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c36b74753c101b21573187?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69c36ad894007a2195dfe082?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights - Calgary (January 2027)](https://jobright.ai/jobs/info/69bec4e6393a1008f744a5b8?utm_campaign=1052&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69c360a07a7a0045db891ab4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
 | **[Rohit Group](http://www.rohitgroup.com/)** | **[Finance Summer Student](https://jobright.ai/jobs/info/69c3609d7a7a0045db891aaf?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Mar 24 |
 | **[Turner Construction | Canada](http://turnerconstruction.com)** | **[Accounting Co-Op / Internship, Spring / Summer / Construction](https://jobright.ai/jobs/info/69c3480994007a2195df99e7?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Mar 24 |
@@ -117,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Growth Equity Investing Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69c310b6753c101b21568dd5?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Mar 24 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Accounting Co-Op / Internship, Spring / Summer / Construction](https://jobright.ai/jobs/info/69c32bbfec22f8310ab16284?utm_campaign=1052&utm_source=git)** | Vancouver, BC, CA | On Site | Mar 24 |
 | **[First Western Trust](https://myfw.com/)** | **[Credit Analyst](https://jobright.ai/jobs/info/69c30be6753c101b2156864b?utm_campaign=1052&utm_source=git)** | Aspen, CO | On Site | Mar 24 |
-| **[Aligned Data Centers](http://www.alignedenergy.com/)** | **[Summer Internship / Accounting](https://jobright.ai/jobs/info/69c30ba7753c101b2156857d?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Mar 24 |
 | **[Ardian](https://www.ardian.com/)** | **[Secondaries & Primaries Intern - Summer 2027 I New York](https://jobright.ai/jobs/info/69c30b5c753c101b21568412?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/69c30b43ec22f8310ab1173a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[The Signatry](https://thesignatry.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/69c3099694007a2195df2673?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Mar 24 |
@@ -144,17 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Morning Brew Inc.](http://morningbrewinc.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/69c2f2c1753c101b21566336?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Mar 24 |
 | **[National Basketball Players Association (NBPA)](https://nbpa.com/)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/69c31085753c101b21568d69?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f177ec22f8310ab0f5a2?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41f4?utm_campaign=1052&utm_source=git)** | 84114 | On Site | Mar 24 |
-| ↳ | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d0?utm_campaign=1052&utm_source=git)** | 2001 S STATE ST | On Site | Mar 24 |
-| ↳ | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41d7?utm_campaign=1052&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c3147994007a2195df41d7?utm_campaign=1052&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Mar 24 |
 | ↳ | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c314deec22f8310ab12c00?utm_campaign=1052&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | Mar 24 |
-| **[Sirva](https://www.sirva.com)** | **[Revenue Processing Intern (Edmonton, CAN)](https://jobright.ai/jobs/info/69c30cfe753c101b215689c0?utm_campaign=1052&utm_source=git)** | 172 St NW, Edmonton, AB T5S, Canada | Hybrid | Mar 24 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Accounting Clerk](https://jobright.ai/jobs/info/69c2ef69ec22f8310ab0f363?utm_campaign=1052&utm_source=git)** | Germantown, MD, US, 20876 | On Site | Mar 24 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Intern Conversion: Early Careers:  Corporate Risk and Broking Analyst – Broking- 2026](https://jobright.ai/jobs/info/69c2ef1e753c101b21565d50?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 24 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Internship - Credit Analytics](https://jobright.ai/jobs/info/69c2eed194007a2195df07c7?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
-| **[Theradex Oncology](http://theradexoncology.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69c3146e753c101b21569454?utm_campaign=1052&utm_source=git)** | US-NJ-Princeton | Hybrid | Mar 24 |
-| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69c3146d94007a2195df4199?utm_campaign=1052&utm_source=git)** | Princeton, NJ, US | Hybrid | Mar 24 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Internship - Credit Analytics](https://jobright.ai/jobs/info/69c2eeb7753c101b21565cc6?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 24 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Accounting Clerk](https://jobright.ai/jobs/info/69c2ee76ec22f8310ab0f147?utm_campaign=1052&utm_source=git)** | Germantown, MD | On Site | Mar 24 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/69c2ed28753c101b21565a90?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Mar 24 |
+| ↳ | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c31478753c101b215694d0?utm_campaign=1052&utm_source=git)** | 2001 S STATE ST | On Site | Mar 24 |
+| ↳ | **[Treasurer - Special Projects Intern](https://jobright.ai/jobs/info/69c3147a94007a2195df41f4?utm_campaign=1052&utm_source=git)** | 84114 | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

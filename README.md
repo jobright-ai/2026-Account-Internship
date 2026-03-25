@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2026 - FMA - Intern Conversion - CFSO CTS Rotational Analyst - Tempe](https://jobright.ai/jobs/info/6966d7415ad3a93f8232449e?utm_campaign=1052&utm_source=git)** | Tempe, AZ | Hybrid | Mar 25 |
+| **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6978493d39f7f96cc6d0a61a?utm_campaign=1052&utm_source=git)** | Carson City, NV | On Site | Mar 25 |
+| **[Five Star Bank](https://www.five-starbank.com)** | **[Summer Associate - Commercial Banking](https://jobright.ai/jobs/info/68f1fa6d16d36403725168d6?utm_campaign=1052&utm_source=git)** | Rochester, NY | Hybrid | Mar 25 |
+| **[S&P Global](https://www.spglobal.com)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/69a8a48279f3f4037f42d7b7?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 25 |
+| ↳ | **[WSO Core Operations, Intern](https://jobright.ai/jobs/info/69a92d7e79f3f4037f43eded?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 25 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/69a73ef42672cb0acb4baaeb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68cd0435e8e0b73af72bf91e?utm_campaign=1052&utm_source=git)** | Hopkins, SC | Hybrid | Mar 25 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Finance Summer Intern 1](https://jobright.ai/jobs/info/69ae3eba4f6bcc182809415f?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Mar 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[IT Internal Audit Intern](https://jobright.ai/jobs/info/69c3c0696f4f855eeda5df47?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 25 |
-| ↳ | **[Investor Relations Intern](https://jobright.ai/jobs/info/69c3c01133eecf310793a0cb?utm_campaign=1052&utm_source=git)** | Beverly Hills, CA | Hybrid | Mar 25 |
 | ↳ | **[Investor Relations Intern](https://jobright.ai/jobs/info/69c3c01133eecf310793a0cc?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
+| ↳ | **[Investor Relations Intern](https://jobright.ai/jobs/info/69c3c01133eecf310793a0cb?utm_campaign=1052&utm_source=git)** | Beverly Hills, CA | Hybrid | Mar 25 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/698430ab0f6f7e7a2cde71ad?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Mar 25 |
 | **[RainCity Housing and Support Society](https://www.raincityhousing.org/)** | **[Finance - Accounting Support (Mon-Fri Days)](https://jobright.ai/jobs/info/69a9e2231f59c56275e2a0b7?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 25 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Intern - Revenue & Royalties Accounting](https://jobright.ai/jobs/info/69a799ee637232443f64dc11?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Mar 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Signatry](https://thesignatry.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/69c3099694007a2195df2673?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Mar 24 |
 | **[Amentum](https://www.amentum.com/)** | **[Accounting Data Intern](https://jobright.ai/jobs/info/69c30839753c101b21567981?utm_campaign=1052&utm_source=git)** | US-VA-Hampton | On Site | Mar 24 |
 | **[First Western Trust](https://myfw.com/)** | **[Director - Loan Review & Credit Risk](https://jobright.ai/jobs/info/69c30800ec22f8310ab10c1c?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 24 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - West Hartford/Shelton, CT](https://jobright.ai/jobs/info/69c303a394007a2195df20c1?utm_campaign=1052&utm_source=git)** | West Hartford, CT | On Site | Mar 24 |
-| ↳ | **[Tax and Audit Intern - Spring 2027 - North Texas](https://jobright.ai/jobs/info/69c3036bec22f8310ab109e2?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 24 |
-| ↳ | **[Tax and Audit Intern - Spring 2027 - West Hartford/Shelton, CT](https://jobright.ai/jobs/info/69c3036aec22f8310ab109df?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | Mar 24 |
-| **[First Western Trust](https://myfw.com/)** | **[AVP, Senior Credit Analyst](https://jobright.ai/jobs/info/69c3017a753c101b21567400?utm_campaign=1052&utm_source=git)** | Cherry Creek, CO | On Site | Mar 24 |
-| **[Novant Health](https://www.novanthealth.org/)** | **[Investment Intern](https://jobright.ai/jobs/info/69c300dbec22f8310ab10783?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Excise and Energy Credits Tax Intern - Summer 2027](https://jobright.ai/jobs/info/69c669531818a24cd84c61a9?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Mar 27 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Project Finance Intern](https://jobright.ai/jobs/info/69c6641eaa3c2c1995e0fa0e?utm_campaign=1052&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 27 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Tax Intern Summer 2026](https://jobright.ai/jobs/info/691a885a45fb6f5ead8aba3d?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 27 |
 | **[Gen II Fund Services](http://www.gen2fund.com)** | **[Tax Intern](https://jobright.ai/jobs/info/698e6bc4f64d441a1650a6be?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6856a46dae0608f715a8a2ef?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Mar 27 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Tower Finance Intern](https://jobright.ai/jobs/info/69aa34931f59c56275e30d17?utm_campaign=1052&utm_source=git)** | Canonsburg, PA | Hybrid | Mar 27 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 Investment Associate Intern](https://jobright.ai/jobs/info/697aab529d60e431a16c45ee?utm_campaign=1052&utm_source=git)** | New York City | On Site | Mar 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Inventory Planning & Governance](https://jobright.ai/jobs/info/69c647ec1b5ad02887380c6b?utm_campaign=1052&utm_source=git)** | Home, KS | Remote | Mar 27 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69c666501818a24cd84c5e55?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Senior Lead Commercial Real Estate Portfolio Manager](https://jobright.ai/jobs/info/69c642571818a24cd84c20bb?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 27 |
 | ↳ | **[Senior Lead Commercial Real Estate Portfolio Manager](https://jobright.ai/jobs/info/69c64182aa9a29199e8116fe?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Senior Lead Commercial Real Estate Portfolio Manager](https://jobright.ai/jobs/info/69c6414de565c26a7001c593?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
@@ -113,10 +116,10 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Sr Accounts Payable Analyst](https://jobright.ai/jobs/info/69c5d1201b5ad02887379e85?utm_campaign=1052&utm_source=git)** | Silver Spring, MD | On Site | Mar 26 |
 | ↳ | **[Accounts Payable Analyst](https://jobright.ai/jobs/info/69c5d0daaa3c2c1995e04fc1?utm_campaign=1052&utm_source=git)** | Silver Spring, MD | On Site | Mar 26 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Fiscal Technician - Student Financials](https://jobright.ai/jobs/info/69c5cd351b5ad02887379c3e?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Mar 26 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69c5cd26e565c26a7001577e?utm_campaign=1052&utm_source=git)** | West Nyack, NY | Hybrid | Mar 26 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69c5cd26e565c26a7001577e?utm_campaign=1052&utm_source=git)** | West Nyack, NY | Hybrid | Mar 26 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Accounting Summer Intern](https://jobright.ai/jobs/info/69c5cd141818a24cd84bb498?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 26 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern- Tax Product Specialist](https://jobright.ai/jobs/info/69c5cbadaa9a29199e80a9cd?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
-| **[NFBPA - National Forum for Black Public Administrators](https://www.nfbpa.org)** | **[Finance Director](https://jobright.ai/jobs/info/69c6130783ea553769fd30b8?utm_campaign=1052&utm_source=git)** | Mammoth Lakes, CA | On Site | Mar 26 |
+| **[National Forum for Black Public Administrators (NFBPA)](https://www.nfbpa.org)** | **[Finance Director](https://jobright.ai/jobs/info/69c6130783ea553769fd30b8?utm_campaign=1052&utm_source=git)** | Mammoth Lakes, CA | On Site | Mar 26 |
 | **[CREW Greater Cincinnati](https://cincinnati.crewnetwork.org/)** | **[Closing Analyst](https://jobright.ai/jobs/info/69c5c9031818a24cd84bb0e1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | ↳ | **[Multi-Family Accounting Controller- Remote](https://jobright.ai/jobs/info/69c5c8ef83ea553769fcff85?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 26 |
 | ↳ | **[Senior Manager, Due Diligence](https://jobright.ai/jobs/info/69c5c8ea1818a24cd84baf4a?utm_campaign=1052&utm_source=git)** | Fort Washington, PA | Hybrid | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Mental Health Affiliates, Inc. (CMHA)](http://www.cmhacc.org)** | **[Finance Intern - part-time - 1st shift - Mon-Fri](https://jobright.ai/jobs/info/69ab9537142d5b4265fcb3d9?utm_campaign=1052&utm_source=git)** | New Britain, CT | On Site | Mar 26 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Cloud Financial Operations (FinOps)](https://jobright.ai/jobs/info/69c5aa551b5ad02887377b89?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 26 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Cloud Financial Operations (FinOps)](https://jobright.ai/jobs/info/69c5aa541b5ad02887377b84?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 26 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Strategic Finance](https://jobright.ai/jobs/info/69c5aa0c83ea553769fce138?utm_campaign=1052&utm_source=git)** | 11601 Wilshire Blvd, Los Angeles, CA, 90025, US | On Site | Mar 26 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship - Accounting/Finance, FP&A (Year-Round)](https://jobright.ai/jobs/info/69c5a9f2e565c26a70013639?utm_campaign=1052&utm_source=git)** | WI-Milwaukee | On Site | Mar 26 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Accounting Intern (Accounts Receivable)](https://jobright.ai/jobs/info/69c1231e79e36d3a847dbb90?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

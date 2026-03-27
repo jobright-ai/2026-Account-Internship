@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Assistant](https://jobright.ai/jobs/info/69c6380c1818a24cd84c1a36?utm_campaign=1052&utm_source=git)** | Wethersfield, CT | Hybrid | Mar 27 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69c638051818a24cd84c1a2f?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Financial Examiner(Hybrid)](https://jobright.ai/jobs/info/69c6325faa9a29199e810c29?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Mar 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Fund Development Director - Student Hourly](https://jobright.ai/jobs/info/69c62c6783ea553769fd5c48?utm_campaign=1052&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 27 |
 | **[City of Midland, Texas](http://www.midlandtexas.gov/)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/69c626e683ea553769fd5699?utm_campaign=1052&utm_source=git)** | Midland, TX | On Site | Mar 26 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69c616161818a24cd84beca5?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Mar 26 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Accounting Intern (Accounts Receivable)](https://jobright.ai/jobs/info/69c1231e79e36d3a847dbb90?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 26 |
 | **[OSG](https://osgconnect.com)** | **[Internal Auditor Intern](https://jobright.ai/jobs/info/69c5c48983ea553769fcf4cd?utm_campaign=1052&utm_source=git)** | Carol Stream, IL | On Site | Mar 26 |
 | **[MAT Holdings, Inc.](http://www.matholdingsinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c5a3a4e565c26a700132cf?utm_campaign=1052&utm_source=git)** | Long Grove, IL | On Site | Mar 26 |
-| **[PNC](http://www.pnc.com)** | **[Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69c5c1b9aa3c2c1995e03eb1?utm_campaign=1052&utm_source=git)** | Littlestown, PA | On Site | Mar 26 |
-| ↳ | **[Underwriter IV- Tax Credit](https://jobright.ai/jobs/info/69c5c473e565c26a7001497e?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Mar 26 |
+| **[PNC](http://www.pnc.com)** | **[Underwriter IV- Tax Credit](https://jobright.ai/jobs/info/69c5c473e565c26a7001497e?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Mar 26 |
+| ↳ | **[Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69c5c1b9aa3c2c1995e03eb1?utm_campaign=1052&utm_source=git)** | Littlestown, PA | On Site | Mar 26 |
 | ↳ | **[Underwriter IV- Tax Credit](https://jobright.ai/jobs/info/69c5c2041b5ad02887378ce4?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Accounting Technician](https://jobright.ai/jobs/info/69c5c24f1b5ad02887378d5c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 - Tax Intern (Denver)](https://jobright.ai/jobs/info/69c5a345aa3c2c1995e027fb?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk & Broking Construction Internship – Summer 2026](https://jobright.ai/jobs/info/69c59874aa9a29199e80788a?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Mar 26 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Cloud FinOps - Financial Analysis](https://jobright.ai/jobs/info/69c5986383ea553769fcd113?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 26 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/69c595821818a24cd84b81e8?utm_campaign=1052&utm_source=git)** | Dearborn, MI | Hybrid | Mar 26 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69c593fb1818a24cd84b80d2?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 26 |
-| **[Allison Transmission](http://www.allisontransmission.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69c593d41818a24cd84b80a5?utm_campaign=1052&utm_source=git)** | Lafayette, IN | On Site | Mar 26 |
-| **[Hammond Power Solutions](https://www.hammondpowersolutions.com)** | **[Financial Planning & Analysis -MBA Intern](https://jobright.ai/jobs/info/69c59349aa3c2c1995e01aa2?utm_campaign=1052&utm_source=git)** | Guelph, ON | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

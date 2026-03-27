@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aprio](https://www.aprio.com/)** | **[Aprio 2026 Internship Application - Client Accounting Services - Kansas](https://jobright.ai/jobs/info/69c5dcd9e565c26a70016107?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Mar 26 |
+| ↳ | **[Aprio 2026 Internship Application - Client Accounting Services - Construction](https://jobright.ai/jobs/info/69c5dcc01b5ad0288737a5c6?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 26 |
+| ↳ | **[Aprio 2026 Internship Application - Client Accounting Services - Tech/eComm](https://jobright.ai/jobs/info/69c5dcb883ea553769fd0cc0?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
+| **[OdysseyRe](http://www.odysseyre.com/)** | **[2026 Fall Co-op Intern, Actuarial](https://jobright.ai/jobs/info/69c5dbcb1b5ad0288737a5b0?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Mar 26 |
+| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Accounting](https://jobright.ai/jobs/info/69c5dbba1818a24cd84bbe44?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Mar 26 |
+| **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Commercial Management (Summer 2026)](https://jobright.ai/jobs/info/69c5d8b81b5ad0288737a4e0?utm_campaign=1052&utm_source=git)** | Shippensburg, PA | On Site | Mar 26 |
+| **[MAT Friction](http://www.matholdingsinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c5d825aa9a29199e80b356?utm_campaign=1052&utm_source=git)** | Long Grove, IL | On Site | Mar 26 |
+| **[Texas Alcoholic Beverage Commission](https://www.tabc.texas.gov/)** | **[Internship Opportunity!! Excise Tax Intern (Clerk III) - Austin](https://jobright.ai/jobs/info/69c5d6451b5ad0288737a0b4?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Mar 26 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Asset Management & Portfolio Operations Department (2026)](https://jobright.ai/jobs/info/69c5d3a783ea553769fd0685?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 26 |
+| **[Stantec](http://www.stantec.com)** | **[Intern, Accounts Payable](https://jobright.ai/jobs/info/69c5d25faa3c2c1995e050a3?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Mar 26 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Fund Financial Reporting Department (2026)](https://jobright.ai/jobs/info/69c5d20c1818a24cd84bb7ad?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 26 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Sr Accounts Payable Analyst](https://jobright.ai/jobs/info/69c5d1201b5ad02887379e85?utm_campaign=1052&utm_source=git)** | Silver Spring, MD | On Site | Mar 26 |
 | ↳ | **[Accounts Payable Analyst](https://jobright.ai/jobs/info/69c5d0daaa3c2c1995e04fc1?utm_campaign=1052&utm_source=git)** | Silver Spring, MD | On Site | Mar 26 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Fund Financial Reporting Department (2026)](https://jobright.ai/jobs/info/69c583081b5ad02887375678?utm_campaign=1052&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 26 |
 | ↳ | **[Fall Intern - Fund Financial Reporting Department (2026)](https://jobright.ai/jobs/info/69c582c3e565c26a700113c3?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 26 |
 | **[Eastern Bank](https://www.easternbank.com)** | **[Intern II](https://jobright.ai/jobs/info/69c582beaa9a29199e80639a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 26 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Accounting Intern](https://jobright.ai/jobs/info/69bc7ac65b89c002acf239eb?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Mar 26 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Cloud FinOps - Financial Analysis](https://jobright.ai/jobs/info/69c581e1aa9a29199e805ba5?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 26 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69b32f1ea8ac8e70ff67704a?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Mar 26 |
-| ↳ | **[Tax and Audit Intern - Spring 2027 - Northern California](https://jobright.ai/jobs/info/69b4d71e3b74eb1e2c8237fa?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Mar 26 |
-| **[SWBC](https://www.swbc.com)** | **[PayOps Intern - SWIVEL](https://jobright.ai/jobs/info/69a90bfc7ac93962b708fb8c?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 26 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/69c580e4e565c26a70010abd?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 26 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Corporate Treasury Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c5808083ea553769fcb2b0?utm_campaign=1052&utm_source=git)** | Longmont, CO | Hybrid | Mar 26 |
-| **[NBOA: Business Leadership for Independent Schools](https://nboa.org)** | **[Chief Financial Officer - Rippowam Cisqua School, Bedford, NY](https://jobright.ai/jobs/info/69c580151b5ad02887374c4f?utm_campaign=1052&utm_source=git)** | Bedford, NY | On Site | Mar 26 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69c57fe6aa3c2c1995dfff8f?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 26 |
-| **[Hunt Companies, Inc](http://www.huntcompanies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c57f7aaa9a29199e805a24?utm_campaign=1052&utm_source=git)** | El Paso, TX | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c75021e565c26a70027b00?utm_campaign=1052&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 27 |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[Co-Op/Intern 2 (BUDGET)](https://jobright.ai/jobs/info/69c7771383ea553769fe3883?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
+| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c775c183ea553769fe3862?utm_campaign=1052&utm_source=git)** | Saxonburg, PA | On Site | Mar 27 |
+| ↳ | **[Intern - Treasury](https://jobright.ai/jobs/info/69c75021e565c26a70027b00?utm_campaign=1052&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 27 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69c749fd1b5ad0288738ba16?utm_campaign=1052&utm_source=git)** | Mission, TX | On Site | Mar 27 |
 | **[PwC](http://pwc.com)** | **[Customs & International Trade Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69c74032b773006330b77347?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
+| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c77f9ae565c26a7002962c?utm_campaign=1052&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 27 |
 | **[GLC Advisors & Co., LLC](https://glca.com/)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69b14648d04c69566c736991?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 | **[Distributor Wire & Cable](https://www.distributorwire.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c734651b5ad0288738b206?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Elemental LED Inc.](http://www.elementalled.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c73329e565c26a70026fe0?utm_campaign=1052&utm_source=git)** | 885 Trademark Dr, Reno, NV 89521, USA | On Site | Mar 27 |
@@ -72,9 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Enpro Inc.](http://enproindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c7277f83ea553769fe1304?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[Vialto](https://vialtopartners.com/)** | **[Financial Planning & Analysis Summer Intern – Strategic Finance](https://jobright.ai/jobs/info/69c723bb1818a24cd84cbf05?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Portfolio Management Analyst Intern](https://jobright.ai/jobs/info/69c7214083ea553769fe0e8f?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c71fb1aa3c2c1995e15960?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Mar 27 |
-| ↳ | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c71f9bb773006330b763b5?utm_campaign=1052&utm_source=git)** | Miamisburg, OH | Hybrid | Mar 27 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Intern - Plant Controlling - Cost Accounting](https://jobright.ai/jobs/info/69c71f99b773006330b763b2?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Mar 27 |
+| **[PNC](http://www.pnc.com)** | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c71f9bb773006330b763b5?utm_campaign=1052&utm_source=git)** | Miamisburg, OH | Hybrid | Mar 27 |
 | **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - BUSINESS ANALYST](https://jobright.ai/jobs/info/69c73de2e565c26a700272ea?utm_campaign=1052&utm_source=git)** | Winnipeg, MB | On Site | Mar 27 |
 | **[Gollob Morgan Peddy PC](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69c71e4e1818a24cd84cbd48?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Mar 27 |
 | **[Trident](https://www.tridsys.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69c71dd81b5ad0288738a536?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Mar 27 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[DT Midstream](https://dtmidstream.com/)** | **[Finance Intern - Canonsburg, PA](https://jobright.ai/jobs/info/69c7332ae565c26a70026ff5?utm_campaign=1052&utm_source=git)** | Canonsburg, PA | On Site | Mar 27 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Sustainability (Summer 2026)](https://jobright.ai/jobs/info/69c711b883ea553769fe053e?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
 | **[Long Island Speech](https://www.lispeech.com)** | **[Billing/Insurance Department Intern](https://jobright.ai/jobs/info/69c70f741b5ad02887389c76?utm_campaign=1052&utm_source=git)** | Stony Brook, NY | On Site | Mar 27 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75666?utm_campaign=1052&utm_source=git)** | Remote Illinois, Remote Illinois, IL | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75665?utm_campaign=1052&utm_source=git)** | Remote Colorado, Remote Colorado, CO | Remote | Mar 27 |
+| **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75665?utm_campaign=1052&utm_source=git)** | Remote Colorado, Remote Colorado, CO | Remote | Mar 27 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75666?utm_campaign=1052&utm_source=git)** | Remote Illinois, Remote Illinois, IL | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898ec?utm_campaign=1052&utm_source=git)** | Remote North Carolina, Remote North Carolina, NC | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898eb?utm_campaign=1052&utm_source=git)** | Remote South Carolina, Remote South Carolina, SC | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70eaaaa3c2c1995e14b1d?utm_campaign=1052&utm_source=git)** | Remote Ohio, Remote Ohio, OH | Remote | Mar 27 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Asset Management Intern - LA](https://jobright.ai/jobs/info/69c70e491818a24cd84cb062?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States of America | On Site | Mar 27 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e4683ea553769fe0097?utm_campaign=1052&utm_source=git)** | Remote Alabama, Remote Alabama, AL | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e4683ea553769fe0099?utm_campaign=1052&utm_source=git)** | Remote Florida, Remote Florida, FL | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e41e565c26a7002555b?utm_campaign=1052&utm_source=git)** | Remote California, Remote California, CA | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e41e565c26a7002555c?utm_campaign=1052&utm_source=git)** | Remote Georgia, Remote Georgia, GA | Remote | Mar 27 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e41e565c26a7002555b?utm_campaign=1052&utm_source=git)** | Remote California, Remote California, CA | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e401818a24cd84cb031?utm_campaign=1052&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e3f1818a24cd84cb022?utm_campaign=1052&utm_source=git)** | Remote Arizona, Remote Arizona, AZ | Remote | Mar 27 |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/69c72ab8b773006330b76a75?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Mar 27 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026: Finance and Operations Intern](https://jobright.ai/jobs/info/69c6e8571b5ad02887388269?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Audit and Tax Intern](https://jobright.ai/jobs/info/69b08064749500645096e026?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Mar 27 |
 | **[City of Albuquerque](https://www.cabq.gov)** | **[Internal Audit Student Assistant](https://jobright.ai/jobs/info/69c72eedb773006330b76c8a?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Mar 27 |
+| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2026 (Raleigh)](https://jobright.ai/jobs/info/69c77fd3aa3c2c1995e18c54?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Mar 27 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026: Finance and Operations Intern](https://jobright.ai/jobs/info/69c6e55f1818a24cd84c993d?utm_campaign=1052&utm_source=git)** | Gladstone, NJ, USA | On Site | Mar 27 |
 | **[SanMar](http://www.sanmar.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c6e519e565c26a70023b3d?utm_campaign=1052&utm_source=git)** | Issaquah, WA | Hybrid | Mar 27 |
-| **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69c6e4e01818a24cd84c96f3?utm_campaign=1052&utm_source=git)** | Baltimore, MD, US | On Site | Mar 27 |
-| **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69c6dec983ea553769fde3e4?utm_campaign=1052&utm_source=git)** | Alameda, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Diego State University](http://www.sdsu.edu)** | **[Manager of Financial Reporting](https://jobright.ai/jobs/info/698cfc5d0f6f7e7a2ce8a898?utm_campaign=1052&utm_source=git)** | SD Metro Area | Hybrid | Mar 28 |
+| **[Swiss Finance](https://www.swissfinance.com/)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69c7fe721b5ad028873916c8?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 Intern - CIB Corporate Client Coverage (Corp. Finance)](https://jobright.ai/jobs/info/69b2e686ad360c0340a7f44f?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Treasury Operations Intern](https://jobright.ai/jobs/info/698f9c2c0f6f7e7a2cebe509?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Mar 28 |
+| **[Rohit Group](http://www.rohitgroup.com/)** | **[Financial Reporting Summer Student](https://jobright.ai/jobs/info/69c80be7e565c26a7002d4a1?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Mar 28 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Private Brands - Intelligence](https://jobright.ai/jobs/info/69ab6f23142d5b4265fca583?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
 | ↳ | **[Intern - Economics, Private Brands - Intelligence](https://jobright.ai/jobs/info/69ab92887e1fab39d382fcdf?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Mar 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Richmond, VA](https://jobright.ai/jobs/info/69730c15694e99351d145ec0?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | On Site | Mar 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Bay Area)](https://jobright.ai/jobs/info/69b111c4dfaeda6ff59bff4f?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Mar 28 |
+| ↳ | **[Intern - Operational Finance (Portland)](https://jobright.ai/jobs/info/69b0f9ab0b2db6275c05f348?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Mar 28 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Corporate Financial Reporting Intern (Year-Round)](https://jobright.ai/jobs/info/69ab509a142d5b4265fc9838?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | Hybrid | Mar 28 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Financial Analyst](https://jobright.ai/jobs/info/69ab34382747003c3d50e0a8?utm_campaign=1052&utm_source=git)** | Burlington, VT | Hybrid | Mar 28 |
 | **[Planet](http://www.planet.com)** | **[Senior Manager, Revenue Accounting](https://jobright.ai/jobs/info/69742bb637785856350e257f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/698e2a57f64d441a1650660f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
-| ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Norfolk)](https://jobright.ai/jobs/info/698e14f0f64d441a16504f0b?utm_campaign=1052&utm_source=git)** | Norfolk, VA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Richmond)](https://jobright.ai/jobs/info/698e131878b4502f12a4e0a6?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 28 |
 | ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/699a8aa581476f6176b3194f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/698e182878b4502f12a4e531?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 28 |
@@ -103,10 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Department of Employment and Economic Development](https://mn.gov/deed/)** | **[Lead Internal Auditor - State Program Administrator Coordinator](https://jobright.ai/jobs/info/69c790c5b773006330b7a1b8?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Mar 28 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69c785dbb773006330b79c81?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 28 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69c785bde565c26a70029d36?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 28 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[Co-Op/Intern 2 (BUDGET)](https://jobright.ai/jobs/info/69c7771383ea553769fe3883?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c775c183ea553769fe3862?utm_campaign=1052&utm_source=git)** | Saxonburg, PA | On Site | Mar 27 |
-| **[PRO*ACT](http://www.proactusa.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69c7d6ad1b5ad0288739085c?utm_campaign=1052&utm_source=git)** | Monterey, CA | On Site | Mar 27 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c75021e565c26a70027b00?utm_campaign=1052&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 27 |
+| ↳ | **[Intern - Treasury](https://jobright.ai/jobs/info/69c75021e565c26a70027b00?utm_campaign=1052&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 27 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69c749fd1b5ad0288738ba16?utm_campaign=1052&utm_source=git)** | Mission, TX | On Site | Mar 27 |
 | **[PwC](http://pwc.com)** | **[Customs & International Trade Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69c74032b773006330b77347?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c77f9ae565c26a7002962c?utm_campaign=1052&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 27 |
@@ -143,18 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Long Island Speech](https://www.lispeech.com)** | **[Billing/Insurance Department Intern](https://jobright.ai/jobs/info/69c70f741b5ad02887389c76?utm_campaign=1052&utm_source=git)** | Stony Brook, NY | On Site | Mar 27 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75666?utm_campaign=1052&utm_source=git)** | Remote Illinois, Remote Illinois, IL | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75665?utm_campaign=1052&utm_source=git)** | Remote Colorado, Remote Colorado, CO | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898ec?utm_campaign=1052&utm_source=git)** | Remote North Carolina, Remote North Carolina, NC | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898eb?utm_campaign=1052&utm_source=git)** | Remote South Carolina, Remote South Carolina, SC | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70eaaaa3c2c1995e14b1b?utm_campaign=1052&utm_source=git)** | Remote District of Columbia, Remote District of Columbia, DC | Remote | Mar 27 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898ec?utm_campaign=1052&utm_source=git)** | Remote North Carolina, Remote North Carolina, NC | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70eaaaa3c2c1995e14b1d?utm_campaign=1052&utm_source=git)** | Remote Ohio, Remote Ohio, OH | Remote | Mar 27 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70eaaaa3c2c1995e14b1b?utm_campaign=1052&utm_source=git)** | Remote District of Columbia, Remote District of Columbia, DC | Remote | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[Revenue Operations Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6fbea1818a24cd84ca6ed?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Asset Management Intern - LA](https://jobright.ai/jobs/info/69c70e491818a24cd84cb062?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States of America | On Site | Mar 27 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e4683ea553769fe0099?utm_campaign=1052&utm_source=git)** | Remote Florida, Remote Florida, FL | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e4683ea553769fe0097?utm_campaign=1052&utm_source=git)** | Remote Alabama, Remote Alabama, AL | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e41e565c26a7002555c?utm_campaign=1052&utm_source=git)** | Remote Georgia, Remote Georgia, GA | Remote | Mar 27 |
+| **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e4683ea553769fe0097?utm_campaign=1052&utm_source=git)** | Remote Alabama, Remote Alabama, AL | Remote | Mar 27 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e4683ea553769fe0099?utm_campaign=1052&utm_source=git)** | Remote Florida, Remote Florida, FL | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e41e565c26a7002555b?utm_campaign=1052&utm_source=git)** | Remote California, Remote California, CA | Remote | Mar 27 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e41e565c26a7002555c?utm_campaign=1052&utm_source=git)** | Remote Georgia, Remote Georgia, GA | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e401818a24cd84cb031?utm_campaign=1052&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e3f1818a24cd84cb022?utm_campaign=1052&utm_source=git)** | Remote Arizona, Remote Arizona, AZ | Remote | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c7f2f7b773006330b7d171?utm_campaign=1052&utm_source=git)** | Miamisburg, OH | Hybrid | Mar 27 |
-| ↳ | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c7f2c3aa3c2c1995e1c512?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

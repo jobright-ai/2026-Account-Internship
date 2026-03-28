@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Resonance Partners](https://www.resopartners.com/)** | **[Private Equity Analyst (Summer Intern) / RP-032826](https://jobright.ai/jobs/info/69c832c41b5ad02887392630?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Mar 28 |
+| **[PNC](http://www.pnc.com)** | **[Lending Transact Assoc Sr.](https://jobright.ai/jobs/info/69c84549b773006330b7ea44?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Mar 28 |
 | **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c83038aa3c2c1995e1d9de?utm_campaign=1052&utm_source=git)** | Arizona, United States | Hybrid | Mar 28 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c8302e1818a24cd84d3c7e?utm_campaign=1052&utm_source=git)** | Georgia, United States | Hybrid | Mar 28 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c83004b773006330b7e3e3?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Mar 28 |
@@ -67,12 +67,11 @@ For a complete list, click the following sortable link below:
 | **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/699017bb6ea51a7610f28195?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Mar 28 |
 | **[LG Electronics](http://www.lg.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69c4686933eecf310794bac7?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 28 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Fall 2026 Internship](https://jobright.ai/jobs/info/69abe2892747003c3d51c852?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
-| **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c81e6d1818a24cd84d366f?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Mar 28 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c81e6d1818a24cd84d3670?utm_campaign=1052&utm_source=git)** | Florida, United States | Hybrid | Mar 28 |
+| **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c81e6d1818a24cd84d3670?utm_campaign=1052&utm_source=git)** | Florida, United States | Hybrid | Mar 28 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c81e6d1818a24cd84d366f?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Mar 28 |
 | **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - International, Tax](https://jobright.ai/jobs/info/698f9a850f6f7e7a2cebe239?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Mar 28 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ab9723142d5b4265fcbb0b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 CIB Intern - Syndicated Leveraged Finance](https://jobright.ai/jobs/info/69b3cde7ae2a534885eb3def?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69bc36754828227293fdb9af?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/69c81677e565c26a7002dad7?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | On Site | Mar 28 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 CIB Intern - Asset Backed Finance](https://jobright.ai/jobs/info/69b3bb2aad360c0340a8e365?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
 | **[Withum](http://www.withum.com)** | **[Outsourced Accounting Entry Level Analyst 2026](https://jobright.ai/jobs/info/6972d5d70488fd59f7d5cf05?utm_campaign=1052&utm_source=git)** | Burlington, MA | On Site | Mar 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Toronto Catholic District School Board](http://www.tcdsb.org)** | **[Accounting Summer Student](https://jobright.ai/jobs/info/69c71966aa3c2c1995e15343?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Mar 27 |
 | **[Bow Valley Credit Union](https://www.bowvalleycu.com/)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/69c7189283ea553769fe084c?utm_campaign=1052&utm_source=git)** | Cochrane, AB | On Site | Mar 27 |
 | **[Stantec](http://www.stantec.com)** | **[Accounts Receivable Intern - Summer 2026](https://jobright.ai/jobs/info/69c716d1b773006330b75d60?utm_campaign=1052&utm_source=git)** | Dartmouth, NS | On Site | Mar 27 |
+| **[Calgary Airports](https://www.yyc.com)** | **[Accounting Technician](https://jobright.ai/jobs/info/69c716cae565c26a70025cba?utm_campaign=1052&utm_source=git)** | Calgary, AB | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Spring 2027, Tribal Audit](https://jobright.ai/jobs/info/69ae3e713de6821aaccd7888?utm_campaign=1052&utm_source=git)** | Great Falls, MT | On Site | Mar 29 |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69c8e903b773006330b8285c?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Mar 29 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Accounting Intern - Irving TX - R10226595](https://jobright.ai/jobs/info/69c8b549e565c26a70030a7f?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | ↳ | **[2026 Accounting Intern - Irving TX - R10226609](https://jobright.ai/jobs/info/69c8b548e565c26a70030a7e?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | ↳ | **[2026 Accounting Intern - Irving TX - R10226603](https://jobright.ai/jobs/info/69c8b5001b5ad02887394f58?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lending Transact Assoc Sr.](https://jobright.ai/jobs/info/69c84b381818a24cd84d43b6?utm_campaign=1052&utm_source=git)** | Michigan, United States | Hybrid | Mar 28 |
 | ↳ | **[Lending Transact Assoc Sr.](https://jobright.ai/jobs/info/69c84b1ae565c26a7002eaf7?utm_campaign=1052&utm_source=git)** | Portage, MI | Hybrid | Mar 28 |
 | ↳ | **[Lending Transact Assoc Sr.](https://jobright.ai/jobs/info/69c84b15b773006330b7eb0b?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Mar 28 |
-| ↳ | **[Lending Transact Assoc Sr.](https://jobright.ai/jobs/info/69c84549b773006330b7ea44?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Mar 28 |
 | **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c83038aa3c2c1995e1d9de?utm_campaign=1052&utm_source=git)** | Arizona, United States | Hybrid | Mar 28 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c8302e1818a24cd84d3c7e?utm_campaign=1052&utm_source=git)** | Georgia, United States | Hybrid | Mar 28 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c83004b773006330b7e3e3?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Mar 28 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Ensono](https://www.ensono.com)** | **[Accountant - Intern](https://jobright.ai/jobs/info/69ab9569142d5b4265fcb4d0?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 28 |
 | **[LATICRETE International](https://laticrete.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ab23977e1fab39d382ab97?utm_campaign=1052&utm_source=git)** | Bethany, CT | On Site | Mar 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab65057e1fab39d382eaa4?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Mar 28 |
-| ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
+| ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/698e2a57f64d441a1650660f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Richmond)](https://jobright.ai/jobs/info/698e131878b4502f12a4e0a6?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69c74c33b773006330b777f3?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Mar 27 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Financial Operations and Partnerships Analysts Analyst](https://jobright.ai/jobs/info/69c72bf81818a24cd84cc4c2?utm_campaign=1052&utm_source=git)** | Northridge, California, United States | On Site | Mar 27 |
 | **[TKC Holdings, Inc.](https://www.tkcholdings.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c72b67e565c26a70026b3a?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Mar 27 |
-| **[Okuma America Corporation](https://www.okuma.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69c72867e565c26a70026a5b?utm_campaign=1052&utm_source=git)** | Corporate Headquarters - Charlotte, NC 28278 | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

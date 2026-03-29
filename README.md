@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STORE Capital](http://storecapital.com/)** | **[Intern- Summer Cycle 2026](https://jobright.ai/jobs/info/698f8ea76ea51a7610f1ed73?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Mar 29 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2027 Tax Intern - Virginia Beach](https://jobright.ai/jobs/info/695856d6aa05c26e7ab23a73?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Mar 29 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern Undergrad Admin](https://jobright.ai/jobs/info/6973af6937785856350d89b8?utm_campaign=1052&utm_source=git)** | Cadillac, MI | On Site | Mar 29 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Finance](https://jobright.ai/jobs/info/6973bedf206da320f49dba1a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Mar 29 |
 | **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERN - FINANCE](https://jobright.ai/jobs/info/69c9430aaa3c2c1995e24053?utm_campaign=1052&utm_source=git)** | Martinez, CA | On Site | Mar 29 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69c7a4eee565c26a7002aa55?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Mar 29 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Property & Casualty Insurance Intern](https://jobright.ai/jobs/info/698e503678b4502f12a51759?utm_campaign=1052&utm_source=git)** | Southborough, MA | On Site | Mar 29 |
@@ -133,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[LATICRETE International](https://laticrete.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ab23977e1fab39d382ab97?utm_campaign=1052&utm_source=git)** | Bethany, CT | On Site | Mar 28 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/69c918b41818a24cd84d9a6d?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Mar 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab65057e1fab39d382eaa4?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Mar 28 |
-| ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
+| ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/698e2a57f64d441a1650660f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Richmond)](https://jobright.ai/jobs/info/698e131878b4502f12a4e0a6?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/69ab660d7e1fab39d382ee6f?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Mar 28 |
 | ↳ | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/69b39c62ad360c0340a8c41b?utm_campaign=1052&utm_source=git)** | Springfield, OH | On Site | Mar 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Norfolk)](https://jobright.ai/jobs/info/698e14f0f64d441a16504f0b?utm_campaign=1052&utm_source=git)** | Norfolk, VA | Hybrid | Mar 28 |
-| ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Baltimore)](https://jobright.ai/jobs/info/698e199078b4502f12a4e658?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Mar 28 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Intern - General Accounting](https://jobright.ai/jobs/info/698ea6280f6f7e7a2ceac367?utm_campaign=1052&utm_source=git)** | Whippany, NJ | On Site | Mar 28 |
-| **[Precisely](https://www.precisely.com)** | **[Revenue Accounting Intern](https://jobright.ai/jobs/info/69aafaec2747003c3d50a467?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 28 |
-| **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Forensic, Litigation & Valuation Services Intern (Summer 2026) - Boston, MA](https://jobright.ai/jobs/info/69ab929e7e1fab39d382fd6a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

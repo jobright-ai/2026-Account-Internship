@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c860851818a24cd84d4af0?utm_campaign=1052&utm_source=git)** | US-CA-San Francisco | On Site | Mar 28 |
+| ↳ | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c86081aa3c2c1995e1e86e?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US | On Site | Mar 28 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial (Hybrid)](https://jobright.ai/jobs/info/69c852d51818a24cd84d4489?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
 | **[Highgate](https://www.highgate.com)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c8528c83ea553769fe95e5?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Mar 28 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Audit Lead Senior Specialty - Data Risk](https://jobright.ai/jobs/info/69c8507483ea553769fe95c5?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Mar 28 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Ensono](https://www.ensono.com)** | **[Accountant - Intern](https://jobright.ai/jobs/info/69ab9569142d5b4265fcb4d0?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 28 |
 | **[LATICRETE International](https://laticrete.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ab23977e1fab39d382ab97?utm_campaign=1052&utm_source=git)** | Bethany, CT | On Site | Mar 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab65057e1fab39d382eaa4?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Mar 28 |
-| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
+| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/698e2a57f64d441a1650660f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Richmond)](https://jobright.ai/jobs/info/698e131878b4502f12a4e0a6?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Chief Accounting Officer and Controller](https://jobright.ai/jobs/info/69c7dedf1818a24cd84d225c?utm_campaign=1052&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
 | ↳ | **[Senior Internal Auditor](https://jobright.ai/jobs/info/69c7decbe565c26a7002c6da?utm_campaign=1052&utm_source=git)** | Hanover, NH | Hybrid | Mar 27 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Intern - Plant Controlling - Cost Accounting](https://jobright.ai/jobs/info/69c7af1fb773006330b7afe5?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Mar 27 |
-| **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - BUSINESS ANALYST](https://jobright.ai/jobs/info/69c73de2e565c26a700272ea?utm_campaign=1052&utm_source=git)** | Winnipeg, MB | On Site | Mar 27 |
-| **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69c71e4e1818a24cd84cbd48?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Accounting Intern - Irving TX - R10226603](https://jobright.ai/jobs/info/69c8b5001b5ad02887394f58?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69c8ad61aa3c2c1995e1fc39?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
 | **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c8609eb773006330b7f1da?utm_campaign=1052&utm_source=git)** | US-CA-San Francisco | On Site | Mar 28 |
 | ↳ | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c8608b1b5ad028873933f7?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US | On Site | Mar 28 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c860851818a24cd84d4af0?utm_campaign=1052&utm_source=git)** | US-CA-San Francisco | On Site | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waccamaw Management, LLC](https://www.waccamawmanagement.com/)** | **[Payroll Clerk Intern](https://jobright.ai/jobs/info/69c7ac10e565c26a7002ac24?utm_campaign=1052&utm_source=git)** | Honolulu, HI | On Site | Mar 27 |
 | **[Enpro Inc.](http://enproindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c7277f83ea553769fe1304?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[Vialto](https://vialtopartners.com/)** | **[Financial Planning & Analysis Summer Intern – Strategic Finance](https://jobright.ai/jobs/info/69c723bb1818a24cd84cbf05?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[Credit One Bank](http://creditonebank.com)** | **[Portfolio Management Analyst Intern](https://jobright.ai/jobs/info/69c7214083ea553769fe0e8f?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Chief Accounting Officer and Controller](https://jobright.ai/jobs/info/69c7dedf1818a24cd84d225c?utm_campaign=1052&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

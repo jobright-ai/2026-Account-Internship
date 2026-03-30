@@ -98,10 +98,12 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/698dbe77f64d441a164fed31?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 29 |
 | **[PNC](http://www.pnc.com)** | **[Accounting Analyst](https://jobright.ai/jobs/info/69c9f8b6aa3c2c1995e29035?utm_campaign=1052&utm_source=git)** | Kansas, United States | Hybrid | Mar 29 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Spring 2027, Tribal Audit](https://jobright.ai/jobs/info/69ae3e713de6821aaccd7888?utm_campaign=1052&utm_source=git)** | Great Falls, MT | On Site | Mar 29 |
+| **[PNC](http://www.pnc.com)** | **[Lending Transact Assoc Sr.](https://jobright.ai/jobs/info/69ca14001818a24cd84e0424?utm_campaign=1052&utm_source=git)** | Michigan, United States | Hybrid | Mar 28 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Accounting Intern - Irving TX - R10226595](https://jobright.ai/jobs/info/69c8b549e565c26a70030a7f?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | ↳ | **[2026 Accounting Intern - Irving TX - R10226609](https://jobright.ai/jobs/info/69c8b548e565c26a70030a7e?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | ↳ | **[2026 Accounting Intern - Irving TX - R10226603](https://jobright.ai/jobs/info/69c8b5001b5ad02887394f58?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69c8ad61aa3c2c1995e1fc39?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Baltimore)](https://jobright.ai/jobs/info/698e148878b4502f12a4e1f2?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Mar 28 |
 | **[PNC](http://www.pnc.com)** | **[Virtual Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69c9f20c83ea553769ff4420?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Mar 28 |
 | **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c8609eb773006330b7f1da?utm_campaign=1052&utm_source=git)** | US-CA-San Francisco | On Site | Mar 28 |
 | ↳ | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c8608b1b5ad028873933f7?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US | On Site | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
-| ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/698e2a57f64d441a1650660f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
-| ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Richmond)](https://jobright.ai/jobs/info/698e131878b4502f12a4e0a6?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

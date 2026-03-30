@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial (Hybrid)](https://jobright.ai/jobs/info/69c9a2bfe565c26a70037dfb?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Mar 29 |
 | **[Theodore Roosevelt Medora Foundation](https://foundation.medora.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c990d8e565c26a700378e1?utm_campaign=1052&utm_source=git)** | Medora, ND | On Site | Mar 29 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69c98a95aa3c2c1995e25670?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 29 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69c985fdb773006330b85b3a?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/699aadd7ce78e77b4fdf7863?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/6969df18639b452fb57fdb16?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Mar 28 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/69ab66d47e1fab39d382f042?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 28 |
-| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69739bb337785856350d66e0?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Capital Markets Intern - Summer 2026 - Dallas Regional Office](https://jobright.ai/jobs/info/69c18f6d75f7ff1cd80fb3b4?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[PROJXON](www.projxon.com)** | **[Grant Administrator (Intern)](https://jobright.ai/jobs/info/69ca0253aa3c2c1995e29286?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de60b773006330b89137?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Mar 29 |
 | ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69c9de5c1b5ad0288739d08d?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Mar 29 |
@@ -66,8 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/69c9ccf1aa3c2c1995e27ab3?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Mar 29 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial (Hybrid)](https://jobright.ai/jobs/info/69c9a2bfe565c26a70037dfb?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Mar 29 |
 | **[Theodore Roosevelt Medora Foundation](https://foundation.medora.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c990d8e565c26a700378e1?utm_campaign=1052&utm_source=git)** | Medora, ND | On Site | Mar 29 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69c98a95aa3c2c1995e25670?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 29 |
-| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69c985fdb773006330b85b3a?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 29 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69c985fdb773006330b85b3a?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 29 |
 | **[Group One Trading](http://group1.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69c983251818a24cd84db43f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | **[Munich Re](https://www.munichre.com)** | **[Actuarial Intern, US Life (2026 Summer - New York)](https://jobright.ai/jobs/info/69ad294e7e1fab39d384a380?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Mar 29 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Las Vegas, NV](https://jobright.ai/jobs/info/697310161790715e866c11ea?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 29 |

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Fund](www.crownfund.co)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69ca5d49a8c1822476e1c167?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Mar 30 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern_PTIN5C_Revenue Assurance](https://jobright.ai/jobs/info/69ae90407c309707d4afda5b?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Mar 30 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Pricing & Proposals Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d59063502c0aded6d1b9?utm_campaign=1052&utm_source=git)** | Chandler, AZ | Hybrid | Mar 30 |
 | **[BiggsKofford](https://www.biggskofford.com/)** | **[Audit Internship 2027 (Denver)](https://jobright.ai/jobs/info/69ca586ba8c1822476e1c0ed?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Mar 30 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69ca516daa3c2c1995e2c299?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 30 |
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Internal Audit IT Intern](https://jobright.ai/jobs/info/69ca5166aa3c2c1995e2c293?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Mar 30 |
 | ↳ | **[Cost Accountant – Intern](https://jobright.ai/jobs/info/69ca5157e565c26a7003ccb5?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Mar 30 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Mar 30 |
-| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973ed1037785856350dbe21?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Mar 30 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973ed1037785856350dbe21?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | Mar 30 |
+| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f55037785856350dd19f?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | Mar 30 |
 | **[BiggsKofford](https://www.biggskofford.com/)** | **[Tax Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/69ca49a0e565c26a7003caef?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Mar 30 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/6973f379206da320f49df36e?utm_campaign=1052&utm_source=git)** | Miami, OH | On Site | Mar 30 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Americas FP&A Intern](https://jobright.ai/jobs/info/69bdad0ab10602456282a455?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics, Private Brands - Intelligence](https://jobright.ai/jobs/info/69ab92887e1fab39d382fcdf?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Mar 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Accounting Internship - Richmond, VA](https://jobright.ai/jobs/info/69730c15694e99351d145ec0?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | On Site | Mar 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Bay Area)](https://jobright.ai/jobs/info/69b111c4dfaeda6ff59bff4f?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | On Site | Mar 28 |
-| ↳ | **[Intern - Operational Finance (Portland)](https://jobright.ai/jobs/info/69b0f9ab0b2db6275c05f348?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

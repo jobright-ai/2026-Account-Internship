@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[LATICRETE International](https://laticrete.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ab23977e1fab39d382ab97?utm_campaign=1052&utm_source=git)** | Bethany, CT | On Site | Mar 28 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/69c918b41818a24cd84d9a6d?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Mar 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab65057e1fab39d382eaa4?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Mar 28 |
-| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
+| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/698e2a57f64d441a1650660f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Richmond)](https://jobright.ai/jobs/info/698e131878b4502f12a4e0a6?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 28 |

@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Highgate](https://www.highgate.com)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c8528c83ea553769fe95e5?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Mar 28 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Audit Lead Senior Specialty - Data Risk](https://jobright.ai/jobs/info/69c8507483ea553769fe95c5?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Mar 28 |
 | ↳ | **[Commercial Associate Treasury Management Officer](https://jobright.ai/jobs/info/69c850671818a24cd84d4469?utm_campaign=1052&utm_source=git)** | Clayton, NC | On Site | Mar 28 |
-| **[PNC](http://www.pnc.com)** | **[Lending Transact Assoc Sr.](https://jobright.ai/jobs/info/69c84b15b773006330b7eb0b?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Mar 28 |
 | **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c83038aa3c2c1995e1d9de?utm_campaign=1052&utm_source=git)** | Arizona, United States | Hybrid | Mar 28 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c8302e1818a24cd84d3c7e?utm_campaign=1052&utm_source=git)** | Georgia, United States | Hybrid | Mar 28 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c83004b773006330b7e3e3?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Mar 28 |
@@ -141,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Planet](http://www.planet.com)** | **[Senior Manager, Revenue Accounting](https://jobright.ai/jobs/info/69742bb637785856350e257f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Investment - Intern](https://jobright.ai/jobs/info/6974344237785856350e2d7a?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Mar 28 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Investment Management Intern - Fall 2026](https://jobright.ai/jobs/info/6972b0c39b83b424830eb98c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
-| **[Group One Trading](http://group1.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69c98e5d1b5ad0288739ba18?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Mar 28 |
 | **[Ensono](https://www.ensono.com)** | **[Accountant - Intern](https://jobright.ai/jobs/info/69ab9569142d5b4265fcb4d0?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 28 |
 | **[LATICRETE International](https://laticrete.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ab23977e1fab39d382ab97?utm_campaign=1052&utm_source=git)** | Bethany, CT | On Site | Mar 28 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/69c918b41818a24cd84d9a6d?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Mar 28 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/699aadd7ce78e77b4fdf7863?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/6969df18639b452fb57fdb16?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Mar 28 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/69ab66d47e1fab39d382f042?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 28 |
+| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69739bb337785856350d66e0?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Mar 28 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/6972fcb7694e99351d14428c?utm_campaign=1052&utm_source=git)** | Southfield, MI | Hybrid | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

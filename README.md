@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Accounting Intern](https://jobright.ai/jobs/info/69cb2817aa3c2c1995e347eb?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Mar 30 |
+| **[Epiq](https://www.epiqglobal.com/)** | **[ET&O Finance Intern](https://jobright.ai/jobs/info/69cb2693aa3c2c1995e347d1?utm_campaign=1052&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Mar 30 |
+| **[SEH](http://www.sehinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cb23d9a8c1822476e24599?utm_campaign=1052&utm_source=git)** | Minnesota, United States | Remote | Mar 30 |
 | **[volofin Capital Management](https://www.volofin.com)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/69cb1f01aa3c2c1995e342e4?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Mar 30 |
 | **[BioLife Plasma Services](https://www.biolifeplasma.com/us/)** | **[2026 Summer Internship Program: Financial Planning and Analysis (FP&A), Global BioLife Intern](https://jobright.ai/jobs/info/69cb19c7e565c26a700449d3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 30 |
 | **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[2026 Summer Intern - Finance (U.S. Business Unit)](https://jobright.ai/jobs/info/69cb1743466f1e133aacac9b?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Mar 30 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CPA Articling Student – External Audit, Private Companies – September 2026](https://jobright.ai/jobs/info/69cad94aa8c1822476e20de3?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cad949466f1e133aac7c5d?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Articling Student – External Audit, Private Companies – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30dea?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
-| ↳ | **[CPA Articling Student – External Audit, Entertainment and New Media – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30de8?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | ↳ | **[CPA Articling Student – External Audit, Regulated Entities– September 2026](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30deb?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
+| ↳ | **[CPA Articling Student – External Audit, Entertainment and New Media – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30de8?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | ↳ | **[CPA Articling Student – Direct-to-Tax – January 2027](https://jobright.ai/jobs/info/69cad9348fc6090c5d451d1c?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Financial Operations](https://jobright.ai/jobs/info/69cad9288fc6090c5d451d08?utm_campaign=1052&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Mar 30 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Income Tax](https://jobright.ai/jobs/info/69cad8adaa3c2c1995e30ad5?utm_campaign=1052&utm_source=git)** | New York | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[IT Internal Audit Intern](https://jobright.ai/jobs/info/69cacb2e8fc6090c5d4514b7?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 30 |
 | **[URUS Group](https://www.urus.org)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69caca78e565c26a700409ec?utm_campaign=1052&utm_source=git)** | Sioux Center, IA, United States | On Site | Mar 30 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Corporate Finance Systems Intern - Summer 2026](https://jobright.ai/jobs/info/69caca6ee565c26a700409b7?utm_campaign=1052&utm_source=git)** | Pigeon Forge, Tennessee, United States | On Site | Mar 30 |
-| **[FORUM Credit Union](https://forumcu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cac5f7a8c1822476e1ff6d?utm_campaign=1052&utm_source=git)** | Fishers, IN | On Site | Mar 30 |
-| **[Moffitt Cancer Center](http://moffitt.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cac22b1b5ad028873a4a5d?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Mar 30 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69cabf5da8c1822476e1fdb1?utm_campaign=1052&utm_source=git)** | West Nyack, NY | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69b0855f749500645096f1b2?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 31 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[ACCOUNTANT 3 - 75981](https://jobright.ai/jobs/info/69c246b52c312363dcd5e0d0?utm_campaign=1052&utm_source=git)** | Davidson County, TN | Hybrid | Mar 30 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cb5ee01b5ad028873ab1ca?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Houston)](https://jobright.ai/jobs/info/69cb5b5faa3c2c1995e36516?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Mar 30 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb6728e565c26a700473e9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Mar 30 |
 | ↳ | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb3f578fc6090c5d4562bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | ↳ | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb792eaa3c2c1995e378ce?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Mar 30 |
-| **[PNC](http://www.pnc.com)** | **[Underwriting Manager II - Small Business Banking](https://jobright.ai/jobs/info/69cb51db1b5ad028873aa8c8?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 30 |
 | **[The 'Quin House](https://thequinhouse.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cb5387e565c26a700469db?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 30 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Accounting Intern](https://jobright.ai/jobs/info/69cb2817aa3c2c1995e347eb?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Mar 30 |
 | **[Epiq](https://www.epiqglobal.com/)** | **[ET&O Finance Intern](https://jobright.ai/jobs/info/69cb2693aa3c2c1995e347d1?utm_campaign=1052&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Mar 30 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CPA Articling Student – External Audit, Entertainment and New Media – September 2026](https://jobright.ai/jobs/info/69cad94daa3c2c1995e30e1c?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | ↳ | **[CPA Articling Student – External Audit, Private Companies – September 2026](https://jobright.ai/jobs/info/69cad94aa8c1822476e20de3?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cad949466f1e133aac7c5d?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
-| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Articling Student – External Audit, Regulated Entities– September 2026](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30deb?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
+| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Articling Student – External Audit, Entertainment and New Media – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30de8?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
+| ↳ | **[CPA Articling Student – External Audit, Regulated Entities– September 2026](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30deb?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | ↳ | **[CPA Articling Student – External Audit, Private Companies – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30dea?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
-| ↳ | **[CPA Articling Student – External Audit, Entertainment and New Media – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30de8?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | ↳ | **[CPA Articling Student – Direct-to-Tax – January 2027](https://jobright.ai/jobs/info/69cad9348fc6090c5d451d1c?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

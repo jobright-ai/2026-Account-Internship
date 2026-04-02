@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[Financial Planner Intern](https://jobright.ai/jobs/info/69ce174b891d7b11cfcc4fa2?utm_campaign=1052&utm_source=git)** | Medicine Hat, AB | On Site | Apr 02 |
+| **[Ferrovial](http://www.ferrovial.com/en)** | **[Webber - Operational Accounting Intern - Infrastructure Management](https://jobright.ai/jobs/info/69ce131f54f00230c6cfb459?utm_campaign=1052&utm_source=git)** | Mississauga, ON | On Site | Apr 01 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/69ce0133cdb525785fb92af2?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Apr 01 |
 | **[Leslie's](https://lesliespool.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ce012454f00230c6cfa850?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 01 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/69cdf62354f00230c6cfa137?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Apr 01 |
 | ↳ | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/69cdf60b366bb95ba55061fa?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Apr 01 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Management, Consumer Banking](https://jobright.ai/jobs/info/69cdf5a654f00230c6cf9d44?utm_campaign=1052&utm_source=git)** | Harahan, LA | On Site | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cded2bcdb525785fb90912?utm_campaign=1052&utm_source=git)** | Ontario, CA | On Site | Apr 01 |
+| **[NVE Experience Agency](http://experiencenve.com)** | **[Accounts Services Summer Internship](https://jobright.ai/jobs/info/69ce194a398fb071abf817cd?utm_campaign=1052&utm_source=git)** | LA Metro Area | Hybrid | Apr 01 |
 | **[USAA](https://www.usaa.com)** | **[Audit Intern](https://jobright.ai/jobs/info/69cdeb3ccdb525785fb90585?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Apr 01 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Holmdel, NJ](https://jobright.ai/jobs/info/69cdeaf9cfdc6132f94211d6?utm_campaign=1052&utm_source=git)** | Holmdel, NJ | Hybrid | Apr 01 |
 | **[City of Markham](https://www.markham.ca)** | **[Capital Planning & Data Management Summer Student](https://jobright.ai/jobs/info/69c2c85bec22f8310ab0aec0?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 01 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[WCF Insurance](https://www.wcf.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69ce06b3398fb071abf80883?utm_campaign=1052&utm_source=git)** | Meridian, ID | On Site | Apr 01 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Finance / Accounting Intern](https://jobright.ai/jobs/info/69cddc87398fb071abf7d545?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Accounting and Finance -  Intern](https://jobright.ai/jobs/info/69cdacf554f00230c6cf55bd?utm_campaign=1052&utm_source=git)** | US-GA-Atlanta | On Site | Apr 01 |
-| ↳ | **[Accounting and Finance -  Intern](https://jobright.ai/jobs/info/69cdacec398fb071abf7b3bc?utm_campaign=1052&utm_source=git)** | GA, Atlanta - 2 Ravinia Drive - Suite 1100 | On Site | Apr 01 |
 | ↳ | **[Accounting and Finance -  Intern](https://jobright.ai/jobs/info/69cdaceccfdc6132f941e7b1?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 01 |
+| ↳ | **[Accounting and Finance -  Intern](https://jobright.ai/jobs/info/69cdacec398fb071abf7b3bc?utm_campaign=1052&utm_source=git)** | GA, Atlanta - 2 Ravinia Drive - Suite 1100 | On Site | Apr 01 |
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69cdac65cfdc6132f941e498?utm_campaign=1052&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 01 |
 | **[Vixxo Facility Solutions](http://www.vixxo.com/)** | **[Corporate Tax Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69cde7f054f00230c6cf807b?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 01 |
 | **[The 1916 Company](https://www.thewatchbox.com/)** | **[Accounting Intern-Part Time](https://jobright.ai/jobs/info/69cde817398fb071abf7dd87?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | Hybrid | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter, Third Party Residential Underwriting - MBBS](https://jobright.ai/jobs/info/69cde7e7398fb071abf7dcf4?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Accounting Technician AP - INT – 6700](https://jobright.ai/jobs/info/69cd7dcf398fb071abf759f7?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Apr 01 |
 | **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[Consumer Credit Analyst Intern](https://jobright.ai/jobs/info/69c3255dec22f8310ab15540?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 01 |
-| **[Commvault](https://www.commvault.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cd7d0d54f00230c6cefcce?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69cd7cbbcfdc6132f94191dd?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 01 |
-| **[FNBO](https://www.fnbo.com)** | **[Summer Intern - Tributary Capital Management (Kansas City, MO)](https://jobright.ai/jobs/info/69cd7cba54f00230c6cefc93?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

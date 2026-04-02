@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRG](https://trg.agency)** | **[Investment Strategy Intern - Platforms (2026 Summer)](https://jobright.ai/jobs/info/69ce23c9398fb071abf81c9e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[RBC](https://www.rbc.com)** | **[Financial Planner Intern](https://jobright.ai/jobs/info/69ce174b891d7b11cfcc4fa2?utm_campaign=1052&utm_source=git)** | Medicine Hat, AB | On Site | Apr 02 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Webber - Operational Accounting Intern - Infrastructure Management](https://jobright.ai/jobs/info/69ce131f54f00230c6cfb459?utm_campaign=1052&utm_source=git)** | Mississauga, ON | On Site | Apr 01 |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69ce27a0366bb95ba55085ba?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Apr 01 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/69ce0133cdb525785fb92af2?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Apr 01 |
 | **[Leslie's](https://lesliespool.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ce012454f00230c6cfa850?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 01 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/69cdf62354f00230c6cfa137?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street Audit Team - Integrated Audit Data Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/69ca8b11a8c1822476e1d9bc?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69cda24d54f00230c6cf4b29?utm_campaign=1052&utm_source=git)** | Wall, NJ | Hybrid | Apr 01 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter, Third Party Residential Underwriting - MBBS](https://jobright.ai/jobs/info/69cde7e7398fb071abf7dcf4?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Accounting Technician AP - INT – 6700](https://jobright.ai/jobs/info/69cd7dcf398fb071abf759f7?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Apr 01 |
-| **[First Community Credit Union - Houston, TX](http://www.fccu.org)** | **[Consumer Credit Analyst Intern](https://jobright.ai/jobs/info/69c3255dec22f8310ab15540?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a686c0f707784310afde3d?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 02 |
+| **[Acron Aviation](https://acronaviation.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69b1b971548f140066e78033?utm_campaign=1052&utm_source=git)** | Sanford, FL | On Site | Apr 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6866088eb986f013e2984294?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 02 |
 | ↳ | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bde07?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 02 |
 | **[Generac](https://www.generac.com)** | **[Finance Intern - Deductions](https://jobright.ai/jobs/info/69b27dc4ad360c0340a75968?utm_campaign=1052&utm_source=git)** | Waukesha, WI | On Site | Apr 02 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[WCF Insurance](https://www.wcf.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69ce06b3398fb071abf80883?utm_campaign=1052&utm_source=git)** | Meridian, ID | On Site | Apr 01 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Finance / Accounting Intern](https://jobright.ai/jobs/info/69cddc87398fb071abf7d545?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Accounting and Finance -  Intern](https://jobright.ai/jobs/info/69cdacf554f00230c6cf55bd?utm_campaign=1052&utm_source=git)** | US-GA-Atlanta | On Site | Apr 01 |
-| ↳ | **[Accounting and Finance -  Intern](https://jobright.ai/jobs/info/69cdacec398fb071abf7b3bc?utm_campaign=1052&utm_source=git)** | GA, Atlanta - 2 Ravinia Drive - Suite 1100 | On Site | Apr 01 |
 | ↳ | **[Accounting and Finance -  Intern](https://jobright.ai/jobs/info/69cdaceccfdc6132f941e7b1?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 01 |
+| ↳ | **[Accounting and Finance -  Intern](https://jobright.ai/jobs/info/69cdacec398fb071abf7b3bc?utm_campaign=1052&utm_source=git)** | GA, Atlanta - 2 Ravinia Drive - Suite 1100 | On Site | Apr 01 |
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69cdac65cfdc6132f941e498?utm_campaign=1052&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 01 |
 | **[Vixxo Facility Solutions](http://www.vixxo.com/)** | **[Corporate Tax Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69cde7f054f00230c6cf807b?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 01 |
 | **[The 1916 Company](https://www.thewatchbox.com/)** | **[Accounting Intern-Part Time](https://jobright.ai/jobs/info/69cde817398fb071abf7dd87?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | Hybrid | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Transaction Management Intern](https://jobright.ai/jobs/info/69cd8ed7891d7b11cfcbd201?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[Framatome North America](www.framatome.com/en)** | **[Finance Intern (Project Controls & Invoicing)](https://jobright.ai/jobs/info/69cd8d7fcfdc6132f941d183?utm_campaign=1052&utm_source=git)** | Lynchburg, VA | On Site | Apr 01 |
 | **[VanEck](http://www.vaneck.com/)** | **[Portfolio Operations Summer Intern](https://jobright.ai/jobs/info/69cd8cc3cfdc6132f941d153?utm_campaign=1052&utm_source=git)** | Tampa, FL 33609, USA | On Site | Apr 01 |
-| **[Malteurop](https://www.malteurop.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69cd8c33366bb95ba550013e?utm_campaign=1052&utm_source=git)** | Great Falls, Montana, United States | On Site | Apr 01 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern Orlando](https://jobright.ai/jobs/info/69cd8c0acdb525785fb8bf45?utm_campaign=1052&utm_source=git)** | Orlando Downtown | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

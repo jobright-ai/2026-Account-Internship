@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deloitte](https://www2.deloitte.com)** | **[Staff Accountant - Audit Public/Private - Co-op/Intern 2027 - Vancouver](https://jobright.ai/jobs/info/69ce3b39398fb071abf82bce?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Apr 02 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Member Care Support and Asset Management - Member Care Support I](https://jobright.ai/jobs/info/69b23149d04c69566c74e4a6?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
+| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Accounting & Finance](https://jobright.ai/jobs/info/69b1c000d04c69566c73fd76?utm_campaign=1052&utm_source=git)** | Chantilly, VA | On Site | Apr 02 |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship-Healthcare Audit Internship-Fall 2027](https://jobright.ai/jobs/info/69bf82e57798f73e35e45767?utm_campaign=1052&utm_source=git)** | Spokane, WA | Hybrid | Apr 02 |
+| ↳ | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/696957d11703f05405ab309c?utm_campaign=1052&utm_source=git)** | South Portland, ME | On Site | Apr 02 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69ce301e891d7b11cfcc5fce?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
 | **[TRG](https://trg.agency)** | **[Investment Strategy Intern - Platforms (2026 Summer)](https://jobright.ai/jobs/info/69ce23c9398fb071abf81c9e?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[RBC](https://www.rbc.com)** | **[Financial Planner Intern](https://jobright.ai/jobs/info/69ce174b891d7b11cfcc4fa2?utm_campaign=1052&utm_source=git)** | Medicine Hat, AB | On Site | Apr 02 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Webber - Operational Accounting Intern - Infrastructure Management](https://jobright.ai/jobs/info/69ce131f54f00230c6cfb459?utm_campaign=1052&utm_source=git)** | Mississauga, ON | On Site | Apr 01 |
+| **[Mission Bank](https://www.missionbank.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ce326654f00230c6cfcbe4?utm_campaign=1052&utm_source=git)** | Bakersfield, CA | On Site | Apr 01 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69ce27a0366bb95ba55085ba?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | On Site | Apr 01 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/69ce0133cdb525785fb92af2?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Apr 01 |
 | **[Leslie's](https://lesliespool.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ce012454f00230c6cfa850?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRIUMPH](https://www.triumphgroup.com/)** | **[Summer Intern - Pricing Analyst](https://jobright.ai/jobs/info/69cda570cfdc6132f941e223?utm_campaign=1052&utm_source=git)** | Park City, UT | On Site | Apr 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026- Finance Internship- Supply Chain](https://jobright.ai/jobs/info/69cd84c2398fb071abf77e5c?utm_campaign=1052&utm_source=git)** | 6300 Creek Rd, Cincinnati, OH, 45242, US | On Site | Apr 01 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cd84bacdb525785fb89b88?utm_campaign=1052&utm_source=git)** | Boston MA - One Post Office Square | Hybrid | Apr 01 |
-| **[Olympic College](http://www.olympic.edu/)** | **[Finance Director](https://jobright.ai/jobs/info/69cdf7b9cfdc6132f9423294?utm_campaign=1052&utm_source=git)** | Bremerton, WA | On Site | Apr 01 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Global Delivery - AIS Summer Internship 2026](https://jobright.ai/jobs/info/69c61c01e565c26a7001957a?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Apr 01 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69cdd64dcdb525785fb8f3c7?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
-| **[Vixxo Facility Solutions](http://www.vixxo.com/)** | **[Corporate Tax Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69cd81ea891d7b11cfcba644?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 01 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Audit Team - Integrated Audit Data Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/69ca8b11a8c1822476e1d9bc?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 01 |
-| **[New Jersey Resources](http://www.njresources.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69cda24d54f00230c6cf4b29?utm_campaign=1052&utm_source=git)** | Wall, NJ | Hybrid | Apr 01 |
-| **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter, Third Party Residential Underwriting - MBBS](https://jobright.ai/jobs/info/69cde7e7398fb071abf7dcf4?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

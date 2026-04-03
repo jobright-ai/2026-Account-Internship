@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69964a1681476f6176ae0c51?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Minneapolis)](https://jobright.ai/jobs/info/69b36998a8ac8e70ff67a635?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 03 |
+| ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Tampa)](https://jobright.ai/jobs/info/69c80fb883ea553769fe848d?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 03 |
+| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Milwaukee)](https://jobright.ai/jobs/info/69b36aacad360c0340a88eeb?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 03 |
+| ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Milwaukee)](https://jobright.ai/jobs/info/69b34876ad360c0340a86ab6?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 03 |
+| ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Milwaukee)](https://jobright.ai/jobs/info/69b36aabad360c0340a88ee1?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 03 |
+| **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Finance Intern](https://jobright.ai/jobs/info/69cf8339cfdc6132f9434328?utm_campaign=1052&utm_source=git)** | Carson, CA | On Site | Apr 03 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69cf7b55cdb525785fba2df7?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
 | **[American National Bank of Texas](https://www.anbtx.com/)** | **[Banking Operations Support Internship](https://jobright.ai/jobs/info/69cf5dd4891d7b11cfcd2c59?utm_campaign=1052&utm_source=git)** | Terrell, TX | On Site | Apr 02 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Treasury Analytics Intern](https://jobright.ai/jobs/info/69cf5db1366bb95ba5515917?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Apr 02 |
@@ -110,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69ceee7f54f00230c6d04e56?utm_campaign=1052&utm_source=git)** | Santa Maria, CA | On Site | Apr 02 |
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Collections Intern](https://jobright.ai/jobs/info/69ceee56cdb525785fb9d23d?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Apr 02 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial (Hybrid)](https://jobright.ai/jobs/info/69cf0af9cdb525785fb9e266?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 02 |
-| **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69cf0af6cdb525785fb9e25f?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 02 |
+| **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69cf0f4b366bb95ba5512294?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 02 |
 | **[Chandler Asset Management, Inc.](http://chandlerasset.com/)** | **[Investment Intern](https://jobright.ai/jobs/info/69cf305dcdb525785fb9f856?utm_campaign=1052&utm_source=git)** | San Diego,CA,US | On Site | Apr 02 |
 | **[Cerini and Associates, LLP](http://ceriniandassociates.com)** | **[Accounts Payable Auditor- Internship](https://jobright.ai/jobs/info/69ceeb14cdb525785fb9d0dc?utm_campaign=1052&utm_source=git)** | Bohemia, NY | On Site | Apr 02 |
 | **[Ryan](http://ryan.com)** | **[Intern, Real Property Tax - Plano, TX](https://jobright.ai/jobs/info/69ceeab4cdb525785fb9d082?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Apr 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greenlight](https://greenlight.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ced2b8398fb071abf89568?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69cf2b86891d7b11cfcd099d?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Apr 02 |
 | **[Kadant Solutions Division](https://dcf.kadant.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ced026cfdc6132f942c86c?utm_campaign=1052&utm_source=git)** | Auburn, MA | On Site | Apr 02 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Assistant Manager/Manager Accounting](https://jobright.ai/jobs/info/69ced01154f00230c6d0359b?utm_campaign=1052&utm_source=git)** | DFW Metroplex | Hybrid | Apr 02 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Tax & Estate Department](https://jobright.ai/jobs/info/69ceee87366bb95ba5511207?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 02 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Deposit Operations](https://jobright.ai/jobs/info/69cf305ccdb525785fb9f848?utm_campaign=1052&utm_source=git)** | Gretna,LA,US | On Site | Apr 02 |
-| **[CCK Strategies](http://www.cckcpa.com)** | **[Internship Interest - 2028](https://jobright.ai/jobs/info/69cf305ccdb525785fb9f84d?utm_campaign=1052&utm_source=git)** | Tulsa/Frisco | On Site | Apr 02 |
-| **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Credit Analyst Intern](https://jobright.ai/jobs/info/69cece7954f00230c6d03529?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Apr 02 |
-| **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69cece2154f00230c6d0343f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/69cec954cdb525785fb9b7c0?utm_campaign=1052&utm_source=git)** | London, ON | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

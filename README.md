@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Financial Analysis and Accounting Intern](https://jobright.ai/jobs/info/69cf533e54f00230c6d091f0?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Deposit Operations](https://jobright.ai/jobs/info/69cf518c891d7b11cfcd2808?utm_campaign=1052&utm_source=git)** | Gretna, LA | On Site | Apr 02 |
 | **[BankIn Minnesota](https://www.minnesota.bank)** | **[Loan Documentation Specialist](https://jobright.ai/jobs/info/69cf42ee398fb071abf8e4cd?utm_campaign=1052&utm_source=git)** | Richfield, MN | Hybrid | Apr 02 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Corporate Staff Accountant](https://jobright.ai/jobs/info/69cf3fb9cfdc6132f9431870?utm_campaign=1052&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Site Accounting](https://jobright.ai/jobs/info/69cf3efb366bb95ba5514ac6?utm_campaign=1052&utm_source=git)** | Saskatoon, SK | On Site | Apr 02 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Winter 2027 Internship - White Plains, NY](https://jobright.ai/jobs/info/69cf3628cfdc6132f9430d6a?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Apr 02 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69cf34de366bb95ba5513f4f?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Apr 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Corporate Tax Internship – Emerging Talent Program](https://jobright.ai/jobs/info/69cf3494cdb525785fb9ff10?utm_campaign=1052&utm_source=git)** | 545 Washington Blvd, Jersey City, NJ, 07310, US | On Site | Apr 02 |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Seasonal Intern, Global Mobility Services / McLean Summer 2026](https://jobright.ai/jobs/info/69cf512754f00230c6d08fe1?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Apr 02 |
 | **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Shareholder Intern](https://jobright.ai/jobs/info/69cf2da0366bb95ba551377d?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Apr 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cf2ba8cfdc6132f943049d?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69cf27ca366bb95ba55130ba?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/69cec954cdb525785fb9b7c0?utm_campaign=1052&utm_source=git)** | London, ON | On Site | Apr 02 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Finance Intern - General Ledger](https://jobright.ai/jobs/info/69cec86fcdb525785fb9b64a?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL, USA | On Site | Apr 02 |
 | **[Kline Hill Partners](http://klinehill.com/)** | **[London - Summer 2026 Intern](https://jobright.ai/jobs/info/69cec3a954f00230c6d02e9a?utm_campaign=1052&utm_source=git)** | Greenwich, Connecticut, United States | On Site | Apr 02 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cec376891d7b11cfccc439?utm_campaign=1052&utm_source=git)** | Santa Maria, California | On Site | Apr 02 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Inventory Coordinator Intern](https://jobright.ai/jobs/info/69cec373366bb95ba550f1ca?utm_campaign=1052&utm_source=git)** | 900 Georgia Avenue, Deer Park, TX, 77536, US | On Site | Apr 02 |
-| **[Buffalo Sabres](http://sabres.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cec35f366bb95ba550f15c?utm_campaign=1052&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

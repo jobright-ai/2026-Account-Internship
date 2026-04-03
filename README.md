@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BankIn Minnesota](https://www.minnesota.bank)** | **[Loan Documentation Specialist](https://jobright.ai/jobs/info/69cf42ee398fb071abf8e4cd?utm_campaign=1052&utm_source=git)** | Richfield, MN | Hybrid | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Corporate Staff Accountant](https://jobright.ai/jobs/info/69cf3fb9cfdc6132f9431870?utm_campaign=1052&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Site Accounting](https://jobright.ai/jobs/info/69cf3efb366bb95ba5514ac6?utm_campaign=1052&utm_source=git)** | Saskatoon, SK | On Site | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - International Accounting Clerk](https://jobright.ai/jobs/info/69cf3dab366bb95ba5514a79?utm_campaign=1052&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| **[Le Groupe Angelcare ┃ Angelcare Group](http://www.angelcarebaby.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69cf3d7c54f00230c6d084f4?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 02 |
+| **[TBC Corporation](http://www.tbccorp.com/)** | **[Finance Graduate Rotation YR1](https://jobright.ai/jobs/info/69964235ce78e77b4fda3bdf?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Apr 02 |
+| **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter, Third Party Residential Underwriting – BMBE](https://jobright.ai/jobs/info/69cf38d6366bb95ba5514041?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Parsippany, NJ](https://jobright.ai/jobs/info/69cf3639398fb071abf8d8f5?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | Hybrid | Apr 02 |
 | ↳ | **[Tax Winter 2027 Internship - Long Island, NY](https://jobright.ai/jobs/info/69cf3635cdb525785fb9ffbd?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Apr 02 |
 | ↳ | **[Tax Winter 2027 Internship - White Plains, NY](https://jobright.ai/jobs/info/69cf3628cfdc6132f9430d6a?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Apr 02 |
@@ -97,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69ceee7f54f00230c6d04e56?utm_campaign=1052&utm_source=git)** | Santa Maria, CA | On Site | Apr 02 |
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Collections Intern](https://jobright.ai/jobs/info/69ceee56cdb525785fb9d23d?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Apr 02 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial (Hybrid)](https://jobright.ai/jobs/info/69cf0af9cdb525785fb9e266?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 02 |
-| **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69cf0af6cdb525785fb9e25f?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 02 |
+| **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69cf0f4b366bb95ba5512294?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 02 |
 | **[Chandler Asset Management, Inc.](http://chandlerasset.com/)** | **[Investment Intern](https://jobright.ai/jobs/info/69cf305dcdb525785fb9f856?utm_campaign=1052&utm_source=git)** | San Diego,CA,US | On Site | Apr 02 |
 | **[Cerini and Associates, LLP](http://ceriniandassociates.com)** | **[Accounts Payable Auditor- Internship](https://jobright.ai/jobs/info/69ceeb14cdb525785fb9d0dc?utm_campaign=1052&utm_source=git)** | Bohemia, NY | On Site | Apr 02 |
 | **[Ryan](http://ryan.com)** | **[Intern, Real Property Tax - Plano, TX](https://jobright.ai/jobs/info/69ceeab4cdb525785fb9d082?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Apr 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cec376891d7b11cfccc439?utm_campaign=1052&utm_source=git)** | Santa Maria, California | On Site | Apr 02 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Inventory Coordinator Intern](https://jobright.ai/jobs/info/69cec373366bb95ba550f1ca?utm_campaign=1052&utm_source=git)** | 900 Georgia Avenue, Deer Park, TX, 77536, US | On Site | Apr 02 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cec35f366bb95ba550f15c?utm_campaign=1052&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 02 |
-| **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Intern-3](https://jobright.ai/jobs/info/69cec33c366bb95ba550f0ae?utm_campaign=1052&utm_source=git)** | Charleston | On Site | Apr 02 |
-| ↳ | **[Finance intern](https://jobright.ai/jobs/info/69cec33c366bb95ba550f0b0?utm_campaign=1052&utm_source=git)** | Charleston | On Site | Apr 02 |
-| **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Inventory Coordinator Intern](https://jobright.ai/jobs/info/69cec321cfdc6132f942bf94?utm_campaign=1052&utm_source=git)** | Deer Park, TX, United States | On Site | Apr 02 |
-| **[HV Holdings Ltd](http://www.hv-holdings.mu/)** | **[Internal Audit Officer](https://jobright.ai/jobs/info/69cee155891d7b11cfccdc1e?utm_campaign=1052&utm_source=git)** | Strong, ME | On Site | Apr 02 |
-| **[SRAM](https://www.sram.com/en/quarq)** | **[Accounting Intern](https://jobright.ai/jobs/info/69952fa7e0bddb6acac3b7a4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
-| **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69aa945c34184204e4491c4b?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Apr 02 |
-| **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Premium Audit Intern](https://jobright.ai/jobs/info/695ef33908ab990f282a43f9?utm_campaign=1052&utm_source=git)** | Seattle, WA | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

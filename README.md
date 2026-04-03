@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69cf7b55cdb525785fba2df7?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
 | **[American National Bank of Texas](https://www.anbtx.com/)** | **[Banking Operations Support Internship](https://jobright.ai/jobs/info/69cf5dd4891d7b11cfcd2c59?utm_campaign=1052&utm_source=git)** | Terrell, TX | On Site | Apr 02 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Treasury Analytics Intern](https://jobright.ai/jobs/info/69cf5db1366bb95ba5515917?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Financial Analysis and Accounting Intern](https://jobright.ai/jobs/info/69cf533e54f00230c6d091f0?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Credit Analyst Intern](https://jobright.ai/jobs/info/69cece7954f00230c6d03529?utm_campaign=1052&utm_source=git)** | Texas, United States | On Site | Apr 02 |
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69cece2154f00230c6d0343f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/69cec954cdb525785fb9b7c0?utm_campaign=1052&utm_source=git)** | London, ON | On Site | Apr 02 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Finance Intern - General Ledger](https://jobright.ai/jobs/info/69cec86fcdb525785fb9b64a?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL, USA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

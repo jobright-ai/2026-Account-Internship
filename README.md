@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Intern, Finance](https://jobright.ai/jobs/info/69bc4bc345e08b3dc1f8be53?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 06 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[ACCOUNTING TECHNICIAN 2 - 04072026-76466](https://jobright.ai/jobs/info/69d4a17acfdc6132f945cce5?utm_campaign=1052&utm_source=git)** | Davidson County, TN | On Site | Apr 06 |
+| ↳ | **[ACCOUNTANT 2* - 04012026-76406](https://jobright.ai/jobs/info/69ccb70b8130af1ac833e917?utm_campaign=1052&utm_source=git)** | Davidson County, TN | Hybrid | Apr 06 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d499c7e63cea7a8b65b9cb?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[AMWORLD Trans-Continental M&A](https://www.amworldadvisor.com)** | **[Trans-Continental MnA -Interns](https://jobright.ai/jobs/info/69d496ba891d7b11cfcfc014?utm_campaign=1052&utm_source=git)** | Continental, OH | On Site | Apr 06 |
 | **[Rohit Group](http://www.rohitgroup.com/)** | **[Financial Reporting Summer Student](https://jobright.ai/jobs/info/69d48d4acfdc6132f945bcad?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Apr 06 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Scoular](http://www.scoular.com/)** | **[Economic Research Intern](https://jobright.ai/jobs/info/69d44afb366bb95ba553c464?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Apr 06 |
 | **[Michigan Milk Producers Association](http://mimilk.com)** | **[Finance/Accounting Intern](https://jobright.ai/jobs/info/69d44ac1891d7b11cfcf9046?utm_campaign=1052&utm_source=git)** | Novi, MI, US | On Site | Apr 06 |
 | **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69d4449754f00230c6d2fba6?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Apr 06 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Internal Audit CoOp](https://jobright.ai/jobs/info/69d4431f54f00230c6d2faf4?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
 | **[Amcor](http://www.amcor.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d44088366bb95ba553c07e?utm_campaign=1052&utm_source=git)** | Deerfield, IL | On Site | Apr 06 |
 | **[Stearns Salaam Banking](https://www.stearnsbank.com/about/salaam-banking)** | **[Fintech Intern](https://jobright.ai/jobs/info/69d44053e63cea7a8b658214?utm_campaign=1052&utm_source=git)** | St. Cloud, MN, US | On Site | Apr 06 |
 | **[BGIS](https://www.bgis.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69d4405054f00230c6d2f8d6?utm_campaign=1052&utm_source=git)** | Markham, ON, Canada | Hybrid | Apr 06 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Investment Banking (Equity Capital Markets) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69d41c0fe63cea7a8b656920?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2663 - Accounting Intern Summer 2026 - UH](https://jobright.ai/jobs/info/69d418aae63cea7a8b65669d?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 06 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69d41778cdb525785fbc60a0?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
-| ↳ | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69d41747366bb95ba553a470?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Research Intern, Corporate Valuation Advisory Services, New York](https://jobright.ai/jobs/info/69d41320891d7b11cfcf70e1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Government Internal Audit Intern - AO](https://jobright.ai/jobs/info/69d4129a54f00230c6d2dd46?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 06 |
 | ↳ | **[Audit Analytics Intern - AO](https://jobright.ai/jobs/info/69d4127fcfdc6132f94574c7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascend](https://ascendtogether.com)** | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69d402a8e63cea7a8b655d23?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69d4010d366bb95ba55398d7?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Remote | Apr 06 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Research Intern, Corporate Valuation Advisory Services, New York](https://jobright.ai/jobs/info/69d400a3e63cea7a8b655672?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Apr 06 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Environmental & Social Risk (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69d40041cfdc6132f945661d?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

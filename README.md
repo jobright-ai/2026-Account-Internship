@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudson Advisors L.P.](http://www.hudson-advisors.com)** | **[Quant Intern, Residential Credit](https://jobright.ai/jobs/info/698beb0a06d9b06224961f0b?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 07 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Manufacturing (Sedalia)](https://jobright.ai/jobs/info/690e50ae44146d3b6ec52d5c?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | Apr 07 |
 | **[State Of Vermont Dept Health](https://www.healthvermont.gov/)** | **[Paid Internship - State Treasurer's Office - Temporary](https://jobright.ai/jobs/info/69d4c83acfdc6132f945e348?utm_campaign=1052&utm_source=git)** | Montpelier | On Site | Apr 07 |
 | **[American Real Estate Partners (AREP)](http://americanrepartners.com)** | **[Real Estate Acquisitions Internship](https://jobright.ai/jobs/info/69d4b0e1cdb525785fbcbc90?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holiday Stationstores](http://www.holidaystationstores.com)** | **[Inventory Specialist - Intern](https://jobright.ai/jobs/info/69d403edcdb525785fbc5812?utm_campaign=1052&utm_source=git)** | Brooklyn Center, MN | On Site | Apr 06 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69d402a8e63cea7a8b655d23?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Research Intern, Corporate Valuation Advisory Services, New York](https://jobright.ai/jobs/info/69d400a3e63cea7a8b655672?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Apr 06 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Environmental & Social Risk (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69d40041cfdc6132f945661d?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

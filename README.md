@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d4fa44891d7b11cfcfebb5?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Apr 07 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/69b85a3d06c1ba00c54a3081?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Apr 07 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Financial Controls Office & Accounting (HYBRID)](https://jobright.ai/jobs/info/6969f3d11703f05405abfbe8?utm_campaign=1052&utm_source=git)** | Syracuse, NY | Hybrid | Apr 07 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Revenue Planning & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69d506dacdb525785fbcdddc?utm_campaign=1052&utm_source=git)** | Anaheim, CA | On Site | Apr 07 |
+| **[KEMBA Financial Credit Union](http://www.kemba.org)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/69d50697891d7b11cfcfeea6?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Apr 07 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Marketing Finance, Ads Marketing Finance](https://jobright.ai/jobs/info/69d50346cdb525785fbcdd06?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Apr 07 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d50052706f771673ba00c8?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Apr 07 |
+| ↳ | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d50031cfdc6132f945f2c2?utm_campaign=1052&utm_source=git)** | Concord, CA | On Site | Apr 07 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Tax & Treasury Summer Internship Program](https://jobright.ai/jobs/info/69b85b3c56973837413d972a?utm_campaign=1052&utm_source=git)** | Pontiac, MI | On Site | Apr 07 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d50022cfdc6132f945f2b1?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 07 |
+| ↳ | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d4ffd7e63cea7a8b65e2a0?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
+| ↳ | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d4fa44891d7b11cfcfebb5?utm_campaign=1052&utm_source=git)** | Chandler, AZ | On Site | Apr 07 |
 | ↳ | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d4fa1dcfdc6132f945f09a?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | Apr 07 |
 | ↳ | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d4fa17706f771673b9feaa?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Apr 07 |
 | ↳ | **[Physical Collateral Examination Associate Manager](https://jobright.ai/jobs/info/69d4f8de891d7b11cfcfeb78?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 07 |
@@ -130,6 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Underwriter III- Tax Credit](https://jobright.ai/jobs/info/69d43176cfdc6132f945873b?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 06 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Accounting Intern - $19/hr.](https://jobright.ai/jobs/info/69d43174cfdc6132f9458735?utm_campaign=1052&utm_source=git)** | Romeoville, IL | On Site | Apr 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Investment Banking (Mining) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69d4305de63cea7a8b6576e9?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
+| **[WHSmith North America](http://www.marshallretailgroup.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/69d5066bcfdc6132f945f396?utm_campaign=1052&utm_source=git)** | Las Vegas - Las Vegas, NV 89118 US (Primary) | On Site | Apr 06 |
 | **[Amcor](http://www.amcor.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d42d0954f00230c6d2eca3?utm_campaign=1052&utm_source=git)** | AF Deerfield IL Corporate | On Site | Apr 06 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/69d4287dcdb525785fbc6e73?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 06 |
 | **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Project Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69d03da6cdb525785fba8ce5?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Apr 06 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wayne-Finger Lakes BOCES](http://wflboces.org)** | **[Director of the Central Business Office (Certified) -OR- School Business Executive I (Civil Service)](https://jobright.ai/jobs/info/69d420becfdc6132f9457f0a?utm_campaign=1052&utm_source=git)** | Newark, NY | On Site | Apr 06 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Deposit Operations](https://jobright.ai/jobs/info/69d41e24cfdc6132f9457df6?utm_campaign=1052&utm_source=git)** | Gretna, LA | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Fund Financial Reporting Department](https://jobright.ai/jobs/info/69d41cece63cea7a8b656d90?utm_campaign=1052&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
-| **[Green Cabbage Inc.](https://paasadvisors.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d41ce4e63cea7a8b656d63?utm_campaign=1052&utm_source=git)** | Warrendale, Pennsylvania, United States | On Site | Apr 06 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Fund Financial Reporting Department](https://jobright.ai/jobs/info/69d41cd9cfdc6132f9457da0?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
-| **[Aircastle](http://www.aircastle.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69d41c71891d7b11cfcf77f3?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 06 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Investment Banking (Equity Capital Markets) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69d41c0fe63cea7a8b656920?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
-| **[Hilcorp](http://www.hilcorp.com)** | **[I-2663 - Accounting Intern Summer 2026 - UH](https://jobright.ai/jobs/info/69d418aae63cea7a8b65669d?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 06 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69d41778cdb525785fbc60a0?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 06 |
-| **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Research Intern, Corporate Valuation Advisory Services, New York](https://jobright.ai/jobs/info/69d41320891d7b11cfcf70e1?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 06 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Government Internal Audit Intern - AO](https://jobright.ai/jobs/info/69d4129a54f00230c6d2dd46?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 06 |
-| ↳ | **[Audit Analytics Intern - AO](https://jobright.ai/jobs/info/69d4127fcfdc6132f94574c7?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 06 |
-| **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Inventory Analyst Intern](https://jobright.ai/jobs/info/69d4118de63cea7a8b6564da?utm_campaign=1052&utm_source=git)** | Wallingford, CT | On Site | Apr 06 |
-| **[Mapletree](http://www.mapletree.com.sg)** | **[Intern, Asset Management, United States](https://jobright.ai/jobs/info/69d41050cdb525785fbc5e6f?utm_campaign=1052&utm_source=git)** | Atlanta Metro | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olympic College](http://www.olympic.edu/)** | **[Finance Director](https://jobright.ai/jobs/info/69d4885fe63cea7a8b65aa83?utm_campaign=1052&utm_source=git)** | Bremerton, WA | On Site | Apr 06 |
+| **[Pronghorn](https://www.pronghorn.co/)** | **[Finance Intern (HQ)](https://jobright.ai/jobs/info/69d4841554f00230c6d31f18?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Apr 06 |
+| **[Fairfield-Suisun Sewer District](https://www.fairfieldsuisunsewer.ca.gov)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69d4813de63cea7a8b65a7eb?utm_campaign=1052&utm_source=git)** | Fairfield, CA | On Site | Apr 06 |
 | **[Commvault](https://www.commvault.com)** | **[Summer Payroll Intern](https://jobright.ai/jobs/info/69d4747d54f00230c6d315be?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[Underwriting Analyst- Agency](https://jobright.ai/jobs/info/69d4727ce63cea7a8b659db7?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69d47035366bb95ba553d698?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern - Investments](https://jobright.ai/jobs/info/69d45a70cfdc6132f945a059?utm_campaign=1052&utm_source=git)** | La Crosse, WI | On Site | Apr 06 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Utility Billing Specialist](https://jobright.ai/jobs/info/69d458e6891d7b11cfcf992a?utm_campaign=1052&utm_source=git)** | Missoula, MT | On Site | Apr 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Assurance Winter Intern](https://jobright.ai/jobs/info/69d456cae63cea7a8b658ee4?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 06 |
-| **[Pronghorn](https://www.pronghorn.co/)** | **[Finance Intern (HQ)](https://jobright.ai/jobs/info/69d455b9cdb525785fbc8449?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Apr 06 |
 | **[Figure](https://figure.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69d44fa4e63cea7a8b6588db?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance - ATG](https://jobright.ai/jobs/info/69d44e5a891d7b11cfcf92f9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Credit - Middle Market](https://jobright.ai/jobs/info/69d44e5354f00230c6d2ff70?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Apr 06 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[GALLO](http://www.gallocareers.com)** | **[Accounting Internship 2026](https://jobright.ai/jobs/info/69d43a8ccfdc6132f9459090?utm_campaign=1052&utm_source=git)** | Modesto, CA | On Site | Apr 06 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69d439ffe63cea7a8b658014?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | **[IDEXX](http://www.idexx.com)** | **[Livestock, Poultry and Dairy Intern](https://jobright.ai/jobs/info/69d4398fe63cea7a8b657d92?utm_campaign=1052&utm_source=git)** | Scarborough, ME | On Site | Apr 06 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance - ATG](https://jobright.ai/jobs/info/69d48436cfdc6132f945b890?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 06 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Investor Relations Summer Internship (Bachelors - Santa Clara, CA)](https://jobright.ai/jobs/info/69d438ee366bb95ba553b7f5?utm_campaign=1052&utm_source=git)** | Santa Clara,CA | On Site | Apr 06 |
 | **[National Grants Management Association](https://www.ngma.org)** | **[Grants Accountant](https://jobright.ai/jobs/info/69d438c5cfdc6132f9458ce4?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Marketing Finance, Ads Marketing Finance](https://jobright.ai/jobs/info/69d43835cdb525785fbc742d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Analyst, Environmental & Social Risk (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69d40041cfdc6132f945661d?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/69d4305ecdb525785fbc7155?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
 | ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69d3fd04891d7b11cfcf61ca?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
-| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69d3fcc3cfdc6132f94565b3?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
-| ↳ | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/69d3fcc3cfdc6132f94565b1?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
-| ↳ | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/69d3fc59366bb95ba553943f?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

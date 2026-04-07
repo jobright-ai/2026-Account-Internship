@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69d47035366bb95ba553d698?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Supply Chain Financial Analyst intern - Summer 2026](https://jobright.ai/jobs/info/69d46d54e63cea7a8b659684?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Apr 06 |
+| **[American Real Estate Partners (AREP)](http://americanrepartners.com)** | **[Real Estate Acquisitions Internship](https://jobright.ai/jobs/info/69d467a454f00230c6d30b07?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Apr 06 |
+| **[Figure](https://figure.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69d4636b366bb95ba553d141?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
+| **[Backhaul Direct](http://backhauldirect.com)** | **[Summer 2026 Finance & Accounting Internship](https://jobright.ai/jobs/info/69d4635f366bb95ba553d12b?utm_campaign=1052&utm_source=git)** | Greater Indianapolis | On Site | Apr 06 |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69d46340366bb95ba553d0f8?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Apr 06 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69d4524a366bb95ba553c6ee?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Apr 06 |
 | **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern - Investments](https://jobright.ai/jobs/info/69d45a70cfdc6132f945a059?utm_campaign=1052&utm_source=git)** | La Crosse, WI | On Site | Apr 06 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Utility Billing Specialist](https://jobright.ai/jobs/info/69d458e6891d7b11cfcf992a?utm_campaign=1052&utm_source=git)** | Missoula, MT | On Site | Apr 06 |
@@ -68,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69d44dd1cdb525785fbc82c1?utm_campaign=1052&utm_source=git)** | Vancouver, WA | Hybrid | Apr 06 |
 | **[Scoular](http://www.scoular.com/)** | **[Economic Research Intern](https://jobright.ai/jobs/info/69d44afb366bb95ba553c464?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Apr 06 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Internal Audit CoOp](https://jobright.ai/jobs/info/69d44ad4e63cea7a8b658593?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
-| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69d44acee63cea7a8b658561?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Apr 06 |
 | **[Michigan Milk Producers Association](http://mimilk.com)** | **[Finance/Accounting Intern](https://jobright.ai/jobs/info/69d44ac1891d7b11cfcf9046?utm_campaign=1052&utm_source=git)** | Novi, MI, US | On Site | Apr 06 |
 | **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69d4449754f00230c6d2fba6?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Apr 06 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Internal Audit CoOp](https://jobright.ai/jobs/info/69d4431f54f00230c6d2faf4?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/69d3fc59366bb95ba553943f?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter](https://jobright.ai/jobs/info/69cb4238aa3c2c1995e35846?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Apr 06 |
 | ↳ | **[Associate Mortgage Underwriter, Third Party Residential Underwriting – BMBE](https://jobright.ai/jobs/info/69cf38d6366bb95ba5514041?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
-| **[PSECU](http://psecu.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69d3f67e891d7b11cfcf5e80?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 06 |
-| **[American National Bank of Texas](https://www.anbtx.com/)** | **[Credit Administration Internship](https://jobright.ai/jobs/info/69d3f67e54f00230c6d2cb8f?utm_campaign=1052&utm_source=git)** | Terrell, TX | On Site | Apr 06 |
-| **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern - Investments](https://jobright.ai/jobs/info/69d3f604cdb525785fbc4cff?utm_campaign=1052&utm_source=git)** | La Crosse,WI,US | On Site | Apr 06 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Finance Administration Intern - Seasonal (Tropicana Atlantic City)](https://jobright.ai/jobs/info/69d3f3fce63cea7a8b655262?utm_campaign=1052&utm_source=git)** | Atlantic City, NJ | On Site | Apr 06 |
-| **[Pinnacle Private Credit](www.pinnacleprivatecredit.com)** | **[Junior Underwriter](https://jobright.ai/jobs/info/69d3f3d6366bb95ba5539046?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d499c7e63cea7a8b65b9cb?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[AMWORLD Trans-Continental M&A](https://www.amworldadvisor.com)** | **[Trans-Continental MnA -Interns](https://jobright.ai/jobs/info/69d496ba891d7b11cfcfc014?utm_campaign=1052&utm_source=git)** | Continental, OH | On Site | Apr 06 |
 | **[Rohit Group](http://www.rohitgroup.com/)** | **[Financial Reporting Summer Student](https://jobright.ai/jobs/info/69d48d4acfdc6132f945bcad?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Apr 06 |
-| **[Olympic College](http://www.olympic.edu/)** | **[Finance Director](https://jobright.ai/jobs/info/69d4885fe63cea7a8b65aa83?utm_campaign=1052&utm_source=git)** | Bremerton, WA | On Site | Apr 06 |
 | **[Pronghorn](https://www.pronghorn.co/)** | **[Finance Intern (HQ)](https://jobright.ai/jobs/info/69d4841554f00230c6d31f18?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | On Site | Apr 06 |
 | **[Fairfield-Suisun Sewer District](https://www.fairfieldsuisunsewer.ca.gov)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69d4813de63cea7a8b65a7eb?utm_campaign=1052&utm_source=git)** | Fairfield, CA | On Site | Apr 06 |
 | **[Commvault](https://www.commvault.com)** | **[Summer Payroll Intern](https://jobright.ai/jobs/info/69d4747d54f00230c6d315be?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 06 |
@@ -99,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[GALLO](http://www.gallocareers.com)** | **[Accounting Internship 2026](https://jobright.ai/jobs/info/69d43a8ccfdc6132f9459090?utm_campaign=1052&utm_source=git)** | Modesto, CA | On Site | Apr 06 |
 | **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69d439ffe63cea7a8b658014?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
 | **[IDEXX](http://www.idexx.com)** | **[Livestock, Poultry and Dairy Intern](https://jobright.ai/jobs/info/69d4398fe63cea7a8b657d92?utm_campaign=1052&utm_source=git)** | Scarborough, ME | On Site | Apr 06 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance - ATG](https://jobright.ai/jobs/info/69d48436cfdc6132f945b890?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 06 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Investor Relations Summer Internship (Bachelors - Santa Clara, CA)](https://jobright.ai/jobs/info/69d438ee366bb95ba553b7f5?utm_campaign=1052&utm_source=git)** | Santa Clara,CA | On Site | Apr 06 |
 | **[National Grants Management Association](https://www.ngma.org)** | **[Grants Accountant](https://jobright.ai/jobs/info/69d438c5cfdc6132f9458ce4?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Marketing Finance, Ads Marketing Finance](https://jobright.ai/jobs/info/69d43835cdb525785fbc742d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 06 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Ascend](https://ascendtogether.com)** | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69d402a8e63cea7a8b655d23?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Summer 2026 Research Intern, Corporate Valuation Advisory Services, New York](https://jobright.ai/jobs/info/69d400a3e63cea7a8b655672?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Apr 06 |
 | **[BMO](http://www.bmo.com)** | **[Analyst, Environmental & Social Risk (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69d40041cfdc6132f945661d?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
+| **[Ascend](https://ascendtogether.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/69d4305ecdb525785fbc7155?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
+| ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69d3fd04891d7b11cfcf61ca?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

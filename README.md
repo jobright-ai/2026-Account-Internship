@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Financial Reporting Process Improvements Intern](https://jobright.ai/jobs/info/69d65c9748f0c8161d2f778f?utm_campaign=1052&utm_source=git)** | Canton, MA | Hybrid | Apr 08 |
+| **[Hard Rock International](https://www.hardrockhotels.com)** | **[Intern - Casino Accounting](https://jobright.ai/jobs/info/69d65baa48f0c8161d2f771b?utm_campaign=1052&utm_source=git)** | Hard Rock Hotel & Casino Atlantic City | On Site | Apr 08 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Special Servicing Intern- Summer 2026](https://jobright.ai/jobs/info/69d657d5cfdc6132f9469845?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
+| **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Financial Reporting Process Improvements Intern](https://jobright.ai/jobs/info/69d6549acfdc6132f94697f4?utm_campaign=1052&utm_source=git)** | Canton, MA, US | Hybrid | Apr 08 |
+| **[BioLife Plasma Services](https://www.biolifeplasma.com/us/)** | **[2026 Summer Internship Program: Financial Planning and Analysis (FP&A), Global BioLife Intern](https://jobright.ai/jobs/info/69cb19c7e565c26a700449d3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 08 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ba8bb15697383741402ac9?utm_campaign=1052&utm_source=git)** | Orange, CA | On Site | Apr 08 |
 | **[Fall Creek®](http://www.fallcreeknursery.com)** | **[Finance Graduate Intern](https://jobright.ai/jobs/info/69a8974d79f3f4037f42951b?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 08 |
-| **[NOVA Parks](https://www.novaparks.com)** | **[Accounting Specialist](https://jobright.ai/jobs/info/69d64a54e63cea7a8b668446?utm_campaign=1052&utm_source=git)** | Fairfax Station, VA | On Site | Apr 08 |
 | **[Bunge](http://www.bunge.com)** | **[Quantitative Risk Analyst Intern](https://jobright.ai/jobs/info/69a88f792580d3183f0093d2?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | On Site | Apr 08 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/69bb8ccf3b74eb1e2c8a0c58?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Apr 08 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Payroll Intern - Summer 2026](https://jobright.ai/jobs/info/69ba96c506c1ba00c54cb929?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Apr 08 |
@@ -105,18 +109,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa3fcfdc6132f9463dc2?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 07 |
 | ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa2a706f771673ba4bb7?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Apr 07 |
 | ↳ | **[Tax Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa2a706f771673ba4bbc?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa2a706f771673ba4bb5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
+| ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa29cdb525785fbd2760?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 07 |
 | ↳ | **[Intern State and Local Tax Advisory Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa29cdb525785fbd2754?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | ↳ | **[Intern State and Local Tax Advisory Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa29366bb95ba5546a42?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Apr 07 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa29cdb525785fbd2760?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 07 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa27e63cea7a8b662def?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 07 |
-| ↳ | **[Intern Audit Winter 2027 / Greensboro](https://jobright.ai/jobs/info/69d5aa25cdb525785fbd273f?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
 | ↳ | **[Intern Audit Winter 2027 / Springfield](https://jobright.ai/jobs/info/69d5aa24cdb525785fbd273b?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Apr 07 |
 | ↳ | **[Intern State and Local Tax Advisory Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5aa20cdb525785fbd2734?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Apr 07 |
 | ↳ | **[Tax Resource Manager - Southeast](https://jobright.ai/jobs/info/69d5aa1de63cea7a8b662dbd?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
-| ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5a9f7891d7b11cfd03851?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
 | ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5a9f7891d7b11cfd03848?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Apr 07 |
 | ↳ | **[Intern Tax Summer 2027 / Jacksonville](https://jobright.ai/jobs/info/69d5a9f7891d7b11cfd03853?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Apr 07 |
+| ↳ | **[Intern State and Local Tax Advisory Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5a9f7891d7b11cfd03851?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
 | ↳ | **[Intern State and Local Tax Advisory Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d5a9f5891d7b11cfd0383a?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
 | ↳ | **[Intern Tax Winter 2027 / Fort Wayne](https://jobright.ai/jobs/info/69d5a9eb891d7b11cfd0381e?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Apr 07 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[MBA Intern - Finance & Business Intelligence](https://jobright.ai/jobs/info/69d5a8c8891d7b11cfd03803?utm_campaign=1052&utm_source=git)** | Racine, WI | Hybrid | Apr 07 |
@@ -125,8 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Family Tree Farms](https://familytreefarms.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d5a783366bb95ba55468dd?utm_campaign=1052&utm_source=git)** | Reedley,CA,US | On Site | Apr 07 |
 | **[Novogradac](https://www.novoco.com)** | **[2026 Summer Staff Accountant Intern](https://jobright.ai/jobs/info/69d5a4c6366bb95ba55467d6?utm_campaign=1052&utm_source=git)** | Toms River, NJ | Hybrid | Apr 07 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[AR Department Intern](https://jobright.ai/jobs/info/69d5a112e63cea7a8b662a75?utm_campaign=1052&utm_source=git)** | Eatontown, NJ | On Site | Apr 07 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69d5a0cb706f771673ba484a?utm_campaign=1052&utm_source=git)** | Pflugerville, TX | Remote | Apr 07 |
-| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[AR Department Intern](https://jobright.ai/jobs/info/69d5a0bc891d7b11cfd034f8?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Apr 07 |
+| ↳ | **[AR Department Intern](https://jobright.ai/jobs/info/69d5a0bc891d7b11cfd034f8?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Apr 07 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Multi-Asset Trade Operations Senior Analyst, Cash](https://jobright.ai/jobs/info/69d5f8584a12eb12c5e1506b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Cortland](https://www.cortland.com/)** | **[Finance and Investor Relations Intern - Atlanta, GA](https://jobright.ai/jobs/info/69d59f7acdb525785fbd2387?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Idaho Housing and Finance Association](https://idahohousing.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cb1214466f1e133aacaa0f?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Apr 07 |

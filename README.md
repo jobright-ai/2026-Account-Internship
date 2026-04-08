@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novogradac](https://www.novoco.com)** | **[2026 Summer Staff Accountant Intern](https://jobright.ai/jobs/info/69d5a4c6366bb95ba55467d6?utm_campaign=1052&utm_source=git)** | Toms River, NJ | Hybrid | Apr 07 |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[AR Department Intern](https://jobright.ai/jobs/info/69d5a112e63cea7a8b662a75?utm_campaign=1052&utm_source=git)** | Eatontown, NJ | On Site | Apr 07 |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69d5a0cb706f771673ba484a?utm_campaign=1052&utm_source=git)** | Pflugerville, TX | Remote | Apr 07 |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[AR Department Intern](https://jobright.ai/jobs/info/69d5a0bc891d7b11cfd034f8?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Apr 07 |
+| **[Cortland](https://cortland.com)** | **[Finance and Investor Relations Intern - Atlanta, GA](https://jobright.ai/jobs/info/69d59f7acdb525785fbd2387?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
+| **[Idaho Housing and Finance Association](https://idahohousing.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cb1214466f1e133aacaa0f?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Apr 07 |
+| **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Multi-Asset Trade Operations Senior Analyst, Cash](https://jobright.ai/jobs/info/69d59e33cdb525785fbd22d9?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 07 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics, Worldwide Installments Science & Engineering](https://jobright.ai/jobs/info/69d59e2f706f771673ba4744?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Apr 07 |
+| **[Medica](https://www.medica.com)** | **[Medicare Segment Intern](https://jobright.ai/jobs/info/69d59e1d891d7b11cfd03388?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Apr 07 |
+| **[NFI](http://www.nfiindustries.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d59c19366bb95ba5546581?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Apr 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Finance and Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69d594d0891d7b11cfd030ea?utm_campaign=1052&utm_source=git)** | Anaheim, CA, USA | Hybrid | Apr 07 |
 | **[Columbia Credit Union](https://www.columbiacu.org/)** | **[Future Leaders / Internship Program 2026 (Finance Internship)](https://jobright.ai/jobs/info/69d594cde63cea7a8b66264d?utm_campaign=1052&utm_source=git)** | Vancouver, Washington, United States | On Site | Apr 07 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Engineering Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/69d594be366bb95ba55462cc?utm_campaign=1052&utm_source=git)** | US.OR.Portland | On Site | Apr 07 |
@@ -88,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Contemporary Amperex Technology USA Inc](http://www.catl.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b23c4ca8ac8e70ff66107f?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 07 |
 | **[Westfalia Technologies, Inc.](http://westfaliausa.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d57c32706f771673ba39bf?utm_campaign=1052&utm_source=git)** | Westfalia Technologies - York, PA 17406 | On Site | Apr 07 |
 | **[Tencent](https://www.tencent.com/)** | **[Strategic Investment Intern](https://jobright.ai/jobs/info/69d579b1cdb525785fbd11ef?utm_campaign=1052&utm_source=git)** | Palo Alto, CA | On Site | Apr 07 |
-| ↳ | **[Strategic Investment Intern](https://jobright.ai/jobs/info/69d578f3e63cea7a8b6618f0?utm_campaign=1052&utm_source=git)** | Utica-Rome Area | On Site | Apr 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship (FALL)](https://jobright.ai/jobs/info/69d57823366bb95ba55454e3?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Tax Seasonal Intern, Trust Tax / Providence Summer 2026](https://jobright.ai/jobs/info/69d577f0891d7b11cfd022e8?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | Apr 07 |
 | **[Trident Seafoods](http://www.tridentseafoods.com/)** | **[DIRECT PROCUREMENT INTERN](https://jobright.ai/jobs/info/69d574e6cdb525785fbd102e?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Apr 07 |
@@ -106,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Cherry Bekaert](https://www.cbh.com)** | **[International Tax Manager - Compliance](https://jobright.ai/jobs/info/69c4dab833eecf3107954b39?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69d56833366bb95ba5544cd7?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 07 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Finance Officer](https://jobright.ai/jobs/info/69d56746cfdc6132f946200b?utm_campaign=1052&utm_source=git)** | Headquarters, KY | On Site | Apr 07 |
-| **[Jabil](https://www.jabil.com)** | **[Financial Reporting Intern (Consolidations)](https://jobright.ai/jobs/info/69d56728706f771673ba2dfb?utm_campaign=1052&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d565d8cfdc6132f9461f8f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Foundation Fund and Scholarship Coordinator - Statler College of Engineering and Mineral Resources  28750](https://jobright.ai/jobs/info/69d565d5cdb525785fbd08b2?utm_campaign=1052&utm_source=git)** | Morgantown, WV | On Site | Apr 07 |
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[Procurement Intern (Sourcing Specialist)](https://jobright.ai/jobs/info/69d565ca366bb95ba5544be7?utm_campaign=1052&utm_source=git)** | Pennsylvania, United States | On Site | Apr 07 |
@@ -116,8 +124,7 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Investment Research Intern](https://jobright.ai/jobs/info/69d5619c891d7b11cfd0185d?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Apr 07 |
 | **[Vancouver Housing Authority](http://www.vhausa.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d5605f366bb95ba5544872?utm_campaign=1052&utm_source=git)** | Vancouver,WA,US | On Site | Apr 07 |
 | **[Asset Management Powered by AssetWorks USA](https://www.assetworks.com/active-assets/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d56040cdb525785fbd046f?utm_campaign=1052&utm_source=git)** | United States - Pennsylvania | On Site | Apr 07 |
-| **[Tencent](https://www.tencent.com/)** | **[Strategic Investment Intern](https://jobright.ai/jobs/info/69d5602be63cea7a8b660ab6?utm_campaign=1052&utm_source=git)** | US-New York State-New York | On Site | Apr 07 |
-| ↳ | **[Strategic Investment Intern](https://jobright.ai/jobs/info/69d56010cfdc6132f9461a98?utm_campaign=1052&utm_source=git)** | US-California-Palo Alto | On Site | Apr 07 |
+| **[Tencent](https://www.tencent.com/)** | **[Strategic Investment Intern](https://jobright.ai/jobs/info/69d56010cfdc6132f9461a98?utm_campaign=1052&utm_source=git)** | US-California-Palo Alto | On Site | Apr 07 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern (Audit & Process Improvement)](https://jobright.ai/jobs/info/69d5600bcfdc6132f9461a91?utm_campaign=1052&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Apr 07 |
 | **[Bci Miami](https://www.bcimiami.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/69d55afb706f771673ba2615?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 07 |
 | **[Central Hudson](https://www.cenhud.com)** | **[Cost & Rate Intern](https://jobright.ai/jobs/info/69d55a2fe63cea7a8b66078c?utm_campaign=1052&utm_source=git)** | Poughkeepsie, NY | On Site | Apr 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 Investment Management -MAS (Winnipeg Office)](https://jobright.ai/jobs/info/69d545a3891d7b11cfd0085e?utm_campaign=1052&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 07 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Payment Operations Intern](https://jobright.ai/jobs/info/69d540ee891d7b11cfd0072f?utm_campaign=1052&utm_source=git)** | Westborough, MA | On Site | Apr 07 |
 | **[Weaver](http://www.weaver.com)** | **[Tax Intern - High-Net-Worth](https://jobright.ai/jobs/info/69d540decfdc6132f9460c2a?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 07 |
-| ↳ | **[Tax Intern - High-Net-Worth](https://jobright.ai/jobs/info/69d540d8cdb525785fbcf56f?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 07 |
-| ↳ | **[Tax Intern - High-Net-Worth](https://jobright.ai/jobs/info/69d540d8cdb525785fbcf572?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Apr 07 |
-| **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Associate – US & International Tax (Controversy) – New York](https://jobright.ai/jobs/info/69c6339b1b5ad0288737feb1?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 07 |
-| **[Lennox](http://www.lennox.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d53e29e63cea7a8b65faf0?utm_campaign=1052&utm_source=git)** | Bay Shore, NY, US | On Site | Apr 07 |
-| **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Payment Operations Intern](https://jobright.ai/jobs/info/69d53e22366bb95ba5543801?utm_campaign=1052&utm_source=git)** | US-MA-Westborough | On Site | Apr 07 |
-| ↳ | **[Payment Operations Intern](https://jobright.ai/jobs/info/69d53e1e706f771673ba191e?utm_campaign=1052&utm_source=git)** | Westborough, MA, US | On Site | Apr 07 |
-| **[Lennox](http://www.lennox.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d53e1d706f771673ba1918?utm_campaign=1052&utm_source=git)** | US-NY-Bay Shore | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

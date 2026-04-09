@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Audit Intern](https://jobright.ai/jobs/info/69d81764b861c42857c4890f?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Apr 09 |
+| **[University Bank](http://university-bank.com)** | **[Commercial Specialist](https://jobright.ai/jobs/info/69d8172d738f2f099e89a910?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Apr 09 |
+| **[Nexthink](http://www.nexthink.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69d816c8f4ea471a51fe3bc7?utm_campaign=1052&utm_source=git)** | Boston, MA, USA | Hybrid | Apr 09 |
+| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a398?utm_campaign=1052&utm_source=git)** | Kirkland, Washington, United States | Hybrid | Apr 09 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d816b5f4ea471a51fe3b83?utm_campaign=1052&utm_source=git)** | 13 Williams Mullen Ctr, Richmond, VA, 23219, US | On Site | Apr 09 |
+| **[Day & Zimmermann](http://dayzim.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d80fa6738f2f099e89a737?utm_campaign=1052&utm_source=git)** | Middletown, IA | On Site | Apr 09 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69d80fa2f4ea471a51fe3a1c?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
+| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80f8cb861c42857c4873f?utm_campaign=1052&utm_source=git)** | Kirkland, WA | Hybrid | Apr 09 |
+| **[Brant Haldimand Norfolk Catholic District School Board](http://www.bhncdsb.ca)** | **[Intermediate Accounting/Financial Analyst - Permanent FT - Catholic Education Centre, Brantford  (1.0 FTE)](https://jobright.ai/jobs/info/69d80f3c738f2f099e89a664?utm_campaign=1052&utm_source=git)** | Brantford, ON | On Site | Apr 09 |
 | **[State of Ohio](http://ohio.gov/)** | **[Fiscal College Intern (PN 20093158)](https://jobright.ai/jobs/info/69d80ea9b861c42857c4856b?utm_campaign=1052&utm_source=git)** | Columbus Dev Ctr Admin Bldg1810 Sullivant Avenue | On Site | Apr 09 |
 | ↳ | **[Fiscal College Intern (PN 20093158)](https://jobright.ai/jobs/info/69d80ea8b67cec4f9b09a540?utm_campaign=1052&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Apr 09 |
 | **[Medica](https://www.medica.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d80e999f97a42dc9c1a113?utm_campaign=1052&utm_source=git)** | Madison, Wisconsin, United States | Hybrid | Apr 09 |
@@ -102,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[ParetoHealth](https://paretohealth.com)** | **[Finance MBA Summer Intern](https://jobright.ai/jobs/info/69d7f1a5f4ea471a51fe2a19?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Apr 09 |
 | **[AZ Investments](https://azinvs.com)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69d7f132738f2f099e89956a?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 09 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Cost Accounting Intern Fall 2026](https://jobright.ai/jobs/info/6966ac3c7a34f53920552a1b?utm_campaign=1052&utm_source=git)** | Columbus, MS | On Site | Apr 09 |
-| **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d7efb5f4ea471a51fe28e3?utm_campaign=1052&utm_source=git)** | Carol Stream, IL | On Site | Apr 09 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Finance MBA Summer Intern](https://jobright.ai/jobs/info/69d7ef1ab861c42857c475a8?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[Accounts Payable Technician](https://jobright.ai/jobs/info/69d7eccd738f2f099e89924c?utm_campaign=1052&utm_source=git)** | Cedar Park, TX | On Site | Apr 09 |
 | **[Hunt Companies, Inc](http://www.huntcompanies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d7ec8fb67cec4f9b09931b?utm_campaign=1052&utm_source=git)** | El Paso, TX | On Site | Apr 09 |
@@ -137,8 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69d7cf38869c7e25d8590da1?utm_campaign=1052&utm_source=git)** | 300 Centre Pointe Dr, Virginia Beach, 23462 | On Site | Apr 09 |
 | **[Rich Products Corporation](https://rich.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6967036b639b452fb57c94a8?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 09 |
 | **[Presence](https://presence.com)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d7e4e0f4ea471a51fe23c3?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 09 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69d7c696738f2f099e897351?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
-| ↳ | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69d7c696738f2f099e89734c?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69d7c696738f2f099e89734c?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69d7c5cff4ea471a51fe078b?utm_campaign=1052&utm_source=git)** | Greater Houston | Hybrid | Apr 09 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern. Controller](https://jobright.ai/jobs/info/69bb20725697383741411f1d?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Financial Operations and Partnerships Analysts](https://jobright.ai/jobs/info/69c72bf81818a24cd84cc4c2?utm_campaign=1052&utm_source=git)** | Northridge, California, United States | On Site | Apr 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ccb65fcdb525785fb819f4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[P&C Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/69656d216d52670c5c3e47fa?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Apr 09 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Governance, budget, and sourcing Summer Intern](https://jobright.ai/jobs/info/6965be4d5ad3a93f82311f51?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 09 |
-| ↳ | **[CIB Operations Analyst – Graduate](https://jobright.ai/jobs/info/6966ebe3b098f4515f4e576d?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 09 |
-| **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6967d0acf25a380066962cea?utm_campaign=1052&utm_source=git)** | Ottawa, ON | Hybrid | Apr 09 |
-| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Finance Department)](https://jobright.ai/jobs/info/69d7f1a4b67cec4f9b0995e0?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Apr 09 |
-| **[DHL Express](https://www.dhl.com/au-en/home/express.html)** | **[Sustainability Finance Summer Intern](https://jobright.ai/jobs/info/69d7ba79b861c42857c45131?utm_campaign=1052&utm_source=git)** | Plantation, FL | Hybrid | Apr 09 |
-| **[Presence](https://presence.com)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69d7ba099f97a42dc9c16bbf?utm_campaign=1052&utm_source=git)** | Remote, US | Remote | Apr 09 |
-| **[Crown Castle](https://www.crowncastle.com/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69d7b99e738f2f099e896df5?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Apr 09 |
-| **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Corporate Finance Internship](https://jobright.ai/jobs/info/69d7b993f4ea471a51fe0326?utm_campaign=1052&utm_source=git)** | Branson West, Missouri, United States | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

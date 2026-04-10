@@ -57,8 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Accounting Representative-(Hybrid) University Payroll and Benefits](https://jobright.ai/jobs/info/69d8377c738f2f099e89b7d0?utm_campaign=1052&utm_source=git)** | Urbana, IL | Hybrid | Apr 09 |
+| ↳ | **[Financial Accounting and Reporting Analyst - Hybrid](https://jobright.ai/jobs/info/69d83760869c7e25d859473e?utm_campaign=1052&utm_source=git)** | Urbana, IL | Hybrid | Apr 09 |
+| **[Avista](https://myavista.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d83756b67cec4f9b09b762?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Apr 09 |
+| **[Medica](https://www.medica.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d83746b861c42857c4975c?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Apr 09 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d83744b861c42857c4974c?utm_campaign=1052&utm_source=git)** | Hopkins, MN | Hybrid | Apr 09 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69d833f2f4ea471a51fe48da?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 09 |
+| **[Allient](http://www.alliedmotion.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d833d0b67cec4f9b09b5ee?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Apr 09 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d833bcb67cec4f9b09b5aa?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 09 |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d8338bb861c42857c495b3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 09 |
+| **[Allient](http://www.alliedmotion.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d83377b67cec4f9b09b53f?utm_campaign=1052&utm_source=git)** | OSHKOSH, OSHKOSH, WI, US | On Site | Apr 09 |
+| **[California State University, Bakersfield](https://www.csub.edu/)** | **[Accountant II](https://jobright.ai/jobs/info/69d8332a9f97a42dc9c1af5d?utm_campaign=1052&utm_source=git)** | Bakersfield, CA | On Site | Apr 09 |
+| **[New York Post](http://nypost.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d830c9869c7e25d8594492?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 09 |
+| **[Nexthink](http://www.nexthink.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69d830c0869c7e25d8594471?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 09 |
+| **[Centrum Health](https://centrumhealth.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d82b37b861c42857c49367?utm_campaign=1052&utm_source=git)** | St. Louis Park, Minnesota, United States | On Site | Apr 09 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance - Summer 2026](https://jobright.ai/jobs/info/69d82af5f4ea471a51fe45c4?utm_campaign=1052&utm_source=git)** | One Misco Drive, Whitehall, MI, 49461-1799, US | On Site | Apr 09 |
 | **[Palomar Health](http://www.palomarhealth.org)** | **[Financial Rep Access Dept](https://jobright.ai/jobs/info/69d82855738f2f099e89b0f4?utm_campaign=1052&utm_source=git)** | Escondido, CA | On Site | Apr 09 |
-| **[Olympic College](http://www.olympic.edu/)** | **[Finance Director](https://jobright.ai/jobs/info/69d827d5869c7e25d8594179?utm_campaign=1052&utm_source=git)** | Bremerton, WA | On Site | Apr 09 |
 | **[Ohio Department of Developmental Disabilities](https://dodd.ohio.gov)** | **[Fiscal College Intern (PN 20093158)](https://jobright.ai/jobs/info/69d8275bf4ea471a51fe43b4?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69d826ecb861c42857c49130?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
 | **[Terrible's](https://www.terribles.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69d826289f97a42dc9c1ab8e?utm_campaign=1052&utm_source=git)** | Las Vegas, NV - 380/381 Jett Gaming Corp | On Site | Apr 09 |
@@ -100,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Finance and Accounting Intern - Shared Services Center](https://jobright.ai/jobs/info/69d80a57b67cec4f9b09a1ae?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 09 |
 | **[FNBO](https://www.fnbo.com)** | **[Northland Securities - Public Finance Intern](https://jobright.ai/jobs/info/69d80a2db861c42857c482fb?utm_campaign=1052&utm_source=git)** | Omaha Metropolitan Area | On Site | Apr 09 |
 | **[CME Wire and Cable, Inc.](http://cmewire.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80a05b861c42857c48299?utm_campaign=1052&utm_source=git)** | Suwanee, GA | On Site | Apr 09 |
-| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69d809fbb861c42857c48278?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Apr 09 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Accounting/Internal Audit Internship](https://jobright.ai/jobs/info/69d809e3f4ea471a51fe350e?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 09 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern-Seattle (For Internal Use Only)](https://jobright.ai/jobs/info/69d809e1b67cec4f9b09a04d?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Single Audit Intern - Summer 2026 (Naperville, IL)](https://jobright.ai/jobs/info/69d809d6738f2f099e89a2b7?utm_campaign=1052&utm_source=git)** | Naperville, IL | On Site | Apr 09 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DSB Rock Island](https://dsb-rockisland.com)** | **[Tax Intern](https://jobright.ai/jobs/info/694b0e4d4b53a1551f94be88?utm_campaign=1052&utm_source=git)** | Mendota Heights, MN | On Site | Apr 09 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/69d80a0ab67cec4f9b09a0a3?utm_campaign=1052&utm_source=git)** | Augusta, ME | Hybrid | Apr 09 |
 | **[Otter Tail County](https://ottertailcounty.gov/)** | **[Accounting Specialist - Finance](https://jobright.ai/jobs/info/69d7de9b738f2f099e898d5f?utm_campaign=1052&utm_source=git)** | Fergus Falls, MN | On Site | Apr 09 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Portfolio Management](https://jobright.ai/jobs/info/69bb8eef3b74eb1e2c8a1682?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/69b8cff556973837413e66cb?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Apr 09 |
-| **[TTM Technologies](https://www.ttm.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d845b67cec4f9b098d53?utm_campaign=1052&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 09 |
-| **[Carson Group](https://www.carsongroup.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d829b861c42857c46d0b?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Apr 09 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69bb8d70569738374141a8e3?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Apr 09 |
-| **[Hendrick Architectural](https://www.hendrickcorp.com/architectural/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d6eab67cec4f9b098b74?utm_campaign=1052&utm_source=git)** | Hendrick Manufacturing - Carbondale, PA 18407 | On Site | Apr 09 |
-| **[E.D. Etnyre & Co.](https://www.etnyre.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d6eab67cec4f9b098b70?utm_campaign=1052&utm_source=git)** | Hendrick Manufacturing - Carbondale, PA 18407 | On Site | Apr 09 |
-| **[Vishay Intertechnology, Inc.](http://www.vishay.com/)** | **[Cost Analysis Intern](https://jobright.ai/jobs/info/69b2571fad360c0340a71d03?utm_campaign=1052&utm_source=git)** | Columbus, NE | On Site | Apr 09 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/699fa6ea81476f6176b95fb9?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Apr 09 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1e49f97a42dc9c17f83?utm_campaign=1052&utm_source=git)** | Chino, CA, US | On Site | Apr 09 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b0982a1?utm_campaign=1052&utm_source=git)** | US-CA-Chino | On Site | Apr 09 |
-| **[Flatiron Construction](http://www.flatironcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d0e7b67cec4f9b0980f3?utm_campaign=1052&utm_source=git)** | Chino, CA, US | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

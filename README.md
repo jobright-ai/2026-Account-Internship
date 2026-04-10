@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Student Public Finance Specialist](https://jobright.ai/jobs/info/69d86a4f869c7e25d8595705?utm_campaign=1052&utm_source=git)** | Auburn, AL | On Site | Apr 09 |
+| **[NetApp](http://netapp.com)** | **[Finance Intern -G&A](https://jobright.ai/jobs/info/69d86a37738f2f099e89c644?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
+| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Consultancy Internal Auditor (Roster), Office of Audit and Investigation Services (OAIS), UNFPA](https://jobright.ai/jobs/info/69d869fcf4ea471a51fe58fe?utm_campaign=1052&utm_source=git)** | Home, KS | On Site | Apr 09 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Corporate Accounting](https://jobright.ai/jobs/info/69d85def869c7e25d85950fc?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Apr 09 |
 | **[Marshall University School of Pharmacy](https://www.marshall.edu/pharmacy/)** | **[Manager, Technology Strategic Procurement & Budget Management](https://jobright.ai/jobs/info/69d85bbbf4ea471a51fe52e6?utm_campaign=1052&utm_source=git)** | Huntington, WV | On Site | Apr 09 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69d85411738f2f099e89bdb3?utm_campaign=1052&utm_source=git)** | Redding-Red Bluff Area | Hybrid | Apr 09 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Tennis Channel](http://www.tennischannel.com/)** | **[Summer 2026 Intern – Production Finance](https://jobright.ai/jobs/info/69d7fcf4f4ea471a51fe2cfa?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | On Site | Apr 09 |
 | **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern) - Corporate Finance - Turnaround & Restructuring](https://jobright.ai/jobs/info/69bb5b603b74eb1e2c89c907?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/699e7f48ce78e77b4fe3d9c6?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Apr 09 |
-| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/699e415ce0bddb6acacda333?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 09 |
 | ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/699e4583e0bddb6acacdac0b?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL | On Site | Apr 09 |
+| ↳ | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/699e415ce0bddb6acacda333?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Mergers and Acquisitions Intern](https://jobright.ai/jobs/info/69d7f912869c7e25d8592984?utm_campaign=1052&utm_source=git)** | United States-Nebraska-Omaha | On Site | Apr 09 |
 | **[Midwest Loan Services](https://midwestloanservices.com/)** | **[Commercial Credit Intern  (Part-Time)](https://jobright.ai/jobs/info/69d7f909b861c42857c4785f?utm_campaign=1052&utm_source=git)** | ANN ARBOR,MI,US | On Site | Apr 09 |
-| **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Accounting/Internal Audit Internship](https://jobright.ai/jobs/info/69d7f8fb9f97a42dc9c1934e?utm_campaign=1052&utm_source=git)** | Buffalo, New York, United States | Hybrid | Apr 09 |
-| **[Avista](https://myavista.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d7f8d7f4ea471a51fe2b39?utm_campaign=1052&utm_source=git)** | Spokane, Washington, United States | On Site | Apr 09 |
-| **[Hard Rock Hotel & Casino Atlantic City](https://hardrockhotelatlanticcity.com/)** | **[Intern - Casino Accounting](https://jobright.ai/jobs/info/69d82442b861c42857c48dd7?utm_campaign=1052&utm_source=git)** | Atlantic City, NJ | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

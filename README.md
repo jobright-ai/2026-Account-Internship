@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69d8b448f748bc5d08a45536?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
+| ↳ | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69d8b439f748bc5d08a4551b?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
+| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Accountant](https://jobright.ai/jobs/info/69d8b34cf748bc5d08a45409?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69d8b266738f2f099e89e3e9?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Apr 10 |
+| **[Wisconsin State Public Defender](https://www.wispd.gov/)** | **[Accountant - Advanced (Limited Term Employee)](https://jobright.ai/jobs/info/69d8b1ab738f2f099e89e12f?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 10 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69d89882869c7e25d8596b7d?utm_campaign=1052&utm_source=git)** | Athens, GA | On Site | Apr 09 |
 | **[NBOA: Business Leadership for Independent Schools](https://nboa.org)** | **[Assistant Vice President of Finance and Operations - Pine Crest School, Fort Lauderdale, FL](https://jobright.ai/jobs/info/69d89827869c7e25d8596a4d?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 09 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Intern - Junior Accountant - CPA Firm](https://jobright.ai/jobs/info/69d78813cfdc6132f94737c8?utm_campaign=1052&utm_source=git)** | Crompond, NY | On Site | Apr 09 |
@@ -120,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Clark County School District](https://www.ccsd.net/)** | **[Coordinator IV, Senior Internal Audit](https://jobright.ai/jobs/info/69d823c9b861c42857c48c38?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Apr 09 |
 | **[Ocean Casino Resort](http://www.theoceanac.com)** | **[INTERN - Internal Audit (Summer 2026)](https://jobright.ai/jobs/info/69d821969f97a42dc9c1a890?utm_campaign=1052&utm_source=git)** | Atlantic City, NJ | On Site | Apr 09 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - New York City, NY](https://jobright.ai/jobs/info/69d821949f97a42dc9c1a87e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
+| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Finance Intern](https://jobright.ai/jobs/info/69d8b1be869c7e25d85974b3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[BKF Engineers](http://www.bkf.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d82101869c7e25d8593bb3?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | Hybrid | Apr 09 |
 | ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d820f79f97a42dc9c1a67c?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | Apr 09 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69d81ecfb67cec4f9b09aa40?utm_campaign=1052&utm_source=git)** | California - High Bluff | Hybrid | Apr 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Spring 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809cf738f2f099e89a294?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Finance Assistant](https://jobright.ai/jobs/info/69d809c1b67cec4f9b09a000?utm_campaign=1052&utm_source=git)** | Location, WV | Hybrid | Apr 09 |
 | **[Schellman](http://schellman.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69d809b59f97a42dc9c19d4a?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Apr 09 |
-| **[Akumin®](http://akumin.com)** | **[Revenue Cycle Intern](https://jobright.ai/jobs/info/69d809b59f97a42dc9c19d43?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 09 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69d8099f738f2f099e89a1dc?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | On Site | Apr 09 |
-| **[FNBO](https://www.fnbo.com)** | **[Northland Securities - Public Finance Intern](https://jobright.ai/jobs/info/69d80977738f2f099e89a156?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
-| **[Learning Resources](https://www.learningresources.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80933f4ea471a51fe328b?utm_campaign=1052&utm_source=git)** | Vernon Hills, IL | On Site | Apr 09 |
-| **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Corporate Finance Internship](https://jobright.ai/jobs/info/69d808e1738f2f099e899dc7?utm_campaign=1052&utm_source=git)** | Reeds Spring, MO | On Site | Apr 09 |
-| **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/699f064694ef206f184e18f3?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69d89882869c7e25d8596b7d?utm_campaign=1052&utm_source=git)** | Athens, GA | On Site | Apr 09 |
+| **[NBOA: Business Leadership for Independent Schools](https://nboa.org)** | **[Assistant Vice President of Finance and Operations - Pine Crest School, Fort Lauderdale, FL](https://jobright.ai/jobs/info/69d89827869c7e25d8596a4d?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 09 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Intern - Junior Accountant - CPA Firm](https://jobright.ai/jobs/info/69d78813cfdc6132f94737c8?utm_campaign=1052&utm_source=git)** | Crompond, NY | On Site | Apr 09 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern / San Francisco Summer 2027](https://jobright.ai/jobs/info/69d87f50f4ea471a51fe64ec?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 09 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Financial Operations Audit Intern-2](https://jobright.ai/jobs/info/69d87b35f4ea471a51fe627f?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Apr 09 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[McGraw Hill](http://www.mheducation.com)** | **[Intern, Investor Relations](https://jobright.ai/jobs/info/69d82450869c7e25d8593f9b?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | Apr 09 |
 | ↳ | **[Intern, Investor Relations](https://jobright.ai/jobs/info/69d82434b861c42857c48dbd?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 09 |
 | **[Spectral AI](https://www.spectral-ai.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d82408b67cec4f9b09ac72?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
-| **[BKF Engineers](http://www.bkf.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
-| ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd2?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 09 |
+| **[BKF Engineers](http://www.bkf.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd2?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 09 |
+| ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
 | ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e3b67cec4f9b09ac03?utm_campaign=1052&utm_source=git)** | Redwood City, CA | Hybrid | Apr 09 |
 | **[Marshall & Stevens](http://www.marshall-stevens.com)** | **[Intern](https://jobright.ai/jobs/info/69d823d7b861c42857c48c84?utm_campaign=1052&utm_source=git)** | Cranbury, NJ | Hybrid | Apr 09 |
 | **[BGC Engineering Inc.](http://www.bgcengineering.ca/)** | **[Junior Accounting Clerk Co-op (8 Months)](https://jobright.ai/jobs/info/69d823d6b67cec4f9b09abb1?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a398?utm_campaign=1052&utm_source=git)** | Kirkland, Washington, United States | Hybrid | Apr 09 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d816b5f4ea471a51fe3b83?utm_campaign=1052&utm_source=git)** | 13 Williams Mullen Ctr, Richmond, VA, 23219, US | On Site | Apr 09 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d80fa6738f2f099e89a737?utm_campaign=1052&utm_source=git)** | Middletown, IA | On Site | Apr 09 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69d80fa2f4ea471a51fe3a1c?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80f8cb861c42857c4873f?utm_campaign=1052&utm_source=git)** | Kirkland, WA | Hybrid | Apr 09 |
 | **[Brant Haldimand Norfolk Catholic District School Board](http://www.bhncdsb.ca)** | **[Intermediate Accounting/Financial Analyst - Permanent FT - Catholic Education Centre, Brantford  (1.0 FTE)](https://jobright.ai/jobs/info/69d80f3c738f2f099e89a664?utm_campaign=1052&utm_source=git)** | Brantford, ON | On Site | Apr 09 |
 | **[State of Ohio](http://ohio.gov/)** | **[Fiscal College Intern (PN 20093158)](https://jobright.ai/jobs/info/69d80ea9b861c42857c4856b?utm_campaign=1052&utm_source=git)** | Columbus Dev Ctr Admin Bldg1810 Sullivant Avenue | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Learning Resources](https://www.learningresources.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80933f4ea471a51fe328b?utm_campaign=1052&utm_source=git)** | Vernon Hills, IL | On Site | Apr 09 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Corporate Finance Internship](https://jobright.ai/jobs/info/69d808e1738f2f099e899dc7?utm_campaign=1052&utm_source=git)** | Reeds Spring, MO | On Site | Apr 09 |
 | **[CBIZ](http://www.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/699f064694ef206f184e18f3?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 09 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Claims Vendor Management, Summer 2026 Internship- Whitehouse Station, NJ](https://jobright.ai/jobs/info/69d807acf4ea471a51fe2e44?utm_campaign=1052&utm_source=git)** | 202A Hall's Mill Road, Whitehouse Station, NJ, 08889, US | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

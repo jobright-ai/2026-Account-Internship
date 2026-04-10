@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Finance Division](https://jobright.ai/jobs/info/69d9533e9f97a42dc9c20c51?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Apr 10 |
+| **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Accounting/ Finance Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/69d95326b67cec4f9b0a1318?utm_campaign=1052&utm_source=git)** | Maitland, FL | On Site | Apr 10 |
+| **[Denver Museum of Nature & Science](http://www.dmns.org/)** | **[Accounting Manager](https://jobright.ai/jobs/info/69d952b29f97a42dc9c20b10?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 10 |
+| **[One Acre Fund](http://www.oneacrefund.org/)** | **[Grants Finance Manager](https://jobright.ai/jobs/info/69d952729f97a42dc9c20ac9?utm_campaign=1052&utm_source=git)** | Baton Rouge Metro | On Site | Apr 10 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Spring 2027 - Atlanta, GA](https://jobright.ai/jobs/info/69acf7a17e1fab39d3846cbc?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
+| **[PSS Industrial Group](https://pssigroup.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d94c8cf748bc5d08a4a692?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Apr 10 |
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[M&A Research Intern](https://jobright.ai/jobs/info/69d94365738f2f099e8a0bd9?utm_campaign=1052&utm_source=git)** | Marlborough,MA,US | Remote | Apr 10 |
 | **[LaFrance Corp](http://www.lafrancecorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d9435f5356a60f40fd89c3?utm_campaign=1052&utm_source=git)** | Concordville, PA, US | Hybrid | Apr 10 |
 | **[Cadence](https://www.cadence.com)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/69a129056b458d060735e2fd?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
@@ -82,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Earned Value Management and Scheduling Intern](https://jobright.ai/jobs/info/69d92f08869c7e25d859953e?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Accounting/ Finance Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/69d92e329f97a42dc9c1fea5?utm_campaign=1052&utm_source=git)** | Maitland, Florida, United States | On Site | Apr 10 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Financial Controls Intern](https://jobright.ai/jobs/info/69d92e329f97a42dc9c1fea4?utm_campaign=1052&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Apr 10 |
-| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Strategic Planning and Development Finance Intern](https://jobright.ai/jobs/info/69d92dbe738f2f099e8a0385?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
 | **[Pontem Financial LPL](http://pontemfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69d92d7bb67cec4f9b0a0576?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/699fcd7581476f6176b989f3?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Apr 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Summer 2027](https://jobright.ai/jobs/info/69cdec6d891d7b11cfcc1a09?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
@@ -93,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6983db450f6f7e7a2cddb067?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Finance-Intern](https://jobright.ai/jobs/info/69d927ba5356a60f40fd7f9b?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Remote | Apr 10 |
 | **[NorthCoast Asset Management](https://www.northcoastam.com/)** | **[Portfolio Management - Options Strategy Intern](https://jobright.ai/jobs/info/69d9278ab67cec4f9b0a03cf?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 10 |
-| **[Corient](https://corient.com)** | **[Wealth Planning Intern: Denver, CO (Summer 2026)](https://jobright.ai/jobs/info/699d379c81476f6176b5f4ed?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 10 |
 | **[TTX Company](http://www.ttx.com)** | **[Economic Forecasting Intern](https://jobright.ai/jobs/info/69bc5eab45e08b3dc1f8f4fc?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Apr 10 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69d9224c9f97a42dc9c1f9f9?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 10 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Finance-Intern](https://jobright.ai/jobs/info/69d921fc9f97a42dc9c1f9da?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Remote | Apr 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6983ee8801214b4cdacc2fdf?utm_campaign=1052&utm_source=git)** | Davidson, NC | On Site | Apr 10 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69d8b448f748bc5d08a45536?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Accountant](https://jobright.ai/jobs/info/69d8b34cf748bc5d08a45409?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
-| **[Wisconsin State Public Defender](https://www.wispd.gov/)** | **[Accountant - Advanced (Limited Term Employee)](https://jobright.ai/jobs/info/69d8b1ab738f2f099e89e12f?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 10 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Treasury](https://jobright.ai/jobs/info/69d8d129b67cec4f9b09eee2?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Apr 10 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69d8d1515356a60f40fd6879?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 10 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69d8d1455356a60f40fd6833?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

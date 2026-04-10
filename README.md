@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Chicago)](https://jobright.ai/jobs/info/69d8ca7ab861c42857c4cbd1?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6983ee8801214b4cdacc2fdf?utm_campaign=1052&utm_source=git)** | Davidson, NC | On Site | Apr 10 |
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Finance Department)](https://jobright.ai/jobs/info/69d8c3b99f97a42dc9c1e4de?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Apr 10 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69d8b448f748bc5d08a45536?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | ↳ | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69d8b439f748bc5d08a4551b?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Accountant](https://jobright.ai/jobs/info/69d8b34cf748bc5d08a45409?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69d8b266738f2f099e89e3e9?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Apr 10 |
 | **[Wisconsin State Public Defender](https://www.wispd.gov/)** | **[Accountant - Advanced (Limited Term Employee)](https://jobright.ai/jobs/info/69d8b1ab738f2f099e89e12f?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 10 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Treasury](https://jobright.ai/jobs/info/69d8d129b67cec4f9b09eee2?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Apr 10 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69d8d1515356a60f40fd6879?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 10 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69d8d1455356a60f40fd6833?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 10 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69d89882869c7e25d8596b7d?utm_campaign=1052&utm_source=git)** | Athens, GA | On Site | Apr 09 |
 | **[NBOA: Business Leadership for Independent Schools](https://nboa.org)** | **[Assistant Vice President of Finance and Operations - Pine Crest School, Fort Lauderdale, FL](https://jobright.ai/jobs/info/69d89827869c7e25d8596a4d?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 09 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Intern - Junior Accountant - CPA Firm](https://jobright.ai/jobs/info/69d78813cfdc6132f94737c8?utm_campaign=1052&utm_source=git)** | Crompond, NY | On Site | Apr 09 |
@@ -99,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Avista](https://myavista.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d83756b67cec4f9b09b762?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Apr 09 |
 | **[Medica](https://www.medica.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d83746b861c42857c4975c?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Apr 09 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d83744b861c42857c4974c?utm_campaign=1052&utm_source=git)** | Hopkins, MN | Hybrid | Apr 09 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69d833f2f4ea471a51fe48da?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 09 |
 | **[Allient](http://www.alliedmotion.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d833d0b67cec4f9b09b5ee?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Apr 09 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d833bcb67cec4f9b09b5aa?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 09 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d8338bb861c42857c495b3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 09 |
@@ -126,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Clark County School District](https://www.ccsd.net/)** | **[Coordinator IV, Senior Internal Audit](https://jobright.ai/jobs/info/69d823c9b861c42857c48c38?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Apr 09 |
 | **[Ocean Casino Resort](http://www.theoceanac.com)** | **[INTERN - Internal Audit (Summer 2026)](https://jobright.ai/jobs/info/69d821969f97a42dc9c1a890?utm_campaign=1052&utm_source=git)** | Atlantic City, NJ | On Site | Apr 09 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - New York City, NY](https://jobright.ai/jobs/info/69d821949f97a42dc9c1a87e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
+| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Finance Intern](https://jobright.ai/jobs/info/69d8d525869c7e25d8597eef?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[BKF Engineers](http://www.bkf.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d82101869c7e25d8593bb3?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | Hybrid | Apr 09 |
 | ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d820f79f97a42dc9c1a67c?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | Apr 09 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69d81ecfb67cec4f9b09aa40?utm_campaign=1052&utm_source=git)** | California - High Bluff | Hybrid | Apr 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CME Wire and Cable, Inc.](http://cmewire.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80a05b861c42857c48299?utm_campaign=1052&utm_source=git)** | Suwanee, GA | On Site | Apr 09 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Accounting/Internal Audit Internship](https://jobright.ai/jobs/info/69d809e3f4ea471a51fe350e?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 09 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern-Seattle (For Internal Use Only)](https://jobright.ai/jobs/info/69d809e1b67cec4f9b09a04d?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Single Audit Intern - Summer 2026 (Naperville, IL)](https://jobright.ai/jobs/info/69d809d6738f2f099e89a2b7?utm_campaign=1052&utm_source=git)** | Naperville, IL | On Site | Apr 09 |
-| ↳ | **[Audit Intern - Fall 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809d5738f2f099e89a2b2?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
-| ↳ | **[Audit Intern - Spring 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809cf738f2f099e89a294?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
-| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Finance Assistant](https://jobright.ai/jobs/info/69d809c1b67cec4f9b09a000?utm_campaign=1052&utm_source=git)** | Location, WV | Hybrid | Apr 09 |
-| **[Schellman](http://schellman.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69d809b59f97a42dc9c19d4a?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

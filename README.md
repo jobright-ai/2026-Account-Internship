@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommLoan](https://www.commloan.com/)** | **[Internship](https://jobright.ai/jobs/info/69d8f585869c7e25d85984cf?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 10 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Economic Damages & Valuations Internship - Summer 2026](https://jobright.ai/jobs/info/69bc0eef5b89c002acf107b2?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[Balchem Corporation](http://balchem.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d8f0f0738f2f099e89f314?utm_campaign=1052&utm_source=git)** | Montvale, NJ | On Site | Apr 10 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69d8f0ae869c7e25d85983dd?utm_campaign=1052&utm_source=git)** | Middletown, NY | On Site | Apr 10 |
 | **[Spring Venture Group](https://springventuregroup.com/)** | **[Staff Accountant - Intern](https://jobright.ai/jobs/info/69bc8b524828227293fe6d5f?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Apr 10 |
@@ -78,11 +80,10 @@ For a complete list, click the following sortable link below:
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69d8b266738f2f099e89e3e9?utm_campaign=1052&utm_source=git)** | Tacoma, WA | On Site | Apr 10 |
 | **[Wisconsin State Public Defender](https://www.wispd.gov/)** | **[Accountant - Advanced (Limited Term Employee)](https://jobright.ai/jobs/info/69d8b1ab738f2f099e89e12f?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 10 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Treasury](https://jobright.ai/jobs/info/69d8d129b67cec4f9b09eee2?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Apr 10 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69d8d1515356a60f40fd6879?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 10 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69d8d1455356a60f40fd6833?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 10 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69d8d1455356a60f40fd6833?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 10 |
+| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69d8d1515356a60f40fd6879?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 10 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69d89882869c7e25d8596b7d?utm_campaign=1052&utm_source=git)** | Athens, GA | On Site | Apr 09 |
 | **[NBOA: Business Leadership for Independent Schools](https://nboa.org)** | **[Assistant Vice President of Finance and Operations - Pine Crest School, Fort Lauderdale, FL](https://jobright.ai/jobs/info/69d89827869c7e25d8596a4d?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 09 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Intern - Junior Accountant - CPA Firm](https://jobright.ai/jobs/info/69d78813cfdc6132f94737c8?utm_campaign=1052&utm_source=git)** | Crompond, NY | On Site | Apr 09 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern / San Francisco Summer 2027](https://jobright.ai/jobs/info/69d87f50f4ea471a51fe64ec?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 09 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Financial Operations Audit Intern-2](https://jobright.ai/jobs/info/69d87b35f4ea471a51fe627f?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL | On Site | Apr 09 |
 | **[LMI](http://www.lmi.org)** | **[Finance & Legal Intern - Summer 2026](https://jobright.ai/jobs/info/69d87a35869c7e25d8595ee6?utm_campaign=1052&utm_source=git)** | Tysons, VA, US | On Site | Apr 09 |
@@ -133,19 +134,19 @@ For a complete list, click the following sortable link below:
 | **[McGraw Hill](http://www.mheducation.com)** | **[Intern, Investor Relations](https://jobright.ai/jobs/info/69d82450869c7e25d8593f9b?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | Apr 09 |
 | ↳ | **[Intern, Investor Relations](https://jobright.ai/jobs/info/69d82434b861c42857c48dbd?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 09 |
 | **[Spectral AI](https://www.spectral-ai.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d82408b67cec4f9b09ac72?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
-| **[BKF Engineers](http://www.bkf.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd2?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 09 |
-| ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
+| **[BKF Engineers](http://www.bkf.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
+| ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd2?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 09 |
 | ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e3b67cec4f9b09ac03?utm_campaign=1052&utm_source=git)** | Redwood City, CA | Hybrid | Apr 09 |
 | **[Marshall & Stevens](http://www.marshall-stevens.com)** | **[Intern](https://jobright.ai/jobs/info/69d823d7b861c42857c48c84?utm_campaign=1052&utm_source=git)** | Cranbury, NJ | Hybrid | Apr 09 |
 | **[BGC Engineering Inc.](http://www.bgcengineering.ca/)** | **[Junior Accounting Clerk Co-op (8 Months)](https://jobright.ai/jobs/info/69d823d6b67cec4f9b09abb1?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
 | **[Clark County School District](https://www.ccsd.net/)** | **[Coordinator IV, Senior Internal Audit](https://jobright.ai/jobs/info/69d823c9b861c42857c48c38?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Apr 09 |
 | **[Ocean Casino Resort](http://www.theoceanac.com)** | **[INTERN - Internal Audit (Summer 2026)](https://jobright.ai/jobs/info/69d821969f97a42dc9c1a890?utm_campaign=1052&utm_source=git)** | Atlantic City, NJ | On Site | Apr 09 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - New York City, NY](https://jobright.ai/jobs/info/69d821949f97a42dc9c1a87e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
+| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Finance Intern](https://jobright.ai/jobs/info/69d8fb00869c7e25d859858d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[BKF Engineers](http://www.bkf.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d82101869c7e25d8593bb3?utm_campaign=1052&utm_source=git)** | Pleasanton, CA | Hybrid | Apr 09 |
 | ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d820f79f97a42dc9c1a67c?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | Apr 09 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69d81ecfb67cec4f9b09aa40?utm_campaign=1052&utm_source=git)** | California - High Bluff | Hybrid | Apr 09 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Audit Intern](https://jobright.ai/jobs/info/69d81764b861c42857c4890f?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Apr 09 |
-| **[University Bank](http://university-bank.com)** | **[Commercial Specialist](https://jobright.ai/jobs/info/69d8172d738f2f099e89a910?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Apr 09 |
 | **[Nexthink](http://www.nexthink.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69d816c8f4ea471a51fe3bc7?utm_campaign=1052&utm_source=git)** | Boston, MA, USA | Hybrid | Apr 09 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d816c79f97a42dc9c1a398?utm_campaign=1052&utm_source=git)** | Kirkland, Washington, United States | Hybrid | Apr 09 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d816b5f4ea471a51fe3b83?utm_campaign=1052&utm_source=git)** | 13 Williams Mullen Ctr, Richmond, VA, 23219, US | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fiscal College Intern (PN 20093158)](https://jobright.ai/jobs/info/69d80ea8b67cec4f9b09a540?utm_campaign=1052&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Apr 09 |
 | **[Medica](https://www.medica.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d80e999f97a42dc9c1a113?utm_campaign=1052&utm_source=git)** | Madison, Wisconsin, United States | Hybrid | Apr 09 |
 | **[Net Health](https://www.nethealth.com)** | **[Finance Summer Internship (Intern) - REMOTE](https://jobright.ai/jobs/info/69d80e98738f2f099e89a4a8?utm_campaign=1052&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Remote | Apr 09 |
-| **[Medica](https://www.medica.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d80e98b67cec4f9b09a4f9?utm_campaign=1052&utm_source=git)** | Minnetonka, Minnesota, United States | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

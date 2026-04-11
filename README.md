@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MST](https://www.mstiller.com/)** | **[Spring 2027 Tax Internship](https://jobright.ai/jobs/info/69daab265356a60f40fe39bd?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Apr 11 |
 | ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/69daab19b67cec4f9b0abefe?utm_campaign=1052&utm_source=git)** | Brunswick, GA | On Site | Apr 11 |
-| **[Aedra](https://www.linkedin.com/company/110527319)** | **[Finance Research Intern (Summer 2026)](https://jobright.ai/jobs/info/69daab19b67cec4f9b0abefd?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Apr 11 |
 | **[MIRATECH](http://www.miratechcorp.com)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69daab0a5356a60f40fe397b?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Apr 11 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69daab075356a60f40fe3968?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 11 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Senior Budget Analyst (Confidential Administrative Support III)](https://jobright.ai/jobs/info/69daab02b67cec4f9b0abece?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 11 |
@@ -94,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter](https://jobright.ai/jobs/info/69da720e5356a60f40fe126d?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Apr 11 |
 | **[Atria Management Company](http://AtriaCareers.com)** | **[Intern](https://jobright.ai/jobs/info/698563760f6f7e7a2ce01fc7?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69d75f57cfdc6132f947230d?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
-| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69cdd8facfdc6132f942064a?utm_campaign=1052&utm_source=git)** | Iowa City, IA | On Site | Apr 11 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69d89561f748bc5d08a43bd0?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Apr 11 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69cdd8facfdc6132f942064a?utm_campaign=1052&utm_source=git)** | Iowa City, IA | On Site | Apr 11 |
 | **[PNC](http://www.pnc.com)** | **[Portfolio Analytics and Strategy Analyst Senior - Monitoring under Enterprise Fraud Organization (EFO) - (Tableau, Power BI, SQL, Python, R)](https://jobright.ai/jobs/info/69da8f79f748bc5d08a53339?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69d7973ab67cec4f9b094784?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Apr 11 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Summer Investment Associate, Climate Technology  ](https://jobright.ai/jobs/info/69da5940869c7e25d85a20ce?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Héroux-Devtek](http://www.herouxdevtek.com)** | **[Intern - Internal Audit and Corporate Governance](https://jobright.ai/jobs/info/69d02a25366bb95ba551bfd9?utm_campaign=1052&utm_source=git)** | Longueuil, QC | On Site | Apr 10 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d99e8f738f2f099e8a3600?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
 | **[Chicago Public Schools](http://www.cps.edu)** | **[Accounting Manager, Capital Fixed Asset & Revenue](https://jobright.ai/jobs/info/69d99e5a738f2f099e8a35a0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
+| **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/69d991aef748bc5d08a4bf9e?utm_campaign=1052&utm_source=git)** | Monrovia, CA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

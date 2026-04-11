@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Essex Property Trust](http://www.essexpropertytrust.com)** | **[Development, Intern](https://jobright.ai/jobs/info/69d7ab289f97a42dc9c15525?utm_campaign=1052&utm_source=git)** | San Mateo, CA | Hybrid | Apr 10 |
 | **[Stantec](http://www.stantec.com)** | **[Accounts Receivable Representative](https://jobright.ai/jobs/info/69d9c0705356a60f40fdc2a1?utm_campaign=1052&utm_source=git)** | Dartmouth, NS | On Site | Apr 10 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Intern, Tax](https://jobright.ai/jobs/info/69d9c069f748bc5d08a4dc96?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 10 |
-| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Finance Department)](https://jobright.ai/jobs/info/69d9c059b67cec4f9b0a475d?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Apr 10 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Summer Analyst, Corporate Venture Capital Fund Internship](https://jobright.ai/jobs/info/69d9c0365356a60f40fdc1b9?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[PNC](http://www.pnc.com)** | **[Portfolio Analytics & Strategy Analyst - Data, Modeling & Analytics](https://jobright.ai/jobs/info/69d9c02b5356a60f40fdc174?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Apr 10 |
 | ↳ | **[Portfolio Analytics & Strategy Analyst - Data, Modeling & Analytics](https://jobright.ai/jobs/info/69d9c023b67cec4f9b0a46e5?utm_campaign=1052&utm_source=git)** | Wilmington, DE | On Site | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NorthCoast Asset Management](https://www.northcoastam.com/)** | **[Portfolio Management - Options Strategy Intern](https://jobright.ai/jobs/info/69d93fd0738f2f099e8a09b7?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 10 |
 | **[LaFrance Corp](http://www.lafrancecorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d93fcf738f2f099e8a09b2?utm_campaign=1052&utm_source=git)** | Concordville, PA | Hybrid | Apr 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Emerging Financial Advisor 2026 Grads](https://jobright.ai/jobs/info/69d93c9b869c7e25d859988c?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Apr 10 |
+| **[CooperVision](http://coopervision.com)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69bc595445e08b3dc1f8e3f2?utm_campaign=1052&utm_source=git)** | Victor, NY | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

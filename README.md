@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boyd Group Services Inc.](https://www.boydgroup.com)** | **[Finance Intern – Audit & Financial Reporting](https://jobright.ai/jobs/info/69d9b1f1b67cec4f9b0a406f?utm_campaign=1052&utm_source=git)** | Winnipeg, MB | On Site | Apr 10 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Corporate Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69d9aefc738f2f099e8a3c4a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
+| **[HealthStream](http://www.healthstream.com)** | **[Intern, Accounts Receivable](https://jobright.ai/jobs/info/69d9ae70b67cec4f9b0a3d20?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
+| **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Utility Billing Specialist](https://jobright.ai/jobs/info/69d9ae365356a60f40fdb9a6?utm_campaign=1052&utm_source=git)** | Missoula, MT | On Site | Apr 10 |
 | **[Relay Graduate School of Education](https://www.relay.edu)** | **[Manager, Accounting](https://jobright.ai/jobs/info/69d9a4b5738f2f099e8a3832?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Apr 10 |
 | **[Héroux-Devtek](http://www.herouxdevtek.com)** | **[Intern - Internal Audit and Corporate Governance](https://jobright.ai/jobs/info/69d02a25366bb95ba551bfd9?utm_campaign=1052&utm_source=git)** | Longueuil, QC | On Site | Apr 10 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d99e8f738f2f099e8a3600?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / Louisville](https://jobright.ai/jobs/info/69d98892b67cec4f9b0a285d?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 10 |
 | ↳ | **[Student Associate Tax Summer 2026 / Norfolk](https://jobright.ai/jobs/info/69d98885b67cec4f9b0a2834?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Apr 10 |
 | **[MAHLE](https://www.mahle.com)** | **[Treasury Internship](https://jobright.ai/jobs/info/69d987d39f97a42dc9c21f73?utm_campaign=1052&utm_source=git)** | Farmington Hills, MI, US, 48335 | On Site | Apr 10 |
-| **[ZobeLab](http://www.ZobeLab.com)** | **[Internship – Finance & Operations](https://jobright.ai/jobs/info/69d9a4a9f748bc5d08a4cf25?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 10 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d97dfe9f97a42dc9c21e4d?utm_campaign=1052&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Apr 10 |
 | **[INFICON](http://www.inficon.com)** | **[Finance/Accounting Summer Intern](https://jobright.ai/jobs/info/69d97c32738f2f099e8a227b?utm_campaign=1052&utm_source=git)** | East Syracuse, NY | On Site | Apr 10 |
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[M&A Research Intern](https://jobright.ai/jobs/info/69d97b609f97a42dc9c21d92?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Accounting/ Finance Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/69d92e329f97a42dc9c1fea5?utm_campaign=1052&utm_source=git)** | Maitland, Florida, United States | On Site | Apr 10 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Financial Controls Intern](https://jobright.ai/jobs/info/69d92e329f97a42dc9c1fea4?utm_campaign=1052&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Apr 10 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/699fcd7581476f6176b989f3?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Apr 10 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Risk Analyst Intern](https://jobright.ai/jobs/info/69bc7d114828227293fe5e30?utm_campaign=1052&utm_source=git)** | Winter Haven, FL | Hybrid | Apr 10 |
-| **[MGM Resorts International](http://mgmresorts.com)** | **[Internal Audit Work Experience Program - Internship](https://jobright.ai/jobs/info/69d928699f97a42dc9c1fe7a?utm_campaign=1052&utm_source=git)** | Landry Office, NB | On Site | Apr 10 |
-| **[Withum](http://www.withum.com)** | **[Corporate Value Associate Internship 2026](https://jobright.ai/jobs/info/69d988485356a60f40fda22b?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

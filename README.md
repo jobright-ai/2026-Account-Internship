@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Intern](https://jobright.ai/jobs/info/6969c960f25a38006698850e?utm_campaign=1052&utm_source=git)** | Greater Kalamazoo Area | On Site | Apr 11 |
+| **[Mitsubishi HC Capital America, Inc.](https://www.mhccna.com)** | **[Intern - Corporate Tax](https://jobright.ai/jobs/info/69bddd79b10602456283424a?utm_campaign=1052&utm_source=git)** | Itasca, IL | Hybrid | Apr 11 |
+| **[Regional Municipality of Wood Buffalo](https://rmwb.ca)** | **[Internal Auditor](https://jobright.ai/jobs/info/69da45d65356a60f40fe0b9a?utm_campaign=1052&utm_source=git)** | Fort McMurray, AB | On Site | Apr 11 |
+| **[Wilbert Plastic Services](https://wilbertplastics.com/)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c1cadc4d652f044775a0c1?utm_campaign=1052&utm_source=git)** | Belmont, NC | On Site | Apr 11 |
 | **[CAA Club Group](http://www.caasco.com)** | **[Actuarial Intern (ECH-ON)](https://jobright.ai/jobs/info/69bdc8bb393a1008f7436459?utm_campaign=1052&utm_source=git)** | Vaughan, ON | On Site | Apr 11 |
 | **[SPX Technologies](https://www.spx.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bdeec74828227293009d2c?utm_campaign=1052&utm_source=git)** | Brentwood, MO | Hybrid | Apr 11 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69da361cf748bc5d08a51780?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
@@ -69,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69da07de9f97a42dc9c27578?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69da073d738f2f099e8a7a37?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69da06785356a60f40fdf7a9?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
-| ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71b?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71a?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 11 |
+| ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71b?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/69da05e0f748bc5d08a510fd?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69da05d5f748bc5d08a510d3?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | **[First Security Bank Montana - Div. of Glacier Bank](http://ourbank.com)** | **[Credit Analyst Intern](https://jobright.ai/jobs/info/69da0524f748bc5d08a50f23?utm_campaign=1052&utm_source=git)** | Bozeman, MT | On Site | Apr 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Strategic Planning and Development Finance Intern](https://jobright.ai/jobs/info/69d95b195356a60f40fd90fa?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
 | **[PSS Cross Country Infrastructure Solutions](http://www.pssinfrastructure.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d95b185356a60f40fd90f3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 10 |
 | **[City Colleges of Chicago-Kennedy-King College](http://www.ccc.edu/colleges/kennedy/pages/default.aspx)** | **[Financial Products Intern](https://jobright.ai/jobs/info/69d95a61738f2f099e8a1468?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[TI Automotive](http://www.tiautomotive.com)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69d95a1d869c7e25d859a361?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
-| **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Tax](https://jobright.ai/jobs/info/69d6865bcfdc6132f946a5f2?utm_campaign=1052&utm_source=git)** | Fort Collins, CO | On Site | Apr 10 |
-| ↳ | **[Finance Intern - Graduate](https://jobright.ai/jobs/info/69d7cf55f4ea471a51fe10c9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 10 |
-| **[La Caisse (Caisse de dépôt et placement du Québec)](https://www.lacaisse.com/fr)** | **[Intern, Real Estate Investment Management](https://jobright.ai/jobs/info/69d95939869c7e25d859a24b?utm_campaign=1052&utm_source=git)** | New York | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

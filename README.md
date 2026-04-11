@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69d9cafdf748bc5d08a4e1ab?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 10 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, NPKC Accounting - 12 Month Term](https://jobright.ai/jobs/info/69d9caf59f97a42dc9c244f9?utm_campaign=1052&utm_source=git)** | Saskatoon, SK | On Site | Apr 10 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[P&L Controller – Intern](https://jobright.ai/jobs/info/69d9cad8f748bc5d08a4e169?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Senior Financial Assistance Coordinator](https://jobright.ai/jobs/info/69d9caa4869c7e25d859da25?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Apr 10 |
+| **[BankNewport](http://banknewport.com)** | **[Credit/Admin Internship](https://jobright.ai/jobs/info/69d9ca9b5356a60f40fdc664?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | Apr 10 |
+| **[Essex Property Trust](http://www.essexpropertytrust.com)** | **[Development, Intern](https://jobright.ai/jobs/info/69d7ab289f97a42dc9c15525?utm_campaign=1052&utm_source=git)** | San Mateo, CA | Hybrid | Apr 10 |
 | **[Stantec](http://www.stantec.com)** | **[Accounts Receivable Representative](https://jobright.ai/jobs/info/69d9c0705356a60f40fdc2a1?utm_campaign=1052&utm_source=git)** | Dartmouth, NS | On Site | Apr 10 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Intern, Tax](https://jobright.ai/jobs/info/69d9c069f748bc5d08a4dc96?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 10 |
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Finance Department)](https://jobright.ai/jobs/info/69d9c059b67cec4f9b0a475d?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Apr 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CooperVision](http://coopervision.com)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69bc595445e08b3dc1f8e3f2?utm_campaign=1052&utm_source=git)** | Victor, NY | On Site | Apr 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Accounting Intern - Highlands Ranch](https://jobright.ai/jobs/info/69bc26335b89c002acf1562e?utm_campaign=1052&utm_source=git)** | Littleton, CO | On Site | Apr 10 |
 | **[Generac](https://www.generac.com)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/69d9369eb67cec4f9b0a0834?utm_campaign=1052&utm_source=git)** | Waukesha, WI - USA | On Site | Apr 10 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Sales and Use Intern - Summer 2027](https://jobright.ai/jobs/info/69d5e868366bb95ba5549e36?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Apr 10 |
-| **[OUTFORM](http://www.outform.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d9340d738f2f099e8a0588?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[Columbus Oncology & Hematology](https://www.coainc.net)** | **[College Summer Intern - Accounting](https://jobright.ai/jobs/info/69d933f3f748bc5d08a498e4?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | Apr 10 |
-| **[Lassonde Pappas & Company, Inc.](http://lassondepappas.com/)** | **[Accounting Intern - Part-Time On-Site 15-20hrs/week](https://jobright.ai/jobs/info/69bc609a45e08b3dc1f8fc08?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ | On Site | Apr 10 |
-| **[BPM LLP](https://www.bpm.com/)** | **[Accounting Advisory Apprentice](https://jobright.ai/jobs/info/69bc58f74828227293fe0dcb?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Transaction Automation Intern - Summer 2027](https://jobright.ai/jobs/info/69d346b3891d7b11cfcef4df?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

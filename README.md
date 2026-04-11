@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/69d991aef748bc5d08a4bf9e?utm_campaign=1052&utm_source=git)** | Monrovia, CA | Hybrid | Apr 10 |
+| **[Air Force Research Laboratory](https://afresearchlab.com/)** | **[Financial Management Palace Acquire (PAQ) Interns](https://jobright.ai/jobs/info/69d99157f748bc5d08a4bf38?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Apr 10 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Finance-Intern](https://jobright.ai/jobs/info/69d99131f748bc5d08a4beb4?utm_campaign=1052&utm_source=git)** | Rochester, MN | On Site | Apr 10 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Summer 2027 / Louisville](https://jobright.ai/jobs/info/69d990fbf748bc5d08a4be19?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 10 |
+| ↳ | **[Intern Audit Winter 2027 / Tampa Bay](https://jobright.ai/jobs/info/69d990e7f748bc5d08a4bde5?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
+| **[BC Ferries](http://www.bcferries.com)** | **[Senior Financial Analyst, FP&A (Capital)](https://jobright.ai/jobs/info/69d9909f738f2f099e8a2655?utm_campaign=1052&utm_source=git)** | Victoria, BC | Hybrid | Apr 10 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69d988f2738f2f099e8a25f8?utm_campaign=1052&utm_source=git)** | Honolulu, HI | Hybrid | Apr 10 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Finance - USA - GA - Atlanta - Global Support Center - R26-03923](https://jobright.ai/jobs/info/69d988df5356a60f40fda3f1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
 | **[SIXT](https://www.sixt.com/)** | **[Intern Revenue Management](https://jobright.ai/jobs/info/69d988db869c7e25d859b7bd?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Portfolio Management - Options Strategy Intern](https://jobright.ai/jobs/info/69d927cab67cec4f9b0a044f?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 10 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6983db450f6f7e7a2cddb067?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Finance-Intern](https://jobright.ai/jobs/info/69d927ba5356a60f40fd7f9b?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Remote | Apr 10 |
-| **[NorthCoast Asset Management](https://www.northcoastam.com/)** | **[Portfolio Management - Options Strategy Intern](https://jobright.ai/jobs/info/69d9278ab67cec4f9b0a03cf?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 10 |
-| **[TTX Company](http://www.ttx.com)** | **[Economic Forecasting Intern](https://jobright.ai/jobs/info/69bc5eab45e08b3dc1f8f4fc?utm_campaign=1052&utm_source=git)** | Charlotte, NC | Hybrid | Apr 10 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69d9224c9f97a42dc9c1f9f9?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 10 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Finance-Intern](https://jobright.ai/jobs/info/69d921fc9f97a42dc9c1f9da?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Remote | Apr 10 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69d921d9b67cec4f9b0a01a9?utm_campaign=1052&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 10 |
-| **[Shields Health](https://shields.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d92115738f2f099e89fe8e?utm_campaign=1052&utm_source=git)** | Quincy, MA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

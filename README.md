@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Festival Foods](http://career.festfoods.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69d9e2d99f97a42dc9c2522e?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Apr 10 |
 | **[Canada Post / Postes Canada](http://www.canadapost.ca/cpo/mc/languageswitcher.jsf)** | **[Analyst, Investment Data and Technology](https://jobright.ai/jobs/info/69d9dd639f97a42dc9c2511b?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 | **[Sensiba LLP](http://www.sensiba.com)** | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/69d9d9a25356a60f40fdcc38?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69d9cafdf748bc5d08a4e1ab?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NorthCoast Asset Management](https://www.northcoastam.com/)** | **[Portfolio Management - Options Strategy Intern](https://jobright.ai/jobs/info/69d93fd0738f2f099e8a09b7?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 10 |
 | **[LaFrance Corp](http://www.lafrancecorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d93fcf738f2f099e8a09b2?utm_campaign=1052&utm_source=git)** | Concordville, PA | Hybrid | Apr 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Emerging Financial Advisor 2026 Grads](https://jobright.ai/jobs/info/69d93c9b869c7e25d859988c?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Apr 10 |
-| **[CooperVision](http://coopervision.com)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69bc595445e08b3dc1f8e3f2?utm_campaign=1052&utm_source=git)** | Victor, NY | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

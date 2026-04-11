@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canada Post / Postes Canada](http://www.canadapost.ca/cpo/mc/languageswitcher.jsf)** | **[Analyst, Investment Data and Technology](https://jobright.ai/jobs/info/69d9dd639f97a42dc9c2511b?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
+| **[Sensiba LLP](http://www.sensiba.com)** | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/69d9d9a25356a60f40fdcc38?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69d9cafdf748bc5d08a4e1ab?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 10 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, NPKC Accounting - 12 Month Term](https://jobright.ai/jobs/info/69d9caf59f97a42dc9c244f9?utm_campaign=1052&utm_source=git)** | Saskatoon, SK | On Site | Apr 10 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[P&L Controller – Intern](https://jobright.ai/jobs/info/69d9cad8f748bc5d08a4e169?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LaFrance Corp](http://www.lafrancecorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d93fcf738f2f099e8a09b2?utm_campaign=1052&utm_source=git)** | Concordville, PA | Hybrid | Apr 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Emerging Financial Advisor 2026 Grads](https://jobright.ai/jobs/info/69d93c9b869c7e25d859988c?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Apr 10 |
 | **[CooperVision](http://coopervision.com)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69bc595445e08b3dc1f8e3f2?utm_campaign=1052&utm_source=git)** | Victor, NY | On Site | Apr 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Accounting Intern - Highlands Ranch](https://jobright.ai/jobs/info/69bc26335b89c002acf1562e?utm_campaign=1052&utm_source=git)** | Littleton, CO | On Site | Apr 10 |
-| **[Generac](https://www.generac.com)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/69d9369eb67cec4f9b0a0834?utm_campaign=1052&utm_source=git)** | Waukesha, WI - USA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

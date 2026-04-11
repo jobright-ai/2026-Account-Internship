@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAA Club Group](http://www.caasco.com)** | **[Actuarial Intern (ECH-ON)](https://jobright.ai/jobs/info/69bdc8bb393a1008f7436459?utm_campaign=1052&utm_source=git)** | Vaughan, ON | On Site | Apr 11 |
+| **[SPX Technologies](https://www.spx.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bdeec74828227293009d2c?utm_campaign=1052&utm_source=git)** | Brentwood, MO | Hybrid | Apr 11 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69da361cf748bc5d08a51780?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
+| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Audit & Monitoring Dashboard Intern](https://jobright.ai/jobs/info/69bdde574828227293009297?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
 | **[Generac](https://www.generac.com)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/69da1e5b869c7e25d85a0f01?utm_campaign=1052&utm_source=git)** | Waukesha, WI | On Site | Apr 11 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Audit Services - Staff Internal IT Auditor I](https://jobright.ai/jobs/info/69be10c2b1060245628370e9?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Apr 11 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69bd6d92b106024562825013?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Apr 11 |
@@ -65,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69da07de9f97a42dc9c27578?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69da073d738f2f099e8a7a37?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69da06785356a60f40fdf7a9?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
-| ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71a?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 11 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71b?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
+| ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71a?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 11 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/69da05e0f748bc5d08a510fd?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69da05d5f748bc5d08a510d3?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | **[First Security Bank Montana - Div. of Glacier Bank](http://ourbank.com)** | **[Credit Analyst Intern](https://jobright.ai/jobs/info/69da0524f748bc5d08a50f23?utm_campaign=1052&utm_source=git)** | Bozeman, MT | On Site | Apr 11 |
@@ -76,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – Accounting, Finance, or Management Information Systems (MIS)](https://jobright.ai/jobs/info/69c16db72c312363dcd4411c?utm_campaign=1052&utm_source=git)** | Irving, Texas | Hybrid | Apr 10 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69da072e738f2f099e8a7a07?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Festival Foods](http://career.festfoods.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69d9e2d99f97a42dc9c2522e?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | Apr 10 |
-| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Director of Finance and Accounting](https://jobright.ai/jobs/info/69da03795356a60f40fdf616?utm_campaign=1052&utm_source=git)** | Vail, CO | Remote | Apr 10 |
+| **[Marriott International](https://w-hotels.marriott.com)** | **[Director of Finance and Accounting](https://jobright.ai/jobs/info/69da03795356a60f40fdf616?utm_campaign=1052&utm_source=git)** | Vail, CO | Remote | Apr 10 |
 | **[Canada Post / Postes Canada](http://www.canadapost.ca/cpo/mc/languageswitcher.jsf)** | **[Analyst, Investment Data and Technology](https://jobright.ai/jobs/info/69d9dd639f97a42dc9c2511b?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 | **[Sensiba LLP](http://www.sensiba.com)** | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/69d9d9a25356a60f40fdcc38?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69d9cafdf748bc5d08a4e1ab?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 10 |
@@ -118,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[M&A Research Intern](https://jobright.ai/jobs/info/69d97b609f97a42dc9c21d92?utm_campaign=1052&utm_source=git)** | Marlborough, MA | Hybrid | Apr 10 |
 | **[Johns Manville](http://www.jm.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/69d97b10b67cec4f9b0a249f?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 10 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d979a3738f2f099e8a1fd8?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Apr 10 |
-| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Analyst I](https://jobright.ai/jobs/info/69d979535356a60f40fd9f52?utm_campaign=1052&utm_source=git)** | Nipissing 10, ON | On Site | Apr 10 |
 | **[Johns Manville Industrial Insulation](http://www.jm.com/en/industrial-insulation)** | **[Finance Internship](https://jobright.ai/jobs/info/69d97920738f2f099e8a1ee1?utm_campaign=1052&utm_source=git)** | Denver CO WHQ | On Site | Apr 10 |
 | **[Cars Commerce](https://www.carscommerce.inc)** | **[Intern, Tax](https://jobright.ai/jobs/info/69d978f8869c7e25d859b232?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Financial Products Intern](https://jobright.ai/jobs/info/69d97699f748bc5d08a4b690?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Tax](https://jobright.ai/jobs/info/69d6865bcfdc6132f946a5f2?utm_campaign=1052&utm_source=git)** | Fort Collins, CO | On Site | Apr 10 |
 | ↳ | **[Finance Intern - Graduate](https://jobright.ai/jobs/info/69d7cf55f4ea471a51fe10c9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 10 |
 | **[La Caisse (Caisse de dépôt et placement du Québec)](https://www.lacaisse.com/fr)** | **[Intern, Real Estate Investment Management](https://jobright.ai/jobs/info/69d95939869c7e25d859a24b?utm_campaign=1052&utm_source=git)** | New York | On Site | Apr 10 |
-| **[Advanced Energy](http://www.advancedenergy.com)** | **[Finance Intern - Undergraduate](https://jobright.ai/jobs/info/69d5b609706f771673ba4fb0?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 10 |
-| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Finance Division](https://jobright.ai/jobs/info/69d9533e9f97a42dc9c20c51?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Apr 10 |
-| **[Westcor Land Title Insurance Company®](http://wltic.com)** | **[Accounting/ Finance Intern - Westcor Land Title Insurance Company](https://jobright.ai/jobs/info/69d95326b67cec4f9b0a1318?utm_campaign=1052&utm_source=git)** | Maitland, FL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

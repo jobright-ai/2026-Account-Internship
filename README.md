@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69db565e738f2f099e8aed37?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 12 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69db560c869c7e25d85a7c97?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 12 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69b060b2dfaeda6ff59a2054?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Apr 11 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Intern - Junior Accountant - CPA Firm](https://jobright.ai/jobs/info/69db348c5356a60f40fe5820?utm_campaign=1052&utm_source=git)** | Crompond, NY | On Site | Apr 11 |
 | **[FIA Tech](https://fia-tech.com)** | **[2026 Accounting NYC Summer Internship](https://jobright.ai/jobs/info/69db0e999f97a42dc9c2cc17?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69dad592f748bc5d08a55a33?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 11 |
 | **[MST](https://www.mstiller.com/)** | **[Spring 2027 Tax Internship](https://jobright.ai/jobs/info/69daab265356a60f40fe39bd?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Apr 11 |
 | ↳ | **[Summer 2027 Internship](https://jobright.ai/jobs/info/69daab19b67cec4f9b0abefe?utm_campaign=1052&utm_source=git)** | Brunswick, GA | On Site | Apr 11 |
 | **[MIRATECH](http://www.miratechcorp.com)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69daab0a5356a60f40fe397b?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Apr 11 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69daab075356a60f40fe3968?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 11 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Senior Budget Analyst (Confidential Administrative Support III)](https://jobright.ai/jobs/info/69daab02b67cec4f9b0abece?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 11 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69daab01869c7e25d85a4cdb?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 11 |
 | **[Bridgestone Americas](https://www.bridgestoneamericas.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69daa28f869c7e25d85a4b99?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
@@ -101,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[MassMutual](https://www.massmutual.com/)** | **[Summer Investment Associate, Climate Technology  ](https://jobright.ai/jobs/info/69da5940869c7e25d85a20ce?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 11 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/68f93c72a628d10664e8ac80?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bcd5af4828227293fed7b3?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 11 |
+| **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69a1cbfab600907a9628291c?utm_campaign=1052&utm_source=git)** | New Castle, PA | On Site | Apr 11 |
 | **[Mitsubishi HC Capital America, Inc.](https://www.mhccna.com)** | **[Intern - Corporate Tax](https://jobright.ai/jobs/info/69bddf03393a1008f743b51b?utm_campaign=1052&utm_source=git)** | Norwalk, CT | Hybrid | Apr 11 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Intern, Digital & Streaming Finance](https://jobright.ai/jobs/info/69a0a6800836fe79d861a891?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 11 |
 | **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/69bdeb5bb106024562834c72?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Accounts Receivable](https://jobright.ai/jobs/info/69d9ae70b67cec4f9b0a3d20?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Utility Billing Specialist](https://jobright.ai/jobs/info/69d9ae365356a60f40fdb9a6?utm_campaign=1052&utm_source=git)** | Missoula, MT | On Site | Apr 10 |
 | **[Relay Graduate School of Education](https://www.relay.edu)** | **[Manager, Accounting](https://jobright.ai/jobs/info/69d9a4b5738f2f099e8a3832?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Apr 10 |
-| **[Héroux-Devtek](http://www.herouxdevtek.com)** | **[Intern - Internal Audit and Corporate Governance](https://jobright.ai/jobs/info/69d02a25366bb95ba551bfd9?utm_campaign=1052&utm_source=git)** | Longueuil, QC | On Site | Apr 10 |
-| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d99e8f738f2f099e8a3600?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
-| **[Chicago Public Schools](http://www.cps.edu)** | **[Accounting Manager, Capital Fixed Asset & Revenue](https://jobright.ai/jobs/info/69d99e5a738f2f099e8a35a0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

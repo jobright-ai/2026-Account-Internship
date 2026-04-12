@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69dbae5c9f97a42dc9c2f11b?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
 | ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/69dbae41f748bc5d08a58b36?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Dallas)](https://jobright.ai/jobs/info/69b7a82206c1ba00c5495af2?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 12 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
+| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Apr 12 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, International Economics](https://jobright.ai/jobs/info/69a6dd4a76bbe83d3afa33d8?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Apr 12 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/698c247de4f6572f0e442343?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |

@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69d5d557e63cea7a8b6653e6?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 11 |
 | **[PwC](http://pwc.com)** | **[Tax JD Intern - Summer 2026](https://jobright.ai/jobs/info/68f9029da628d10664e87cf9?utm_campaign=1052&utm_source=git)** | Silicon Valley, CA | On Site | Apr 11 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Audit & Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/699a8292e0bddb6acac995ba?utm_campaign=1052&utm_source=git)** | Wichita, KS | Hybrid | Apr 11 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Intern - Junior Accountant - CPA Firm](https://jobright.ai/jobs/info/69da8f605356a60f40fe1883?utm_campaign=1052&utm_source=git)** | Crompond, NY | On Site | Apr 11 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Financial Analyst I Intern](https://jobright.ai/jobs/info/69d9f1ca869c7e25d859fc7a?utm_campaign=1052&utm_source=git)** | Chantilly, VA | On Site | Apr 11 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[** Accounting Intern](https://jobright.ai/jobs/info/69bdac0c4828227293ffecee?utm_campaign=1052&utm_source=git)** | Middleton, WI | On Site | Apr 11 |
 | **[RXO, Inc.](https://rxo.com)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/69da8f4f869c7e25d85a29fe?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Héroux-Devtek](http://www.herouxdevtek.com)** | **[Intern - Internal Audit and Corporate Governance](https://jobright.ai/jobs/info/69d02a25366bb95ba551bfd9?utm_campaign=1052&utm_source=git)** | Longueuil, QC | On Site | Apr 10 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d99e8f738f2f099e8a3600?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
 | **[Chicago Public Schools](http://www.cps.edu)** | **[Accounting Manager, Capital Fixed Asset & Revenue](https://jobright.ai/jobs/info/69d99e5a738f2f099e8a35a0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
+| **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/69d991aef748bc5d08a4bf9e?utm_campaign=1052&utm_source=git)** | Monrovia, CA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

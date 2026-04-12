@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69dbae5c9f97a42dc9c2f11b?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
+| ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/69dbae41f748bc5d08a58b36?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Dallas)](https://jobright.ai/jobs/info/69b7a82206c1ba00c5495af2?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 12 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
+| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Apr 12 |
+| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, International Economics](https://jobright.ai/jobs/info/69a6dd4a76bbe83d3afa33d8?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Apr 12 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/698c247de4f6572f0e442343?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
 | **[Supersoda](https://www.supersoda.com.br/)** | **[Accounting Internship](https://jobright.ai/jobs/info/69d4f736cfdc6132f945eff4?utm_campaign=1052&utm_source=git)** | 22 Westedge Charleston, SC 29403 | Hybrid | Apr 12 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Consultancy Internal Auditor (Roster), Office of Audit and Investigation Services (OAIS), UNFPA](https://jobright.ai/jobs/info/69db71bd869c7e25d85a7e71?utm_campaign=1052&utm_source=git)** | Home, KS | Hybrid | Apr 12 |
@@ -92,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69d35022cdb525785fbbec19?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 11 |
 | ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69d0af860b098b7a6707c006?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Apr 11 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69cdde6a54f00230c6cf7943?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 11 |
+| **[Uline](http://www.uline.com)** | **[Part-Time Credit Analyst Internship](https://jobright.ai/jobs/info/69680363f25a38006696586b?utm_campaign=1052&utm_source=git)** | Pleasant Prairie, WI | On Site | Apr 11 |
 | **[New Hampshire Department of Business & Economic Affairs](https://www.nheconomy.com)** | **[TREASURY ANALYST (Job ID# - 50706)](https://jobright.ai/jobs/info/69da8faeb67cec4f9b0a9d1f?utm_campaign=1052&utm_source=git)** | Concord, NH | On Site | Apr 11 |
 | **[Double Good](https://www.doublegood.com/)** | **[Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdbe1ab10602456282d4bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | **[Lumos Fiber](https://www.lumosfiber.com)** | **[Warehouse/Procurement Intern](https://jobright.ai/jobs/info/69bdb3ffb10602456282adb6?utm_campaign=1052&utm_source=git)** | High Point, NC | On Site | Apr 11 |
@@ -132,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Accountant II](https://jobright.ai/jobs/info/69db645d5356a60f40fe6958?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69da073d738f2f099e8a7a37?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69da06785356a60f40fdf7a9?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
-| ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71b?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71a?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 11 |
+| ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69da06535356a60f40fdf71b?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 11 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/69da05e0f748bc5d08a510fd?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69da05d5f748bc5d08a510d3?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 11 |
 | **[First Security Bank Montana - Div. of Glacier Bank](http://ourbank.com)** | **[Credit Analyst Intern](https://jobright.ai/jobs/info/69da0524f748bc5d08a50f23?utm_campaign=1052&utm_source=git)** | Bozeman, MT | On Site | Apr 11 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sensiba LLP](http://www.sensiba.com)** | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/69d9d9a25356a60f40fdcc38?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69d9cafdf748bc5d08a4e1ab?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 10 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, NPKC Accounting - 12 Month Term](https://jobright.ai/jobs/info/69d9caf59f97a42dc9c244f9?utm_campaign=1052&utm_source=git)** | Saskatoon, SK | On Site | Apr 10 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[P&L Controller – Intern](https://jobright.ai/jobs/info/69d9cad8f748bc5d08a4e169?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 10 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Senior Financial Assistance Coordinator](https://jobright.ai/jobs/info/69d9caa4869c7e25d859da25?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Apr 10 |
-| **[BankNewport](http://banknewport.com)** | **[Credit/Admin Internship](https://jobright.ai/jobs/info/69d9ca9b5356a60f40fdc664?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | Apr 10 |
-| **[Essex Property Trust](http://www.essexpropertytrust.com)** | **[Development, Intern](https://jobright.ai/jobs/info/69d7ab289f97a42dc9c15525?utm_campaign=1052&utm_source=git)** | San Mateo, CA | Hybrid | Apr 10 |
-| **[goodr](https://goodr.com)** | **[Temporary Financial Planning & Analysis (FP&A) Manager](https://jobright.ai/jobs/info/69d72071cfdc6132f946f499?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
-| **[PNC](http://www.pnc.com)** | **[Portfolio Analytics & Strategy Analyst - Data, Modeling & Analytics](https://jobright.ai/jobs/info/69da8f605356a60f40fe1885?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Apr 10 |
-| **[Stantec](http://www.stantec.com)** | **[Accounts Receivable Representative](https://jobright.ai/jobs/info/69d9c0705356a60f40fdc2a1?utm_campaign=1052&utm_source=git)** | Dartmouth, NS | On Site | Apr 10 |
-| **[Cars Commerce](https://www.carscommerce.inc)** | **[Intern, Tax](https://jobright.ai/jobs/info/69d9c069f748bc5d08a4dc96?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

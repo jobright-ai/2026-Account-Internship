@@ -96,8 +96,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern - Summer 2027](https://jobright.ai/jobs/info/69d75f57cfdc6132f947230d?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69d89561f748bc5d08a43bd0?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Apr 11 |
 | ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69cdd8facfdc6132f942064a?utm_campaign=1052&utm_source=git)** | Iowa City, IA | On Site | Apr 11 |
-| **[PNC](http://www.pnc.com)** | **[Portfolio Analytics and Strategy Analyst Senior - Monitoring under Enterprise Fraud Organization (EFO) - (Tableau, Power BI, SQL, Python, R)](https://jobright.ai/jobs/info/69da8f79f748bc5d08a53339?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 11 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69d7973ab67cec4f9b094784?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Apr 11 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69d7973ab67cec4f9b094784?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Apr 11 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Summer Investment Associate, Climate Technology  ](https://jobright.ai/jobs/info/69da5940869c7e25d85a20ce?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 11 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/68f93c72a628d10664e8ac80?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bcd5af4828227293fed7b3?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d99e8f738f2f099e8a3600?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
 | **[Chicago Public Schools](http://www.cps.edu)** | **[Accounting Manager, Capital Fixed Asset & Revenue](https://jobright.ai/jobs/info/69d99e5a738f2f099e8a35a0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/69d991aef748bc5d08a4bf9e?utm_campaign=1052&utm_source=git)** | Monrovia, CA | Hybrid | Apr 10 |
+| **[Air Force Research Laboratory](https://afresearchlab.com/)** | **[Financial Management Palace Acquire (PAQ) Interns](https://jobright.ai/jobs/info/69d99157f748bc5d08a4bf38?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

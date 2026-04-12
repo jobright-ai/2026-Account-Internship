@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bentley Associates](http://www.bentleylp.com/)** | **[M&A/Capital Market Advisory Internship](https://jobright.ai/jobs/info/69dbfcaf5356a60f40fe7723?utm_campaign=1052&utm_source=git)** | Berkeley, CA | Hybrid | Apr 12 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Denver & Colorado Springs, CO](https://jobright.ai/jobs/info/69bee9ff393a1008f744bc3d?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Apr 12 |
 | **[AFL](http://www.AFLglobal.com)** | **[AFL Finance/Accounting Internship- Summer 2026](https://jobright.ai/jobs/info/69867a118da7a612046145c6?utm_campaign=1052&utm_source=git)** | Duncan, SC | On Site | Apr 12 |
 | **[Prysmian](https://www.prysmian.com)** | **[McKinney Accounting Intern](https://jobright.ai/jobs/info/69a24a5c0da45516f16b909c?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Apr 12 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/69db3e219f97a42dc9c2de33?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 12 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Deal Team Specialist Intern](https://jobright.ai/jobs/info/6986be590f6f7e7a2ce1d906?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 12 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/698c247de4f6572f0e442343?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
 | **[Supersoda](https://www.supersoda.com.br/)** | **[Accounting Internship](https://jobright.ai/jobs/info/69d4f736cfdc6132f945eff4?utm_campaign=1052&utm_source=git)** | 22 Westedge Charleston, SC 29403 | Hybrid | Apr 12 |
-| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Consultancy Internal Auditor (Roster), Office of Audit and Investigation Services (OAIS), UNFPA](https://jobright.ai/jobs/info/69db71bd869c7e25d85a7e71?utm_campaign=1052&utm_source=git)** | Home, KS | Hybrid | Apr 12 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69db646cf748bc5d08a58606?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 12 |
 | ↳ | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69db64395356a60f40fe6928?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 12 |
 | ↳ | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69db64319f97a42dc9c2eb91?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 12 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ce038c366bb95ba5506bf2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter](https://jobright.ai/jobs/info/69da720e5356a60f40fe126d?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Apr 11 |
 | **[Atria Management Company](http://AtriaCareers.com)** | **[Intern](https://jobright.ai/jobs/info/698563760f6f7e7a2ce01fc7?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 11 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69d89561f748bc5d08a43bd0?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Apr 11 |
-| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69cdd8facfdc6132f942064a?utm_campaign=1052&utm_source=git)** | Iowa City, IA | On Site | Apr 11 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69cdd8facfdc6132f942064a?utm_campaign=1052&utm_source=git)** | Iowa City, IA | On Site | Apr 11 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69d89561f748bc5d08a43bd0?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | Apr 11 |
 | **[PNC](http://www.pnc.com)** | **[Portfolio Analytics and Strategy Analyst Senior - Monitoring under Enterprise Fraud Organization (EFO) - (Tableau, Power BI, SQL, Python, R)](https://jobright.ai/jobs/info/69db73a4f748bc5d08a587a8?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69d7973ab67cec4f9b094784?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Apr 11 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Summer Investment Associate, Climate Technology  ](https://jobright.ai/jobs/info/69da5940869c7e25d85a20ce?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Principal Financial Analyst](https://jobright.ai/jobs/info/69db64715356a60f40fe69b1?utm_campaign=1052&utm_source=git)** | Santa Cruz County, CA | Hybrid | Apr 11 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/69da03d29f97a42dc9c273c3?utm_campaign=1052&utm_source=git)** | Sault Ste. Marie, ON | On Site | Apr 11 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Senior Fiscal Analyst](https://jobright.ai/jobs/info/69da02da5356a60f40fdf377?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Apr 11 |
-| ↳ | **[Fiscal Analyst](https://jobright.ai/jobs/info/69da1e21738f2f099e8a7cf4?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

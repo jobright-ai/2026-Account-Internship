@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WP Engine](http://africancentury.wpengine.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69dc89ebf748bc5d08a5ade2?utm_campaign=1052&utm_source=git)** | Austin | On Site | Apr 12 |
 | **[TD](https://www.td.com)** | **[Credit Underwriting Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78c2738f2f099e8b1701?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Customer Exit and Watchlist Oversight Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78c1869c7e25d85aa6e7?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Treasury Funding Intern/ Co-op ( Fall 2026)](https://jobright.ai/jobs/info/69dc78c0869c7e25d85aa6e0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - Wealth Credit & Market Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc7589f748bc5d08a5ad4b?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[TBSM Asset & Liability Management Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc7588f748bc5d08a5ad46?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Credit Loss Allowance & Business Insights Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc7588f748bc5d08a5ad45?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Run My Business Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7587f748bc5d08a5ad3e?utm_campaign=1052&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Model Validation Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc75875356a60f40fe9146?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Run My Business Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7587f748bc5d08a5ad3e?utm_campaign=1052&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Corporate Segment (Expense Governance Team) Intern/ Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[TD Securities Finance Capital Reporting Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75845356a60f40fe9133?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69dc54fb869c7e25d85a9612?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](https://www.spx.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bdeec74828227293009d2c?utm_campaign=1052&utm_source=git)** | Brentwood, MO | Hybrid | Apr 11 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69da361cf748bc5d08a51780?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
 | **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Audit & Monitoring Dashboard Intern](https://jobright.ai/jobs/info/69bdde574828227293009297?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
-| **[Generac](https://www.generac.com)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/69da1e5b869c7e25d85a0f01?utm_campaign=1052&utm_source=git)** | Waukesha, WI | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

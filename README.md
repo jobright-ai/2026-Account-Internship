@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Volkswagen Group Canada Inc.](https://vwgoa.taleo.net/careersection/volkswagen_canada/jobsearch.ftl)** | **[Commercial Credit & Risk Intern](https://jobright.ai/jobs/info/69dca991b67cec4f9b0b2d36?utm_campaign=1052&utm_source=git)** | Pickering, ON | Hybrid | Apr 13 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69dca9815356a60f40fea737?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 13 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69dca818f748bc5d08a5c1ad?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Commercial Banking Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dca7e2738f2f099e8b28dc?utm_campaign=1052&utm_source=git)** | Burnaby, British Columbia | On Site | Apr 13 |
 | ↳ | **[Commercial Banking Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dca7c6f748bc5d08a5bff6?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia | On Site | Apr 13 |
@@ -70,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management - Customer Exit and Watchlist Oversight Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78c1869c7e25d85aa6e7?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Treasury Funding Intern/ Co-op ( Fall 2026)](https://jobright.ai/jobs/info/69dc78c0869c7e25d85aa6e0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Prime Brokerage - Market Risk and Collateral Risk Analytics Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6d8?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[TD Auto Finance Commercial Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16eb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Commercial Banking Intern / Co-Op](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e8?utm_campaign=1052&utm_source=git)** | Oshawa, Ontario | On Site | Apr 12 |
+| ↳ | **[TD Auto Finance Commercial Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16eb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - TD Auto Finance (TDAF) Credit Risk Intern/Co-op](https://jobright.ai/jobs/info/69dc78bd738f2f099e8b16e0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Credit Market Risk Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b1801?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[TDS Management Reporting and Financial Advisory Intern/ Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc78b5b67cec4f9b0b17fa?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
@@ -86,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Run My Business Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7587f748bc5d08a5ad3e?utm_campaign=1052&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Corporate Segment (Expense Governance Team) Intern/ Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[TD Securities Finance Capital Reporting Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75845356a60f40fe9133?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69dc54fb869c7e25d85a9612?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/69dc36149f97a42dc9c2ff6f?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
 | ↳ | **[Cruise Analytics Intern](https://jobright.ai/jobs/info/69dc35c4738f2f099e8b01d4?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69dc21c0738f2f099e8b0023?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 12 |
@@ -104,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance - Summer 2026](https://jobright.ai/jobs/info/69dbc3ca869c7e25d85a833e?utm_campaign=1052&utm_source=git)** | Whitehall, MI | On Site | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69dbae5c9f97a42dc9c2f11b?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
 | ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/69dbae41f748bc5d08a58b36?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
+| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Apr 12 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, International Economics](https://jobright.ai/jobs/info/69a6dd4a76bbe83d3afa33d8?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Apr 12 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/68cbad3fba798c1a501d3d29?utm_campaign=1052&utm_source=git)** | Cullman, AL | On Site | Apr 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Lumos Fiber](https://www.lumosfiber.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bdac174828227293ffed30?utm_campaign=1052&utm_source=git)** | High Point, NC | On Site | Apr 11 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Intern](https://jobright.ai/jobs/info/6969c960f25a38006698850e?utm_campaign=1052&utm_source=git)** | Greater Kalamazoo Area | On Site | Apr 11 |
 | **[Mitsubishi HC Capital America, Inc.](https://www.mhccna.com)** | **[Intern - Corporate Tax](https://jobright.ai/jobs/info/69bddd79b10602456283424a?utm_campaign=1052&utm_source=git)** | Itasca, IL | Hybrid | Apr 11 |
+| **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6967ccd6f25a38006696254a?utm_campaign=1052&utm_source=git)** | London, ON | Hybrid | Apr 11 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Liquidity and Rate Metrics Intern (May – August 2026)](https://jobright.ai/jobs/info/69320968d0010831497be8d9?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

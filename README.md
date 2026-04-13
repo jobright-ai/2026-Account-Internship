@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strongpoint Partners](https://www.strongpointpartners.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd70f9f748bc5d08a5fe8b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 13 |
+| **[IGNITE](https://igniteimpossible.com/)** | **[FINANCE INTERN](https://jobright.ai/jobs/info/69dd6fd5f748bc5d08a5fe01?utm_campaign=1052&utm_source=git)** | Huntsville, AL 35806 US (Primary) | On Site | Apr 13 |
+| **[ProdataKey](https://www.prodatakey.com)** | **[Accounting Intern - Salt Lake City, UT](https://jobright.ai/jobs/info/69dd6fd361f6ed54321fd72e?utm_campaign=1052&utm_source=git)** | WGC | On Site | Apr 13 |
+| **[Piping Technology & Products, Inc.](http://www.pipingtech.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69dd6fa9738f2f099e8b646d?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | Apr 13 |
+| **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69dd6f9cf748bc5d08a5fd60?utm_campaign=1052&utm_source=git)** | Saint Louis, Missouri, United States | Hybrid | Apr 13 |
+| **[TD](https://www.td.com)** | **[Financial Planning Delivery Excellence Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6e0cbc6f6622c99122ca?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| ↳ | **[Direct Investing Strategic Initiatives & Risk Management Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6dfcbc6f6622c99122af?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Financial Planning Delivery Excellence Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d9a9f97a42dc9c36297?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| ↳ | **[Financial Planning Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d989f97a42dc9c36293?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
+| ↳ | **[Direct Investing Strategic Initiatives & Risk Management Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d909f97a42dc9c36289?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[TD](https://www.td.com)** | **[Financial Planning Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d8e9f97a42dc9c3627f?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
+| ↳ | **[Direct Investing Analytics & Insights Intern / Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6d40738f2f099e8b63af?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Direct Investing Analytics & Insights Intern / Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6c06bc6f6622c99121fb?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| ↳ | **[Private Banking Credit Solutions Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6b48738f2f099e8b6281?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern, Trust Tax / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69dd6b17738f2f099e8b61b6?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Apr 13 |
+| **[Hercules Industries](http://herculesindustries.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69dd6b1361f6ed54321fd4c7?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 13 |
+| **[Phibro Animal Health](http://www.pahc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd6ab3f748bc5d08a5fc0e?utm_campaign=1052&utm_source=git)** | Willow Island, WV | Remote | Apr 13 |
+| **[Purdue Federal Credit Union](https://www.purduefed.com)** | **[Intern Internal Audit](https://jobright.ai/jobs/info/69a8649a7ac93962b708385a?utm_campaign=1052&utm_source=git)** | West Lafayette, IN | On Site | Apr 13 |
 | **[Grand Touring Automobiles](http://www.grandtouringautos.com)** | **[DEAL POSTER/ ACCOUNTING CLERK - ACCOUNTING](https://jobright.ai/jobs/info/69dd5ad1738f2f099e8b5ebd?utm_campaign=1052&utm_source=git)** | Vaughan, ON | On Site | Apr 13 |
 | **[Nisga'a School District 92](http://www.nisgaa.bc.ca)** | **[26-59 Accounting Clerk/Receptionist](https://jobright.ai/jobs/info/69dd5a8ef748bc5d08a5f78b?utm_campaign=1052&utm_source=git)** | Nisga'a, British Columbia, Canada | On Site | Apr 13 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Indirect Tax (Summer 2026) GTA Offices](https://jobright.ai/jobs/info/69d6d47052a5bf580012c5af?utm_campaign=1052&utm_source=git)** | Markham, ON | Hybrid | Apr 13 |
@@ -70,9 +88,9 @@ For a complete list, click the following sortable link below:
 | **[Phibro Animal Health](http://www.pahc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd5a3bbc6f6622c9911ce8?utm_campaign=1052&utm_source=git)** | US - Teaneck, NJ - Remote | Remote | Apr 13 |
 | **[Applegreen](http://www.applegreenstores.com/)** | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a37738f2f099e8b5dc8?utm_campaign=1052&utm_source=git)** | Glen Rock , NJ | Hybrid | Apr 13 |
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a35f748bc5d08a5f73b?utm_campaign=1052&utm_source=git)** | East Brunswick	, NJ | Hybrid | Apr 13 |
-| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a34f748bc5d08a5f732?utm_campaign=1052&utm_source=git)** | Woodbridge Township, NJ | Hybrid | Apr 13 |
-| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4d?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | Hybrid | Apr 13 |
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4e?utm_campaign=1052&utm_source=git)** | Glen Rock, NJ | Hybrid | Apr 13 |
+| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4d?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | Hybrid | Apr 13 |
+| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a34f748bc5d08a5f732?utm_campaign=1052&utm_source=git)** | Woodbridge Township, NJ | Hybrid | Apr 13 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69dd5801bc6f6622c9911b92?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 13 |
 | **[Eirich Machines, Inc.](https://eirichusa.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd55569f97a42dc9c35bde?utm_campaign=1052&utm_source=git)** | Gurnee, IL | On Site | Apr 13 |
 | **[Alchemy Insurance Solutions, LLC](https://alchemyins.com/)** | **[Remote Underwriter Internship](https://jobright.ai/jobs/info/69dd554361f6ed54321fcd72?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Apr 13 |
@@ -94,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern - Accounting](https://jobright.ai/jobs/info/69dd4d945356a60f40fed654?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Apr 13 |
 | **[Stewart Title](https://www.stewart.com/)** | **[API Banking & Exchange Intern](https://jobright.ai/jobs/info/69d75684e63cea7a8b670e9e?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Apr 13 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Management, Consumer Banking](https://jobright.ai/jobs/info/69dd4d4ff748bc5d08a5f052?utm_campaign=1052&utm_source=git)** | Harahan,LA,US | On Site | Apr 13 |
+| **[PTMA Financial Solutions](https://www.linkedin.com/company/107194169)** | **[Public Finance Intern](https://jobright.ai/jobs/info/69dd6b4d5356a60f40fee120?utm_campaign=1052&utm_source=git)** | Naperville, IL | On Site | Apr 13 |
 | **[Federal Bureau of Investigation (FBI)](http://www.fbi.gov)** | **[Forensic Accountant](https://jobright.ai/jobs/info/69dd45585356a60f40fed46f?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Apr 13 |
 | **[Techniplas](https://www.techniplas.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd45005356a60f40fed3bf?utm_campaign=1052&utm_source=git)** | Mishawaka, IN 46545 | On Site | Apr 13 |
 | **[Security Mutual Life Insurance Company of New York](https://www.smlny.com)** | **[Actuarial and Investments Intern - 1135](https://jobright.ai/jobs/info/69dd448c5356a60f40fed340?utm_campaign=1052&utm_source=git)** | Binghamton, NY, US | On Site | Apr 13 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1caf61f6ed54321fb2cf?utm_campaign=1052&utm_source=git)** | Peabody, MA | Remote | Apr 13 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1ca661f6ed54321fb2c3?utm_campaign=1052&utm_source=git)** | Westchester, FL | Remote | Apr 13 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1c4561f6ed54321fb28c?utm_campaign=1052&utm_source=git)** | St Clair Shores, MI | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1c4561f6ed54321fb28e?utm_campaign=1052&utm_source=git)** | Minnetonka, MN | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1c3e61f6ed54321fb27d?utm_campaign=1052&utm_source=git)** | New Brunswick, NJ | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1c0961f6ed54321fb237?utm_campaign=1052&utm_source=git)** | Shoreline, WA | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1bfd61f6ed54321fb22a?utm_campaign=1052&utm_source=git)** | Brookhaven, GA | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1beb61f6ed54321fb20c?utm_campaign=1052&utm_source=git)** | Huntington Park, CA | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1beb61f6ed54321fb20d?utm_campaign=1052&utm_source=git)** | Wheaton, IL | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1ba661f6ed54321fb1d0?utm_campaign=1052&utm_source=git)** | Kentwood, MI | Remote | Apr 13 |
-| **[James Hardie](https://www.jameshardie.com)** | **[Commercial and Product Finance Intern](https://jobright.ai/jobs/info/69dd39ed61f6ed54321fbf5c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 13 |
-| **[Wieland Group](https://www.wieland.com/en/)** | **[Treasury Intern](https://jobright.ai/jobs/info/69d93505f748bc5d08a49c96?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 13 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1ac05356a60f40fec776?utm_campaign=1052&utm_source=git)** | Kannapolis, NC | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1ab7f748bc5d08a5e1f2?utm_campaign=1052&utm_source=git)** | Smyrna, TN | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1aadf748bc5d08a5e1e7?utm_campaign=1052&utm_source=git)** | Severn, MD | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1aadf748bc5d08a5e1e8?utm_campaign=1052&utm_source=git)** | Bowie, MD | Remote | Apr 13 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69dd1aa9738f2f099e8b493f?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Apr 13 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1aa4f748bc5d08a5e1da?utm_campaign=1052&utm_source=git)** | Rocky Mount, NC | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1aa4f748bc5d08a5e1d9?utm_campaign=1052&utm_source=git)** | Bel Air South, MD | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1aa4f748bc5d08a5e1d8?utm_campaign=1052&utm_source=git)** | Bradenton, FL | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1a9af748bc5d08a5e1cf?utm_campaign=1052&utm_source=git)** | Royal Oak, MI | Remote | Apr 13 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dd1a9af748bc5d08a5e1d1?utm_campaign=1052&utm_source=git)** | Grand Island, NE | Remote | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

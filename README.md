@@ -57,20 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hourglass Cosmetics](https://www.hourglasscosmetics.com)** | **[Summer Intern, Finance & Accounting](https://jobright.ai/jobs/info/69d960bdf748bc5d08a4b0da?utm_campaign=1052&utm_source=git)** | West Hollywood, CA (Hybrid) | Hybrid | Apr 13 |
 | **[WP Engine](http://africancentury.wpengine.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69dc89ebf748bc5d08a5ade2?utm_campaign=1052&utm_source=git)** | Austin | On Site | Apr 12 |
 | **[TD](https://www.td.com)** | **[Credit Underwriting Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78c2738f2f099e8b1701?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Customer Exit and Watchlist Oversight Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78c1869c7e25d85aa6e7?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Treasury Funding Intern/ Co-op ( Fall 2026)](https://jobright.ai/jobs/info/69dc78c0869c7e25d85aa6e0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Prime Brokerage - Market Risk and Collateral Risk Analytics Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78bf869c7e25d85aa6d8?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[TD Auto Finance Commercial Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16eb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Commercial Banking Intern / Co-Op](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16e8?utm_campaign=1052&utm_source=git)** | Oshawa, Ontario | On Site | Apr 12 |
+| ↳ | **[TD Auto Finance Commercial Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78be738f2f099e8b16eb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - TD Auto Finance (TDAF) Credit Risk Intern/Co-op](https://jobright.ai/jobs/info/69dc78bd738f2f099e8b16e0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Credit Market Risk Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b7b67cec4f9b0b1801?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[TDS Management Reporting and Financial Advisory Intern/ Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc78b5b67cec4f9b0b17fa?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[TDEF Credit Analyst Intern/Co-op](https://jobright.ai/jobs/info/69dc78b4b67cec4f9b0b17f6?utm_campaign=1052&utm_source=git)** | Montréal, Québec | On Site | Apr 12 |
 | ↳ | **[SSF Governance & Controls Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b39f97a42dc9c31425?utm_campaign=1052&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[SSF Governance & Controls Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b2b67cec4f9b0b17ec?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Global Technology Solutions (GTS) Finance Intern/ Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc78b2b67cec4f9b0b17eb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
+| ↳ | **[SSF Governance & Controls Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b2b67cec4f9b0b17ec?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Wealth Credit & Market Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc7589f748bc5d08a5ad4b?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[TBSM Asset & Liability Management Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc7588f748bc5d08a5ad46?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Credit Loss Allowance & Business Insights Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc7588f748bc5d08a5ad45?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance - Summer 2026](https://jobright.ai/jobs/info/69dbc3ca869c7e25d85a833e?utm_campaign=1052&utm_source=git)** | Whitehall, MI | On Site | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69dbae5c9f97a42dc9c2f11b?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
 | ↳ | **[Payroll Intern](https://jobright.ai/jobs/info/69dbae41f748bc5d08a58b36?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 12 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
+| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/696ac86b5fc862418539e575?utm_campaign=1052&utm_source=git)** | Plymouth, MI | On Site | Apr 12 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, International Economics](https://jobright.ai/jobs/info/69a6dd4a76bbe83d3afa33d8?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Apr 12 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Accounting Intern – Summer 2026](https://jobright.ai/jobs/info/68cbad3fba798c1a501d3d29?utm_campaign=1052&utm_source=git)** | Cullman, AL | On Site | Apr 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAA Club Group](http://www.caasco.com)** | **[Actuarial Intern (ECH-ON)](https://jobright.ai/jobs/info/69bdc8bb393a1008f7436459?utm_campaign=1052&utm_source=git)** | Vaughan, ON | On Site | Apr 11 |
 | **[SPX Technologies](https://www.spx.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bdeec74828227293009d2c?utm_campaign=1052&utm_source=git)** | Brentwood, MO | Hybrid | Apr 11 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69da361cf748bc5d08a51780?utm_campaign=1052&utm_source=git)** | Rochester, NY | On Site | Apr 11 |
-| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Audit & Monitoring Dashboard Intern](https://jobright.ai/jobs/info/69bdde574828227293009297?utm_campaign=1052&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ephemeris Net](ephemeris.net)** | **[Financial Strategy Intern](https://jobright.ai/jobs/info/69ddfd4c5913ad339813bc26?utm_campaign=1052&utm_source=git)** | Oakland, CA | On Site | Apr 14 |
+| **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69ddf8ae36823d1b4257f786?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Apr 14 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69ddf70836823d1b4257f70e?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 14 |
+| **[Ephemeris Net](ephemeris.net)** | **[Financial Strategy Intern](https://jobright.ai/jobs/info/69ddf6f3aba61f1417313591?utm_campaign=1052&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69ddf49918cf504166e2b551?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 14 |
 | **[Protective Life](http://www.protective.com/)** | **[2026 Internal Audit Summer Internship Program](https://jobright.ai/jobs/info/69ddce34e34484770f19f776?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Apr 13 |
 | **[Strongpoint Partners](https://www.strongpointpartners.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ddbf11433ac8430e0d6a50?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 13 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern, Trust Tax / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69ddbec7e34484770f19eed8?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Apr 13 |
@@ -118,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Nisga'a School District 92](http://www.nisgaa.bc.ca)** | **[26-59 Accounting Clerk/Receptionist](https://jobright.ai/jobs/info/69dd5a8ef748bc5d08a5f78b?utm_campaign=1052&utm_source=git)** | Nisga'a, British Columbia, Canada | On Site | Apr 13 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Indirect Tax (Summer 2026) GTA Offices](https://jobright.ai/jobs/info/69d6d47052a5bf580012c5af?utm_campaign=1052&utm_source=git)** | Markham, ON | Hybrid | Apr 13 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Payment Operations Analyst](https://jobright.ai/jobs/info/69dd5a6ff748bc5d08a5f76a?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 13 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Indirect Tax (Summer 2026) GTA Offices](https://jobright.ai/jobs/info/69d6d463cfdc6132f946d8a0?utm_campaign=1052&utm_source=git)** | Oakville, ON | Hybrid | Apr 13 |
-| ↳ | **[Co-op or Intern, Indirect Tax (Summer 2026) GTA Offices](https://jobright.ai/jobs/info/69d6d47d366bb95ba555031e?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Indirect Tax (Summer 2026) GTA Offices](https://jobright.ai/jobs/info/69d6d47d366bb95ba555031e?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
+| ↳ | **[Co-op or Intern, Indirect Tax (Summer 2026) GTA Offices](https://jobright.ai/jobs/info/69d6d463cfdc6132f946d8a0?utm_campaign=1052&utm_source=git)** | Oakville, ON | Hybrid | Apr 13 |
 | **[Hercules Industries](http://herculesindustries.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69dd5a5b61f6ed54321fcf5d?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 13 |
 | **[American Tower](https://www.americantower.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/69dd5a5b61f6ed54321fcf66?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Apr 13 |
 | **[Applegreen](http://www.applegreenstores.com/)** | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a405356a60f40fedda4?utm_campaign=1052&utm_source=git)** | Secaucus, NJ | Hybrid | Apr 13 |
@@ -127,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Phibro Animal Health](http://www.pahc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd5a3bbc6f6622c9911ce8?utm_campaign=1052&utm_source=git)** | US - Teaneck, NJ - Remote | Remote | Apr 13 |
 | **[Applegreen](http://www.applegreenstores.com/)** | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a37738f2f099e8b5dc8?utm_campaign=1052&utm_source=git)** | Glen Rock , NJ | Hybrid | Apr 13 |
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a35f748bc5d08a5f73b?utm_campaign=1052&utm_source=git)** | East Brunswick	, NJ | Hybrid | Apr 13 |
+| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4e?utm_campaign=1052&utm_source=git)** | Glen Rock, NJ | Hybrid | Apr 13 |
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a34f748bc5d08a5f732?utm_campaign=1052&utm_source=git)** | Woodbridge Township, NJ | Hybrid | Apr 13 |
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4d?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | Hybrid | Apr 13 |
-| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4e?utm_campaign=1052&utm_source=git)** | Glen Rock, NJ | Hybrid | Apr 13 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69dd5801bc6f6622c9911b92?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 13 |
 | **[Eirich Machines, Inc.](https://eirichusa.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd55569f97a42dc9c35bde?utm_campaign=1052&utm_source=git)** | Gurnee, IL | On Site | Apr 13 |
 | **[Alchemy Insurance Solutions, LLC](https://alchemyins.com/)** | **[Remote Underwriter Internship](https://jobright.ai/jobs/info/69dd554361f6ed54321fcd72?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Apr 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Management, Consumer Banking](https://jobright.ai/jobs/info/69dd4d4ff748bc5d08a5f052?utm_campaign=1052&utm_source=git)** | Harahan,LA,US | On Site | Apr 13 |
 | **[PTMA Financial Solutions](https://www.linkedin.com/company/107194169)** | **[Public Finance Intern](https://jobright.ai/jobs/info/69dd6b4d5356a60f40fee120?utm_campaign=1052&utm_source=git)** | Naperville, IL | On Site | Apr 13 |
 | **[Native American Bank, N.A.](http://www.nabna.com)** | **[Rotational Internship Program ? Summer 2026](https://jobright.ai/jobs/info/69dd76f59f97a42dc9c36585?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 13 |
-| **[Federal Bureau of Investigation (FBI)](http://www.fbi.gov)** | **[Forensic Accountant](https://jobright.ai/jobs/info/69dd45585356a60f40fed46f?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Apr 13 |
-| **[Techniplas](https://www.techniplas.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd45005356a60f40fed3bf?utm_campaign=1052&utm_source=git)** | Mishawaka, IN 46545 | On Site | Apr 13 |
-| **[Security Mutual Life Insurance Company of New York](https://www.smlny.com)** | **[Actuarial and Investments Intern - 1135](https://jobright.ai/jobs/info/69dd448c5356a60f40fed340?utm_campaign=1052&utm_source=git)** | Binghamton, NY, US | On Site | Apr 13 |
-| **[Federal Bureau of Investigation (FBI)](http://www.fbi.gov)** | **[Forensic Accountant](https://jobright.ai/jobs/info/69dd4489f748bc5d08a5ed3a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 13 |
-| **[EDUrain Inc. (Techstars ‘23)](https://edurain.org/)** | **[Accounting Internship (Depaul and Mckendree Students)](https://jobright.ai/jobs/info/69dd4484f748bc5d08a5ed21?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

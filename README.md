@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69c20330c9ad035e829a6cb3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| **[City of Toronto](http://www.toronto.ca)** | **[FINANCE REPRESENTATIVE](https://jobright.ai/jobs/info/69de077daba61f1417313890?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
+| ↳ | **[BUSINESS & FINANCIAL ANALYST](https://jobright.ai/jobs/info/69de0776aba61f1417313877?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
 | **[Ephemeris Net](ephemeris.net)** | **[Financial Strategy Intern](https://jobright.ai/jobs/info/69ddfd4c5913ad339813bc26?utm_campaign=1052&utm_source=git)** | Oakland, CA | On Site | Apr 14 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69ddf8ae36823d1b4257f786?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Apr 14 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69ddf70836823d1b4257f70e?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 14 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[American Residential Services](http://ars.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69dda5108182b27d347409cb?utm_campaign=1052&utm_source=git)** | Columbus Worthington Air (Columbus) | On Site | Apr 13 |
 | ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/69dda4e35913ad33981397df?utm_campaign=1052&utm_source=git)** | Columbus, OH, US | On Site | Apr 13 |
 | ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/69dda4d6aba61f14173112fd?utm_campaign=1052&utm_source=git)** | US-OH-Columbus | On Site | Apr 13 |
-| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcf?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
-| ↳ | **[Revenue Cycle Management Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5be5?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
+| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Revenue Cycle Management Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5be5?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
+| ↳ | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcf?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 | **[Framatome](http://www.framatome.com)** | **[Finance Intern (Accounts Payable)](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcd?utm_campaign=1052&utm_source=git)** | Onsite | On Site | Apr 13 |
 | **[Kentucky Eye Institute](https://kyeye.com/)** | **[Accounting & Finance Summer Intern](https://jobright.ai/jobs/info/69dda3465913ad3398139770?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 | ↳ | **[Revenue Cycle Management Summer Intern](https://jobright.ai/jobs/info/69dda330aba61f14173111f9?utm_campaign=1052&utm_source=git)** | US-GA-Atlanta | On Site | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Accountant Intern](https://jobright.ai/jobs/info/69dd4dc59f97a42dc9c3540b?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern - Accounting](https://jobright.ai/jobs/info/69dd4d945356a60f40fed654?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Apr 13 |
 | **[Stewart Title](https://www.stewart.com/)** | **[API Banking & Exchange Intern](https://jobright.ai/jobs/info/69d75684e63cea7a8b670e9e?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Apr 13 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Management, Consumer Banking](https://jobright.ai/jobs/info/69dd4d4ff748bc5d08a5f052?utm_campaign=1052&utm_source=git)** | Harahan,LA,US | On Site | Apr 13 |
-| **[PTMA Financial Solutions](https://www.linkedin.com/company/107194169)** | **[Public Finance Intern](https://jobright.ai/jobs/info/69dd6b4d5356a60f40fee120?utm_campaign=1052&utm_source=git)** | Naperville, IL | On Site | Apr 13 |
-| **[Native American Bank, N.A.](http://www.nabna.com)** | **[Rotational Internship Program ? Summer 2026](https://jobright.ai/jobs/info/69dd76f59f97a42dc9c36585?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

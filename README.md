@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/691d19850b7dff73414ffbca?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Apr 14 |
+| **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Financial- Intern](https://jobright.ai/jobs/info/69de3134433ac8430e0d8a00?utm_campaign=1052&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | Apr 14 |
+| **[BGIS](https://www.bgis.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69dbd514738f2f099e8af4ef?utm_campaign=1052&utm_source=git)** | Markham, ON | Hybrid | Apr 14 |
+| **[RBC](https://www.rbc.com)** | **[Manager, Credit Structures (Intern)- EN](https://jobright.ai/jobs/info/69d7444be63cea7a8b67032d?utm_campaign=1052&utm_source=git)** | Laval, QC | On Site | Apr 14 |
+| **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Financial- Intern](https://jobright.ai/jobs/info/69de2fc65913ad339813c2e8?utm_campaign=1052&utm_source=git)** | Columbia, MD | Hybrid | Apr 14 |
+| **[Legends Global](http://legends.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c1c54f2c312363dcd4f5c9?utm_campaign=1052&utm_source=git)** | Norwalk, CT | On Site | Apr 14 |
+| **[MSIG USA](https://www.msigusa.com/)** | **[Financial Planning & Analysis (FP&A) Analyst Intern](https://jobright.ai/jobs/info/69dd8734bc6f6622c99127d6?utm_campaign=1052&utm_source=git)** | Warren, NJ | Hybrid | Apr 14 |
 | **[Legends Global](http://legends.net)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69c1c73375f7ff1cd8101dfa?utm_campaign=1052&utm_source=git)** | Norwalk, CT | On Site | Apr 14 |
 | **[Trench Group](https://trench-group.com/)** | **[Finance Intern (12 months)](https://jobright.ai/jobs/info/69d3394acfdc6132f944ecd8?utm_campaign=1052&utm_source=git)** | Scarborough, ON | On Site | Apr 14 |
 | **[UES](https://www.teamues.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69c2007c2c312363dcd54d53?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Apr 14 |
@@ -74,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69c22426c9ad035e829ae11e?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | **[Equinix](http://www.equinix.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69c1ff3dc9ad035e829a6972?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 14 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Financial Planning Tools Intern (CFP® Pathway)](https://jobright.ai/jobs/info/69de0da9e34484770f1a0a4a?utm_campaign=1052&utm_source=git)** | Minneapolis, Minnesota | On Site | Apr 14 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Finance](https://jobright.ai/jobs/info/69d93c62869c7e25d859982c?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Apr 14 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69c20330c9ad035e829a6cb3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[City of Toronto](http://www.toronto.ca)** | **[FINANCE REPRESENTATIVE](https://jobright.ai/jobs/info/69de077daba61f1417313890?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
 | ↳ | **[BUSINESS & FINANCIAL ANALYST](https://jobright.ai/jobs/info/69de0776aba61f1417313877?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
@@ -119,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Accountant](https://jobright.ai/jobs/info/69dd7c8dbc6f6622c9912698?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Apr 13 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Finance Coordinator (Temporary)](https://jobright.ai/jobs/info/69dd7c68738f2f099e8b674e?utm_campaign=1052&utm_source=git)** | Santa Cruz County, CA | Hybrid | Apr 13 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Accounting Internship Summer 2026](https://jobright.ai/jobs/info/69dd76f45356a60f40fee58a?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | Apr 13 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69dd7686738f2f099e8b660f?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 13 |
 | **[Strongpoint Partners](https://www.strongpointpartners.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd70f9f748bc5d08a5fe8b?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 13 |
 | **[IGNITE](https://igniteimpossible.com/)** | **[FINANCE INTERN](https://jobright.ai/jobs/info/69dd6fd5f748bc5d08a5fe01?utm_campaign=1052&utm_source=git)** | Huntsville, AL 35806 US (Primary) | On Site | Apr 13 |
 | **[ProdataKey](https://www.prodatakey.com)** | **[Accounting Intern - Salt Lake City, UT](https://jobright.ai/jobs/info/69dd6fd361f6ed54321fd72e?utm_campaign=1052&utm_source=git)** | WGC | On Site | Apr 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a3cbc6f6622c9911cf1?utm_campaign=1052&utm_source=git)** | Montvale, NJ | Hybrid | Apr 13 |
 | **[Phibro Animal Health](http://www.pahc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd5a3bbc6f6622c9911ce8?utm_campaign=1052&utm_source=git)** | US - Teaneck, NJ - Remote | Remote | Apr 13 |
 | **[Applegreen](http://www.applegreenstores.com/)** | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a37738f2f099e8b5dc8?utm_campaign=1052&utm_source=git)** | Glen Rock , NJ | Hybrid | Apr 13 |
-| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a35f748bc5d08a5f73b?utm_campaign=1052&utm_source=git)** | East Brunswick	, NJ | Hybrid | Apr 13 |
-| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a34f748bc5d08a5f732?utm_campaign=1052&utm_source=git)** | Woodbridge Township, NJ | Hybrid | Apr 13 |
-| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4e?utm_campaign=1052&utm_source=git)** | Glen Rock, NJ | Hybrid | Apr 13 |
-| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4d?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | Hybrid | Apr 13 |
-| **[Eirich Machines, Inc.](https://eirichusa.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd55569f97a42dc9c35bde?utm_campaign=1052&utm_source=git)** | Gurnee, IL | On Site | Apr 13 |
-| **[Alchemy Insurance Solutions, LLC](https://alchemyins.com/)** | **[Remote Underwriter Internship](https://jobright.ai/jobs/info/69dd554361f6ed54321fcd72?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Apr 13 |
-| **[Pathward](https://www.pathward.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd545c5356a60f40fedb44?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

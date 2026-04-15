@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69df2199433ac8430e0df21c?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Apr 14 |
+| **[Bellco Credit Union](https://www.bellco.org)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69df217536823d1b425868ab?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
+| **[LG Electronics](http://www.lg.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69c4686933eecf310794bac7?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
+| **[MP Materials](https://mpmaterials.com)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/69df1fa818cf504166e3277a?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Apr 14 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Director of Finance and Operations, College of Health and Human Development](https://jobright.ai/jobs/info/69df0df8aba61f1417319dc4?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 14 |
 | **[MP Materials](https://mpmaterials.com)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/69df08ce433ac8430e0de307?utm_campaign=1052&utm_source=git)** | Las Vegas, NV, US | On Site | Apr 14 |
 | **[Valley Strong Credit Union](https://www.valleystrong.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69df02da5913ad3398141b77?utm_campaign=1052&utm_source=git)** | Bakersfield, CA | On Site | Apr 14 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Veolia](http://www.veolia.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ded67218cf504166e3016a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 14 |
 | **[Springbrook Software](http://www.springbrooksoftware.com)** | **[Cash Application Specialist Internship](https://jobright.ai/jobs/info/69ded105433ac8430e0dca26?utm_campaign=1052&utm_source=git)** | United States, 00000 | On Site | Apr 14 |
 | **[Valley Strong Credit Union](https://www.valleystrong.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69ded103aba61f1417317ee0?utm_campaign=1052&utm_source=git)** | Admin, Bakersfield, CA, US | On Site | Apr 14 |
-| **[Brady Corporation](https://www.bradyid.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69decda4433ac8430e0dc944?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 14 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/69decc6daba61f1417317cd6?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Apr 14 |
 | **[Autoliv](http://autoliv.com)** | **[Finance intern](https://jobright.ai/jobs/info/69decae236823d1b42583db0?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 14 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69decade36823d1b42583da4?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harbourside Engineering Group](https://harboursideengineering.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69deba815913ad339813f607?utm_campaign=1052&utm_source=git)** | Stratford, PE | On Site | Apr 14 |
 | **[PlayStation](https://www.playstation.com/)** | **[Strategic & Commercial Finance - Data Science Intern](https://jobright.ai/jobs/info/69de871a18cf504166e2d987?utm_campaign=1052&utm_source=git)** | United States of America | On Site | Apr 14 |
 | **[Friedman + Huey Associates LLP](http://www.fhassoc.com)** | **[2027 Winter/Spring Tax Internship](https://jobright.ai/jobs/info/69a73d0e76bbe83d3afa9807?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Apr 14 |
-| **[Lionsmark Investment Group, LLC](https://www.lionsmarkgroup.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69de86bd18cf504166e2d930?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 14 |
-| **[SCS](https://www.northwestscs.com/)** | **[Financial Services Internship](https://jobright.ai/jobs/info/69de8519e34484770f1a279b?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Apr 14 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Trust Accounting Department](https://jobright.ai/jobs/info/69de84d836823d1b425816c5?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

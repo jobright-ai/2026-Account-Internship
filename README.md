@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/699005800cc8ea15f1da9c00?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 15 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Accounting Clerk](https://jobright.ai/jobs/info/69c2ee76ec22f8310ab0f147?utm_campaign=1052&utm_source=git)** | Germantown, MD | On Site | Apr 15 |
 | **[WM](https://www.wm.com/)** | **[FP&A Internship](https://jobright.ai/jobs/info/69df88acaba61f141731c17c?utm_campaign=1052&utm_source=git)** | 1 GRIFFIN RD N FL 4, WINDSOR, CT, 06095, US | Hybrid | Apr 15 |
 | ↳ | **[FP&A Internship](https://jobright.ai/jobs/info/69df87b04920452a85dce233?utm_campaign=1052&utm_source=git)** | Windsor, CT | Hybrid | Apr 15 |
 | **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[FP&A Internship](https://jobright.ai/jobs/info/69df85b54920452a85dce1ec?utm_campaign=1052&utm_source=git)** | Windsor, CT, United States | Hybrid | Apr 15 |
-| **[UPS](http://www.ups.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/698a43004db8972cecff8296?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 15 |
 | **[Heraeus](https://www.heraeus-group.com)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/69df80355913ad3398144117?utm_campaign=1052&utm_source=git)** | Rolla, MO | On Site | Apr 15 |
 | **[Strattec Security Corporation](http://www.strattec.com/)** | **[Procurement Intern - Summer](https://jobright.ai/jobs/info/69c33c50097a024c43d9428d?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 15 |
 | **[Xometry](https://www.xometry.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69df7f91e34484770f1a8f40?utm_campaign=1052&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 15 |
@@ -111,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69dec553e34484770f1a4ba6?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Apr 14 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69dec520433ac8430e0dc61a?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Apr 14 |
 | **[KEB](http://kebcpa.com)** | **[Audit Intern - Spring '27](https://jobright.ai/jobs/info/69dec4465913ad339813ffa7?utm_campaign=1052&utm_source=git)** | Fenton, MO | On Site | Apr 14 |
+| **[Springbrook Software](http://www.springbrooksoftware.com)** | **[Cash Application Specialist Internship](https://jobright.ai/jobs/info/69df92d7433ac8430e0e0fd1?utm_campaign=1052&utm_source=git)** | United States, 00000 | On Site | Apr 14 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Quantitative Finance Internship](https://jobright.ai/jobs/info/69dec0fde34484770f1a4a2f?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69dec0fb18cf504166e2fb63?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 14 |
 | **[Advanced Acoustic Concepts](https://advancedacousticconcepts.com)** | **[Finance Intern I/II](https://jobright.ai/jobs/info/69debe4418cf504166e2fa17?utm_campaign=1052&utm_source=git)** | Great River, NY | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heartland Mutual Insurance](https://www.heartlandfarmmutual.com/)** | **[Actuarial Student](https://jobright.ai/jobs/info/69de9628e34484770f1a35e2?utm_campaign=1052&utm_source=git)** | Waterloo, ON | Hybrid | Apr 14 |
 | **[Advanced Acoustic Concepts](https://advancedacousticconcepts.com)** | **[Finance Intern I/II](https://jobright.ai/jobs/info/69de961eaba61f1417316604?utm_campaign=1052&utm_source=git)** | Great River, NY, US, 11739 | On Site | Apr 14 |
 | **[The Alinea Group](https://www.thealineagroup.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69de95f2e34484770f1a3594?utm_campaign=1052&utm_source=git)** | 406 N Sangamon St, Chicago, 60642, US | On Site | Apr 14 |
-| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69de95d95913ad339813e49a?utm_campaign=1052&utm_source=git)** | Omaha, Nebraska, United States | On Site | Apr 14 |
-| **[80 Acres Farms](https://www.80acresfarms.com)** | **[Intern](https://jobright.ai/jobs/info/69de95d65913ad339813e47d?utm_campaign=1052&utm_source=git)** | Hamilton, OH, US | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

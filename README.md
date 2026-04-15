@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WECU](http://www.wecu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69deea79aba61f1417318d6f?utm_campaign=1052&utm_source=git)** | Bellingham, WA, US | On Site | Apr 14 |
+| **[Biocair](http://www.biocair.com)** | **[Credit & Collections Analyst](https://jobright.ai/jobs/info/69dee580e34484770f1a5468?utm_campaign=1052&utm_source=git)** | Woburn, MA | Hybrid | Apr 14 |
 | **[RingCentral](https://www.ringcentral.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/69dedc7936823d1b425843a5?utm_campaign=1052&utm_source=git)** | Belmont, CA | On Site | Apr 14 |
 | **[Everest](https://www.everestglobal.com/)** | **[Underwriting Internship](https://jobright.ai/jobs/info/69dedb72aba61f1417318223?utm_campaign=1052&utm_source=git)** | South Chicago, IL | Hybrid | Apr 14 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 Audit Intern (Brunswick)](https://jobright.ai/jobs/info/69dedb5418cf504166e303ff?utm_campaign=1052&utm_source=git)** | Brunswick, GA | On Site | Apr 14 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Five9](http://www.five9.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69deb2c45913ad339813f081?utm_campaign=1052&utm_source=git)** | San Ramon, CA | Hybrid | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Fund Manager Sr](https://jobright.ai/jobs/info/69deb28336823d1b4258345e?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Apr 14 |
 | **[Kiokii and...](kiokii.com)** | **[Data Entry (Finance) Co-op](https://jobright.ai/jobs/info/69deb27736823d1b42583415?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 14 |
-| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
-| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
+| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
+| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
 | **[RingCentral](https://www.ringcentral.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/69deb271e34484770f1a43eb?utm_campaign=1052&utm_source=git)** | Belmont, California | On Site | Apr 14 |
 | **[Kiokii and...](kiokii.com)** | **[Finance Co-op](https://jobright.ai/jobs/info/69deb26faba61f1417317325?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb26aaba61f1417317319?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[PlayStation](https://www.playstation.com/)** | **[Strategic & Commercial Finance - Data Science Intern](https://jobright.ai/jobs/info/69de871a18cf504166e2d987?utm_campaign=1052&utm_source=git)** | United States of America | On Site | Apr 14 |
 | **[Friedman + Huey Associates LLP](http://www.fhassoc.com)** | **[2027 Winter/Spring Tax Internship](https://jobright.ai/jobs/info/69a73d0e76bbe83d3afa9807?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Apr 14 |
 | **[Lionsmark Investment Group, LLC](https://www.lionsmarkgroup.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69de86bd18cf504166e2d930?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 14 |
-| **[Five9](http://www.five9.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69de8599aba61f1417315723?utm_campaign=1052&utm_source=git)** | San Ramon, CA | Hybrid | Apr 14 |
 | **[SCS](https://www.northwestscs.com/)** | **[Financial Services Internship](https://jobright.ai/jobs/info/69de8519e34484770f1a279b?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Apr 14 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Trust Accounting Department](https://jobright.ai/jobs/info/69de84d836823d1b425816c5?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 14 |
 | ↳ | **[Fall Intern 2026 - Trust Accounting Department](https://jobright.ai/jobs/info/69de84d7433ac8430e0da19f?utm_campaign=1052&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Everest](https://www.everestglobal.com/)** | **[Underwriting Internship](https://jobright.ai/jobs/info/69dec8c1433ac8430e0dc6d4?utm_campaign=1052&utm_source=git)** | Chicago, IL - South Riverside | Hybrid | Apr 14 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Mill Finance Intern](https://jobright.ai/jobs/info/69de8110e34484770f1a270e?utm_campaign=1052&utm_source=git)** | Lake Forest, IL | On Site | Apr 14 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Accounting Intern](https://jobright.ai/jobs/info/69de810e433ac8430e0da143?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69c2dfd4ec22f8310ab0d8ed?utm_campaign=1052&utm_source=git)** | Watertown, SD | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

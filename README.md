@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Strategic Finance](https://jobright.ai/jobs/info/698c19260f6f7e7a2ce7abdd?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
+| **[Group 1001](https://group1001.com/)** | **[Reinsurance Analytics Intern](https://jobright.ai/jobs/info/69d5c336e63cea7a8b6647c2?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 15 |
 | **[California ISO](http://www.caiso.com/)** | **[Economics Intern - Summer 2026 (Hybrid or Remote)](https://jobright.ai/jobs/info/6970167a0f4e0f657ea471aa?utm_campaign=1052&utm_source=git)** | Folsom, CA | Hybrid | Apr 15 |
 | **[City of Goodyear Economic Development](https://www.linkedin.com/company/3235587)** | **[Senior Accountant](https://jobright.ai/jobs/info/69df699514bf245fc7a6c0e1?utm_campaign=1052&utm_source=git)** | Goodyear, AZ | On Site | Apr 15 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Growth Equity Investing Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69c310b6753c101b21568dd5?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Apr 15 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69dec553e34484770f1a4ba6?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Apr 14 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69dec520433ac8430e0dc61a?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | Apr 14 |
 | **[KEB](http://kebcpa.com)** | **[Audit Intern - Spring '27](https://jobright.ai/jobs/info/69dec4465913ad339813ffa7?utm_campaign=1052&utm_source=git)** | Fenton, MO | On Site | Apr 14 |
-| **[Springbrook Software](http://www.springbrooksoftware.com)** | **[Cash Application Specialist Internship](https://jobright.ai/jobs/info/69df6142433ac8430e0e05ff?utm_campaign=1052&utm_source=git)** | United States, 00000 | On Site | Apr 14 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Quantitative Finance Internship](https://jobright.ai/jobs/info/69dec0fde34484770f1a4a2f?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69dec0fb18cf504166e2fb63?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 14 |
 | **[Advanced Acoustic Concepts](https://advancedacousticconcepts.com)** | **[Finance Intern I/II](https://jobright.ai/jobs/info/69debe4418cf504166e2fa17?utm_campaign=1052&utm_source=git)** | Great River, NY | On Site | Apr 14 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Five9](http://www.five9.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69deb2c45913ad339813f081?utm_campaign=1052&utm_source=git)** | San Ramon, CA | Hybrid | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Fund Manager Sr](https://jobright.ai/jobs/info/69deb28336823d1b4258345e?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Apr 14 |
 | **[Kiokii and...](kiokii.com)** | **[Data Entry (Finance) Co-op](https://jobright.ai/jobs/info/69deb27736823d1b42583415?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 14 |
-| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
-| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
+| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
+| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
 | **[RingCentral](https://www.ringcentral.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/69deb271e34484770f1a43eb?utm_campaign=1052&utm_source=git)** | Belmont, California | On Site | Apr 14 |
 | **[Kiokii and...](kiokii.com)** | **[Finance Co-op](https://jobright.ai/jobs/info/69deb26faba61f1417317325?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb26aaba61f1417317319?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Minnkota Power Cooperative](http://www.minnkota.com/)** | **[Accounting Assistant Intern](https://jobright.ai/jobs/info/69de92d7433ac8430e0dae02?utm_campaign=1052&utm_source=git)** | Grand Forks, ND | On Site | Apr 14 |
 | **[Traffic Tech](http://www.traffictech.com)** | **[Invoicing Intern](https://jobright.ai/jobs/info/69de9233e34484770f1a32a8?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[Depatie Fluid Power Co.](https://depatie.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69de9208e34484770f1a327c?utm_campaign=1052&utm_source=git)** | Portage,MI,US | On Site | Apr 14 |
-| **[FMC Corporation](http://www.fmc.com)** | **[Global Tax Intern](https://jobright.ai/jobs/info/69de92055913ad339813e329?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

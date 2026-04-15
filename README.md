@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Tennessee](https://www.tn.gov/)** | **[ACCOUNTANT 2* - 04152026-76807](https://jobright.ai/jobs/info/69df2bd6433ac8430e0df645?utm_campaign=1052&utm_source=git)** | Madison County, TN | Hybrid | Apr 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69df2199433ac8430e0df21c?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Apr 14 |
 | **[Bellco Credit Union](https://www.bellco.org)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69df217536823d1b425868ab?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
 | **[LG Electronics](http://www.lg.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69c4686933eecf310794bac7?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Tributary Capital Management (Kansas City, MO)](https://jobright.ai/jobs/info/69de89db18cf504166e2dc87?utm_campaign=1052&utm_source=git)** | Kansas City, MO - 1 Ward Parkway | On Site | Apr 14 |
 | **[Harbourside Engineering Group](https://harboursideengineering.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69deba815913ad339813f607?utm_campaign=1052&utm_source=git)** | Stratford, PE | On Site | Apr 14 |
 | **[PlayStation](https://www.playstation.com/)** | **[Strategic & Commercial Finance - Data Science Intern](https://jobright.ai/jobs/info/69de871a18cf504166e2d987?utm_campaign=1052&utm_source=git)** | United States of America | On Site | Apr 14 |
-| **[Friedman + Huey Associates LLP](http://www.fhassoc.com)** | **[2027 Winter/Spring Tax Internship](https://jobright.ai/jobs/info/69a73d0e76bbe83d3afa9807?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

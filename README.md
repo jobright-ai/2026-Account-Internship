@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Northridge](https://www.csun.edu/)** | **[Director of Finance and Operations, College of Health and Human Development](https://jobright.ai/jobs/info/69df0df8aba61f1417319dc4?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 14 |
 | **[MP Materials](https://mpmaterials.com)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/69df08ce433ac8430e0de307?utm_campaign=1052&utm_source=git)** | Las Vegas, NV, US | On Site | Apr 14 |
 | **[Valley Strong Credit Union](https://www.valleystrong.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69df02da5913ad3398141b77?utm_campaign=1052&utm_source=git)** | Bakersfield, CA | On Site | Apr 14 |
 | **[TRIUMPH](https://www.triumphgroup.com/)** | **[Intern, Finance & Business Operations](https://jobright.ai/jobs/info/69defb94e34484770f1a653e?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Apr 14 |
@@ -148,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69de8c175913ad339813e1af?utm_campaign=1052&utm_source=git)** | Vancouver, WA | Hybrid | Apr 14 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/69de8c0baba61f141731604b?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Apr 14 |
 | **[State of Missouri](http://mo.gov)** | **[Auditor Internship](https://jobright.ai/jobs/info/69de8ae318cf504166e2e156?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Apr 14 |
-| **[ESCO Automation](http://theescogroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69de8ab618cf504166e2e09c?utm_campaign=1052&utm_source=git)** | Marion, IA | On Site | Apr 14 |
 | **[Traffic Tech](http://www.traffictech.com)** | **[Invoicing Intern](https://jobright.ai/jobs/info/69de8a345913ad339813de4e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Tributary Capital Management (Kansas City, MO)](https://jobright.ai/jobs/info/69de89db18cf504166e2dc87?utm_campaign=1052&utm_source=git)** | Kansas City, MO - 1 Ward Parkway | On Site | Apr 14 |
 | **[Harbourside Engineering Group](https://harboursideengineering.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69deba815913ad339813f607?utm_campaign=1052&utm_source=git)** | Stratford, PE | On Site | Apr 14 |

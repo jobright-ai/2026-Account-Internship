@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69df509814bf245fc7a6be1f?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
+| **[Premera Blue Cross](https://www.premera.com)** | **[Accounting and Reporting Intern](https://jobright.ai/jobs/info/69c321ffec22f8310ab14acf?utm_campaign=1052&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Apr 15 |
+| **[TRIUMPH Mexicali](https://www.triumphgroup.com/)** | **[Title                                                   Intern, Finance & Business Operations](https://jobright.ai/jobs/info/69df54985913ad3398143bef?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | Apr 15 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69df531de34484770f1a88f3?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
+| ↳ | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69df509814bf245fc7a6be1f?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
 | **[RBC](https://www.rbc.com)** | **[Manager, Credit Structures (Intern)- EN](https://jobright.ai/jobs/info/69df4d8814bf245fc7a6bce7?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Apr 15 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[ACCOUNTANT 2* - 04152026-76807](https://jobright.ai/jobs/info/69df2bd6433ac8430e0df645?utm_campaign=1052&utm_source=git)** | Madison County, TN | Hybrid | Apr 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69df2199433ac8430e0df21c?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Apr 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69de8c175913ad339813e1af?utm_campaign=1052&utm_source=git)** | Vancouver, WA | Hybrid | Apr 14 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/69de8c0baba61f141731604b?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Apr 14 |
 | **[State of Missouri](http://mo.gov)** | **[Auditor Internship](https://jobright.ai/jobs/info/69de8ae318cf504166e2e156?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Apr 14 |
-| **[Traffic Tech](http://www.traffictech.com)** | **[Invoicing Intern](https://jobright.ai/jobs/info/69de8a345913ad339813de4e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
-| **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Tributary Capital Management (Kansas City, MO)](https://jobright.ai/jobs/info/69de89db18cf504166e2dc87?utm_campaign=1052&utm_source=git)** | Kansas City, MO - 1 Ward Parkway | On Site | Apr 14 |
-| **[Harbourside Engineering Group](https://harboursideengineering.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69deba815913ad339813f607?utm_campaign=1052&utm_source=git)** | Stratford, PE | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

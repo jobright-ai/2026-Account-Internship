@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69df509814bf245fc7a6be1f?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
+| **[RBC](https://www.rbc.com)** | **[Manager, Credit Structures (Intern)- EN](https://jobright.ai/jobs/info/69df4d8814bf245fc7a6bce7?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Apr 15 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[ACCOUNTANT 2* - 04152026-76807](https://jobright.ai/jobs/info/69df2bd6433ac8430e0df645?utm_campaign=1052&utm_source=git)** | Madison County, TN | Hybrid | Apr 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69df2199433ac8430e0df21c?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Apr 14 |
 | **[Bellco Credit Union](https://www.bellco.org)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69df217536823d1b425868ab?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Financial Systems & Planning Intern](https://jobright.ai/jobs/info/69ded8815913ad3398140686?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 14 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Accounting Technician](https://jobright.ai/jobs/info/69ded87e433ac8430e0dcc6d?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Apr 14 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ded67218cf504166e3016a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 14 |
-| **[Springbrook Software](http://www.springbrooksoftware.com)** | **[Cash Application Specialist Internship](https://jobright.ai/jobs/info/69ded105433ac8430e0dca26?utm_campaign=1052&utm_source=git)** | United States, 00000 | On Site | Apr 14 |
 | **[Valley Strong Credit Union](https://www.valleystrong.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69ded103aba61f1417317ee0?utm_campaign=1052&utm_source=git)** | Admin, Bakersfield, CA, US | On Site | Apr 14 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/69decc6daba61f1417317cd6?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Apr 14 |
 | **[Autoliv](http://autoliv.com)** | **[Finance intern](https://jobright.ai/jobs/info/69decae236823d1b42583db0?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 14 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Five9](http://www.five9.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69deb2c45913ad339813f081?utm_campaign=1052&utm_source=git)** | San Ramon, CA | Hybrid | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Fund Manager Sr](https://jobright.ai/jobs/info/69deb28336823d1b4258345e?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Apr 14 |
 | **[Kiokii and...](kiokii.com)** | **[Data Entry (Finance) Co-op](https://jobright.ai/jobs/info/69deb27736823d1b42583415?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 14 |
-| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
-| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
+| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
+| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
 | **[RingCentral](https://www.ringcentral.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/69deb271e34484770f1a43eb?utm_campaign=1052&utm_source=git)** | Belmont, California | On Site | Apr 14 |
 | **[Kiokii and...](kiokii.com)** | **[Finance Co-op](https://jobright.ai/jobs/info/69deb26faba61f1417317325?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb26aaba61f1417317319?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Traffic Tech](http://www.traffictech.com)** | **[Invoicing Intern](https://jobright.ai/jobs/info/69de8a345913ad339813de4e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Tributary Capital Management (Kansas City, MO)](https://jobright.ai/jobs/info/69de89db18cf504166e2dc87?utm_campaign=1052&utm_source=git)** | Kansas City, MO - 1 Ward Parkway | On Site | Apr 14 |
 | **[Harbourside Engineering Group](https://harboursideengineering.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69deba815913ad339813f607?utm_campaign=1052&utm_source=git)** | Stratford, PE | On Site | Apr 14 |
-| **[PlayStation](https://www.playstation.com/)** | **[Strategic & Commercial Finance - Data Science Intern](https://jobright.ai/jobs/info/69de871a18cf504166e2d987?utm_campaign=1052&utm_source=git)** | United States of America | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

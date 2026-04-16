@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MUFG](http://www.mufg.jp)** | **[2026 - FMA - Intern Conversion - CFSO CTS Rotational Analyst - Tempe](https://jobright.ai/jobs/info/6966d7415ad3a93f8232449e?utm_campaign=1052&utm_source=git)** | Tempe, AZ | Hybrid | Apr 16 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Financial Analyst Intern Summer 2026](https://jobright.ai/jobs/info/698430ab0f6f7e7a2cde71ad?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | On Site | Apr 16 |
 | **[Gen II Fund Services](http://www.gen2fund.com)** | **[2026 Intern Program](https://jobright.ai/jobs/info/69aaa1329ca4e908ec6611ef?utm_campaign=1052&utm_source=git)** | New Boston, TX | On Site | Apr 16 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Winter 2027 Tax Internship- Chicago](https://jobright.ai/jobs/info/69703812333b6343a14ca0f6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69c4276333eecf31079445a1?utm_campaign=1052&utm_source=git)** | Northville, MI | On Site | Apr 16 |
@@ -70,7 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69e09f31c17d1d525433564a?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 16 |
 | **[Machinify](http://www.machinify.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e097eacf5a9e0c33c87580?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 16 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Assistant(Hybrid)](https://jobright.ai/jobs/info/69e0b510d612782e61144a89?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Apr 16 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69e0d3d0acc736112f5c0303?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 16 |
 | **[NBOA: Business Leadership for Independent Schools](https://nboa.org)** | **[Assistant Vice President of Finance and Operations - Pine Crest School, Fort Lauderdale, FL](https://jobright.ai/jobs/info/69e0b2c36c20aa114953d1f6?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 15 |
+| **[Novamed](http://www.surgerypartners.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e0d2f540a62c1fa93b5094?utm_campaign=1052&utm_source=git)** | Seven Springs, NC | On Site | Apr 15 |
 | **[University of Arkansas - Fort Smith](https://www.uafs.edu)** | **[Senior Accountant](https://jobright.ai/jobs/info/69e097649564e855a25de5a6?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Apr 15 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69d988f2738f2f099e8a25f8?utm_campaign=1052&utm_source=git)** | Honolulu, HI | Hybrid | Apr 15 |
 | **[ATF](https://www.atf.gov/)** | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d09888366bb95ba551fdd2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
@@ -83,13 +87,14 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://payments.corpay.com)** | **[Enterprise Associate Intern - Financial Institutions](https://jobright.ai/jobs/info/69e05495c5691b27c176cab3?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
 | **[Easterseals of Southeastern Pennsylvania](http://www.easterseals-sepa.org)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/69e05483c17d1d5254333c6e?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Venture Capital Intern (Summer Analyst) - 2026](https://jobright.ai/jobs/info/69e05482c17d1d5254333c6c?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Apr 15 |
+| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Consultancy Internal Auditor (Roster), Office of Audit and Investigation Services (OAIS), UNFPA](https://jobright.ai/jobs/info/69e059349564e855a25dce8b?utm_campaign=1052&utm_source=git)** | Home, KS | Remote | Apr 15 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69e08252ba9bd32d03370d07?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
 | ↳ | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69e080d7c5691b27c176dcb7?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
 | **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Procurement Data & Analytics Intern](https://jobright.ai/jobs/info/69e0489e433ac8430e0e5383?utm_campaign=1052&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 15 |
 | **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e047d3433ac8430e0e535d?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
 | ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e0477a5913ad3398148b4d?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e046335913ad3398148afd?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
-| ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e04633aba61f141732065a?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e04633aba61f141732065a?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
+| ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e046335913ad3398148afd?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Lending & Investments Intern](https://jobright.ai/jobs/info/69e045b0aba61f141732064e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e041b4aba61f1417320561?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69e03b36433ac8430e0e50ff?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[Student, Currency Operations - Toronto](https://jobright.ai/jobs/info/69dffe30aba61f141731eda7?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
 | ↳ | **[Student, Currency Operations - Montreal](https://jobright.ai/jobs/info/69dffe2faba61f141731eda6?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Apr 15 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69dffa684920452a85dd0df7?utm_campaign=1052&utm_source=git)** | 11 E Hawthorn Pkwy, Vernon Hills, IL, 60061, US | On Site | Apr 15 |
-| **[Boyd Group Services Inc.](https://www.boydgroup.com)** | **[Procurement Data & Analytics Intern](https://jobright.ai/jobs/info/69dff95514bf245fc7a6f21d?utm_campaign=1052&utm_source=git)** | IL Elmhurst - 114106 | Hybrid | Apr 15 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Assistant](https://jobright.ai/jobs/info/69dff64de34484770f1abb11?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Apr 15 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Accounting Technician AP FT (2) – 6718](https://jobright.ai/jobs/info/69dff629433ac8430e0e370e?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Apr 15 |
-| **[Akumin®](http://akumin.com)** | **[Revenue Cycle Intern](https://jobright.ai/jobs/info/69d809b59f97a42dc9c19d43?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 15 |
-| **[Porsche Financial Services, Inc.](http://www.porsche.com/usa/pfs)** | **[Finance Intern](https://jobright.ai/jobs/info/69dff07c433ac8430e0e325c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

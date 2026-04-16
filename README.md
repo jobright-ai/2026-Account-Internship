@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Procurement Data & Analytics Intern](https://jobright.ai/jobs/info/69e0489e433ac8430e0e5383?utm_campaign=1052&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 15 |
+| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e047d3433ac8430e0e535d?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
+| ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e0477a5913ad3398148b4d?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e046335913ad3398148afd?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
+| ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e04633aba61f141732065a?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
+| **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Lending & Investments Intern](https://jobright.ai/jobs/info/69e045b0aba61f141732064e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Apr 15 |
+| **[Accuray](http://www.accuray.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e041b4aba61f1417320561?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69e03b36433ac8430e0e50ff?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | **[CRH](http://crh.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69e03b05e34484770f1ad4ee?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Apr 15 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 IAP Intern](https://jobright.ai/jobs/info/69e039505913ad3398148897?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interstate Business Solutions, LLC](https://cleanerhighways.com)** | **[Intern Summer 2026 - Finance & Data Operations](https://jobright.ai/jobs/info/69dfd824e34484770f1aad02?utm_campaign=1052&utm_source=git)** | Noblesville, IN | On Site | Apr 15 |
 | **[Medica](https://www.medica.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69dfd80414bf245fc7a6e213?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Apr 15 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/69c2e83094007a2195def57a?utm_campaign=1052&utm_source=git)** | Towson, MD | On Site | Apr 15 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Corporate Tax Compliance Intern](https://jobright.ai/jobs/info/69a7f6b0637232443f654d25?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Actuary Intern](https://jobright.ai/jobs/info/69a6af581fc3d83b780916db?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 15 |
-| **[First Western Trust](https://myfw.com/)** | **[Credit Analyst](https://jobright.ai/jobs/info/69c30be6753c101b2156864b?utm_campaign=1052&utm_source=git)** | Aspen, CO | On Site | Apr 15 |
-| **[LONG Building Technologies](http://long.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dff62c14bf245fc7a6eff7?utm_campaign=1052&utm_source=git)** | Littleton, CO | On Site | Apr 15 |
-| **[Tyler Technologies](https://www.tylertech.com)** | **[Payments Revenue Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69cb058a8fc6090c5d453bd8?utm_campaign=1052&utm_source=git)** | Yarmouth, ME | On Site | Apr 15 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Accounting Clerk I](https://jobright.ai/jobs/info/69dfcf5e4920452a85dcfa83?utm_campaign=1052&utm_source=git)** | Hardin, KY | On Site | Apr 15 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Payroll Associate](https://jobright.ai/jobs/info/69dfcf444920452a85dcfa63?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Port of Portland](https://www.portofportland.com)** | **[Intern, Economic Research](https://jobright.ai/jobs/info/69e0236b5913ad3398147ec4?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 15 |
+| **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Lending & Investments Intern](https://jobright.ai/jobs/info/69e01b0614bf245fc7a6fe86?utm_campaign=1052&utm_source=git)** | Philadelphia,PA,US | Remote | Apr 15 |
+| **[TRG](https://www.trgsolutions.com/)** | **[Bilingual Accounting Intern - Spanish & English](https://jobright.ai/jobs/info/69e01774e34484770f1ac882?utm_campaign=1052&utm_source=git)** | Westlake, Ohio, United States | On Site | Apr 15 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Summer Corporate Tax Intern (3-4 days/week)](https://jobright.ai/jobs/info/69e014eb433ac8430e0e4415?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e01455aba61f141731f703?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[Clopay Corporation](http://www.clopaydoor.com)** | **[Credit Intern](https://jobright.ai/jobs/info/69e0126eaba61f141731f6c6?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Apr 15 |
 | **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Project Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69d03da6cdb525785fba8ce5?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Apr 15 |
 | **[Busey](https://www.busey.com/home/home)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69e0108aaba61f141731f641?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | Apr 15 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69e01072aba61f141731f5e6?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 15 |
-| **[City of McFarland](https://www.mcfarlandcity.org/)** | **[McFarland Emerging Leaders- Finance Intern](https://jobright.ai/jobs/info/69e0106be34484770f1ac673?utm_campaign=1052&utm_source=git)** | CA, McFarland, US | On Site | Apr 15 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 IAP Intern](https://jobright.ai/jobs/info/69e010565913ad3398147a61?utm_campaign=1052&utm_source=git)** | New York, NY, USA | On Site | Apr 15 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Sr. Internal Auditor - Wholesale Lending](https://jobright.ai/jobs/info/69e00e44e34484770f1ac5cc?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Apr 15 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 Investment Management](https://jobright.ai/jobs/info/69e00df94920452a85dd1600?utm_campaign=1052&utm_source=git)** | CA-MB-Winnipeg | Hybrid | Apr 15 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[Student, Currency Operations - Toronto](https://jobright.ai/jobs/info/69dffe30aba61f141731eda7?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
 | ↳ | **[Student, Currency Operations - Montreal](https://jobright.ai/jobs/info/69dffe2faba61f141731eda6?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Apr 15 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69dffa684920452a85dd0df7?utm_campaign=1052&utm_source=git)** | 11 E Hawthorn Pkwy, Vernon Hills, IL, 60061, US | On Site | Apr 15 |
+| **[Curative](https://curative.com)** | **[Actuarial Intern (Part time)](https://jobright.ai/jobs/info/69e0237a5913ad3398147ee4?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | **[Boyd Group Services Inc.](https://www.boydgroup.com)** | **[Procurement Data & Analytics Intern](https://jobright.ai/jobs/info/69dff95514bf245fc7a6f21d?utm_campaign=1052&utm_source=git)** | IL Elmhurst - 114106 | Hybrid | Apr 15 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Assistant](https://jobright.ai/jobs/info/69dff64de34484770f1abb11?utm_campaign=1052&utm_source=git)** | New Haven, CT | On Site | Apr 15 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Accounting Technician AP FT (2) – 6718](https://jobright.ai/jobs/info/69dff629433ac8430e0e370e?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Internal Audit](https://jobright.ai/jobs/info/69dfbe04aba61f141731d17b?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | ↳ | **[Internship - Internal Audit](https://jobright.ai/jobs/info/69dfbe03433ac8430e0e1e27?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Apr 15 |
 | **[Orion](https://orionadvisortech.com/)** | **[Investment Due Diligence Intern](https://jobright.ai/jobs/info/69dfbbf514bf245fc7a6d669?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 15 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69dfbbd95913ad3398145569?utm_campaign=1052&utm_source=git)** | Manassas, VA | Remote | Apr 15 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dfbbce433ac8430e0e1d0e?utm_campaign=1052&utm_source=git)** | Annandale, VA | Remote | Apr 15 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69dfbbcd14bf245fc7a6d60b?utm_campaign=1052&utm_source=git)** | Mableton, GA | Remote | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

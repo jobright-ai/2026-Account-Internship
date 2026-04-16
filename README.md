@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69e09f31c17d1d525433564a?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 16 |
+| **[Machinify](http://www.machinify.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e097eacf5a9e0c33c87580?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 16 |
+| **[University of Arkansas - Fort Smith](https://www.uafs.edu)** | **[Senior Accountant](https://jobright.ai/jobs/info/69e097649564e855a25de5a6?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Apr 15 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69d988f2738f2f099e8a25f8?utm_campaign=1052&utm_source=git)** | Honolulu, HI | Hybrid | Apr 15 |
 | **[ATF](https://www.atf.gov/)** | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d09888366bb95ba551fdd2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69e070009564e855a25dd81a?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 15 |
@@ -119,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[CloudHQ, LLC](http://www.cloudhq.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e00982e34484770f1ac450?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[Landmark Credit Union](https://landmarkcu.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69e006db433ac8430e0e3f80?utm_campaign=1052&utm_source=git)** | Brookfield, WI | On Site | Apr 15 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Accountant III - Access Rules](https://jobright.ai/jobs/info/69e006a414bf245fc7a6f8de?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 15 |
-| **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69e0058c433ac8430e0e3ea2?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 15 |
 | **[Ingram Barge Company](https://www.ingrambarge.com)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/69e0057e4920452a85dd1384?utm_campaign=1052&utm_source=git)** | Nashville, TN, USA | On Site | Apr 15 |
 | **[Ballast](https://www.ballastinvestments.com)** | **[Investments Intern](https://jobright.ai/jobs/info/69e00574e34484770f1ac225?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US | On Site | Apr 15 |
 | **[nVent](https://www.nvent.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e0055014bf245fc7a6f7f7?utm_campaign=1052&utm_source=git)** | St Louis Park, MN, US | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vortex Group of Companies](https://www.vortexfreight.com)** | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/69dfe33d14bf245fc7a6e564?utm_campaign=1052&utm_source=git)** | MISSISSAUGA, Ontario, Canada | On Site | Apr 15 |
 | **[Vicinity Energy](https://www.vicinityenergy.us/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dfe3245913ad3398146430?utm_campaign=1052&utm_source=git)** | Philadelphia Corporate, 2600 Christian St, Philadelphia, Pennsylvania, United States of America | On Site | Apr 15 |
 | **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Intern](https://jobright.ai/jobs/info/69dfdfa64920452a85dd0001?utm_campaign=1052&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 15 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Purchasing (International Intern)](https://jobright.ai/jobs/info/69dfdf87433ac8430e0e2b1e?utm_campaign=1052&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 15 |
-| **[AAF Latinoamérica](https://www.aafintl.com/en/industry/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dfdf82aba61f141731ded7?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -82,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Lending & Investments Intern](https://jobright.ai/jobs/info/69e045b0aba61f141732064e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e041b4aba61f1417320561?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69e03b36433ac8430e0e50ff?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 15 |
-| **[CRH](http://crh.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69e03b05e34484770f1ad4ee?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Apr 15 |
+| **[CRH](http://crh.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69e03af414bf245fc7a70a25?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Apr 15 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 IAP Intern](https://jobright.ai/jobs/info/69e039505913ad3398148897?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[SoLa Impact](https://www.solaimpact.com)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/69e035f24920452a85dd23a8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e03329e34484770f1ad2a8?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[LS Power](http://lspower.com)** | **[Asset Management Internship](https://jobright.ai/jobs/info/69af16316b21de023e602cf5?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | On Site | Apr 15 |
 | **[Vortex Group of Companies](https://www.vortexfreight.com)** | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/69dfe33d14bf245fc7a6e564?utm_campaign=1052&utm_source=git)** | MISSISSAUGA, Ontario, Canada | On Site | Apr 15 |
 | **[Vicinity Energy](https://www.vicinityenergy.us/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dfe3245913ad3398146430?utm_campaign=1052&utm_source=git)** | Philadelphia Corporate, 2600 Christian St, Philadelphia, Pennsylvania, United States of America | On Site | Apr 15 |
-| **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Intern](https://jobright.ai/jobs/info/69dfdfa64920452a85dd0001?utm_campaign=1052&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 15 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Purchasing (International Intern)](https://jobright.ai/jobs/info/69dfdf87433ac8430e0e2b1e?utm_campaign=1052&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

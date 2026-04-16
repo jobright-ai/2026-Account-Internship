@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69d988f2738f2f099e8a25f8?utm_campaign=1052&utm_source=git)** | Honolulu, HI | Hybrid | Apr 15 |
+| **[ATF](https://www.atf.gov/)** | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d09888366bb95ba551fdd2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
+| **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69e070009564e855a25dd81a?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 15 |
+| **[ATF](https://www.atf.gov/)** | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d0995d0b098b7a6707b049?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
+| **[Highgate](https://www.highgate.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e06c349564e855a25dd57b?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Apr 15 |
 | **[Affinity Gaming](http://affinitygaming.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e067d5c5691b27c176d268?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Apr 15 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Junior Finance Analyst](https://jobright.ai/jobs/info/69e062bfb20fd532b4ae121b?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 | **[PNC](http://www.pnc.com)** | **[Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69e059dbc17d1d5254333e31?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Intern](https://jobright.ai/jobs/info/69dfdfa64920452a85dd0001?utm_campaign=1052&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 15 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Purchasing (International Intern)](https://jobright.ai/jobs/info/69dfdf87433ac8430e0e2b1e?utm_campaign=1052&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 15 |
 | **[AAF Latinoamérica](https://www.aafintl.com/en/industry/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dfdf82aba61f141731ded7?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 15 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Purchasing (International Intern)](https://jobright.ai/jobs/info/69dfdf715913ad33981463a2?utm_campaign=1052&utm_source=git)** | United States of America-Alabama -VanceWork Locations | On Site | Apr 15 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69d5ce6fcfdc6132f9466074?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Apr 15 |
-| **[Precision Castparts](http://precast.com)** | **[Finance Co-Op](https://jobright.ai/jobs/info/69dfdeb45913ad3398146355?utm_campaign=1052&utm_source=git)** | Algona, WA | On Site | Apr 15 |
-| **[Phathom Pharmaceuticals](https://www.phathompharma.com/)** | **[Summer Intern 2026 - Finance](https://jobright.ai/jobs/info/69dfdea05913ad3398146344?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | Hybrid | Apr 15 |
-| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d99e8f738f2f099e8a3600?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Billing Analyst Intern](https://jobright.ai/jobs/info/69e05b46b20fd532b4ae1102?utm_campaign=1052&utm_source=git)** | La Crosse, WI | On Site | Apr 15 |
+| **[Affinity Gaming](http://affinitygaming.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e067d5c5691b27c176d268?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Apr 15 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Junior Finance Analyst](https://jobright.ai/jobs/info/69e062bfb20fd532b4ae121b?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 | **[PNC](http://www.pnc.com)** | **[Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69e059dbc17d1d5254333e31?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | Apr 15 |
 | ↳ | **[Accounting Analyst](https://jobright.ai/jobs/info/69e057f59564e855a25dce4d?utm_campaign=1052&utm_source=git)** | Kansas, United States | Hybrid | Apr 15 |
 | **[Corpay](https://payments.corpay.com)** | **[Enterprise Associate Intern - Financial Institutions](https://jobright.ai/jobs/info/69e05495c5691b27c176cab3?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Procurement Data & Analytics Intern](https://jobright.ai/jobs/info/69e0489e433ac8430e0e5383?utm_campaign=1052&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 15 |
 | **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e047d3433ac8430e0e535d?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
 | ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e0477a5913ad3398148b4d?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e04633aba61f141732065a?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
-| ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e046335913ad3398148afd?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e046335913ad3398148afd?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
+| ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e04633aba61f141732065a?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Lending & Investments Intern](https://jobright.ai/jobs/info/69e045b0aba61f141732064e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e041b4aba61f1417320561?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69e03b36433ac8430e0e50ff?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Finance Co-Op](https://jobright.ai/jobs/info/69dfdeb45913ad3398146355?utm_campaign=1052&utm_source=git)** | Algona, WA | On Site | Apr 15 |
 | **[Phathom Pharmaceuticals](https://www.phathompharma.com/)** | **[Summer Intern 2026 - Finance](https://jobright.ai/jobs/info/69dfdea05913ad3398146344?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | Hybrid | Apr 15 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d99e8f738f2f099e8a3600?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 15 |
-| **[Selene Finance LP](https://seleneadvantage.com)** | **[Internship - Internal Audit](https://jobright.ai/jobs/info/69dfdab1433ac8430e0e29fc?utm_campaign=1052&utm_source=git)** | DFW Metroplex | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

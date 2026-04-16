@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69e03b36433ac8430e0e50ff?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 15 |
+| **[CRH](http://crh.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69e03b05e34484770f1ad4ee?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Apr 15 |
+| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 IAP Intern](https://jobright.ai/jobs/info/69e039505913ad3398148897?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 15 |
+| **[SoLa Impact](https://www.solaimpact.com)** | **[Investor Relations Summer Intern](https://jobright.ai/jobs/info/69e035f24920452a85dd23a8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e03329e34484770f1ad2a8?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
+| **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69e03322e34484770f1ad28f?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Summer Wealth Management Intern](https://jobright.ai/jobs/info/69e031e05913ad33981485fc?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Apr 15 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Private Brands Intelligence](https://jobright.ai/jobs/info/69e02e1a14bf245fc7a70657?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[University of Michigan Information and Technology Services](https://its.umich.edu/)** | **[ITS Financial Analyst Senior](https://jobright.ai/jobs/info/69e02d35aba61f141731ff77?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 15 |
@@ -70,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[State of Utah](http://www.utah.gov/)** | **[General Services Aide - Finance](https://jobright.ai/jobs/info/69e02a05aba61f141731fbbc?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Apr 15 |
 | **[Port of Portland](https://www.portofportland.com)** | **[Intern, Economic Research](https://jobright.ai/jobs/info/69e0236b5913ad3398147ec4?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 15 |
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Lending & Investments Intern](https://jobright.ai/jobs/info/69e01b0614bf245fc7a6fe86?utm_campaign=1052&utm_source=git)** | Philadelphia,PA,US | Remote | Apr 15 |
+| **[Odyssey Trust Company](https://www.odysseytrust.com)** | **[Director, Payments](https://jobright.ai/jobs/info/69e0392414bf245fc7a70968?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
 | **[TRG](https://www.trgsolutions.com/)** | **[Bilingual Accounting Intern - Spanish & English](https://jobright.ai/jobs/info/69e01774e34484770f1ac882?utm_campaign=1052&utm_source=git)** | Westlake, Ohio, United States | On Site | Apr 15 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Summer Corporate Tax Intern (3-4 days/week)](https://jobright.ai/jobs/info/69e014eb433ac8430e0e4415?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e01455aba61f141731f703?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Payments Revenue Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69cb058a8fc6090c5d453bd8?utm_campaign=1052&utm_source=git)** | Yarmouth, ME | On Site | Apr 15 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Accounting Clerk I](https://jobright.ai/jobs/info/69dfcf5e4920452a85dcfa83?utm_campaign=1052&utm_source=git)** | Hardin, KY | On Site | Apr 15 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Payroll Associate](https://jobright.ai/jobs/info/69dfcf444920452a85dcfa63?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
-| **[Hexcel Corporation](http://hexcel.com)** | **[Summer Corporate Tax Intern (3-4 days/week)](https://jobright.ai/jobs/info/69dfced95913ad3398145e79?utm_campaign=1052&utm_source=git)** | USA - CT - Stamford | On Site | Apr 15 |
-| **[Poshmark](http://poshmark.com)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69dff212e34484770f1ab739?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Apr 15 |
-| **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69dfcb9d14bf245fc7a6de0d?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
-| **[RS Integrators](https://rs-integrators.com/)** | **[SAP Finance Intern – Group Reporting & Data Analysis](https://jobright.ai/jobs/info/69dfd675e34484770f1aabb0?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Apr 15 |
-| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/69dfcacaaba61f141731d85b?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | Apr 15 |
-| **[Medica](https://www.medica.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69dfcaa85913ad3398145cc1?utm_campaign=1052&utm_source=git)** | Hopkins, MN | Hybrid | Apr 15 |
-| **[AAF International (American Air Filter)](http://www.aafintl.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dfca4e5913ad3398145c1a?utm_campaign=1052&utm_source=git)** | Louisville,KY,US | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

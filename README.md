@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Intern - Revenue & Royalties Accounting](https://jobright.ai/jobs/info/69a799ee637232443f64dc11?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Apr 16 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Custody Tax - Summer Internship 2026](https://jobright.ai/jobs/info/69d56aabcdb525785fbd0b57?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
+| **[PNC](http://www.pnc.com)** | **[Underwriter III - Commercial](https://jobright.ai/jobs/info/69e0b93ad612782e61144b36?utm_campaign=1052&utm_source=git)** | Texas, United States | Hybrid | Apr 16 |
+| **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Finance (Raleigh-based)](https://jobright.ai/jobs/info/69c43957d5a1016e98db51ac?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Apr 16 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69e09f31c17d1d525433564a?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 16 |
 | **[Machinify](http://www.machinify.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e097eacf5a9e0c33c87580?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 16 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Assistant(Hybrid)](https://jobright.ai/jobs/info/69e0b510d612782e61144a89?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Apr 16 |
+| **[NBOA: Business Leadership for Independent Schools](https://nboa.org)** | **[Assistant Vice President of Finance and Operations - Pine Crest School, Fort Lauderdale, FL](https://jobright.ai/jobs/info/69e0b2c36c20aa114953d1f6?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 15 |
 | **[University of Arkansas - Fort Smith](https://www.uafs.edu)** | **[Senior Accountant](https://jobright.ai/jobs/info/69e097649564e855a25de5a6?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Apr 15 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69d988f2738f2f099e8a25f8?utm_campaign=1052&utm_source=git)** | Honolulu, HI | Hybrid | Apr 15 |
 | **[ATF](https://www.atf.gov/)** | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d09888366bb95ba551fdd2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
@@ -77,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Procurement Data & Analytics Intern](https://jobright.ai/jobs/info/69e0489e433ac8430e0e5383?utm_campaign=1052&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 15 |
 | **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e047d3433ac8430e0e535d?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
 | ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e0477a5913ad3398148b4d?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e04633aba61f141732065a?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
-| ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e046335913ad3398148afd?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e046335913ad3398148afd?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | Apr 15 |
+| ↳ | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69e04633aba61f141732065a?utm_campaign=1052&utm_source=git)** | US-TX-Fort Worth | On Site | Apr 15 |
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Lending & Investments Intern](https://jobright.ai/jobs/info/69e045b0aba61f141732064e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e041b4aba61f1417320561?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69e03b36433ac8430e0e50ff?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Fall 2027 (Lawrenceville, GA)](https://jobright.ai/jobs/info/69dfec7caba61f141731e48f?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA | On Site | Apr 15 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Summer 2027 - Minneapolis, MN](https://jobright.ai/jobs/info/69dfec3e14bf245fc7a6ea0b?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Apr 15 |
 | **[Advarra](https://www.advarra.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69dfe7cde34484770f1ab29a?utm_campaign=1052&utm_source=git)** | Wellesley, Massachusetts, United States | Hybrid | Apr 15 |
-| **[arrivia](https://www.arrivia.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69dfe7c814bf245fc7a6e790?utm_campaign=1052&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Apr 15 |
-| **[HDR](http://www.hdrinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dfe3dd14bf245fc7a6e646?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Apr 15 |
-| **[LS Power](http://lspower.com)** | **[Asset Management Internship](https://jobright.ai/jobs/info/69af16316b21de023e602cf5?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | On Site | Apr 15 |
-| **[Vortex Group of Companies](https://www.vortexfreight.com)** | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/69dfe33d14bf245fc7a6e564?utm_campaign=1052&utm_source=git)** | MISSISSAUGA, Ontario, Canada | On Site | Apr 15 |
-| **[Vicinity Energy](https://www.vicinityenergy.us/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dfe3245913ad3398146430?utm_campaign=1052&utm_source=git)** | Philadelphia Corporate, 2600 Christian St, Philadelphia, Pennsylvania, United States of America | On Site | Apr 15 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Purchasing (International Intern)](https://jobright.ai/jobs/info/69dfdf87433ac8430e0e2b1e?utm_campaign=1052&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

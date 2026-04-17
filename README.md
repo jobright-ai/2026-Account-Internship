@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Financial Program Specialist](https://jobright.ai/jobs/info/69e1ed48ff71e82d604bbab1?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 17 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Winter 2027](https://jobright.ai/jobs/info/69e1e4f2fd1c0456f3fb2e69?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Domestic Tax Intern (Year-Round, Onsite)](https://jobright.ai/jobs/info/69e1e168ff71e82d604bb607?utm_campaign=1052&utm_source=git)** | Santa Clara,CA | On Site | Apr 17 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Assistant Accountant(Hybrid)](https://jobright.ai/jobs/info/69e1e07fd612782e6114c83a?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Apr 17 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[LENZ Therapeutics](https://lenz-tx.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69e1b226fd1c0456f3faf7ef?utm_campaign=1052&utm_source=git)** | Solana Beach, CA | Hybrid | Apr 16 |
 | **[Colectivo Coffee](https://colectivocoffee.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e1a24eacc736112f5c4899?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 16 |
 | **[ATF](https://www.atf.gov/)** | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d071e20b098b7a6707971b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| ↳ | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d0990754f00230c6d13cb4?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Apr 16 |
 | ↳ | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d0990054f00230c6d13c88?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
+| ↳ | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d0990754f00230c6d13cb4?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Apr 16 |
 | ↳ | **[Auditor (Financial)](https://jobright.ai/jobs/info/69d071cd366bb95ba551e6a2?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 16 |
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e197b6acc736112f5c4502?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 16 |
 | **[UTHealth Houston](https://www.uth.edu)** | **[Accountant Intern (Seasonal Hire)](https://jobright.ai/jobs/info/69e1c431fd1c0456f3faffa1?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 16 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Internship - Summer 2027](https://jobright.ai/jobs/info/69e15ef9ff71e82d604b69aa?utm_campaign=1052&utm_source=git)** | Rockford, IL, US | On Site | Apr 16 |
 | ↳ | **[Accounting Internship - Summer 2027](https://jobright.ai/jobs/info/69e15ef8acc736112f5c3531?utm_campaign=1052&utm_source=git)** | US-IL-Rockford | On Site | Apr 16 |
 | ↳ | **[Accounting Internship - Summer 2027](https://jobright.ai/jobs/info/69e15ef66c20aa1149540d03?utm_campaign=1052&utm_source=git)** | Sterling, IL, US | On Site | Apr 16 |
-| **[Fox Pest Control](https://fox-pest.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e15ef46c20aa1149540ce3?utm_campaign=1052&utm_source=git)** | Logan, UT, US | On Site | Apr 16 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69e15ef4ff71e82d604b6990?utm_campaign=1052&utm_source=git)** | US-UT-Logan | On Site | Apr 16 |
+| **[Fox Pest Control](https://fox-pest.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e15ef4ff71e82d604b6990?utm_campaign=1052&utm_source=git)** | US-UT-Logan | On Site | Apr 16 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69e15ef46c20aa1149540ce3?utm_campaign=1052&utm_source=git)** | Logan, UT, US | On Site | Apr 16 |
 | **[FICO](http://www.fico.com)** | **[Risk & Assurance Intern](https://jobright.ai/jobs/info/69e15ea96c20aa1149540ca6?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 16 |
 | **[Smythe LLP](https://www.smythecpa.com/)** | **[Accountant, Assurance Co-op/Internship - January 2027 - Langley](https://jobright.ai/jobs/info/69e15e90ff71e82d604b6919?utm_campaign=1052&utm_source=git)** | City of Langley, British Columbia, Canada | On Site | Apr 16 |
 | **[UFCU](http://www.ufcu.org)** | **[Intern - Finance Analyst](https://jobright.ai/jobs/info/69e15e62ff71e82d604b689e?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 16 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/69e139c5d612782e611478a0?utm_campaign=1052&utm_source=git)** | Collierville, TN | On Site | Apr 16 |
 | **[Swinerton](http://www.swinerton.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e1399bfd1c0456f3fad267?utm_campaign=1052&utm_source=git)** | Santa Ana, CA | On Site | Apr 16 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69e191dbd612782e6114930f?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 16 |
-| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69e1920aff71e82d604b77a9?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 16 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Western Ohio](https://jobright.ai/jobs/info/69e13967fd1c0456f3fad1df?utm_campaign=1052&utm_source=git)** | Maumee, OH | On Site | Apr 16 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/69e1390ad612782e611476d6?utm_campaign=1052&utm_source=git)** | Boise, ID - Main Site | On Site | Apr 16 |
 | **[S&P Global](https://www.spglobal.com)** | **[ETF Analyst Intern - Business & Product Analysis](https://jobright.ai/jobs/info/69e138c3ff71e82d604b5bb2?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 16 |

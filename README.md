@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Accounts Payable (AP)](https://jobright.ai/jobs/info/69e3f2c191e75b75f04f0239?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, United States | Remote | Apr 18 |
 | **[SanMar](http://www.sanmar.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c6fba1aa3c2c1995e140d8?utm_campaign=1052&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/69715812333b6343a14de1f8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 18 |
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Investor Relations Intern](https://jobright.ai/jobs/info/69bc4e105b89c002acf1c3f4?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Apr 18 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69e352912f28653593079ff8?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 18 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Financial Engineer](https://jobright.ai/jobs/info/69c6882ae565c26a70020f25?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/69e34c71be46fa3a4ef5a4b3?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 18 |
-| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IT Audit - Intern](https://jobright.ai/jobs/info/698d34020f6f7e7a2ce8fd12?utm_campaign=1052&utm_source=git)** | Davidson, NC | On Site | Apr 18 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Baltimore)](https://jobright.ai/jobs/info/698e148878b4502f12a4e1f2?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/698e2a57f64d441a1650660f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 18 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69e2bfbfbe46fa3a4ef58998?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3f9be46fa3a4ef585bf?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 17 |
 | ↳ | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3c53ce36005badbf4c0?utm_campaign=1052&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 17 |
-| **[Dialogue](https://www.dialogue.co)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
-| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| **[Dialogue](https://www.dialogue.co)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| ↳ | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[Orion](https://orionadvisortech.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf443?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Apr 17 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Director of Finance and Business Management](https://jobright.ai/jobs/info/69e2b1b2fcfcbd43860a4102?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Apr 17 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Finance](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b2?utm_campaign=1052&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 17 |

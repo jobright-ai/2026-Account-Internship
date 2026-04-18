@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/69715812333b6343a14de1f8?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 18 |
+| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Investor Relations Intern](https://jobright.ai/jobs/info/69bc4e105b89c002acf1c3f4?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Apr 18 |
 | **[Pike Partners Group](https://pikepg.com/)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69e3bbdc2664c278c1dd5474?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69c71e4e1818a24cd84cbd48?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Apr 18 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Risk Management Intern (12 Months)](https://jobright.ai/jobs/info/69c6c898aa3c2c1995e11eba?utm_campaign=1052&utm_source=git)** | Richmond Hill, ON | Hybrid | Apr 18 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/698e182878b4502f12a4e531?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
-| ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/699a8aa581476f6176b3194f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | ↳ | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/699aadd7ce78e77b4fdf7863?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
+| ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/699a8aa581476f6176b3194f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69e34400be46fa3a4ef5a478?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 18 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Foundation Fund and Scholarship Coordinator - Statler College of Engineering and Mineral Resources  28750](https://jobright.ai/jobs/info/69d565d5cdb525785fbd08b2?utm_campaign=1052&utm_source=git)** | Morgantown, WV | On Site | Apr 18 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69d88b78f4ea471a51fe6694?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Beer Store](https://www.thebeerstore.ca/)** | **[Director, Internal Audit & Risk Management](https://jobright.ai/jobs/info/69e2d29a5c44d4710fe26f97?utm_campaign=1052&utm_source=git)** | Bolton, ON | Hybrid | Apr 17 |
 | **[CMC](https://www.cmc.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e29dbcfcfcbd43860a3a61?utm_campaign=1052&utm_source=git)** | Mesa, AZ | On Site | Apr 17 |
 | **[Radix](https://www.radix.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e29dbbfcfcbd43860a3a5c?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 17 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[GSD Full-Time Paid Intern, Spanish/English Required, International Local Unit Finance Team](https://jobright.ai/jobs/info/69e29d1ebe46fa3a4ef57e09?utm_campaign=1052&utm_source=git)** | Riverton, UT, United States | Hybrid | Apr 17 |
-| **[ITW](http://www.itw.com/)** | **[Corporate Transfer Pricing Intern - Winter 2027](https://jobright.ai/jobs/info/69a95bcaf2055e05d1717f63?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

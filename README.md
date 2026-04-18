@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69e2bfbfbe46fa3a4ef58998?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3f9be46fa3a4ef585bf?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 17 |
 | ↳ | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3c53ce36005badbf4c0?utm_campaign=1052&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 17 |
-| **[Dialogue](https://www.dialogue.co)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
-| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| **[Dialogue](https://www.dialogue.co)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| ↳ | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[Orion](https://orionadvisortech.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf443?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Apr 17 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Director of Finance and Business Management](https://jobright.ai/jobs/info/69e2b1b2fcfcbd43860a4102?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Apr 17 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Finance](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b2?utm_campaign=1052&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 17 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69e28e1c3ce36005badbeb45?utm_campaign=1052&utm_source=git)** | St Louis Park, MN | Hybrid | Apr 17 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69e28dccfcfcbd43860a35eb?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Apr 17 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69e28dc82f286535930770d6?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 17 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c7d95383ea553769fe71cd?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Apr 17 |
-| ↳ | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c9188f83ea553769fee93c?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Apr 17 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c9188f83ea553769fee93c?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Apr 17 |
+| ↳ | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c7d95383ea553769fe71cd?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Apr 17 |
 | ↳ | **[Tax and Audit Intern - Spring 2027 - Northern California](https://jobright.ai/jobs/info/69d5dcd7e63cea7a8b665910?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Apr 17 |
 | **[Robinson, Farmer, Cox Associates (RFC)](https://www.rfca.com)** | **[Intern](https://jobright.ai/jobs/info/69e2b8aafcfcbd43860a4437?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 17 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69e2aab7fcfcbd43860a3d83?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 17 |

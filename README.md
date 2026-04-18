@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMW Group](http://www.bmwgroup.com)** | **[Risk Management Intern (12 Months)](https://jobright.ai/jobs/info/69c6c898aa3c2c1995e11eba?utm_campaign=1052&utm_source=git)** | Richmond Hill, ON | Hybrid | Apr 18 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Florham Park (49597)](https://jobright.ai/jobs/info/69716a25333b6343a14df2c7?utm_campaign=1052&utm_source=git)** | Florham Park, NJ | On Site | Apr 18 |
 | ↳ | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d5c6c9891d7b11cfd05737?utm_campaign=1052&utm_source=git)** | Owings Mills, MD | On Site | Apr 18 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c775c183ea553769fe3862?utm_campaign=1052&utm_source=git)** | Saxonburg, PA | On Site | Apr 18 |
+| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/69c918b41818a24cd84d9a6d?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Apr 18 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Chicago (49582)](https://jobright.ai/jobs/info/69bc21f84828227293fd6e7c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69e3931291e75b75f04efb87?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 18 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69e392f50ddab31db6f9709a?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 18 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/6975cdee206da320f49fcaf2?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122 | On Site | Apr 18 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Cost Accounting Intern](https://jobright.ai/jobs/info/6938af64b95c305f206ded39?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 18 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69c7276c83ea553769fe1252?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | Apr 18 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69c6ea78e565c26a70023f44?utm_campaign=1052&utm_source=git)** | East Tawas, MI | On Site | Apr 18 |
 | **[LATICRETE International](https://laticrete.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ab27d17e1fab39d382af9f?utm_campaign=1052&utm_source=git)** | Connecticut, Bethany - Bld1 | On Site | Apr 18 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / White Plains (49583)](https://jobright.ai/jobs/info/69716ea1333b6343a14df628?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | Apr 18 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Treasury/Sales Audit & Tax Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aa11f02ebd316bece1ce72?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 18 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/698e182878b4502f12a4e531?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
-| ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/699a8aa581476f6176b3194f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | ↳ | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/699aadd7ce78e77b4fdf7863?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
+| ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/699a8aa581476f6176b3194f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69e34400be46fa3a4ef5a478?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 18 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Foundation Fund and Scholarship Coordinator - Statler College of Engineering and Mineral Resources  28750](https://jobright.ai/jobs/info/69d565d5cdb525785fbd08b2?utm_campaign=1052&utm_source=git)** | Morgantown, WV | On Site | Apr 18 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69d88b78f4ea471a51fe6694?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 18 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69e2bfbfbe46fa3a4ef58998?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3f9be46fa3a4ef585bf?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 17 |
 | ↳ | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3c53ce36005badbf4c0?utm_campaign=1052&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 17 |
-| **[Dialogue](https://www.dialogue.co)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
-| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| **[Dialogue](https://www.dialogue.co)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| ↳ | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[Orion](https://orionadvisortech.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf443?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Apr 17 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Director of Finance and Business Management](https://jobright.ai/jobs/info/69e2b1b2fcfcbd43860a4102?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Apr 17 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Finance](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b2?utm_campaign=1052&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ITW](http://www.itw.com/)** | **[Corporate Transfer Pricing Intern - Winter 2027](https://jobright.ai/jobs/info/69a95bcaf2055e05d1717f63?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Apr 17 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Finance](https://jobright.ai/jobs/info/69e2c8683ce36005badbfbbd?utm_campaign=1052&utm_source=git)** | Fairfield, NJ | On Site | Apr 17 |
 | **[ITW](http://www.itw.com/)** | **[Corporate Tax Intern - Winter 2027](https://jobright.ai/jobs/info/69a95bc3f2055e05d1717e8e?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | Apr 17 |
-| **[Cercano](https://www.cercanolp.com/)** | **[Investment Analyst, Intern](https://jobright.ai/jobs/info/69e38614cd85881c9505f721?utm_campaign=1052&utm_source=git)** | REMOTE-United States | Remote | Apr 17 |
-| **[QinetiQ US](http://www.qinetiq-na.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e298403770bd5361cd927f?utm_campaign=1052&utm_source=git)** | UNAVAILABLE, MA, US | Hybrid | Apr 17 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69e29840be46fa3a4ef57dfd?utm_campaign=1052&utm_source=git)** | US-MA- | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

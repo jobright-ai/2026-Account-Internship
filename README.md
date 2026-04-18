@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[CREDit Ratings Analyst Intern - Structured Finance](https://jobright.ai/jobs/info/69e2a3433770bd5361cd9408?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Intern](https://jobright.ai/jobs/info/69e25b8f3770bd5361cd82e3?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Apr 17 |
 | **[Learning Resources](https://www.learningresources.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80933f4ea471a51fe328b?utm_campaign=1052&utm_source=git)** | Vernon Hills, IL | On Site | Apr 17 |
-| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e29083fcfcbd43860a37d0?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
-| ↳ | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69e290703770bd5361cd9071?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69e290703770bd5361cd9071?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69e29083fcfcbd43860a37d0?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Capital Markets Intern](https://jobright.ai/jobs/info/69e259103770bd5361cd82c3?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/69aa078c1f59c56275e2d996?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Apr 17 |
 | **[LitFinancial](https://litfinancial.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69e2590c2f28653593076542?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Apr 17 |

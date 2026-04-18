@@ -98,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/698e182878b4502f12a4e531?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
-| ↳ | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/699aadd7ce78e77b4fdf7863?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
 | ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/699a8aa581476f6176b3194f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
+| ↳ | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/699aadd7ce78e77b4fdf7863?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69e34400be46fa3a4ef5a478?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 18 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Foundation Fund and Scholarship Coordinator - Statler College of Engineering and Mineral Resources  28750](https://jobright.ai/jobs/info/69d565d5cdb525785fbd08b2?utm_campaign=1052&utm_source=git)** | Morgantown, WV | On Site | Apr 18 |
 | **[Faurecia](https://www.forvia.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69d6fbabcfdc6132f946e5d6?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 17 |
@@ -137,10 +137,11 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69e2bfbfbe46fa3a4ef58998?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3f9be46fa3a4ef585bf?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 17 |
 | ↳ | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3c53ce36005badbf4c0?utm_campaign=1052&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 17 |
-| **[Dialogue](https://www.dialogue.co)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
-| ↳ | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| **[Dialogue](https://www.dialogue.co)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[Orion](https://orionadvisortech.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf443?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Apr 17 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Director of Finance and Business Management](https://jobright.ai/jobs/info/69e2b1b2fcfcbd43860a4102?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Apr 17 |
+| **[Metro Credit Union](https://www.metrocu.org/)** | **[Financial Solutions & Resolution Intern](https://jobright.ai/jobs/info/69e3fd561ec29c5920b963f1?utm_campaign=1052&utm_source=git)** | 200 Revere Beach Pkwy, Chelsea, MA 02150, USA | On Site | Apr 17 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Finance](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b2?utm_campaign=1052&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 17 |
 | ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/69e2ad363770bd5361cd9897?utm_campaign=1052&utm_source=git)** | US-NJ-Fairfield | On Site | Apr 17 |
 | **[Vital Strategies](https://www.vitalstrategies.org)** | **[Vital Strategies Finance Summer Associate](https://jobright.ai/jobs/info/69e2ac2b5c44d4710fe2639c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ADT](http://www.adt.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69e29f24be46fa3a4ef57e5b?utm_campaign=1052&utm_source=git)** | 1501 Yamato Road, Boca Raton, FL, 33431, US | Hybrid | Apr 17 |
 | **[The Beer Store](https://www.thebeerstore.ca/)** | **[Director, Internal Audit & Risk Management](https://jobright.ai/jobs/info/69e2d29a5c44d4710fe26f97?utm_campaign=1052&utm_source=git)** | Bolton, ON | Hybrid | Apr 17 |
 | **[CMC](https://www.cmc.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e29dbcfcfcbd43860a3a61?utm_campaign=1052&utm_source=git)** | Mesa, AZ | On Site | Apr 17 |
-| **[Radix](https://www.radix.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e29dbbfcfcbd43860a3a5c?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

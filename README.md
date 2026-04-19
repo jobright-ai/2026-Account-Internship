@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Fund Finance Intern](https://jobright.ai/jobs/info/69e2c6a2be46fa3a4ef58bb5?utm_campaign=1052&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
 | ↳ | **[2026 Credit Admin Intern](https://jobright.ai/jobs/info/69e2c6973770bd5361cd9fa8?utm_campaign=1052&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
 | **[AAA Mountain West Group](https://mwg.aaa.com/)** | **[Summer Intern - Operations Accounting](https://jobright.ai/jobs/info/69e34e802f28653593079f97?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 17 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e34e802f28653593079f91?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
-| ↳ | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/69e34e7f3ce36005badc18a2?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
+| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/69e34e7f3ce36005badc18a2?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69e34e802f28653593079f91?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e2c0593ce36005badbf90b?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 17 |
 | **[Givens Communities](https://www.givenscommunities.org)** | **[Finance Internship](https://jobright.ai/jobs/info/69e2c02f3770bd5361cd9d2c?utm_campaign=1052&utm_source=git)** | Asheville, NC | On Site | Apr 17 |
 | **[The CAR Group (Norm Reeves Dealerships)](https://www.normreeves.com)** | **[Accounting Intern/File Clerk](https://jobright.ai/jobs/info/69e2bfe35c44d4710fe26a0c?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Apr 17 |
@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Project Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69d03da6cdb525785fba8ce5?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3f9be46fa3a4ef585bf?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 17 |
 | ↳ | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3c53ce36005badbf4c0?utm_campaign=1052&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 17 |
-| **[Dialogue](https://www.dialogue.co)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
-| ↳ | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| **[Dialogue](https://www.dialogue.co)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[Orion](https://orionadvisortech.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf443?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Apr 17 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Director of Finance and Business Management](https://jobright.ai/jobs/info/69e2b1b2fcfcbd43860a4102?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Apr 17 |
 | **[Metro Credit Union](https://www.metrocu.org/)** | **[Financial Solutions & Resolution Intern](https://jobright.ai/jobs/info/69e3fd561ec29c5920b963f1?utm_campaign=1052&utm_source=git)** | 200 Revere Beach Pkwy, Chelsea, MA 02150, USA | On Site | Apr 17 |

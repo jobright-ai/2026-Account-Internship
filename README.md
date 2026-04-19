@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/6972fcb7694e99351d14428c?utm_campaign=1052&utm_source=git)** | Southfield, MI | Hybrid | Apr 19 |
+| **[First Financial Bank Texas](https://ffin.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/68c8fd98f9c6ff7aedf15ecd?utm_campaign=1052&utm_source=git)** | Abilene, TX | On Site | Apr 19 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/698dbe77f64d441a164fed31?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 19 |
 | **[PKF O'Connor Davies](https://www.pkfib.com)** | **[Forensic, Litigation & Valuation Services Intern (Summer 2026) - Boston, MA](https://jobright.ai/jobs/info/69ab929e7e1fab39d382fd6a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 19 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab65057e1fab39d382eaa4?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Apr 19 |
 | ↳ | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab65067e1fab39d382eaa5?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 19 |
 | ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab94f32747003c3d5117f2?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Apr 19 |
+| **[Coloplast](https://www.coloplast.com)** | **[Medical Reimbursement Intern](https://jobright.ai/jobs/info/69e4afc2f8fa2f3ec329c42f?utm_campaign=1052&utm_source=git)** | New Berlin, US | Hybrid | Apr 19 |
 | **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Commercial Lending Intern - Tulsa](https://jobright.ai/jobs/info/69e47cbb3aa0c4796438ed29?utm_campaign=1052&utm_source=git)** | Tulsa, OK, US | On Site | Apr 18 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Accounts Payable (AP)](https://jobright.ai/jobs/info/69e3f2c191e75b75f04f0239?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, United States | Remote | Apr 18 |
 | **[SanMar](http://www.sanmar.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c6fba1aa3c2c1995e140d8?utm_campaign=1052&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
@@ -89,7 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / White Plains (49583)](https://jobright.ai/jobs/info/69716ea1333b6343a14df628?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | Apr 18 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Treasury/Sales Audit & Tax Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aa11f02ebd316bece1ce72?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Treasury Clerk](https://jobright.ai/jobs/info/69aa07759ca4e908ec655560?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Apr 18 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6856a46dae0608f715a8a2ef?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 18 |
 | **[Gen II Fund Services](http://www.gen2fund.com)** | **[Tax Intern](https://jobright.ai/jobs/info/698e72380f6f7e7a2cea8528?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 18 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/698e6bc4f64d441a1650a6be?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 18 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Corporate Tax Year-Round Intern](https://jobright.ai/jobs/info/69af30866b21de023e60590b?utm_campaign=1052&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Apr 18 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Intern - General Accounting](https://jobright.ai/jobs/info/698ea6280f6f7e7a2ceac367?utm_campaign=1052&utm_source=git)** | Whippany, NJ | On Site | Apr 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 Audit or Tax Intern](https://jobright.ai/jobs/info/69dfae7314bf245fc7a6d0da?utm_campaign=1052&utm_source=git)** | Cleveland | Hybrid | Apr 18 |
@@ -106,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/698e182878b4502f12a4e531?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 18 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
-| ↳ | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/699aadd7ce78e77b4fdf7863?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
 | ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/699a8aa581476f6176b3194f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
+| ↳ | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/699aadd7ce78e77b4fdf7863?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69e34400be46fa3a4ef5a478?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Faurecia](https://www.forvia.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69d6fbabcfdc6132f946e5d6?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 17 |
 | **[Logitech](https://www.logitech.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e32f7abe46fa3a4ef598d0?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - FINANCE](https://jobright.ai/jobs/info/69e477ae7820c036924ca998?utm_campaign=1052&utm_source=git)** | United States | On Site | Apr 17 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Finance](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b2?utm_campaign=1052&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 17 |
 | ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/69e2ad363770bd5361cd9897?utm_campaign=1052&utm_source=git)** | US-NJ-Fairfield | On Site | Apr 17 |
-| **[Vital Strategies](https://www.vitalstrategies.org)** | **[Vital Strategies Finance Summer Associate](https://jobright.ai/jobs/info/69e2ac2b5c44d4710fe2639c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[UNFI](http://unfi.com)** | **[Internal Audit Summer Intern](https://jobright.ai/jobs/info/69e2d6553ce36005badbfe4c?utm_campaign=1052&utm_source=git)** | Hopkins, MN | Remote | Apr 17 |
-| **[Freixenet Mionetto USA](https://www.freixenetmionettousa.com/)** | **[AP & AR Intern](https://jobright.ai/jobs/info/69e2d6875c44d4710fe270dd?utm_campaign=1052&utm_source=git)** | White Plains, NY | Hybrid | Apr 17 |
-| **[S&P Global](https://www.spglobal.com)** | **[CREDit Ratings Analyst Intern - Structured Finance](https://jobright.ai/jobs/info/69e2d6805c44d4710fe270ba?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[PURIS](https://puris.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e2cdd4fcfcbd43860a4a49?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Apr 17 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[GSD Full-Time Paid Intern, Spanish/English Required, International Local Unit Finance Team](https://jobright.ai/jobs/info/69e2cdb95c44d4710fe26df2?utm_campaign=1052&utm_source=git)** | Riverton, UT | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

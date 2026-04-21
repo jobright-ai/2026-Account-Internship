@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69e707593cfd986aa6f883ea?utm_campaign=1052&utm_source=git)** | 2800 Kay Bailey Hutchison, Portland, 78374, US | On Site | Apr 20 |
 | **[Chicken N Pickle](https://chickennpickle.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e6ff639b6eb37e26f82b9f?utm_campaign=1052&utm_source=git)** | Kansas City, KS | On Site | Apr 20 |
 | **[ArcelorMittal Brasil](https://brasil.arcelormittal.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69e6fefd9b6eb37e26f82b88?utm_campaign=1052&utm_source=git)** | PORTLAND, TX, United States | On Site | Apr 20 |
 | **[Fortis Fire & Safety](https://www.fortisfire.com)** | **[Analyst Intern, Finance & Operations](https://jobright.ai/jobs/info/69e6f9303cfd986aa6f88303?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NORMA Group](http://normagroup.com/)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69e65e967820c036924cfef4?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 20 |
 | **[Access World](http://www.accessworld.com)** | **[Commercial Analyst / Intern](https://jobright.ai/jobs/info/69e65804f8fa2f3ec32a1280?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e644b33cfd986aa6f84707?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | Hybrid | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Accounting](https://jobright.ai/jobs/info/69e6537be0cd471b2f124f3e?utm_campaign=1052&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

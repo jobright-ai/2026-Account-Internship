@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Unit School District 300](http://D300.org)** | **[Accounts Payable Specialist](https://jobright.ai/jobs/info/69e71ca29b6eb37e26f83065?utm_campaign=1052&utm_source=git)** | Algonquin, IL | On Site | Apr 20 |
+| **[Aflac](http://www.aflac.com)** | **[Actuary II, Capital Modeling](https://jobright.ai/jobs/info/69e71c8de0cd471b2f12867e?utm_campaign=1052&utm_source=git)** | Georgia, United States | Hybrid | Apr 20 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Accounting Policy](https://jobright.ai/jobs/info/69e716123cfd986aa6f88788?utm_campaign=1052&utm_source=git)** | Topeka, KS | Hybrid | Apr 20 |
 | **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69e707593cfd986aa6f883ea?utm_campaign=1052&utm_source=git)** | 2800 Kay Bailey Hutchison, Portland, 78374, US | On Site | Apr 20 |
+| **[Community Unit School District 300](http://D300.org)** | **[Accounts Payable Specialist](https://jobright.ai/jobs/info/69d5f9d9706f771673ba8753?utm_campaign=1052&utm_source=git)** | Algonquin, IL | On Site | Apr 20 |
+| ↳ | **[Manager of Purchasing](https://jobright.ai/jobs/info/69bc72404828227293fe52e9?utm_campaign=1052&utm_source=git)** | Algonquin, IL | On Site | Apr 20 |
+| **[Constellation Insurance, Inc.](http://www.constellationinsurance.com )** | **[Tax Intern](https://jobright.ai/jobs/info/69e71c8c3aa0c47964396df1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | Apr 20 |
 | **[Chicken N Pickle](https://chickennpickle.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e6ff639b6eb37e26f82b9f?utm_campaign=1052&utm_source=git)** | Kansas City, KS | On Site | Apr 20 |
 | **[ArcelorMittal Brasil](https://brasil.arcelormittal.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69e6fefd9b6eb37e26f82b88?utm_campaign=1052&utm_source=git)** | PORTLAND, TX, United States | On Site | Apr 20 |
 | **[Fortis Fire & Safety](https://www.fortisfire.com)** | **[Analyst Intern, Finance & Operations](https://jobright.ai/jobs/info/69e6f9303cfd986aa6f88303?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Apr 20 |
@@ -65,6 +71,10 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[ETF Analyst Intern - Business & Product Analysis](https://jobright.ai/jobs/info/69e6f1d4e0cd471b2f12801e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | **[Fulton Montgomery Regional Chamber of Commerce](http://www.fultonmontgomeryny.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e6f1557820c036924d2c1e?utm_campaign=1052&utm_source=git)** | Johnstown, NY | On Site | Apr 20 |
 | **[Citizens Community Bank](https://www.ccb-idaho.com/)** | **[Loan Operations Intern](https://jobright.ai/jobs/info/69e6ec929b6eb37e26f82724?utm_campaign=1052&utm_source=git)** | Pocatello, ID | On Site | Apr 20 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[ASPIRE Commercial Banking - Real Estate Banking - Fall 2026 Co-op / Internship Montreal](https://jobright.ai/jobs/info/69e715e03cfd986aa6f886cb?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 20 |
+| ↳ | **[ASPIRE Commercial Banking - Real Estate Banking - Fall 2026 Co-op / Internship Vancouver](https://jobright.ai/jobs/info/69e715f83cfd986aa6f88717?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 20 |
+| ↳ | **[ASPIRE Commercial Banking - National Accounts - Fall 2026 Co-op / Internship GTA](https://jobright.ai/jobs/info/69e715d13aa0c47964396cbf?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
+| ↳ | **[ASPIRE Commercial Banking - Real Estate Banking - Fall 2026 Co-op / Internship Toronto](https://jobright.ai/jobs/info/69e715779b6eb37e26f82f1c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Veoneer](https://www.veoneer.com/en/technology)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69e6e38c3aa0c47964396422?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Apr 20 |
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e6e37c7820c036924d2908?utm_campaign=1052&utm_source=git)** | The Woodlands, TX | On Site | Apr 20 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69e6e356e0cd471b2f127cb2?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 20 |
@@ -90,6 +100,11 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Functions - Risk Management, Summer Analyst, Irving - USA, 2027](https://jobright.ai/jobs/info/69e6b3dd7820c036924d1f4f?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Apr 20 |
 | **[Honest Health](https://honesthealth.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69e6b37c3aa0c47964395ac0?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Citi](https://www.citi.com)** | **[Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://jobright.ai/jobs/info/69e6b35af8fa2f3ec32a34eb?utm_campaign=1052&utm_source=git)** | Getzville, NY | On Site | Apr 20 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[ASPIRE Commercial Banking - Real Estate Banking - Fall 2026 Co-op / Internship Montreal](https://jobright.ai/jobs/info/69e713e83aa0c47964396c9c?utm_campaign=1052&utm_source=git)** | Montreal, QC, CA | On Site | Apr 20 |
+| ↳ | **[ASPIRE Commercial Banking - National Accounts - Fall 2026 Co-op / Internship GTA](https://jobright.ai/jobs/info/69e713eaf8fa2f3ec32a476c?utm_campaign=1052&utm_source=git)** | Toronto, ON, CA | On Site | Apr 20 |
+| ↳ | **[ASPIRE Commercial Banking - Real Estate Banking - Fall 2026 Co-op / Internship Vancouver](https://jobright.ai/jobs/info/69e713e07820c036924d31e6?utm_campaign=1052&utm_source=git)** | Vancouver, BC, CA | On Site | Apr 20 |
+| ↳ | **[ASPIRE Commercial Banking - National Accounts - Fall 2026 Co-op / Internship Montreal](https://jobright.ai/jobs/info/69e713e5e0cd471b2f12850b?utm_campaign=1052&utm_source=git)** | Montreal, QC, CA | On Site | Apr 20 |
+| ↳ | **[ASPIRE Commercial Banking - Real Estate Banking - Fall 2026 Co-op / Internship Toronto](https://jobright.ai/jobs/info/69e713e9f8fa2f3ec32a4769?utm_campaign=1052&utm_source=git)** | Toronto, ON, CA | On Site | Apr 20 |
 | **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69d20a25cdb525785fbb789f?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 20 |
 | **[Kroll](http://www.kroll.com/)** | **[Junior Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/69e6aafe7820c036924d1d56?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Financial Operations Intern, Accounts Receivable, Summer 2026](https://jobright.ai/jobs/info/69e6aafd7820c036924d1d42?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Apr 20 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BiggsKofford](https://www.biggskofford.com/)** | **[Tax Internship 2027 (Denver)](https://jobright.ai/jobs/info/69ca5174e565c26a7003ccc1?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 20 |
 | **[Balchem Corporation](http://balchem.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d8f0f0738f2f099e89f314?utm_campaign=1052&utm_source=git)** | Montvale, NJ | On Site | Apr 20 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69d8f0ae869c7e25d85983dd?utm_campaign=1052&utm_source=git)** | Middletown, NY | On Site | Apr 20 |
-| **[Valero Energy Inc.](https://www.energievalero.ca)** | **[Analyst, Finance and Strategy - Internship](https://jobright.ai/jobs/info/69e6b34e7820c036924d1eb9?utm_campaign=1052&utm_source=git)** | CAN-QC-Montreal | On Site | Apr 20 |
-| **[Deltek](http://www.deltek.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69e6aa023cfd986aa6f871ba?utm_campaign=1052&utm_source=git)** | US (Remote) | Remote | Apr 20 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69d35022cdb525785fbbec19?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 20 |
-| **[Inmar Intelligence](http://www.inmar.com)** | **[Financial Operations Intern, Accounts Receivable, Summer 2026](https://jobright.ai/jobs/info/69e665c97820c036924d0471?utm_campaign=1052&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Apr 20 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e66533f8fa2f3ec32a1a49?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | Hybrid | Apr 20 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[Accounts Payable/Receivable Specialist II](https://jobright.ai/jobs/info/69e6652df8fa2f3ec32a1a23?utm_campaign=1052&utm_source=git)** | Greater Orlando | On Site | Apr 20 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e665113aa0c47964393f4b?utm_campaign=1052&utm_source=git)** | Dresher, PA | Hybrid | Apr 20 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Finance Intern - Albany](https://jobright.ai/jobs/info/69e664af9b6eb37e26f8016d?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Apr 20 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Finance Intern IGT](https://jobright.ai/jobs/info/69e661f17820c036924d00b3?utm_campaign=1052&utm_source=git)** | One Howmet Drive, Hampton, VA, 23661, US | On Site | Apr 20 |
-| **[BiggsKofford](https://www.biggskofford.com/)** | **[Audit Internship 2027 (Denver)](https://jobright.ai/jobs/info/69ca586ba8c1822476e1c0ed?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 20 |
-| ↳ | **[Tax Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/69ca49a0e565c26a7003caef?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Apr 20 |
-| ↳ | **[Audit Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/69ca52698fc6090c5d44cff1?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Apr 20 |
-| **[NORMA Group](http://normagroup.com/)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69e65e967820c036924cfef4?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 20 |
-| **[Access World](http://www.accessworld.com)** | **[Commercial Analyst / Intern](https://jobright.ai/jobs/info/69e65804f8fa2f3ec32a1280?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e644b33cfd986aa6f84707?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[ETF Analyst Intern - Business & Product Analysis](https://jobright.ai/jobs/info/69e6f1d4e0cd471b2f12801e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
+| **[Fulton Montgomery Regional Chamber of Commerce](http://www.fultonmontgomeryny.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e6f1557820c036924d2c1e?utm_campaign=1052&utm_source=git)** | Johnstown, NY | On Site | Apr 20 |
+| **[Citizens Community Bank](https://www.ccb-idaho.com/)** | **[Loan Operations Intern](https://jobright.ai/jobs/info/69e6ec929b6eb37e26f82724?utm_campaign=1052&utm_source=git)** | Pocatello, ID | On Site | Apr 20 |
 | **[Veoneer](https://www.veoneer.com/en/technology)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69e6e38c3aa0c47964396422?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Apr 20 |
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e6e37c7820c036924d2908?utm_campaign=1052&utm_source=git)** | The Woodlands, TX | On Site | Apr 20 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69e6e356e0cd471b2f127cb2?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 20 |
@@ -97,7 +100,10 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Accountant II](https://jobright.ai/jobs/info/69e271893770bd5361cd867e?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Apr 20 |
 | **[Univest](http://www.univest.net/)** | **[Loan Operations Intern -Mortgage Servicing](https://jobright.ai/jobs/info/69e691403aa0c47964394d59?utm_campaign=1052&utm_source=git)** | Souderton, PA | On Site | Apr 20 |
 | **[YES! Communities](http://www.yescommunities.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e68edbe0cd471b2f12673a?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 20 |
+| **[Kline Hill Partners](http://klinehill.com/)** | **[Summer 2027 Accounting Intern](https://jobright.ai/jobs/info/69e6f09cf8fa2f3ec32a41fc?utm_campaign=1052&utm_source=git)** | Greenwich, Connecticut, United States | On Site | Apr 20 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Audit Intern - Virginia Beach](https://jobright.ai/jobs/info/69e68c4b3aa0c47964394c6d?utm_campaign=1052&utm_source=git)** | Virginia Beach, VA | Hybrid | Apr 20 |
+| **[Enfinity Global](https://enfinity.global)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e6edc1e0cd471b2f127f83?utm_campaign=1052&utm_source=git)** | Miami, Florida, United States | On Site | Apr 20 |
+| **[Waterstone Mortgage Corporation](http://WaterstoneMortgage.com)** | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/69e6ed067820c036924d2a43?utm_campaign=1052&utm_source=git)** | Brookfield, Wisconsin, United States | On Site | Apr 20 |
 | **[Commvault](https://www.commvault.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e68a3ee0cd471b2f1264fc?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 20 |
 | **[PLASTICS (Plastics Industry Association)](https://www.plasticsindustry.org/)** | **[Intern, Economics](https://jobright.ai/jobs/info/69e6898f9b6eb37e26f80d5e?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69c4276333eecf31079445a1?utm_campaign=1052&utm_source=git)** | Northville, MI | On Site | Apr 20 |
@@ -110,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69e6ab65e0cd471b2f127175?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 20 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Finance Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/69e1926b6c20aa1149541b2c?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Apr 20 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[Finance Operations Intern](https://jobright.ai/jobs/info/69e69e7d7820c036924d18b6?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | Hybrid | Apr 20 |
-| **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Commercial Lending Intern - Tulsa](https://jobright.ai/jobs/info/69e6ab769b6eb37e26f81b04?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Apr 20 |
-| ↳ | **[Commercial Lending Intern - Tulsa](https://jobright.ai/jobs/info/69e47cbf9b6eb37e26f7a7bd?utm_campaign=1052&utm_source=git)** | Tulsa, OK, US | On Site | Apr 20 |
+| **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Commercial Lending Intern - Tulsa](https://jobright.ai/jobs/info/69e47cbf9b6eb37e26f7a7bd?utm_campaign=1052&utm_source=git)** | Tulsa, OK, US | On Site | Apr 20 |
+| ↳ | **[Commercial Lending Intern - Tulsa](https://jobright.ai/jobs/info/69e6ab769b6eb37e26f81b04?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Apr 20 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/69e69e6ae0cd471b2f126c7f?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 20 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2027 Tax Intern - Reading](https://jobright.ai/jobs/info/69e67d44f8fa2f3ec32a2205?utm_campaign=1052&utm_source=git)** | Reading, PA | Hybrid | Apr 20 |
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Accounting (On-site)](https://jobright.ai/jobs/info/69e67ce29b6eb37e26f80910?utm_campaign=1052&utm_source=git)** | Salinas, CA | On Site | Apr 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[Accountant II](https://jobright.ai/jobs/info/69d70d1852a5bf580012d85b?utm_campaign=1052&utm_source=git)** | SD Metro Area | Hybrid | Apr 20 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Audit Team - Integrated Audit Data Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/69e644c69b6eb37e26f7f03a?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Finance Internships – Academic Year](https://jobright.ai/jobs/info/69e65f219b6eb37e26f7fd1f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| ↳ | **[Finance Internships – Academic Year](https://jobright.ai/jobs/info/69e65f953cfd986aa6f854be?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 20 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Audit Team - Integrated Audit Data Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/69e65f20f8fa2f3ec32a14ea?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 20 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Finance Internships – Academic Year](https://jobright.ai/jobs/info/69e65f853aa0c47964393b72?utm_campaign=1052&utm_source=git)** | Universal City, CA | On Site | Apr 20 |
-| **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Financial- Intern](https://jobright.ai/jobs/info/69de3134433ac8430e0d8a00?utm_campaign=1052&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | Apr 20 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[ASPIRE Commercial Banking - Agriculture - Fall 2026 Co-op / Internship - Stratford](https://jobright.ai/jobs/info/69e657fbe0cd471b2f1250df?utm_campaign=1052&utm_source=git)** | Stratford, Ontario, Canada | On Site | Apr 20 |
-| ↳ | **[ASPIRE Commercial Banking - Agriculture - Fall 2026 Co-op / Internship - Prairies](https://jobright.ai/jobs/info/69e657f43aa0c4796439377c?utm_campaign=1052&utm_source=git)** | Red Deer, Alberta, Canada | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

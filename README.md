@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[2U](http://2u.com)** | **[Senior Finance Analyst, Summer 2026](https://jobright.ai/jobs/info/69ba84f956973837414008e8?utm_campaign=1052&utm_source=git)** | Crystal City, VA | Hybrid | Apr 22 |
+| **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/69e8e8b7e0cd471b2f138cb0?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 22 |
+| **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Customs Duty](https://jobright.ai/jobs/info/69e8e8280a6e0955530373ca?utm_campaign=1052&utm_source=git)** | Mississauga, CA | On Site | Apr 22 |
+| **[HP](http://www.hp.com)** | **[Summer Intern – Retail Finance and Business Analytics](https://jobright.ai/jobs/info/69e8e826e0cd471b2f138c14?utm_campaign=1052&utm_source=git)** | Spring, Texas, United States of America | On Site | Apr 22 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/69cc7fdd366bb95ba54f04ee?utm_campaign=1052&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 22 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax Senior](https://jobright.ai/jobs/info/69cc8d60e1921223acc79674?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Asset Finance & Securitization](https://jobright.ai/jobs/info/69438c7994730b739876bddb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[Contract Financial Analyst Intern](https://jobright.ai/jobs/info/69e8de07e0cd471b2f13899d?utm_campaign=1052&utm_source=git)** | Toronto (KCA51701) HQ, CA | Hybrid | Apr 22 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Accounting Methods and Periods Tax Intern - Summer 2027](https://jobright.ai/jobs/info/69d5f96c891d7b11cfd07498?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 22 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Treasury and Risk Management Intern](https://jobright.ai/jobs/info/69e8da71e0cd471b2f138927?utm_campaign=1052&utm_source=git)** | US - VA - Reston - K12 Headquarters, US | Hybrid | Apr 22 |
 | **[VELCO - Vermont Electric Power Company](https://www.velco.com/)** | **[Intern - Power Accounting](https://jobright.ai/jobs/info/69e8da5fe0cd471b2f1388ca?utm_campaign=1052&utm_source=git)** | Rutland, VT, US | On Site | Apr 22 |
 | **[CECO Environmental Corporation](https://www.cecoenviro.com)** | **[Finance and Accounting Analyst Intern](https://jobright.ai/jobs/info/69e8da0e58811370cb128bef?utm_campaign=1052&utm_source=git)** | Addison, TX, US | On Site | Apr 22 |
 | **[Acosta Group](https://www.acosta.group)** | **[Intern - Finance](https://jobright.ai/jobs/info/69cc4801cdb525785fb7a9cc?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Apr 22 |
 | **[Cable One/Sparklight Careers](https://www.cableone.biz)** | **[Associate Internal Auditor Intern](https://jobright.ai/jobs/info/69cc81b6cdb525785fb7cfaa?utm_campaign=1052&utm_source=git)** | Bluffton, SC | Hybrid | Apr 22 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cc2a12cfdc6132f940ab33?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
-| **[2U](http://2u.com)** | **[Senior Finance Analyst, Summer 2026](https://jobright.ai/jobs/info/69ba84f956973837414008e8?utm_campaign=1052&utm_source=git)** | Crystal City, VA | Hybrid | Apr 22 |
+| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - FP&A](https://jobright.ai/jobs/info/69cc56c4891d7b11cfcabe67?utm_campaign=1052&utm_source=git)** | Harrison, NJ | On Site | Apr 22 |
 | **[KORE](https://www.korewireless.com)** | **[Revenue Systems & Insights Intern](https://jobright.ai/jobs/info/69cc5d45cdb525785fb7b282?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Apr 22 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/69cc7fdd366bb95ba54f04ee?utm_campaign=1052&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 22 |
 | **[Idaho Housing and Finance Association](https://idahohousing.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cb1214466f1e133aacaa0f?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Apr 22 |
 | **[KORE](https://www.korewireless.com)** | **[Strategic Pricing Analyst Intern](https://jobright.ai/jobs/info/69cc6de0e1921223acc75da3?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Apr 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/69cf2be9366bb95ba55136c3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69e8b3b80a6e095553035bf1?utm_campaign=1052&utm_source=git)** | Tennessee | On Site | Apr 21 |
 | **[Storyteller Overland](https://www.storytelleroverland.com/)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/69e805913aa0c4796439d2ec?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Apr 21 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2026 Tax Intern - Augusta](https://jobright.ai/jobs/info/69e7ddb90a6e09555302c984?utm_campaign=1052&utm_source=git)** | Augusta, GA | Hybrid | Apr 21 |
-| **[Cisco](http://www.cisco.com)** | **[Finance Analyst I (Intern) - United States](https://jobright.ai/jobs/info/69e7ddae3aa0c4796439c2df?utm_campaign=1052&utm_source=git)** | RTP, North Carolina, US | On Site | Apr 21 |
-| ↳ | **[Finance Analyst I (Intern) - United States](https://jobright.ai/jobs/info/69e7dd727820c036924d898a?utm_campaign=1052&utm_source=git)** | New York, New York, US | On Site | Apr 21 |
-| **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69e7dc9d7820c036924d8923?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Apr 21 |
-| **[AuguStar Life](www.augustarfinancial.com)** | **[Intern, Mutual Fund Accounting & Reporting](https://jobright.ai/jobs/info/69e8b1ac4b0fa35a70767f9d?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, 45242, United States | On Site | Apr 21 |
-| **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/69e7db0f0a6e09555302c83b?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlueLinx Corporation](http://bluelinxco.com/)** | **[Finance - Intern](https://jobright.ai/jobs/info/69e9019c4b0fa35a7076ad90?utm_campaign=1052&utm_source=git)** | Marietta, GA | On Site | Apr 22 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Finance Asset Analyst](https://jobright.ai/jobs/info/69e8fbfb3aa0c479643a628b?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Apr 22 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[TAC Intern](https://jobright.ai/jobs/info/69e8fbf1e0cd471b2f1396bf?utm_campaign=1052&utm_source=git)** | Oakland, NJ, US | On Site | Apr 22 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions Shared Services Accounts Payable 2026 Summer Internship](https://jobright.ai/jobs/info/69e8fb857820c036924e40d3?utm_campaign=1052&utm_source=git)** | Huntsville, Alabama, US | On Site | Apr 22 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Project Purchasing Analyst Intern (Year-Round)](https://jobright.ai/jobs/info/69ccfac554f00230c6cebdb1?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 22 |
+| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Finance](https://jobright.ai/jobs/info/69b0679174950064509695e8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
 | **[Zayo Group](http://www.zayo.com)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/69e8f52058811370cb1294dd?utm_campaign=1052&utm_source=git)** | CO - Denver, US | On Site | Apr 22 |
 | **[Singer Equipment Company](https://www.singerequipment.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/69e8f446e0cd471b2f1391e5?utm_campaign=1052&utm_source=git)** | Elverson, PA | On Site | Apr 22 |
 | **[Atria Management Company](http://AtriaCareers.com)** | **[Intern](https://jobright.ai/jobs/info/69939b3ae0bddb6acac1e290?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 22 |
@@ -70,9 +71,12 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Customs Duty](https://jobright.ai/jobs/info/69e8e8280a6e0955530373ca?utm_campaign=1052&utm_source=git)** | Mississauga, CA | On Site | Apr 22 |
 | **[HP](http://www.hp.com)** | **[Summer Intern – Retail Finance and Business Analytics](https://jobright.ai/jobs/info/69e8e826e0cd471b2f138c14?utm_campaign=1052&utm_source=git)** | Spring, Texas, United States of America | On Site | Apr 22 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/69cc7fdd366bb95ba54f04ee?utm_campaign=1052&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 22 |
+| **[Canada Post / Postes Canada](http://www.canadapost.ca/cpo/mc/languageswitcher.jsf)** | **[Analyst, Investment Data and Technology](https://jobright.ai/jobs/info/69d9dd639f97a42dc9c2511b?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Apr 22 |
+| **[American Crystal Sugar Company](https://www.crystalsugar.com/)** | **[Shareholder Accounting Intern](https://jobright.ai/jobs/info/69e9017258811370cb129c80?utm_campaign=1052&utm_source=git)** | Moorhead, MN | On Site | Apr 22 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax Senior](https://jobright.ai/jobs/info/69cc8d60e1921223acc79674?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Asset Finance & Securitization](https://jobright.ai/jobs/info/69438c7994730b739876bddb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[Contract Financial Analyst Intern](https://jobright.ai/jobs/info/69e8de07e0cd471b2f13899d?utm_campaign=1052&utm_source=git)** | Toronto (KCA51701) HQ, CA | Hybrid | Apr 22 |
+| **[European Energy Exchange AG](https://www.eex.com/en)** | **[Working Student (f/m/d) Billing - Project / Change Management](https://jobright.ai/jobs/info/69e9017b4b0fa35a7076ad5b?utm_campaign=1052&utm_source=git)** | Energy, IL | Hybrid | Apr 22 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Treasury and Risk Management Intern](https://jobright.ai/jobs/info/69e8da71e0cd471b2f138927?utm_campaign=1052&utm_source=git)** | US - VA - Reston - K12 Headquarters, US | Hybrid | Apr 22 |
 | **[VELCO - Vermont Electric Power Company](https://www.velco.com/)** | **[Intern - Power Accounting](https://jobright.ai/jobs/info/69e8da5fe0cd471b2f1388ca?utm_campaign=1052&utm_source=git)** | Rutland, VT, US | On Site | Apr 22 |
 | **[CECO Environmental Corporation](https://www.cecoenviro.com)** | **[Finance and Accounting Analyst Intern](https://jobright.ai/jobs/info/69e8da0e58811370cb128bef?utm_campaign=1052&utm_source=git)** | Addison, TX, US | On Site | Apr 22 |
@@ -121,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Vaxcyte](http://www.vaxcyte.com)** | **[Summer Intern, Accounting](https://jobright.ai/jobs/info/69e848944b0fa35a70761fe8?utm_campaign=1052&utm_source=git)** | San Carlos, CA | On Site | Apr 21 |
 | **[Aflac](http://www.aflac.com)** | **[FP&A Analyst II](https://jobright.ai/jobs/info/69e8652d7820c036924dfe1a?utm_campaign=1052&utm_source=git)** | Georgia, United States | Hybrid | Apr 21 |
 | **[The Bartolotta Restaurants](https://www.bartolottas.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e864640a6e09555303357a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 21 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Staff Accountant Intern](https://jobright.ai/jobs/info/69e8b101e0cd471b2f136c0d?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 21 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69e84fbf4b0fa35a70762330?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Apr 21 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69e84f567820c036924dbb8d?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Apr 21 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/69e8287458811370cb120dd4?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | Apr 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trench Group](https://trench-group.com/)** | **[Strategic Procurement – 12- Month Co-op/Internship Student](https://jobright.ai/jobs/info/69e7efd80a6e09555302d3cc?utm_campaign=1052&utm_source=git)** | Pickering, Ontario, Canada | On Site | Apr 21 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Wealth Management - Finance Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e7efbe3aa0c4796439cc79?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[UF Lastinger Center for Learning](lastinger.center.ufl.edu)** | **[Senior Specialist, Finance Data Management](https://jobright.ai/jobs/info/69e814fe3aa0c4796439db28?utm_campaign=1052&utm_source=git)** | Gainesville, FL | On Site | Apr 21 |
-| **[United Integrated Services (USA) Corp.](https://www.uisusacorp.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/69e80b6a3aa0c4796439d89a?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Transportation Funding Intern](https://jobright.ai/jobs/info/69e814c30a6e09555302e302?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 21 |
-| **[Palomar Health](http://www.palomarhealth.org)** | **[Financial Rep Access Dept](https://jobright.ai/jobs/info/69deb64718cf504166e2f6c2?utm_campaign=1052&utm_source=git)** | Poway, CA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

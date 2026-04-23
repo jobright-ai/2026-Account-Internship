@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Student Account Services Billing Specialist](https://jobright.ai/jobs/info/69e978ac58811370cb12dcae?utm_campaign=1052&utm_source=git)** | Newport, KY | On Site | Apr 22 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance Intern – Corporate FP&A](https://jobright.ai/jobs/info/69e9727f7820c036924e81ef?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[Cadence](https://www.cadence.com)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/69e972697820c036924e816f?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e9789de0cd471b2f13dcaa?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 22 |
-| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/69e97ad70a6e09555303c92b?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 22 |
+| **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69e97ad70a6e09555303c92b?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 22 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69e9789de0cd471b2f13dcaa?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 22 |
 | **[Balco, Inc.](https://www.balcousa.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e977b67820c036924e8344?utm_campaign=1052&utm_source=git)** | Rockwall, Texas, United States | On Site | Apr 22 |
 | ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/69e9778ae0cd471b2f13d7b2?utm_campaign=1052&utm_source=git)** | Rockwall, Texas, United States | On Site | Apr 22 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance Intern – Corporate FP&A](https://jobright.ai/jobs/info/69e94a473aa0c479643a8f14?utm_campaign=1052&utm_source=git)** | San Jose, California, US | On Site | Apr 22 |
@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[LMF - Intern](https://jobright.ai/jobs/info/69e93bc97820c036924e6bfb?utm_campaign=1052&utm_source=git)** | New York, NY (Job Posting Location), US | On Site | Apr 22 |
 | **[Waldron Partners](http://www.waldronpartners.com)** | **[Wealth Management Intern (Paid)](https://jobright.ai/jobs/info/69e93ab7e0cd471b2f13be7b?utm_campaign=1052&utm_source=git)** | Alamo, CA | On Site | Apr 22 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69e93aa33aa0c479643a87e8?utm_campaign=1052&utm_source=git)** | Stockbridge, GA | On Site | Apr 22 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (Fall 2026)](https://jobright.ai/jobs/info/69e971890a6e09555303bd9f?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 22 |
-| ↳ | **[Co-op or Intern, Assurance (Fall 2026)](https://jobright.ai/jobs/info/69c18c4879e36d3a847e6bae?utm_campaign=1052&utm_source=git)** | St John’s, NL | Hybrid | Apr 22 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (Fall 2026)](https://jobright.ai/jobs/info/69c18c4879e36d3a847e6bae?utm_campaign=1052&utm_source=git)** | St John’s, NL | Hybrid | Apr 22 |
+| ↳ | **[Co-op or Intern, Assurance (Fall 2026)](https://jobright.ai/jobs/info/69e971890a6e09555303bd9f?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 22 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e956d84b0fa35a7076dbe6?utm_campaign=1052&utm_source=git)** | Charleston, SC | On Site | Apr 22 |
 | **[Habit Burger & Grill](http://habitburger.com)** | **[Tax Compliance Intern](https://jobright.ai/jobs/info/69e936a458811370cb12bd90?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Apr 22 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/69e936553aa0c479643a85d6?utm_campaign=1052&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Apr 22 |

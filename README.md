@@ -57,19 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spruce Biosciences](https://www.sprucebiosciences.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e993960a6e09555303ce63?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 22 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Savannah, GA](https://jobright.ai/jobs/info/69e98a6358811370cb12e492?utm_campaign=1052&utm_source=git)** | 22 Savannah - Savannah, GA 31405 | On Site | Apr 22 |
 | **[Rich Products Corporation](https://rich.com)** | **[Finance/ Data Analytics Intern - Global Markets](https://jobright.ai/jobs/info/69e986a83aa0c479643aaca7?utm_campaign=1052&utm_source=git)** | Buffalo, NY | On Site | Apr 22 |
 | **[Elevate Financial Planning and Wealth Management](elevatefpwm.com)** | **[Financial Advisor Support Intern](https://jobright.ai/jobs/info/69e97b0e3aa0c479643aaae6?utm_campaign=1052&utm_source=git)** | Maryville, TN | On Site | Apr 22 |
 | **[Empower AI](https://www.empower.ai/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e97ae30a6e09555303c95a?utm_campaign=1052&utm_source=git)** | Reston, VA | On Site | Apr 22 |
 | **[4imprint](http://investors.4imprint.com/)** | **[Credit / Collections Accounting Intern](https://jobright.ai/jobs/info/69e977e30a6e09555303c052?utm_campaign=1052&utm_source=git)** | 4imprint - Main, Oshkosh, WI, US | On Site | Apr 22 |
 | **[Method](https://methodfi.com)** | **[Revenue & Finance Operations MBA Intern](https://jobright.ai/jobs/info/69e77cb4f8fa2f3ec32a7f27?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 22 |
 | **[CME Group](http://www.cmegroup.com)** | **[Internal Audit - Business and Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69e96b613aa0c479643a9df9?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 22 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern - Self Storage](https://jobright.ai/jobs/info/69e98e274b0fa35a7076f58a?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Apr 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Accounting Intern / Summer 2026](https://jobright.ai/jobs/info/69e966f67820c036924e7ede?utm_campaign=1052&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Apr 22 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69e966eb7820c036924e7eae?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Student Account Services Billing Specialist](https://jobright.ai/jobs/info/69e978ac58811370cb12dcae?utm_campaign=1052&utm_source=git)** | Newport, KY | On Site | Apr 22 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance Intern – Corporate FP&A](https://jobright.ai/jobs/info/69e9727f7820c036924e81ef?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[Cadence](https://www.cadence.com)** | **[Finance Transformation Intern](https://jobright.ai/jobs/info/69a129056b458d060735e2fd?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e9789de0cd471b2f13dcaa?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 22 |
-| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/69e97ad70a6e09555303c92b?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 22 |
+| **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69e97ad70a6e09555303c92b?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 22 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69e9789de0cd471b2f13dcaa?utm_campaign=1052&utm_source=git)** | Rockwall, TX | On Site | Apr 22 |
 | **[Balco, Inc.](https://www.balcousa.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/69e9778ae0cd471b2f13d7b2?utm_campaign=1052&utm_source=git)** | Rockwall, Texas, United States | On Site | Apr 22 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69e977b67820c036924e8344?utm_campaign=1052&utm_source=git)** | Rockwall, Texas, United States | On Site | Apr 22 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Finance Intern – Corporate FP&A](https://jobright.ai/jobs/info/69e94a473aa0c479643a8f14?utm_campaign=1052&utm_source=git)** | San Jose, California, US | On Site | Apr 22 |
@@ -117,7 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance - Plant 5](https://jobright.ai/jobs/info/69e923607820c036924e5aca?utm_campaign=1052&utm_source=git)** | One Misco Drive, Whitehall, MI, 49461-1799, US | On Site | Apr 22 |
 | ↳ | **[Intern - Finance - Plant 3](https://jobright.ai/jobs/info/69e9235be0cd471b2f13af8a?utm_campaign=1052&utm_source=git)** | One Misco Drive, Whitehall, MI, 49461-1799, US | On Site | Apr 22 |
 | ↳ | **[Intern - Finance - Plant 4](https://jobright.ai/jobs/info/69e923593aa0c479643a7884?utm_campaign=1052&utm_source=git)** | One Misco Drive, Whitehall, MI, 49461-1799, US | On Site | Apr 22 |
-| ↳ | **[Intern - Finance - Plant 3](https://jobright.ai/jobs/info/69e941690a6e09555303aa28?utm_campaign=1052&utm_source=git)** | Whitehall, MI | On Site | Apr 22 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69e98e1ee0cd471b2f13e4ee?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Apr 22 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance - Plant 3](https://jobright.ai/jobs/info/69e941690a6e09555303aa28?utm_campaign=1052&utm_source=git)** | Whitehall, MI | On Site | Apr 22 |
 | ↳ | **[Intern - Finance - Plant 5](https://jobright.ai/jobs/info/69e941744b0fa35a7076d277?utm_campaign=1052&utm_source=git)** | Whitehall, MI | On Site | Apr 22 |
 | **[Zayo Group](http://www.zayo.com)** | **[Intern - Internal Audit](https://jobright.ai/jobs/info/69e941703aa0c479643a8b12?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 22 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance - Plant 4](https://jobright.ai/jobs/info/69e941690a6e09555303aa32?utm_campaign=1052&utm_source=git)** | Whitehall, MI | On Site | Apr 22 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Internship](https://jobright.ai/jobs/info/69d6fae1366bb95ba5550fea?utm_campaign=1052&utm_source=git)** | Tacoma, WA | Hybrid | Apr 22 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Accounting Intern- Summer 2026](https://jobright.ai/jobs/info/69e94e523aa0c479643a8fe7?utm_campaign=1052&utm_source=git)** | Fife, WA | On Site | Apr 22 |
 | ↳ | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/69d6ee01706f771673baed6f?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Apr 22 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69d5c794cfdc6132f9465c12?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Apr 22 |
-| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69b6438456973837413b8609?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Apr 22 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69b6438456973837413b8609?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Apr 22 |
+| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69d5c794cfdc6132f9465c12?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Apr 22 |
 | **[Bering Flooring and Finishes](https://www.beringfinishes.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e9796a0a6e09555303c703?utm_campaign=1052&utm_source=git)** | Cottonwood Heights, UT | On Site | Apr 22 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af39a3dfaeda6ff59758ae?utm_campaign=1052&utm_source=git)** | Greater Lansing | On Site | Apr 22 |
 | **[Alpha Omega](http://www.alphaomegaintegration.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e9091a7820c036924e4bc5?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Apr 22 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Project Purchasing Analyst Intern (Year-Round)](https://jobright.ai/jobs/info/69cc73628130af1ac833880d?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 22 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Finance](https://jobright.ai/jobs/info/69b0679174950064509695e8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69e908ad58811370cb129f52?utm_campaign=1052&utm_source=git)** | CW Site - USA - ID - Boise - 999 W. Main Street, US | On Site | Apr 22 |
-| **[Jabil](https://www.jabil.com)** | **[Financial Reporting Intern (SEC Reporting)](https://jobright.ai/jobs/info/69e908a20a6e09555303879a?utm_campaign=1052&utm_source=git)** | St. Petersburg/Tampa, FL, US | On Site | Apr 22 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69e90870e0cd471b2f139fc7?utm_campaign=1052&utm_source=git)** | Salt Lake City, Utah, USA, US | On Site | Apr 22 |
-| **[Atria Management Company](http://AtriaCareers.com)** | **[Intern](https://jobright.ai/jobs/info/698563760f6f7e7a2ce01fc7?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

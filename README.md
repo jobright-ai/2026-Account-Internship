@@ -89,7 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern -Corporate Finance and Mergers and Acquisitions](https://jobright.ai/jobs/info/69ea83c658811370cb133e26?utm_campaign=1052&utm_source=git)** | US-FL-Boca Raton | Hybrid | Apr 23 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69ea800c4b0fa35a70774c62?utm_campaign=1052&utm_source=git)** | Louisville, KY, US | Hybrid | Apr 23 |
 | **[Puck Enterprises Inc](https://puck.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69eac9310a6e095553042bf1?utm_campaign=1052&utm_source=git)** | Manning, Iowa, United States | On Site | Apr 23 |
-| **[Enchanted Rock](https://enchantedrock.com)** | **[Pricing & Structuring Intern - Summer 2026](https://jobright.ai/jobs/info/69eaf29216b2612c2a118242?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Apr 23 |
+| **[Corpay](https://payments.corpay.com)** | **[Financial Analyst - Intern](https://jobright.ai/jobs/info/69eafdd216b2612c2a118473?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Apr 23 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Accounting Manager](https://jobright.ai/jobs/info/69deadf4aba61f1417317066?utm_campaign=1052&utm_source=git)** | Triangle Area | Hybrid | Apr 23 |
 | **[Attic Angel](https://www.atticangel.org)** | **[Accountant Intern](https://jobright.ai/jobs/info/69ea75b10a6e095553041608?utm_campaign=1052&utm_source=git)** | Middleton, WI | On Site | Apr 23 |
 | **[Baker Storey McDonald Properties, Inc.](www.bsmproperties.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/69ea750e58811370cb1338d9?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Apr 23 |
@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Equity Bank](https://www.equitybank.com/)** | **[Finance Summer Internship 2026](https://jobright.ai/jobs/info/695dd99889be3415c7463553?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | Apr 23 |
 | **[sunday](https://sundayapp.com)** | **[US Finance Intern](https://jobright.ai/jobs/info/69ea53304b0fa35a70773666?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Corporate Finance](https://jobright.ai/jobs/info/69430f4c50bbaf765054e74b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| **[Wachusett Brewing Company](https://www.wachusettbrewingcompany.com/)** | **[Finance Paid Internship](https://jobright.ai/jobs/info/69ea5981dc35f7132c4a9798?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 23 |
 | **[Spacelabs Healthcare](http://www.spacelabshealthcare.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69b0c0d00b2db6275c053b83?utm_campaign=1052&utm_source=git)** | Snoqualmie, WA | Hybrid | Apr 23 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Equity Intern](https://jobright.ai/jobs/info/69d20a17cfdc6132f9448a22?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Corporate & Financial Institutions Coverage](https://jobright.ai/jobs/info/6943163fdd382f5f566909ae?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69ea18bbdc35f7132c4a85d4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f23565de58104c7151bb?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f35f548f140066e81782?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
+| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Tulsa)](https://jobright.ai/jobs/info/69cdeb2a891d7b11cfcc187a?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

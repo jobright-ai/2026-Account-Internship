@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Accounting Intern 1](https://jobright.ai/jobs/info/69eae4f07820c036924f0671?utm_campaign=1052&utm_source=git)** | Chillicothe, OH, US, 45601-8829 | On Site | Apr 23 |
+| **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Finance and Operations SEA](https://jobright.ai/jobs/info/69eae11716b2612c2a117c17?utm_campaign=1052&utm_source=git)** | Administrative Center - Waukegan, IL 60087 | On Site | Apr 23 |
 | **[ENGIE](http://www.engie.com)** | **[Intern, Hedging & Risk (Renewables & Flexible Power)](https://jobright.ai/jobs/info/69eacc7358811370cb135032?utm_campaign=1052&utm_source=git)** | USA_Houston_TX2 | Hybrid | Apr 23 |
 | **[CAPTRUST](https://www.captrust.com)** | **[intern / Wealth Management](https://jobright.ai/jobs/info/69eac7fa16b2612c2a117076?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Apr 23 |
 | **[Republic Services](http://www.republicservices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69eaad297820c036924ef1c6?utm_campaign=1052&utm_source=git)** | Mt Prospect, IL, USA, US | On Site | Apr 23 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/69b24511a8ac8e70ff66186e?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/69b2458ead360c0340a6ff5d?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 | ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0a4e9dfaeda6ff59ae657?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 23 |
-| ↳ | **[Tax Intern, Transfer Pricing - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69ea18bbdc35f7132c4a85d4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f23565de58104c7151bb?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
-| ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f35f548f140066e81782?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
-| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Tulsa)](https://jobright.ai/jobs/info/69cdeb2a891d7b11cfcc187a?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
+| ↳ | **[Tax Intern, Transfer Pricing - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69ea18bbdc35f7132c4a85d4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE](http://www.engie.com)** | **[Intern, Hedging & Risk (Renewables & Flexible Power)](https://jobright.ai/jobs/info/69eacc7358811370cb135032?utm_campaign=1052&utm_source=git)** | USA_Houston_TX2 | Hybrid | Apr 23 |
 | **[CAPTRUST](https://www.captrust.com)** | **[intern / Wealth Management](https://jobright.ai/jobs/info/69eac7fa16b2612c2a117076?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Apr 23 |
 | **[Republic Services](http://www.republicservices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69eaad297820c036924ef1c6?utm_campaign=1052&utm_source=git)** | Mt Prospect, IL, USA, US | On Site | Apr 23 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69eaa63c4b0fa35a7077598c?utm_campaign=1052&utm_source=git)** | Mt Prospect, Illinois, 60056 | On Site | Apr 23 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69eaa44cdc35f7132c4ab67a?utm_campaign=1052&utm_source=git)** | Somerset, New Jersey, United States | Hybrid | Apr 23 |
+| **[Dialogue](https://www.dialogue.co)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 23 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69eaa2f958811370cb1348de?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Apr 23 |
 | ↳ | **[Assurance Intern - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69eaa2d80a6e095553042424?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Apr 23 |
 | ↳ | **[Assurance Intern - Summer 2027 (Baltimore)](https://jobright.ai/jobs/info/69eaa2a83aa0c479643b1139?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | On Site | Apr 23 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Shake Shack](careers.shakeshack.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69ea9d1c4b0fa35a70775661?utm_campaign=1052&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014, US | Hybrid | Apr 23 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Colorado Springs, CO](https://jobright.ai/jobs/info/69ea9d1c3aa0c479643b0ef7?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO, US | On Site | Apr 23 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Investment Management](https://jobright.ai/jobs/info/69ea9cfe0a6e0955530421e5?utm_campaign=1052&utm_source=git)** | Winnipeg, MB, CA | Hybrid | Apr 23 |
+| **[Dialogue](https://www.dialogue.co)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 23 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Fall 2026)](https://jobright.ai/jobs/info/69ea94cedc35f7132c4ab0df?utm_campaign=1052&utm_source=git)** | San Antonio, Texas, US | On Site | Apr 23 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ea925c58811370cb1342ca?utm_campaign=1052&utm_source=git)** | BYU–Hawaii, US | On Site | Apr 23 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Financial Services](https://jobright.ai/jobs/info/69ea925758811370cb1342bc?utm_campaign=1052&utm_source=git)** | Iselin, US | Hybrid | Apr 23 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/69b24511a8ac8e70ff66186e?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/69b2458ead360c0340a6ff5d?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 | ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0a4e9dfaeda6ff59ae657?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 23 |
-| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f23565de58104c7151bb?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/69ea18bbdc35f7132c4a85d4?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
+| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f23565de58104c7151bb?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f35f548f140066e81782?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
-| ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69c8bb111818a24cd84d686d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 23 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Tulsa)](https://jobright.ai/jobs/info/69cdeb2a891d7b11cfcc187a?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Apr 23 |
-| **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Transaction Management Intern](https://jobright.ai/jobs/info/69ea227e7820c036924ec2b9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 23 |
-| **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Foundation Fund and Scholarship Coordinator - Statler College of Engineering and Mineral Resources  28750](https://jobright.ai/jobs/info/69ea01973aa0c479643ac2bd?utm_campaign=1052&utm_source=git)** | Morgantown, WV | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

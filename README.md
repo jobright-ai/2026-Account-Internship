@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69eb61cf58811370cb13918c?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
+| **[LG Electronics](http://www.lg.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69de6e8336823d1b4258101f?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 25 |
+| **[Association of International Certified Professional Accountants](http://www.aicpaglobal.com/)** | **[Paid Summer Intern - Audit & Attestation](https://jobright.ai/jobs/info/69b3c669ae2a534885eb2b80?utm_campaign=1052&utm_source=git)** | Durham, NC | Remote | Apr 25 |
+| **[Busey](https://www.busey.com/home/home)** | **[Quantitative Risk Management Intern](https://jobright.ai/jobs/info/69ecb2210a6e09555304e665?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | Apr 25 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Fall 2027 (Bradenton, FL)](https://jobright.ai/jobs/info/68ed5bfa81fdd1626d39ba77?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Apr 25 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Intern - Manufacturing Accounting Intern](https://jobright.ai/jobs/info/69d1cfd40b098b7a67084850?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Apr 25 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6933cd07a0dde7020e2f1dd6?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
-| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/69d5e469e63cea7a8b665e54?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
-| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/69d5ce3de63cea7a8b6650f8?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
-| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a6?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206a6?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
+| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
+| ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/68cb7ed09e3a822f5d246d82?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 25 |
+| **[LivaNova](http://www.livanova.com)** | **[Finance-Accounting Intern](https://jobright.ai/jobs/info/69cfecdacdb525785fba5c0f?utm_campaign=1052&utm_source=git)** | Texas, United States | Hybrid | Apr 25 |
+| **[KPMG US](https://kpmguniversityconnection.com)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69ecb366dc35f7132c4b72d3?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
 | **[CCHMC Biomedical Research Technologies Masters Program](https://www.cincinnatichildrens.org/education/research/biomedical-research-masters)** | **[Finance Summer Intern (JR220729)](https://jobright.ai/jobs/info/69eca65c4b0fa35a7078290a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Anchorage)](https://jobright.ai/jobs/info/69d047b2cfdc6132f943a4af?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Apr 25 |
 | **[Mission US](https://missionunderwriters.com/)** | **[Underwriting Intern (Fall)](https://jobright.ai/jobs/info/69ec8f4116b2612c2a122b35?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KEB](http://kebcpa.com)** | **[Tax Intern - Summer '26](https://jobright.ai/jobs/info/69ebb9f27820c036924f676f?utm_campaign=1052&utm_source=git)** | Fairview Heights, Illinois, United States | On Site | Apr 24 |
 | **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69aa945c34184204e4491c4b?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | Apr 24 |
 | **[Zanskar](https://zanskar.com)** | **[Summer Internship - Finance Undergrad](https://jobright.ai/jobs/info/69d585ab706f771673ba3d51?utm_campaign=1052&utm_source=git)** | Salt Lake City, Utah | Hybrid | Apr 24 |
-| **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Transformation Internship](https://jobright.ai/jobs/info/69ebb855dc35f7132c4b2ba3?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Apr 24 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/69ebb83f0a6e095553049cd9?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Apr 24 |
-| **[OTR Solutions](http://www.otrsolutions.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69ebb835dc35f7132c4b2b0a?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 24 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Long Island, NY](https://jobright.ai/jobs/info/69e08fdeb20fd532b4ae2391?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/69ebb7b9dc35f7132c4b2a1b?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

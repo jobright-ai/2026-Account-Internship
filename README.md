@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[YFK Office Lease](https://www.yfkofficelease.com/)** | **[CRE Analyst - Summer Internship](https://jobright.ai/jobs/info/69ed082f0a6e09555304f588?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 25 |
+| **[Element Solutions Inc](https://www.elementsolutionsinc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ed17457820c036924fc3fc?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Apr 25 |
 | **[Wilson Lewis](https://www.wilsonlewis.com/)** | **[Tax Senior](https://jobright.ai/jobs/info/69cff14d54f00230c6d0d7d5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | **[Service Wire Company](http://servicewire.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69ecf76516b2612c2a123bf7?utm_campaign=1052&utm_source=git)** | Culloden, WV 25510 | On Site | Apr 25 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Internship Interest - 2028](https://jobright.ai/jobs/info/69d005bfcdb525785fba69b7?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Apr 25 |

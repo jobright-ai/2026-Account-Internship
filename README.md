@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Pension Finance & Data Integrity, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63707820c036924faa2f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Global Delivery-Fund Accounting Summer Intern](https://jobright.ai/jobs/info/69ec5de47820c036924fa7d0?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Apr 24 |
+| **[Central California Alliance for Health](https://thealliance.health/)** | **[Finance Coordinator (Temporary)](https://jobright.ai/jobs/info/69dd7c68738f2f099e8b674e?utm_campaign=1052&utm_source=git)** | Santa Cruz County, CA | Hybrid | Apr 24 |
 | **[Heritage Financial Credit Union](https://heritagefcu.com/)** | **[Banking Operations Internship](https://jobright.ai/jobs/info/69ec51f358811370cb13f8f3?utm_campaign=1052&utm_source=git)** | Headquarters, KY | On Site | Apr 24 |
 | ↳ | **[Finance and Accounting Internship](https://jobright.ai/jobs/info/69ec50750a6e09555304d9ef?utm_campaign=1052&utm_source=git)** | South Carolina, United States | On Site | Apr 24 |
 | ↳ | **[Loan Servicing Internship](https://jobright.ai/jobs/info/69ec507416b2612c2a122090?utm_campaign=1052&utm_source=git)** | Headquarters, KY | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Transformation Internship](https://jobright.ai/jobs/info/69ebaf6958811370cb13bd7f?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Apr 24 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69ebae5cdc35f7132c4b2868?utm_campaign=1052&utm_source=git)** | Washington, District of Columbia, USA, US | Remote | Apr 24 |
 | ↳ | **[EIC Intern, Client Services, Multifamily](https://jobright.ai/jobs/info/69ebadef0a6e09555304980b?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA, US | Remote | Apr 24 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Parsippany, NJ](https://jobright.ai/jobs/info/69e05eee9564e855a25dd156?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

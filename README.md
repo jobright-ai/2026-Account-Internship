@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Artemax, Inc.](https://www.artemax.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ec384358811370cb13f5af?utm_campaign=1052&utm_source=git)** | New Berlin, WI | On Site | Apr 24 |
-| **[Milford Mining Company Utah LLC](https://milfordmining.com/)** | **[ERP & Accounting Intern](https://jobright.ai/jobs/info/69ec36f00a6e09555304d514?utm_campaign=1052&utm_source=git)** | Milford, UT | On Site | Apr 24 |
 | **[Aerotech, Inc.](http://www.aerotech.com/Default.aspx)** | **[CMU Finance & Operations Associate Internship at KST](https://jobright.ai/jobs/info/69ec36e70a6e09555304d4c8?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Apr 24 |
 | **[Mayhill Hospital](https://mayhillhospital.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69ec32d97820c036924f9aca?utm_campaign=1052&utm_source=git)** | KING OF PRUSSIA,Pennsylvania,United States | On Site | Apr 24 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ec32cc7820c036924f9a8e?utm_campaign=1052&utm_source=git)** | KING OF PRUSSIA,Pennsylvania,United States | On Site | Apr 24 |
@@ -69,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Finance / Treasury 2026](https://jobright.ai/jobs/info/69ec25ad4b0fa35a70781067?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[ITT Inc.](http://www.itt.com)** | **[Finance Intern (Summer 2026)](https://jobright.ai/jobs/info/69ec1eebdc35f7132c4b5d74?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Apr 24 |
 | **[Amazon](https://amazon.com)** | **[Intern-Economics, WW Integrated Marketing Systems and Intelligence (WIMSI)](https://jobright.ai/jobs/info/69ec17a9dc35f7132c4b5746?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
+| ↳ | **[Intern-Economics, WW Integrated Marketing Systems and Intelligence (WIMSI)](https://jobright.ai/jobs/info/69ec40f458811370cb13f68c?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 24 |
+| **[Arthrex](https://www.arthrex.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69ec40d47820c036924fa136?utm_campaign=1052&utm_source=git)** | Naples, FL | On Site | Apr 24 |
 | **[LS Power](http://lspower.com)** | **[Asset Management Internship](https://jobright.ai/jobs/info/69af16316b21de023e602cf5?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | On Site | Apr 24 |
 | **[Taulia](http://www.taulia.com)** | **[Tax & Accounting Intern](https://jobright.ai/jobs/info/69ec0d1e16b2612c2a120ade?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US, 94103 | On Site | Apr 24 |
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Strategic Operations & Finance Intern, SACC-San Diego, Fall 2026    Position Filled](https://jobright.ai/jobs/info/69ec2f1c58811370cb13f1d1?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern - Huntington](https://jobright.ai/jobs/info/69ebfba94b0fa35a7077fb8f?utm_campaign=1052&utm_source=git)** | Huntington, NY | On Site | Apr 24 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Tax Intern](https://jobright.ai/jobs/info/69eba8120a6e09555304955d?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, US | Hybrid | Apr 24 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69ebc38fdc35f7132c4b30b0?utm_campaign=1052&utm_source=git)** | Morgantown, WV | Hybrid | Apr 24 |
-| **[Accel Entertainment](http://accelentertainment.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69e7e214f8fa2f3ec32aa0d7?utm_campaign=1052&utm_source=git)** | Burr Ridge, IL | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

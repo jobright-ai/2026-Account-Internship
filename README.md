@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wilson Lewis](https://www.wilsonlewis.com/)** | **[Tax Senior](https://jobright.ai/jobs/info/69cff14d54f00230c6d0d7d5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
+| **[Service Wire Company](http://servicewire.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69ecf76516b2612c2a123bf7?utm_campaign=1052&utm_source=git)** | Culloden, WV 25510 | On Site | Apr 25 |
+| **[CCK Strategies](http://www.cckcpa.com)** | **[Internship Interest - 2028](https://jobright.ai/jobs/info/69d005bfcdb525785fba69b7?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Apr 25 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Raleigh, NC](https://jobright.ai/jobs/info/69a8fe292580d3183f012cee?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Apr 25 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Financial Analyst](https://jobright.ai/jobs/info/69eceedd4b0fa35a70783b3c?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Apr 25 |
 | **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/691db43861dc50590a64955d?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 25 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/697c173a0b88cc7d64230aed?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waldron Partners](http://www.waldronpartners.com)** | **[Wealth Management Intern (Paid)](https://jobright.ai/jobs/info/69ebd30c16b2612c2a11f2c8?utm_campaign=1052&utm_source=git)** | Alamo, CA | On Site | Apr 24 |
 | **[Entergy](https://www.entergy.com)** | **[Fall 2026 Student, Intern, Accounts Payable](https://jobright.ai/jobs/info/69ebd2ff4b0fa35a7077eed2?utm_campaign=1052&utm_source=git)** | Hammond, LA | Hybrid | Apr 24 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ebd2f216b2612c2a11f23d?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 24 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69ebef1a4b0fa35a7077f9c1?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Performance Trust Capital Partners](http://www.performancetrust.com)** | **[2027 Investment Banking Summer Analyst (Internship) - Chicago](https://jobright.ai/jobs/info/69ebc9f416b2612c2a11f052?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
-| ↳ | **[2027 Investment Banking Summer Analyst (Internship) - Atlanta](https://jobright.ai/jobs/info/69ebc9e84b0fa35a7077ed00?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/69ebf37e58811370cb13dc85?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

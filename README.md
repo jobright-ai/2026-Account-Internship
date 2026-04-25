@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Element Solutions Inc](https://www.elementsolutionsinc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ed17457820c036924fc3fc?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Apr 25 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Planning & Allocation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69ebb79516b2612c2a11dfd4?utm_campaign=1052&utm_source=git)** | Burlington, NJ | Hybrid | Apr 25 |
+| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2026 Full-time Audit Internship](https://jobright.ai/jobs/info/69c1a21e75f7ff1cd80fee60?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Apr 25 |
 | **[Wilson Lewis](https://www.wilsonlewis.com/)** | **[Tax Senior](https://jobright.ai/jobs/info/69cff14d54f00230c6d0d7d5?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | **[Service Wire Company](http://servicewire.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69ecf76516b2612c2a123bf7?utm_campaign=1052&utm_source=git)** | Culloden, WV 25510 | On Site | Apr 25 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Internship Interest - 2028](https://jobright.ai/jobs/info/69d005bfcdb525785fba69b7?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Apr 25 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Raleigh, NC](https://jobright.ai/jobs/info/69a8fe292580d3183f012cee?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Apr 25 |
+| **[Lucas Horsfall](http://lhmp.com)** | **[Audit Intern](https://jobright.ai/jobs/info/69d11e16366bb95ba55248df?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Financial Analyst](https://jobright.ai/jobs/info/69eceedd4b0fa35a70783b3c?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Apr 25 |
 | **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/691db43861dc50590a64955d?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 25 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/697c173a0b88cc7d64230aed?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[School District No. 27](https://www.sd27.bc.ca)** | **[Accounting Clerk](https://jobright.ai/jobs/info/69ec02d416b2612c2a1205b4?utm_campaign=1052&utm_source=git)** | Williams Lake, British Columbia, Canada | On Site | Apr 24 |
 | **[Balto Capital Inc.](https://www.linkedin.com/company/99503341)** | **[Finance & Operations Intern (Real Estate)](https://jobright.ai/jobs/info/69ebd4524b0fa35a7077efc7?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 24 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69ebfd3216b2612c2a120432?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 24 |
-| **[Practising Law Institute (PLI)](https://pli.edu)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ebd32f16b2612c2a11f356?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
-| **[Waldron Partners](http://www.waldronpartners.com)** | **[Wealth Management Intern (Paid)](https://jobright.ai/jobs/info/69ebd30c16b2612c2a11f2c8?utm_campaign=1052&utm_source=git)** | Alamo, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

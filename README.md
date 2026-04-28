@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Copy of Intern - Finance and Accounting](https://jobright.ai/jobs/info/69f039a8825a315d7ca31985?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Apr 27 |
 | **[Hatch](https://www.hatch.com)** | **[Finance Co-op Student](https://jobright.ai/jobs/info/69f01dfe825a315d7ca30ee9?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69f036b92b095843b0311d9a?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 | **[Loenbro](http://loenbro.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f0132ca4aa3545d8a5cf71?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | Apr 27 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 - Tax Intern, Corporate Tax (San Jose)](https://jobright.ai/jobs/info/69f00a3216b2612c2a12d4f7?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern -  Risk Management, Credit Risk, Birmingham, AL](https://jobright.ai/jobs/info/69efff4116b2612c2a12d155?utm_campaign=1052&utm_source=git)** | Birmingham, AL - Regions Center, US | On Site | Apr 27 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef98b3e624fe645d532316?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 27 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2026 (Detroit)](https://jobright.ai/jobs/info/69ef96e058811370cb1473cd?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Apr 27 |
 | **[Living Cities](https://www.livingcities.org/)** | **[Grants & Contracts Management Intern (Finance & Accounting)](https://jobright.ai/jobs/info/69efb8a5fbe0994a40eb7efa?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 27 |
-| **[Barrett Industries](https://barrettindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef95b5e624fe645d532150?utm_campaign=1052&utm_source=git)** | Franklin, OH | On Site | Apr 27 |
 | **[GS Power Partners](https://gspowerpartners.com/)** | **[Structure Finance Summer Intern](https://jobright.ai/jobs/info/69efb89716b2612c2a12b2bb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[GTT](https://www.gtt.net/us-en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef921a16b2612c2a12a4c9?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Apr 27 |
 | **[Centella](http://www.med-lab.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef906458811370cb147256?utm_campaign=1052&utm_source=git)** | Miami, FL 33126 | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698455eb8da7a612045e770b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69ef395058811370cb1452ca?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/69eee56b16b2612c2a127cd5?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 26 |
-| **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/69ef73334b0fa35a707894f3?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

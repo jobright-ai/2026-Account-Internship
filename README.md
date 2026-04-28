@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Armanino](https://www.armanino.com)** | **[Summer 2026 - Tax Intern, Corporate Tax (San Jose)](https://jobright.ai/jobs/info/69f00a3216b2612c2a12d4f7?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern -  Risk Management, Credit Risk, Birmingham, AL](https://jobright.ai/jobs/info/69efff4116b2612c2a12d155?utm_campaign=1052&utm_source=git)** | Birmingham, AL - Regions Center, US | On Site | Apr 27 |
 | **[Loenbro](http://loenbro.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69effd4658811370cb14a127?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | Apr 27 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69effca80a6e095553058acf?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | Apr 27 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Cameron Mitchell Restaurants](https://cameronmitchell.com/)** | **[ACCOUNTING INTERN (Full Time)](https://jobright.ai/jobs/info/69efb79416b2612c2a12afc0?utm_campaign=1052&utm_source=git)** | COLUMBUS, Ohio, United States | On Site | Apr 27 |
 | **[Gould Killian CPA Group P.A.](https://www.gk-cpa.com/)** | **[Accounting Firm Operations Internship](https://jobright.ai/jobs/info/69efd8350a6e095553057962?utm_campaign=1052&utm_source=git)** | Asheville, NC | On Site | Apr 27 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69efd4a80a6e0955530574e9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 27 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (Detroit)](https://jobright.ai/jobs/info/69efadba16b2612c2a12ac6a?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Apr 27 |
 | **[Welch's](https://www.welchs.com/)** | **[Finance Intern - Production Planning](https://jobright.ai/jobs/info/69efaa11fbe0994a40eb787d?utm_campaign=1052&utm_source=git)** | North East, Pennsylvania, United States | On Site | Apr 27 |
 | **[Guild](https://www.guild.com)** | **[FP&A & Accounting Intern](https://jobright.ai/jobs/info/69efa8910a6e09555305637e?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Cabot Properties](http://www.cabotprop.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69efa87258811370cb147962?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 27 |
@@ -147,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[JPS Composite Materials](https://jpscm.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69ef4d9f0a6e095553053ed9?utm_campaign=1052&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 | ↳ | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69ef4d9e0a6e095553053ed1?utm_campaign=1052&utm_source=git)** | Agawam, MA, 01001, United States | On Site | Apr 27 |
 | ↳ | **[Corporate Tax Intern](https://jobright.ai/jobs/info/69ef4d9d4b0fa35a707888ca?utm_campaign=1052&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
-| **[Wachusett Brewing Company](https://www.wachusettbrewingcompany.com/)** | **[Finance Paid Internship](https://jobright.ai/jobs/info/69ef65bbe624fe645d530bf9?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[SRx Summer Intern – Commercial Portfolio Analysis](https://jobright.ai/jobs/info/69ef411a58811370cb1453a3?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | Apr 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698449110f6f7e7a2cde9d83?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/69e9e8ca58811370cb12f6db?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/69ef73334b0fa35a707894f3?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Apr 26 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Mergers and Acquisitions (M&A)](https://jobright.ai/jobs/info/69ee6bb058811370cb143e58?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 26 |
 | ↳ | **[Intern, Mergers and Acquisitions (M&A)](https://jobright.ai/jobs/info/69ee6bae58811370cb143e4f?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 26 |
+| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Marine Claims Intern](https://jobright.ai/jobs/info/6999010081476f6176b17516?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

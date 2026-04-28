@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Messer Construction Co.](http://www.messer.com)** | **[Accounting Internship (Summer 2026) - Lexington, KY](https://jobright.ai/jobs/info/69f0977fecbc8c2f731ffaec?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Apr 28 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Finance FP&A](https://jobright.ai/jobs/info/69cdd1ab54f00230c6cf6d06?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
+| **[Cantex](https://www.cantexcc.com)** | **[Managed Care Internship (22085)](https://jobright.ai/jobs/info/69d3e384cfdc6132f94552df?utm_campaign=1052&utm_source=git)** | Carrollton, TX | On Site | Apr 28 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Corporate Real Estate Specialist](https://jobright.ai/jobs/info/69cca35ee1921223acc7afe0?utm_campaign=1052&utm_source=git)** | Charlotte Metro | On Site | Apr 28 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Finance Intern - Manufacturing (Sedalia)](https://jobright.ai/jobs/info/69ea418958811370cb13216d?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | Apr 28 |
+| **[Cantex](https://www.cantexcc.com)** | **[Accounts Receivable (AR) Internship (22082)](https://jobright.ai/jobs/info/69d3e426891d7b11cfcf5467?utm_campaign=1052&utm_source=git)** | Carrollton, TX | On Site | Apr 28 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69c40a566f4f855eeda6623d?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
 | ↳ | **[Intern - Loan Syndications](https://jobright.ai/jobs/info/69b31ae8ae2a534885ea69ad?utm_campaign=1052&utm_source=git)** | Charlotte Metro | On Site | Apr 28 |
 | ↳ | **[Intern - Corporate Real Estate Specialist](https://jobright.ai/jobs/info/69cc8bc2cdb525785fb7eb4d?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
+| **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Finance (Los Angeles)](https://jobright.ai/jobs/info/69f0913c825a315d7ca32303?utm_campaign=1052&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f0441aecbc8c2f731ff2d0?utm_campaign=1052&utm_source=git)** | Madison, GA | On Site | Apr 27 |
-| **[City of San José](http://www.sanjoseca.gov/)** | **[Student Intern-Department of Finance, Accounts Payable](https://jobright.ai/jobs/info/69f07639825a315d7ca320d6?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Copy of Intern - Finance and Accounting](https://jobright.ai/jobs/info/69f039a8825a315d7ca31985?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Apr 27 |
 | **[PenFed Credit Union](https://www.penfed.org)** | **[Summer Intern - Finance Analytics](https://jobright.ai/jobs/info/69f051df8feca91f1491a885?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Apr 27 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern -  Risk Management, Credit Risk, Birmingham, AL](https://jobright.ai/jobs/info/69f0523bb27fee43e8cd3175?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Apr 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GTT](https://www.gtt.net/us-en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7a200a6e0955530550c3?utm_campaign=1052&utm_source=git)** | US Texas Remote, US | Remote | Apr 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69dc8c5d9f97a42dc9c316b5?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | ↳ | **[Finance Intern - Summer 2026 (Nashville)](https://jobright.ai/jobs/info/69eaace04b0fa35a70775b1b?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Apr 27 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Intern - Accounts Payable](https://jobright.ai/jobs/info/697d54ca137a051025666b6f?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
-| **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6918394715b415636717ff5e?utm_campaign=1052&utm_source=git)** | New Glasgow, Nova Scotia, Canada | Hybrid | Apr 27 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68d2fb34f0d9af73038ddbfe?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
-| **[JPS Composite Materials](https://jpscm.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69ef4d9f0a6e095553053ed9?utm_campaign=1052&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
-| ↳ | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69ef4d9e0a6e095553053ed1?utm_campaign=1052&utm_source=git)** | Agawam, MA, 01001, United States | On Site | Apr 27 |
-| ↳ | **[Corporate Tax Intern](https://jobright.ai/jobs/info/69ef4d9d4b0fa35a707888ca?utm_campaign=1052&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

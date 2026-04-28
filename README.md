@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69eacd4716b2612c2a1174e5?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
+| **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Atlantic Region Property and Casualty (hybrid)](https://jobright.ai/jobs/info/69b880803b74eb1e2c8659c5?utm_campaign=1052&utm_source=git)** | South Burlington, VT | Hybrid | Apr 28 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Securities Services, Loan Solutions](https://jobright.ai/jobs/info/69bc35b245e08b3dc1f884aa?utm_campaign=1052&utm_source=git)** | Chesterbrook, PA | On Site | Apr 28 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Accounting Internship (Summer 2026) - Lexington, KY](https://jobright.ai/jobs/info/69f0977fecbc8c2f731ffaec?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Apr 28 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Finance FP&A](https://jobright.ai/jobs/info/69cdd1ab54f00230c6cf6d06?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
 | **[Cantex](https://www.cantexcc.com)** | **[Managed Care Internship (22085)](https://jobright.ai/jobs/info/69d3e384cfdc6132f94552df?utm_campaign=1052&utm_source=git)** | Carrollton, TX | On Site | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef7d954b0fa35a7078990b?utm_campaign=1052&utm_source=git)** | Doral, Florida, United States | On Site | Apr 27 |
 | **[HealthPartners](https://www.healthpartners.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7d1558811370cb1467fd?utm_campaign=1052&utm_source=git)** | Bloomington, MN, United States | On Site | Apr 27 |
 | **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7d154b0fa35a70789874?utm_campaign=1052&utm_source=git)** | Bloomington, MN, United States | On Site | Apr 27 |
-| **[GTT](https://www.gtt.net/us-en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7a200a6e0955530550c3?utm_campaign=1052&utm_source=git)** | US Texas Remote, US | Remote | Apr 27 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69dc8c5d9f97a42dc9c316b5?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 27 |
-| ↳ | **[Finance Intern - Summer 2026 (Nashville)](https://jobright.ai/jobs/info/69eaace04b0fa35a70775b1b?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

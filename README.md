@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69c40a566f4f855eeda6623d?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
+| ↳ | **[Intern - Loan Syndications](https://jobright.ai/jobs/info/69b31ae8ae2a534885ea69ad?utm_campaign=1052&utm_source=git)** | Charlotte Metro | On Site | Apr 28 |
+| ↳ | **[Intern - Corporate Real Estate Specialist](https://jobright.ai/jobs/info/69cc8bc2cdb525785fb7eb4d?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f0441aecbc8c2f731ff2d0?utm_campaign=1052&utm_source=git)** | Madison, GA | On Site | Apr 27 |
 | **[City of San José](http://www.sanjoseca.gov/)** | **[Student Intern-Department of Finance, Accounts Payable](https://jobright.ai/jobs/info/69f07639825a315d7ca320d6?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Copy of Intern - Finance and Accounting](https://jobright.ai/jobs/info/69f039a8825a315d7ca31985?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPS Composite Materials](https://jpscm.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69ef4d9f0a6e095553053ed9?utm_campaign=1052&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 | ↳ | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69ef4d9e0a6e095553053ed1?utm_campaign=1052&utm_source=git)** | Agawam, MA, 01001, United States | On Site | Apr 27 |
 | ↳ | **[Corporate Tax Intern](https://jobright.ai/jobs/info/69ef4d9d4b0fa35a707888ca?utm_campaign=1052&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
-| **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[SRx Summer Intern – Commercial Portfolio Analysis](https://jobright.ai/jobs/info/69ef411a58811370cb1453a3?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | Apr 27 |
-| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698449110f6f7e7a2cde9d83?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Apr 27 |
-| ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/69e9e8ca58811370cb12f6db?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

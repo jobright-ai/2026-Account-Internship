@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Property Tax Intern, Strategic Valuation Services - Fall 2026](https://jobright.ai/jobs/info/69f0c463ecbc8c2f732013d4?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 28 |
+| ↳ | **[Property Tax Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/69f0c45ab27fee43e8cd49d7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 28 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/69f0c43262b48c68387911f3?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 28 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Atlantic Region Property and Casualty (hybrid)](https://jobright.ai/jobs/info/69b87da43b74eb1e2c86545b?utm_campaign=1052&utm_source=git)** | Wakefield, MA | Hybrid | Apr 28 |
 | **[PSECU](http://psecu.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69d3f67e891d7b11cfcf5e80?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69eacd4716b2612c2a1174e5?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
@@ -87,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69effca80a6e095553058acf?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | Apr 27 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Global Procurement & Cost Management](https://jobright.ai/jobs/info/69eff3c9fbe0994a40eb9bb9?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Investments Teams Internship - Fall 2026](https://jobright.ai/jobs/info/69eff3c8e624fe645d534857?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 27 |
-| **[KSM (Katz, Sapper & Miller)](http://www.ksmcpa.com)** | **[Tax Intern (Summer 2026)](https://jobright.ai/jobs/info/69eff3c758811370cb149f80?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Baltimore)](https://jobright.ai/jobs/info/69eff3b9fbe0994a40eb9b6d?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Apr 27 |
 | **[Highgate](https://www.highgate.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69eff3abe624fe645d5347b2?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | Apr 27 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69eff3970a6e09555305886b?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 27 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Gould Killian CPA Group P.A.](https://www.gk-cpa.com/)** | **[Accounting Firm Operations Internship](https://jobright.ai/jobs/info/69efd8350a6e095553057962?utm_campaign=1052&utm_source=git)** | Asheville, NC | On Site | Apr 27 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69efd4a80a6e0955530574e9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[Welch's](https://www.welchs.com/)** | **[Finance Intern - Production Planning](https://jobright.ai/jobs/info/69efaa11fbe0994a40eb787d?utm_campaign=1052&utm_source=git)** | North East, Pennsylvania, United States | On Site | Apr 27 |
-| **[Guild](https://www.guild.com)** | **[FP&A & Accounting Intern](https://jobright.ai/jobs/info/69efa8910a6e09555305637e?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Cabot Properties](http://www.cabotprop.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69efa87258811370cb147962?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | **[LONG Building Technologies](http://long.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69efc613fbe0994a40eb86ea?utm_campaign=1052&utm_source=git)** | Littleton, CO | On Site | Apr 27 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/69e271bcfcfcbd43860a2f7a?utm_campaign=1052&utm_source=git)** | Queens, NY | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (Fall 2026)](https://jobright.ai/jobs/info/69e971890a6e09555303bd9f?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 27 |
 | **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef7d954b0fa35a7078990b?utm_campaign=1052&utm_source=git)** | Doral, Florida, United States | On Site | Apr 27 |
 | **[HealthPartners](https://www.healthpartners.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7d1558811370cb1467fd?utm_campaign=1052&utm_source=git)** | Bloomington, MN, United States | On Site | Apr 27 |
-| **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7d154b0fa35a70789874?utm_campaign=1052&utm_source=git)** | Bloomington, MN, United States | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

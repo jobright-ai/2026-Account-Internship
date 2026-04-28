@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EQ Bank](http://www.eqbank.ca)** | **[Treasury Data and Governance, Intern](https://jobright.ai/jobs/info/69f0ff118d8d624381a99983?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Apr 28 |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Property Tax Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/69f0fc6562b48c683879305a?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
+| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Intern - Finance](https://jobright.ai/jobs/info/69f0fc0f62b48c6838792ee2?utm_campaign=1052&utm_source=git)** | Nashville, Tennessee, US | On Site | Apr 28 |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Property Tax Intern, Strategic Valuation Services - Fall 2026](https://jobright.ai/jobs/info/69f0fbd18feca91f1491dcd0?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
+| **[Mercury Systems](http://www.mrcy.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69f0fb73825a315d7ca354e1?utm_campaign=1052&utm_source=git)** | Andover, MA | On Site | Apr 28 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f0f50fecbc8c2f73202c3a?utm_campaign=1052&utm_source=git)** | Ontario, CA, US | On Site | Apr 28 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Denver)](https://jobright.ai/jobs/info/69f0f4b3825a315d7ca352fe?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 28 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[R&D Tax Credit Intern](https://jobright.ai/jobs/info/69f0ef48b27fee43e8cd6516?utm_campaign=1052&utm_source=git)** | Franklin, Tennessee - United States of America, US | On Site | Apr 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Denver)](https://jobright.ai/jobs/info/69f0ee93825a315d7ca3510e?utm_campaign=1052&utm_source=git)** | 20 303 E. 17th Avenue, Denver, CO, 80203, US | On Site | Apr 28 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern](https://jobright.ai/jobs/info/69f0e7c4825a315d7ca34f4b?utm_campaign=1052&utm_source=git)** | Iselin, NJ | On Site | Apr 28 |
@@ -102,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[HEI Civil](https://www.heicivil.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f052c52b095843b03123f2?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 27 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern -  Risk Management, Credit Risk, Birmingham, AL](https://jobright.ai/jobs/info/69efff4116b2612c2a12d155?utm_campaign=1052&utm_source=git)** | Birmingham, AL - Regions Center, US | On Site | Apr 27 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Security Valuation Internship](https://jobright.ai/jobs/info/69f01e50b27fee43e8cd21dc?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
-| **[Loenbro](http://loenbro.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69effca80a6e095553058acf?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | Apr 27 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Global Procurement & Cost Management](https://jobright.ai/jobs/info/69eff3c9fbe0994a40eb9bb9?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Investments Teams Internship - Fall 2026](https://jobright.ai/jobs/info/69eff3c8e624fe645d534857?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Baltimore)](https://jobright.ai/jobs/info/69eff3b9fbe0994a40eb9b6d?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Apr 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gould Killian CPA Group P.A.](https://www.gk-cpa.com/)** | **[Accounting Firm Operations Internship](https://jobright.ai/jobs/info/69efd8350a6e095553057962?utm_campaign=1052&utm_source=git)** | Asheville, NC | On Site | Apr 27 |
 | **[Audubon Companies](http://www.auduboncompanies.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69efd4a80a6e0955530574e9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[Welch's](https://www.welchs.com/)** | **[Finance Intern - Production Planning](https://jobright.ai/jobs/info/69efaa11fbe0994a40eb787d?utm_campaign=1052&utm_source=git)** | North East, Pennsylvania, United States | On Site | Apr 27 |
-| **[Cabot Properties](http://www.cabotprop.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69efa87258811370cb147962?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 27 |
-| **[LONG Building Technologies](http://long.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69efc613fbe0994a40eb86ea?utm_campaign=1052&utm_source=git)** | Littleton, CO | On Site | Apr 27 |
-| **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/69e271bcfcfcbd43860a2f7a?utm_campaign=1052&utm_source=git)** | Queens, NY | On Site | Apr 27 |
-| **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69ef9ad30a6e095553055e88?utm_campaign=1052&utm_source=git)** | Springfield, Missouri, US | On Site | Apr 27 |
-| **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef98b3e624fe645d532316?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 27 |
-| **[Living Cities](https://www.livingcities.org/)** | **[Grants & Contracts Management Intern (Finance & Accounting)](https://jobright.ai/jobs/info/69efb8a5fbe0994a40eb7efa?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

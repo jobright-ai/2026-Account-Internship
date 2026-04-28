@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Atlantic Region Property and Casualty (hybrid)](https://jobright.ai/jobs/info/69b87da43b74eb1e2c86545b?utm_campaign=1052&utm_source=git)** | Wakefield, MA | Hybrid | Apr 28 |
+| **[PSECU](http://psecu.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69d3f67e891d7b11cfcf5e80?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69eacd4716b2612c2a1174e5?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Atlantic Region Property and Casualty (hybrid)](https://jobright.ai/jobs/info/69b880803b74eb1e2c8659c5?utm_campaign=1052&utm_source=git)** | South Burlington, VT | Hybrid | Apr 28 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Securities Services, Loan Solutions](https://jobright.ai/jobs/info/69bc35b245e08b3dc1f884aa?utm_campaign=1052&utm_source=git)** | Chesterbrook, PA | On Site | Apr 28 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Idaho Housing and Finance Association](https://idahohousing.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cb1214466f1e133aacaa0f?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Apr 27 |
 | **[Smiths Group plc](http://www.smiths.com/)** | **[Import/Export Summer Internship](https://jobright.ai/jobs/info/69efb9f24b0fa35a7078b6b0?utm_campaign=1052&utm_source=git)** | 03246 93 Lexington Drive, Laconia, New Hampshire, United States | On Site | Apr 27 |
 | **[Dunavant](http://dunavant.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69efb9b44b0fa35a7078b5ae?utm_campaign=1052&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
-| **[KSM (Katz, Sapper & Miller)](http://www.ksmcpa.com)** | **[Tax Intern (Summer 2026)](https://jobright.ai/jobs/info/69efb8fce624fe645d532f11?utm_campaign=1052&utm_source=git)** | Indianapolis, US | On Site | Apr 27 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/69efb8de58811370cb148041?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Internal Audit, Summer Analyst - Mississauga, ON 2027](https://jobright.ai/jobs/info/69d3e4d0cfdc6132f94558c8?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
 | **[Magna International](http://www.magna.com/)** | **[Jr. Financial Analyst (Co-op)](https://jobright.ai/jobs/info/69efb86d16b2612c2a12b198?utm_campaign=1052&utm_source=git)** | Aurora, Ontario, CA | On Site | Apr 27 |
@@ -140,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/69e271bcfcfcbd43860a2f7a?utm_campaign=1052&utm_source=git)** | Queens, NY | On Site | Apr 27 |
 | **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69ef9ad30a6e095553055e88?utm_campaign=1052&utm_source=git)** | Springfield, Missouri, US | On Site | Apr 27 |
 | **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef98b3e624fe645d532316?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 27 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2026 (Detroit)](https://jobright.ai/jobs/info/69ef96e058811370cb1473cd?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Apr 27 |
 | **[Living Cities](https://www.livingcities.org/)** | **[Grants & Contracts Management Intern (Finance & Accounting)](https://jobright.ai/jobs/info/69efb8a5fbe0994a40eb7efa?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 27 |
 | **[GS Power Partners](https://gspowerpartners.com/)** | **[Structure Finance Summer Intern](https://jobright.ai/jobs/info/69efb89716b2612c2a12b2bb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[GTT](https://www.gtt.net/us-en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef921a16b2612c2a12a4c9?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Apr 27 |

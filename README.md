@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VersaBank](https://www.versabank.com/)** | **[Student Internship, Quantitative Credit Risk Analyst](https://jobright.ai/jobs/info/69f0d00f8d8d624381a988b8?utm_campaign=1052&utm_source=git)** | London, Ontario, Canada | On Site | Apr 28 |
+| **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69f0cf7d8feca91f1491cd69?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Pricing Intern](https://jobright.ai/jobs/info/69f0cc058d8d624381a98630?utm_campaign=1052&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 28 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Property Tax Intern, Strategic Valuation Services - Fall 2026](https://jobright.ai/jobs/info/69f0c463ecbc8c2f732013d4?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 28 |
 | ↳ | **[Property Tax Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/69f0c45ab27fee43e8cd49d7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 28 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/69f0c43262b48c68387911f3?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 28 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Welch's](https://www.welchs.com/)** | **[Finance Intern - Production Planning](https://jobright.ai/jobs/info/69efbb6f4b0fa35a7078b8c9?utm_campaign=1052&utm_source=git)** | North East, PA | On Site | Apr 27 |
 | **[Idaho Housing and Finance Association](https://idahohousing.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cb1214466f1e133aacaa0f?utm_campaign=1052&utm_source=git)** | Boise, ID | On Site | Apr 27 |
 | **[Smiths Group plc](http://www.smiths.com/)** | **[Import/Export Summer Internship](https://jobright.ai/jobs/info/69efb9f24b0fa35a7078b6b0?utm_campaign=1052&utm_source=git)** | 03246 93 Lexington Drive, Laconia, New Hampshire, United States | On Site | Apr 27 |
-| **[Dunavant](http://dunavant.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69efb9b44b0fa35a7078b5ae?utm_campaign=1052&utm_source=git)** | Memphis, TN, US | On Site | Apr 27 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/69efb8de58811370cb148041?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Internal Audit, Summer Analyst - Mississauga, ON 2027](https://jobright.ai/jobs/info/69d3e4d0cfdc6132f94558c8?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
 | **[Magna International](http://www.magna.com/)** | **[Jr. Financial Analyst (Co-op)](https://jobright.ai/jobs/info/69efb86d16b2612c2a12b198?utm_campaign=1052&utm_source=git)** | Aurora, Ontario, CA | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neogen Corporation](http://www.neogen.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef84bde624fe645d531a90?utm_campaign=1052&utm_source=git)** | Lansing, MI, US | On Site | Apr 27 |
 | **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7eb7e624fe645d531a04?utm_campaign=1052&utm_source=git)** | Westlake, US | On Site | Apr 27 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (Fall 2026)](https://jobright.ai/jobs/info/69e971890a6e09555303bd9f?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 27 |
-| **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef7d954b0fa35a7078990b?utm_campaign=1052&utm_source=git)** | Doral, Florida, United States | On Site | Apr 27 |
-| **[HealthPartners](https://www.healthpartners.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7d1558811370cb1467fd?utm_campaign=1052&utm_source=git)** | Bloomington, MN, United States | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

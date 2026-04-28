@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Finance Intern (3 months)](https://jobright.ai/jobs/info/69f0d6a6b27fee43e8cd5bd1?utm_campaign=1052&utm_source=git)** | US-PA-Aston (ESCO), US | On Site | Apr 28 |
+| **[ING Hubs Poland](https://ingtechpoland.com)** | **[Summer 2026 Internship – Financial Markets](https://jobright.ai/jobs/info/69f0d69e8feca91f1491d0ba?utm_campaign=1052&utm_source=git)** | New York, US | On Site | Apr 28 |
+| **[Times Microwave Systems](http://www.timesmicrowave.com/)** | **[Inventory Analyst Intern](https://jobright.ai/jobs/info/69d4118de63cea7a8b6564da?utm_campaign=1052&utm_source=git)** | Wallingford, CT | On Site | Apr 28 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/69c8a712b773006330b80751?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Apr 28 |
 | **[VersaBank](https://www.versabank.com/)** | **[Student Internship, Quantitative Credit Risk Analyst](https://jobright.ai/jobs/info/69f0d00f8d8d624381a988b8?utm_campaign=1052&utm_source=git)** | London, Ontario, Canada | On Site | Apr 28 |
 | **[Workato](http://www.workato.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69f0cf7d8feca91f1491cd69?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Pricing Intern](https://jobright.ai/jobs/info/69f0cc058d8d624381a98630?utm_campaign=1052&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 28 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Property Tax Intern, Strategic Valuation Services - Fall 2026](https://jobright.ai/jobs/info/69f0c463ecbc8c2f732013d4?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 28 |
 | ↳ | **[Property Tax Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/69f0c45ab27fee43e8cd49d7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 28 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/69f0c43262b48c68387911f3?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 28 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Actuarial Intern- Summer 2027](https://jobright.ai/jobs/info/69d3c8b1cfdc6132f9453bf3?utm_campaign=1052&utm_source=git)** | Owatonna, MN | On Site | Apr 28 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Atlantic Region Property and Casualty (hybrid)](https://jobright.ai/jobs/info/69b87da43b74eb1e2c86545b?utm_campaign=1052&utm_source=git)** | Wakefield, MA | Hybrid | Apr 28 |
 | **[PSECU](http://psecu.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69d3f67e891d7b11cfcf5e80?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 28 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/69f0d6a68feca91f1491d0dd?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/69eacd4716b2612c2a1174e5?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern - Atlantic Region Property and Casualty (hybrid)](https://jobright.ai/jobs/info/69b880803b74eb1e2c8659c5?utm_campaign=1052&utm_source=git)** | South Burlington, VT | Hybrid | Apr 28 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Securities Services, Loan Solutions](https://jobright.ai/jobs/info/69bc35b245e08b3dc1f884aa?utm_campaign=1052&utm_source=git)** | Chesterbrook, PA | On Site | Apr 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](http://www.eqbank.ca)** | **[Credit Risk, Intern](https://jobright.ai/jobs/info/69ef904b58811370cb1471ec?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Apr 27 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26033 Oceans Sustainable Blue Finance Intern](https://jobright.ai/jobs/info/69ef8e8358811370cb1471b5?utm_campaign=1052&utm_source=git)** | US-DC-Washington | On Site | Apr 27 |
 | ↳ | **[IN-26033 Oceans Sustainable Blue Finance Intern](https://jobright.ai/jobs/info/69ef8e710a6e095553055bec?utm_campaign=1052&utm_source=git)** | Washington, DC, US | On Site | Apr 27 |
-| **[4imprint](http://investors.4imprint.com/)** | **[Credit / Collections Accounting Intern](https://jobright.ai/jobs/info/69efad9958811370cb147c14?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Apr 27 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef8db74b0fa35a7078a1be?utm_campaign=1052&utm_source=git)** | DFW Metroplex | On Site | Apr 27 |
-| **[HealthPartners](https://www.healthpartners.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef8d8558811370cb1470af?utm_campaign=1052&utm_source=git)** | Bloomington, MN | On Site | Apr 27 |
-| **[Neogen Corporation](http://www.neogen.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ef84bde624fe645d531a90?utm_campaign=1052&utm_source=git)** | Lansing, MI, US | On Site | Apr 27 |
-| **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69ef7eb7e624fe645d531a04?utm_campaign=1052&utm_source=git)** | Westlake, US | On Site | Apr 27 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (Fall 2026)](https://jobright.ai/jobs/info/69e971890a6e09555303bd9f?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

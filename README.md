@@ -95,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69efdcf0fbe0994a40eb8cc2?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 27 |
 | ↳ | **[Investment Banking Intern](https://jobright.ai/jobs/info/69efda014b0fa35a7078c226?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Risewell Homes](http://www.risewellhomes.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69efd8770a6e09555305799d?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Apr 27 |
-| **[Armanino](https://www.armanino.com)** | **[Summer 2026 - Tax Intern, Corporate Tax (San Jose)](https://jobright.ai/jobs/info/69efd83d58811370cb148d0a?utm_campaign=1052&utm_source=git)** | San Jose, California, US | On Site | Apr 27 |
 | **[Ardian](https://www.ardian.com/)** | **[Secondaries & Primaries Intern - Summer 2027 / SF](https://jobright.ai/jobs/info/69efd7e558811370cb148cbd?utm_campaign=1052&utm_source=git)** | San Francisco, US | On Site | Apr 27 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26033 Oceans Sustainable Blue Finance Intern](https://jobright.ai/jobs/info/69efd59b16b2612c2a12bd47?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | **[JHNA](http://jhna.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69efd4ec0a6e09555305750e?utm_campaign=1052&utm_source=git)** | Manchester, NH | On Site | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[SRx Summer Intern – Commercial Portfolio Analysis](https://jobright.ai/jobs/info/69ef411a58811370cb1453a3?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | Apr 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698449110f6f7e7a2cde9d83?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/69e9e8ca58811370cb12f6db?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 27 |
+| ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698455eb8da7a612045e770b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -59,8 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Central Garden & Pet](http://www.central.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f0441aecbc8c2f731ff2d0?utm_campaign=1052&utm_source=git)** | Madison, GA | On Site | Apr 27 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Copy of Intern - Finance and Accounting](https://jobright.ai/jobs/info/69f039a8825a315d7ca31985?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Apr 27 |
+| **[PenFed Credit Union](https://www.penfed.org)** | **[Summer Intern - Finance Analytics](https://jobright.ai/jobs/info/69f051df8feca91f1491a885?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Apr 27 |
+| **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern -  Risk Management, Credit Risk, Birmingham, AL](https://jobright.ai/jobs/info/69f0523bb27fee43e8cd3175?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Apr 27 |
 | **[Hatch](https://www.hatch.com)** | **[Finance Co-op Student](https://jobright.ai/jobs/info/69f01dfe825a315d7ca30ee9?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69f036b92b095843b0311d9a?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
+| **[HNTB](http://www.hntb.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69f05242b27fee43e8cd3188?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
+| **[HEI Civil](https://www.heicivil.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f052c52b095843b03123f2?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 27 |
 | **[Loenbro](http://loenbro.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f0132ca4aa3545d8a5cf71?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | Apr 27 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 - Tax Intern, Corporate Tax (San Jose)](https://jobright.ai/jobs/info/69f00a3216b2612c2a12d4f7?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern -  Risk Management, Credit Risk, Birmingham, AL](https://jobright.ai/jobs/info/69efff4116b2612c2a12d155?utm_campaign=1052&utm_source=git)** | Birmingham, AL - Regions Center, US | On Site | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Tax Intern](https://jobright.ai/jobs/info/69ef4d9d4b0fa35a707888ca?utm_campaign=1052&utm_source=git)** | Miami, FL, 33137, United States | Hybrid | Apr 27 |
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[SRx Summer Intern – Commercial Portfolio Analysis](https://jobright.ai/jobs/info/69ef411a58811370cb1453a3?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | Apr 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698449110f6f7e7a2cde9d83?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Apr 27 |
-| ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/69e9e8ca58811370cb12f6db?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 27 |
-| ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698455eb8da7a612045e770b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Apr 27 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69ef395058811370cb1452ca?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
-| **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/69eee56b16b2612c2a127cd5?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

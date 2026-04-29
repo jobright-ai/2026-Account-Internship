@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trench Group](https://trench-group.com/)** | **[Finance Intern (12 Months)](https://jobright.ai/jobs/info/69f16b33ecbc8c2f73205a59?utm_campaign=1052&utm_source=git)** | Pickering, Ontario, Canada | On Site | Apr 28 |
+| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/69f16b218feca91f1492011c?utm_campaign=1052&utm_source=git)** | Barnes, CA | On Site | Apr 28 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Tax Intern (Summer 2026)](https://jobright.ai/jobs/info/69f15ce78feca91f1491fe54?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Apr 28 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Treasury Data and Governance, Intern](https://jobright.ai/jobs/info/69f157f4825a315d7ca377c9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Strategic Operations Graduate Intern- Summer 2026](https://jobright.ai/jobs/info/69f1560d825a315d7ca37737?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Apr 28 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Leggett & Platt](http://www.leggett.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f1471462b48c6838794db5?utm_campaign=1052&utm_source=git)** | Carthage, MO | On Site | Apr 28 |
 | **[CTDI](http://www.ctdi.eu)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f141d9ecbc8c2f73204f78?utm_campaign=1052&utm_source=git)** | West Chester, Pennsylvania, United States | On Site | Apr 28 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69f1417262b48c6838794cb6?utm_campaign=1052&utm_source=git)** | West Chester, PA | On Site | Apr 28 |
+| **[Edgewell Personal Care](http://edgewell.com)** | **[Intern, Internal Audit & Finance Rotational Program, Summer 2026](https://jobright.ai/jobs/info/69f16581825a315d7ca378f0?utm_campaign=1052&utm_source=git)** | St Louis, MO | Hybrid | Apr 28 |
 | **[OneMain Financial](http://www.onemainfinancial.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69f13bd88d8d624381a9b26a?utm_campaign=1052&utm_source=git)** | Irving, TX, US | On Site | Apr 28 |
 | **[Partner Valuation Advisors](https://www.partnerval.com)** | **[Valuation Intern](https://jobright.ai/jobs/info/69f139a6825a315d7ca36c14?utm_campaign=1052&utm_source=git)** | Plano, Texas, United States | Hybrid | Apr 28 |
 | **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Real Estate Credit Intern – Summer 2027](https://jobright.ai/jobs/info/69f136568feca91f1491f428?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 28 |
@@ -97,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - Washington DC Metro](https://jobright.ai/jobs/info/69f1077bb27fee43e8cd6aef?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Apr 28 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Finance Intern (3 months)](https://jobright.ai/jobs/info/69f12d10825a315d7ca362f8?utm_campaign=1052&utm_source=git)** | Aston, PA | On Site | Apr 28 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Accounting (Research Department)](https://jobright.ai/jobs/info/69f104618d8d624381a99bfc?utm_campaign=1052&utm_source=git)** | Little Rock, US | On Site | Apr 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/69f128e6b27fee43e8cd754d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| ↳ | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/69cf4420cfdc6132f9431996?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/69f12cccecbc8c2f73203ec9?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | ↳ | **[Credit Risk Management Department Risk Analytics Model Intern](https://jobright.ai/jobs/info/69f12d048d8d624381a9a865?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
+| ↳ | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/69cf4420cfdc6132f9431996?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Credit Research Intern - Summer 2027](https://jobright.ai/jobs/info/69af852c6b21de023e60bb79?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Accounting - Central Office, Hayward](https://jobright.ai/jobs/info/69f128f5b27fee43e8cd7596?utm_campaign=1052&utm_source=git)** | Hayward, CA | On Site | Apr 28 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Treasury Data and Governance, Intern](https://jobright.ai/jobs/info/69f0ff118d8d624381a99983?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69f05242b27fee43e8cd3188?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
 | **[HEI Civil](https://www.heicivil.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f052c52b095843b03123f2?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 27 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern -  Risk Management, Credit Risk, Birmingham, AL](https://jobright.ai/jobs/info/69efff4116b2612c2a12d155?utm_campaign=1052&utm_source=git)** | Birmingham, AL - Regions Center, US | On Site | Apr 27 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Security Valuation Internship](https://jobright.ai/jobs/info/69f01e50b27fee43e8cd21dc?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
-| **[IMAX](http://www.imax.com)** | **[Intern, Global Procurement & Cost Management](https://jobright.ai/jobs/info/69eff3c9fbe0994a40eb9bb9?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 27 |
-| **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Investments Teams Internship - Fall 2026](https://jobright.ai/jobs/info/69eff3c8e624fe645d534857?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

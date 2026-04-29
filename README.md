@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valeo](http://www.valeo.com/en/)** | **[Tax Intern (Summer 2026)](https://jobright.ai/jobs/info/69f15ce78feca91f1491fe54?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Apr 28 |
+| **[EQ Bank](http://www.eqbank.ca)** | **[Treasury Data and Governance, Intern](https://jobright.ai/jobs/info/69f157f4825a315d7ca377c9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
+| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Strategic Operations Graduate Intern- Summer 2026](https://jobright.ai/jobs/info/69f1560d825a315d7ca37737?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Apr 28 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f15410ecbc8c2f7320555a?utm_campaign=1052&utm_source=git)** | Joplin, MO | On Site | Apr 28 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/69f153f58d8d624381a9bac7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
 | **[Bluespring Wealth Partners](https://www.bluespringwealth.com)** | **[Summer Internship, Financial Advisory](https://jobright.ai/jobs/info/69f153f4ecbc8c2f732054fe?utm_campaign=1052&utm_source=git)** | Waco, TX | On Site | Apr 28 |
@@ -74,9 +77,6 @@ For a complete list, click the following sortable link below:
 | **[El Paso Electric Company](http://epelectric.com)** | **[INTERN-GRID  Internal Audit - ICFR](https://jobright.ai/jobs/info/69f1358a8feca91f1491f1a2?utm_campaign=1052&utm_source=git)** | Attn: Accounts Payable, El Paso, TX, 79960, US | On Site | Apr 28 |
 | **[Palomar Health](http://www.palomarhealth.org)** | **[Financial Rep Access Dept](https://jobright.ai/jobs/info/69f1357eecbc8c2f7320477f?utm_campaign=1052&utm_source=git)** | Escondido, CA | On Site | Apr 28 |
 | **[Lucid Software](https://lucid.co)** | **[Strategic Financial Intern](https://jobright.ai/jobs/info/69f1353f8feca91f1491f0e4?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Hybrid | Apr 28 |
-| **[BMO](http://www.bmo.com)** | **[Finance Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f1503aecbc8c2f73205368?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
-| ↳ | **[Financial Governance and Controls Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f1501c8feca91f1491fb95?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
-| ↳ | **[Analyst, Capital Markets Treasury, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f1503eecbc8c2f73205371?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
 | **[SingerLewak LLP](http://singerlewak.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f12d198d8d624381a9a8e0?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Apr 28 |
 | **[Nidec Motor Corporation](https://acim.nidec.com/motors)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f12c23ecbc8c2f73203e02?utm_campaign=1052&utm_source=git)** | North America/USA/Tennessee/Lexington, TN, US | On Site | Apr 28 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f1420c8feca91f1491f8be?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
@@ -97,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - Washington DC Metro](https://jobright.ai/jobs/info/69f1077bb27fee43e8cd6aef?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Apr 28 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Finance Intern (3 months)](https://jobright.ai/jobs/info/69f12d10825a315d7ca362f8?utm_campaign=1052&utm_source=git)** | Aston, PA | On Site | Apr 28 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Accounting (Research Department)](https://jobright.ai/jobs/info/69f104618d8d624381a99bfc?utm_campaign=1052&utm_source=git)** | Little Rock, US | On Site | Apr 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/69f12d03825a315d7ca362ad?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/69f128e6b27fee43e8cd754d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | ↳ | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/69cf4420cfdc6132f9431996?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | ↳ | **[Credit Risk Management Department Risk Analytics Model Intern](https://jobright.ai/jobs/info/69f12d048d8d624381a9a865?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Credit Research Intern - Summer 2027](https://jobright.ai/jobs/info/69af852c6b21de023e60bb79?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |

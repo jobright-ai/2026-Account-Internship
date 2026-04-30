@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6df1852a5bf580012ca77?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Apr 30 |
+| ↳ | **[Tax Intern, Partnerships - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba877d5697383741401830?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
+| ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69c8a0e91818a24cd84d5e69?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
+| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba8f0906c1ba00c54ca4c4?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f31e29343eef4fb0a9921d?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69f318c88feca91f149298e7?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f318bd8feca91f149298b3?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Apr 30 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69f31723825a315d7ca41f85?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 30 |
 | **[Hemut (YC X25)](https://www.hemut.com/)** | **[Operations & Finance Intern](https://jobright.ai/jobs/info/69f311bb8d8d624381aa5148?utm_campaign=1052&utm_source=git)** | Fresno, CA | Hybrid | Apr 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f3115bab4ec4779fffe5eb?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
+| ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f3308f6942c746fa6901fe?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Apr 30 |
+| **[Corpay](https://payments.corpay.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69f330e558b23a2329da32cd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Minnesota Department of Commerce](https://mn.gov/commerce)** | **[Student Worker Para Prof Sr; Actuarial Intern](https://jobright.ai/jobs/info/69f31e1e58b23a2329da2ff6?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Apr 29 |
 | **[Maravai LifeSciences](http://www.maravai.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69f2f8f68feca91f14928f0c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
 | **[Jitto](getjitto.com)** | **[Financial Analyst Co-Op / Internship](https://jobright.ai/jobs/info/69f30becab4ec4779fffe5d5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sara Lee Frozen Bakery](https://saraleefrozenbakery.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69f22a1f8feca91f14923642?utm_campaign=1052&utm_source=git)** | Oak Brook, IL, US | Hybrid | Apr 29 |
 | **[State Fair of Texas®](http://www.bigtex.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69f229cbab4ec4779fff7960?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69f224858feca91f14923493?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Apr 29 |
-| **[Prosperity Life](https://prosperitylife.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69ba88b85697383741401dea?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Apr 29 |
-| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Finance Intern](https://jobright.ai/jobs/info/69f222daab4ec4779fff7688?utm_campaign=1052&utm_source=git)** | Bridgeport,CT,US | On Site | Apr 29 |
-| **[Country Meadows Retirement Communities](https://www.countrymeadows.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69f222b1825a315d7ca3ad87?utm_campaign=1052&utm_source=git)** | Hershey, Pennsylvania, United States | On Site | Apr 29 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69f2460eecbc8c2f73209bed?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69f246b18d8d624381aa0230?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Apr 29 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Investment Management](https://jobright.ai/jobs/info/69d5227c706f771673ba0bac?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69f2b69334c4af7a79ab498a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 29 |
+| **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Finance Intern / Support Center](https://jobright.ai/jobs/info/69a31fd4b600907a962971d0?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Apr 29 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 Tax Intern (New York)](https://jobright.ai/jobs/info/69f2af1cecbc8c2f7320be9f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Commercial FP&A Intern](https://jobright.ai/jobs/info/69f2a86d34c4af7a79ab458e?utm_campaign=1052&utm_source=git)** | Trumbull, CT | On Site | Apr 29 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a0?utm_campaign=1052&utm_source=git)** | Winter Haven, FL | On Site | Apr 29 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[b1BANK](https://b1bank.com)** | **[Intern](https://jobright.ai/jobs/info/69f289b68feca91f14925694?utm_campaign=1052&utm_source=git)** | Baton Rouge Metro | On Site | Apr 29 |
 | **[Magellan Aerospace Limited](http://magellan.aero/)** | **[Sales and Accounting Administrator (Intern)](https://jobright.ai/jobs/info/69f289adecbc8c2f7320b114?utm_campaign=1052&utm_source=git)** | West Babylon, NY, US, 11704 | On Site | Apr 29 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Financial Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/69f28982ecbc8c2f7320b058?utm_campaign=1052&utm_source=git)** | US FL JAX 347, US | On Site | Apr 29 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Tax Payer Advocate Student Assistant](https://jobright.ai/jobs/info/69f2b66b34c4af7a79ab488d?utm_campaign=1052&utm_source=git)** | Dimondale, MI | Hybrid | Apr 29 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern – Financial Analyst](https://jobright.ai/jobs/info/69f2815d8feca91f149251f7?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Apr 29 |
 | **[CooperCompanies](http://www.coopercos.com/)** | **[Commercial FP&A Intern](https://jobright.ai/jobs/info/69f2794c8d8d624381aa0f62?utm_campaign=1052&utm_source=git)** | 75 Corporate Drive, Trumbull, CT, 06611, US | On Site | Apr 29 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance, Asset Management Intern - Summer 2026 (Boston)](https://jobright.ai/jobs/info/69f2794c8d8d624381aa0f6c?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Accounts Receivable Billing Intern](https://jobright.ai/jobs/info/69f1f925ecbc8c2f73208434?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69f1f8fa8feca91f1492293e?utm_campaign=1052&utm_source=git)** | Sterling, IL | On Site | Apr 29 |
 | **[Lennox](http://www.lennox.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d545c6366bb95ba5543a59?utm_campaign=1052&utm_source=git)** | Bay Shore, NY | On Site | Apr 29 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Inventory Management Intern Summer 2026](https://jobright.ai/jobs/info/69d57d43706f771673ba3a7c?utm_campaign=1052&utm_source=git)** | Hopkins, SC | Hybrid | Apr 29 |
-| **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - Washington DC Metro](https://jobright.ai/jobs/info/69f20a6df154d768fbaa4e98?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Apr 29 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Commercial Loan Servicing Associate](https://jobright.ai/jobs/info/69f2244aecbc8c2f73208f5d?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

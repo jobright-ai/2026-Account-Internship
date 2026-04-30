@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XR Trading](http://www.xrtrading.com/)** | **[ACCOUNTING INTERN](https://jobright.ai/jobs/info/69f35a3a461b9b613a61fc67?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 30 |
+| ↳ | **[ACCOUNTING INTERN](https://jobright.ai/jobs/info/69f35a3a343eef4fb0a9a0a0?utm_campaign=1052&utm_source=git)** | Fully Remote | Remote | Apr 30 |
+| **[Waste Connections](http://www.wasteconnections.com/)** | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/69d6ee01706f771673baed6f?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Apr 30 |
 | **[Daybreak Game Company LLC](https://www.daybreakgames.com/home)** | **[Accountant Intern](https://jobright.ai/jobs/info/69bb59123b74eb1e2c89c76f?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d6ae06706f771673bad255?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 30 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69d6f3e9e63cea7a8b66d2da?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6df1852a5bf580012ca77?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Apr 30 |
 | ↳ | **[Tax Intern, Partnerships - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba877d5697383741401830?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
@@ -127,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[NANA Worley](http://nanaworleyparsons.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Accounting Intern Paid Internship](https://jobright.ai/jobs/info/69f269d3ecbc8c2f7320a569?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Apr 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d565d8cfdc6132f9461f8f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 29 |
 | **[ZIM Integrated Shipping Services](http://www.zim.com)** | **[Summer Intern - Accounting & Finance](https://jobright.ai/jobs/info/69f2a08d8d8d624381aa1db1?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 29 |
-| **[Howden](http://www.howdengroup.com)** | **[Financial Lines Intern](https://jobright.ai/jobs/info/69f2bef634c4af7a79ab5fe7?utm_campaign=1052&utm_source=git)** | New York, US | On Site | Apr 29 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Audit Job ID : 276369](https://jobright.ai/jobs/info/69f28556825a315d7ca3cfdf?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 29 |
 | **[sunday](https://sundayapp.com)** | **[Strategic Finance - Intern - US](https://jobright.ai/jobs/info/69f261dbab4ec4779fff8c27?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[Ginkgo Residential](https://www.ginkgores.com/)** | **[Finance & Investor Relations Intern](https://jobright.ai/jobs/info/69f261d9ab4ec4779fff8c11?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Accounting Internship Summer 2027](https://jobright.ai/jobs/info/69bb87a83b74eb1e2c89f553?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | Apr 29 |
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern – Financial Analyst](https://jobright.ai/jobs/info/69f23bcdf154d768fbaa5e65?utm_campaign=1052&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Apr 29 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern – Financial Analyst](https://jobright.ai/jobs/info/69f23b7eab4ec4779fff7eef?utm_campaign=1052&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Apr 29 |
-| **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/699cf3bf81476f6176b57f4d?utm_campaign=1052&utm_source=git)** | Fort St John, British Columbia, Canada | On Site | Apr 29 |
-| ↳ | **[Intern, Assurance and Accounting (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/699cf30581476f6176b57e67?utm_campaign=1052&utm_source=git)** | Grande Prairie, Alberta, Canada | On Site | Apr 29 |
-| **[Buyers Edge Platform](https://www.buyersedgeplatform.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f234c0f154d768fbaa5d16?utm_campaign=1052&utm_source=git)** | Bannockburn, IL | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69f31723825a315d7ca41f85?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 30 |
+| **[Hemut (YC X25)](https://www.hemut.com/)** | **[Operations & Finance Intern](https://jobright.ai/jobs/info/69f311bb8d8d624381aa5148?utm_campaign=1052&utm_source=git)** | Fresno, CA | Hybrid | Apr 30 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f3115bab4ec4779fffe5eb?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
 | **[Maravai LifeSciences](http://www.maravai.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69f2f8f68feca91f14928f0c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
+| **[Jitto](getjitto.com)** | **[Financial Analyst Co-Op / Internship](https://jobright.ai/jobs/info/69f30becab4ec4779fffe5d5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
 | **[Highgate](https://www.highgate.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69f2dff08feca91f14928bbb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Accounting & Payroll Officer](https://jobright.ai/jobs/info/69f2d7db825a315d7ca40fcb?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 29 |
 | **[McAsphalt Industries Limited](https://mcasphalt.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f30083ab4ec4779fffddb1?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69bc731645e08b3dc1f92f0a?utm_campaign=1052&utm_source=git)** | Hauppauge, NY | On Site | Apr 29 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Corporate Finance MBA Intern](https://jobright.ai/jobs/info/69f23c2b825a315d7ca3b61f?utm_campaign=1052&utm_source=git)** | Fairhaven, MA | Hybrid | Apr 29 |
 | **[Noble House Hotels & Resorts](https://www.noblehousehotels.com/)** | **[PAID ACCOUNTING INTERN!](https://jobright.ai/jobs/info/69f23bb0f154d768fbaa5dc6?utm_campaign=1052&utm_source=git)** | Jekyll Island, GA | On Site | Apr 29 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/699cb2fee0bddb6acacbc2e9?utm_campaign=1052&utm_source=git)** | Del Rio, TX | On Site | Apr 29 |
-| **[Sara Lee Frozen Bakery](https://saraleefrozenbakery.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69f23326ab4ec4779fff7d50?utm_campaign=1052&utm_source=git)** | Oak Brook, IL | Hybrid | Apr 29 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Credit Transaction Management – New Graduate](https://jobright.ai/jobs/info/6981827b49964d25b5e47f74?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 29 |
-| **[Printpack](http://www.printpack.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f20dff8d8d624381a9efbd?utm_campaign=1052&utm_source=git)** | Villa Rica 1, GA, US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

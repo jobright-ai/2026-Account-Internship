@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highgate](https://www.highgate.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69f2dff08feca91f14928bbb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Accounting & Payroll Officer](https://jobright.ai/jobs/info/69f2d7db825a315d7ca40fcb?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 29 |
 | **[Magellan Aerospace Limited](http://magellan.aero/)** | **[Sales and Accounting Administrator (Intern)](https://jobright.ai/jobs/info/69f2ca3c8feca91f14927ee9?utm_campaign=1052&utm_source=git)** | West Babylon, NY | On Site | Apr 29 |
 | **[Collegiate Peaks Bank, Division of Glacier Bank](https://www.collegiatepeaksbank.com)** | **[Internship Credit Analyst](https://jobright.ai/jobs/info/69f2c4d08d8d624381aa3cac?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Apr 29 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Finance Intern / Support Center](https://jobright.ai/jobs/info/69a31fd4b600907a962971d0?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Apr 29 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 Tax Intern (New York)](https://jobright.ai/jobs/info/69f2af1cecbc8c2f7320be9f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Commercial FP&A Intern](https://jobright.ai/jobs/info/69f2a86d34c4af7a79ab458e?utm_campaign=1052&utm_source=git)** | Trumbull, CT | On Site | Apr 29 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a0?utm_campaign=1052&utm_source=git)** | Winter Haven, FL | On Site | Apr 29 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69f2a0d6f154d768fbaa8242?utm_campaign=1052&utm_source=git)** | United States - Remote | Remote | Apr 29 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/69f2a0d6f154d768fbaa823d?utm_campaign=1052&utm_source=git)** | Auburn, WA | On Site | Apr 29 |
 | **[Liberty Latin America](https://www.lla.com/)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69f29d888d8d624381aa1d7a?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 29 |

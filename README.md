@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maravai LifeSciences](http://www.maravai.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69f2f8f68feca91f14928f0c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
 | **[Highgate](https://www.highgate.com)** | **[Accounting and Finance Intern - Summer 2026](https://jobright.ai/jobs/info/69f2dff08feca91f14928bbb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Accounting & Payroll Officer](https://jobright.ai/jobs/info/69f2d7db825a315d7ca40fcb?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 29 |
 | **[Magellan Aerospace Limited](http://magellan.aero/)** | **[Sales and Accounting Administrator (Intern)](https://jobright.ai/jobs/info/69f2ca3c8feca91f14927ee9?utm_campaign=1052&utm_source=git)** | West Babylon, NY | On Site | Apr 29 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69f2c4b88feca91f14927e57?utm_campaign=1052&utm_source=git)** | Canton, MA | Hybrid | Apr 29 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69f2c4b234c4af7a79ab6139?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Guaranty Bank & Trust](https://www.gnty.com/)** | **[Banking Intern](https://jobright.ai/jobs/info/69f2c497ecbc8c2f7320d754?utm_campaign=1052&utm_source=git)** | Mount Pleasant, TX | On Site | Apr 29 |
-| **[Maravai LifeSciences](http://www.maravai.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69f2bffc825a315d7ca3f857?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/69f2bd8fab4ec4779fffbebb?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69f2b69334c4af7a79ab498a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[PM Hotel Group / Summer 2026 Finance Intern / Support Center](https://jobright.ai/jobs/info/69a31fd4b600907a962971d0?utm_campaign=1052&utm_source=git)** | Chevy Chase Village, MD | Hybrid | Apr 29 |

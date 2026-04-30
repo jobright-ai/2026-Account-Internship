@@ -57,17 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daybreak Game Company LLC](https://www.daybreakgames.com/home)** | **[Accountant Intern](https://jobright.ai/jobs/info/69bb59123b74eb1e2c89c76f?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69d6f3e9e63cea7a8b66d2da?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6df1852a5bf580012ca77?utm_campaign=1052&utm_source=git)** | Norfolk, VA | On Site | Apr 30 |
 | ↳ | **[Tax Intern, Partnerships - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba877d5697383741401830?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
 | ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69c8a0e91818a24cd84d5e69?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba8f0906c1ba00c54ca4c4?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 30 |
+| ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba902806c1ba00c54ca9fe?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f31e29343eef4fb0a9921d?utm_campaign=1052&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69f33a9458b23a2329da3406?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Remote | Apr 30 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69f318c88feca91f149298e7?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f318bd8feca91f149298b3?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | Apr 30 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69f31723825a315d7ca41f85?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 30 |
 | **[Hemut (YC X25)](https://www.hemut.com/)** | **[Operations & Finance Intern](https://jobright.ai/jobs/info/69f311bb8d8d624381aa5148?utm_campaign=1052&utm_source=git)** | Fresno, CA | Hybrid | Apr 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f3115bab4ec4779fffe5eb?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
 | ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/69f3308f6942c746fa6901fe?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Apr 30 |
+| **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Transaction Management Intern](https://jobright.ai/jobs/info/69f33cd21f90bd6ae23cdee2?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | Apr 30 |
 | **[Corpay](https://payments.corpay.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69f330e558b23a2329da32cd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Minnesota Department of Commerce](https://mn.gov/commerce)** | **[Student Worker Para Prof Sr; Actuarial Intern](https://jobright.ai/jobs/info/69f31e1e58b23a2329da2ff6?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Apr 29 |
 | **[Maravai LifeSciences](http://www.maravai.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69f2f8f68feca91f14928f0c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Buyers Edge Platform](https://www.buyersedgeplatform.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f234c0f154d768fbaa5d16?utm_campaign=1052&utm_source=git)** | Bannockburn, IL | Hybrid | Apr 29 |
 | **[Copart](http://www.copart.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/69f231c0ecbc8c2f73209218?utm_campaign=1052&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | Apr 29 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Assurance (GTA Offices) Winter 2027](https://jobright.ai/jobs/info/69f2304bf154d768fbaa5a50?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Apr 29 |
-| **[Jekyll Island Club Resort](https://www.jekyllclub.com/)** | **[PAID ACCOUNTING INTERN!](https://jobright.ai/jobs/info/69f22a33f154d768fbaa58d0?utm_campaign=1052&utm_source=git)** | Jekyll Island,GA,US | On Site | Apr 29 |
-| **[Heritage Auctions](https://www.ha.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f22a33f154d768fbaa58c9?utm_campaign=1052&utm_source=git)** | Dallas,TX,US | On Site | Apr 29 |
-| **[Sara Lee Frozen Bakery](https://saraleefrozenbakery.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69f22a1f8feca91f14923642?utm_campaign=1052&utm_source=git)** | Oak Brook, IL, US | Hybrid | Apr 29 |
-| **[State Fair of Texas®](http://www.bigtex.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69f229cbab4ec4779fff7960?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
-| **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69f224858feca91f14923493?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

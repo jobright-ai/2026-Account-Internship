@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACO Group](https://www.aco.com/)** | **[Finance Assistant Intern](https://jobright.ai/jobs/info/69f47f63a3d34b4f76f4f571?utm_campaign=1052&utm_source=git)** | Mentor, OH | On Site | May 01 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d833bcb67cec4f9b09b5aa?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | May 01 |
 | **[Univest](http://www.univest.net/)** | **[Commercial Banking Internship - Summer 2026](https://jobright.ai/jobs/info/69f46a0ba3d34b4f76f4f179?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | May 01 |
 | **[Liberty Latin America](https://www.lla.com/)** | **[Intern - FP&A](https://jobright.ai/jobs/info/69f449006942c746fa6973d8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 30 |
 | ↳ | **[Intern - M&A](https://jobright.ai/jobs/info/69f448f9c78b9e4518959d96?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 30 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern](https://jobright.ai/jobs/info/69a5a889359fe034b1d049b3?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | Apr 30 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/699fa6ea81476f6176b95fb9?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Apr 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d8b1c78b9e4518958059?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | Apr 30 |
-| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624441?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | Apr 30 |
 | ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d843343eef4fb0a9e56f?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, US | On Site | Apr 30 |
+| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624441?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | Apr 30 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69eaf3d216b2612c2a11827a?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f38583c78b9e451895508c?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Apr 30 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a32c359fe034b1d04504?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | Apr 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f3d81c461b9b613a6243cf?utm_campaign=1052&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT, US | On Site | Apr 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2028 - Southern MN](https://jobright.ai/jobs/info/69810488abff4c399a9fd2c8?utm_campaign=1052&utm_source=git)** | New Ulm, MN | On Site | Apr 30 |
 | **[MetLife](http://www.metlife.com)** | **[Intern - Mortgage Accounting and Reporting](https://jobright.ai/jobs/info/69f3a10fc78b9e451895667b?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 30 |
-| **[KLR](http://kahnlitwin.com)** | **[Tax & Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69f37b7f461b9b613a6207e7?utm_campaign=1052&utm_source=git)** | Boston, Boston, MA, US | On Site | Apr 30 |
-| ↳ | **[Tax & Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69f37b751f90bd6ae23cf5f5?utm_campaign=1052&utm_source=git)** | Newport, Middletown, RI, US | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

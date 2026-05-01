@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Fall 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809d5738f2f099e89a2b2?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
+| ↳ | **[Audit Intern - Summer 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809cf738f2f099e89a294?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f49af2a3d34b4f76f5093f?utm_campaign=1052&utm_source=git)** | Joplin, MO | On Site | May 01 |
+| **[Topel Forman LLC](http://topelforman.com)** | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/698269a50f6f7e7a2cdb9379?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 01 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Internal Audit Intern (Summer 2026)](https://jobright.ai/jobs/info/699faca681476f6176b965d8?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Metal Processing Group, an Affiliate of The Heico Companies](https://www.heicocompanies.com/metal-processing-group)** | **[Intern- Finance](https://jobright.ai/jobs/info/692e71214c474121999d987a?utm_campaign=1052&utm_source=git)** | Warrenville, IL | On Site | May 01 |
 | **[HDR](http://www.hdrinc.com)** | **[Mergers and Acquisitions Intern](https://jobright.ai/jobs/info/69d7fe08738f2f099e89990c?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | May 01 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/69bc8c5045e08b3dc1f94a55?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | May 01 |
 | **[ACO Group](https://www.aco.com/)** | **[Finance Assistant Intern](https://jobright.ai/jobs/info/69f47f63a3d34b4f76f4f571?utm_campaign=1052&utm_source=git)** | Mentor, OH | On Site | May 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d833bcb67cec4f9b09b5aa?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | May 01 |
+| **[Tennis Channel](http://www.tennischannel.com/)** | **[Summer 2026 Intern – Production Finance](https://jobright.ai/jobs/info/69d7fcf4f4ea471a51fe2cfa?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | On Site | May 01 |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/69d80a0ab67cec4f9b09a0a3?utm_campaign=1052&utm_source=git)** | Augusta, ME | Hybrid | May 01 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d81c738f2f099e898c49?utm_campaign=1052&utm_source=git)** | Santa Ana, CA | On Site | May 01 |
 | **[Univest](http://www.univest.net/)** | **[Commercial Banking Internship - Summer 2026](https://jobright.ai/jobs/info/69f46a0ba3d34b4f76f4f179?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | May 01 |
+| **[Carrier](https://www.corporate.carrier.com)** | **[Commodity Management & Sourcing Intern - Summer](https://jobright.ai/jobs/info/69f49b230b36ff035474df94?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | May 01 |
 | **[Liberty Latin America](https://www.lla.com/)** | **[Intern - FP&A](https://jobright.ai/jobs/info/69f449006942c746fa6973d8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 30 |
 | ↳ | **[Intern - M&A](https://jobright.ai/jobs/info/69f448f9c78b9e4518959d96?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 30 |
 | **[Fairview Health Services](http://www.fairview.org/)** | **[Intern - Behavioral Health](https://jobright.ai/jobs/info/69f425a2461b9b613a625cec?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Apr 30 |
@@ -115,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Keel](https://keelusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f3badd343eef4fb0a9ddf6?utm_campaign=1052&utm_source=git)** | Ladson, SC | On Site | Apr 30 |
 | **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69d7c5ef869c7e25d859058f?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Commodity Management & Sourcing Intern - Summer](https://jobright.ai/jobs/info/69f40906c78b9e45189592ed?utm_campaign=1052&utm_source=git)** | CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA, US | On Site | Apr 30 |
-| **[MBE CPAs](https://mbe.cpa)** | **[Audit Internship](https://jobright.ai/jobs/info/69f3d92b58b23a2329da8469?utm_campaign=1052&utm_source=git)** | Reedsburg, WI | On Site | Apr 30 |
-| ↳ | **[Audit Internship](https://jobright.ai/jobs/info/69f3da7c1f90bd6ae23d2274?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 30 |
+| **[MBE CPAs](https://mbe.cpa)** | **[Audit Internship](https://jobright.ai/jobs/info/69f3da7c1f90bd6ae23d2274?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Industry Specialized Services - Summer 2026 (Jackson, Nashville)](https://jobright.ai/jobs/info/69f3b32b343eef4fb0a9d344?utm_campaign=1052&utm_source=git)** | Jackson, TN | On Site | Apr 30 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/69f3d92e58b23a2329da8470?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Apr 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Industry Specialized Services - Summer 2026 (Jackson, Nashville)](https://jobright.ai/jobs/info/69f3b2da6942c746fa694371?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Apr 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern](https://jobright.ai/jobs/info/69a5a889359fe034b1d049b3?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | Apr 30 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/699fa6ea81476f6176b95fb9?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Apr 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d8b1c78b9e4518958059?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | Apr 30 |
-| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d843343eef4fb0a9e56f?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, US | On Site | Apr 30 |
-| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624441?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | Apr 30 |
-| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69eaf3d216b2612c2a11827a?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
-| **[Pansophic Learning](https://pansophiclearning.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f38583c78b9e451895508c?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Apr 30 |
-| **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a32c359fe034b1d04504?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | Apr 30 |
-| ↳ | **[Summer 2027 Assurance Intern](https://jobright.ai/jobs/info/69a5a7dab600907a962b5982?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Apr 30 |
-| ↳ | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a3c2b600907a962b561c?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

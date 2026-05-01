@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metal Processing Group, an Affiliate of The Heico Companies](https://www.heicocompanies.com/metal-processing-group)** | **[Intern- Finance](https://jobright.ai/jobs/info/692e71214c474121999d987a?utm_campaign=1052&utm_source=git)** | Warrenville, IL | On Site | May 01 |
+| **[HDR](http://www.hdrinc.com)** | **[Mergers and Acquisitions Intern](https://jobright.ai/jobs/info/69d7fe08738f2f099e89990c?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | May 01 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/69bc8c5045e08b3dc1f94a55?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | May 01 |
 | **[ACO Group](https://www.aco.com/)** | **[Finance Assistant Intern](https://jobright.ai/jobs/info/69f47f63a3d34b4f76f4f571?utm_campaign=1052&utm_source=git)** | Mentor, OH | On Site | May 01 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d833bcb67cec4f9b09b5aa?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | May 01 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d81c738f2f099e898c49?utm_campaign=1052&utm_source=git)** | Santa Ana, CA | On Site | May 01 |
 | **[Univest](http://www.univest.net/)** | **[Commercial Banking Internship - Summer 2026](https://jobright.ai/jobs/info/69f46a0ba3d34b4f76f4f179?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | May 01 |
 | **[Liberty Latin America](https://www.lla.com/)** | **[Intern - FP&A](https://jobright.ai/jobs/info/69f449006942c746fa6973d8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 30 |
 | ↳ | **[Intern - M&A](https://jobright.ai/jobs/info/69f448f9c78b9e4518959d96?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a32c359fe034b1d04504?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | Apr 30 |
 | ↳ | **[Summer 2027 Assurance Intern](https://jobright.ai/jobs/info/69a5a7dab600907a962b5982?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Apr 30 |
 | ↳ | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a3c2b600907a962b561c?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Apr 30 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ccb65fcdb525785fb819f4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 30 |
-| **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f3d81c461b9b613a6243cf?utm_campaign=1052&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT, US | On Site | Apr 30 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2028 - Southern MN](https://jobright.ai/jobs/info/69810488abff4c399a9fd2c8?utm_campaign=1052&utm_source=git)** | New Ulm, MN | On Site | Apr 30 |
-| **[MetLife](http://www.metlife.com)** | **[Intern - Mortgage Accounting and Reporting](https://jobright.ai/jobs/info/69f3a10fc78b9e451895667b?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

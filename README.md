@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f40715c78b9e45189591ee?utm_campaign=1052&utm_source=git)** | Westport, CT | On Site | Apr 30 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f4055d6942c746fa6966ec?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | Apr 30 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Intern - Zenith Finance Team](https://jobright.ai/jobs/info/69f404ec6942c746fa69662d?utm_campaign=1052&utm_source=git)** | Illinois, United States | On Site | Apr 30 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f404c91f90bd6ae23d3382?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | Apr 30 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f3d9676942c746fa69570b?utm_campaign=1052&utm_source=git)** | Westport, CT | On Site | Apr 30 |
 | **[Keel](https://keelusa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f3badd343eef4fb0a9ddf6?utm_campaign=1052&utm_source=git)** | Ladson, SC | On Site | Apr 30 |
 | **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69d7c5ef869c7e25d859058f?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 30 |
+| **[Carrier](https://www.corporate.carrier.com)** | **[Commodity Management & Sourcing Intern - Summer](https://jobright.ai/jobs/info/69f40906c78b9e45189592ed?utm_campaign=1052&utm_source=git)** | CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA, US | On Site | Apr 30 |
 | **[MBE CPAs](https://mbe.cpa)** | **[Audit Internship](https://jobright.ai/jobs/info/69f3d92b58b23a2329da8469?utm_campaign=1052&utm_source=git)** | Reedsburg, WI | On Site | Apr 30 |
 | ↳ | **[Audit Internship](https://jobright.ai/jobs/info/69f3da7c1f90bd6ae23d2274?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Apr 30 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern, Industry Specialized Services - Summer 2026 (Jackson, Nashville)](https://jobright.ai/jobs/info/69f3b32b343eef4fb0a9d344?utm_campaign=1052&utm_source=git)** | Jackson, TN | On Site | Apr 30 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/699fa6ea81476f6176b95fb9?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Apr 30 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Finance Internship, Summer 2026](https://jobright.ai/jobs/info/69f3d861461b9b613a62448f?utm_campaign=1052&utm_source=git)** | Lowell, AR - JB Hunt Corporate B & C, US | On Site | Apr 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d843343eef4fb0a9e56f?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, US | On Site | Apr 30 |
-| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d8b1c78b9e4518958059?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | Apr 30 |
 | ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624441?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | Apr 30 |
+| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d8b1c78b9e4518958059?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | Apr 30 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69eaf3d216b2612c2a11827a?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f38583c78b9e451895508c?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Apr 30 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a32c359fe034b1d04504?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | Apr 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax & Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69f37b68c78b9e4518954da3?utm_campaign=1052&utm_source=git)** | Providence, Providence, RI, US | On Site | Apr 30 |
 | ↳ | **[Tax & Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69f37b56343eef4fb0a9a8b0?utm_campaign=1052&utm_source=git)** | Andover , Andover, MA, US | On Site | Apr 30 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Tax Summer Intern](https://jobright.ai/jobs/info/69d7b701869c7e25d858ff45?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 30 |
-| ↳ | **[2027 Audit Summer Intern](https://jobright.ai/jobs/info/69eba79058811370cb13b8b8?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Apr 30 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Governance, budget, and sourcing Summer Intern](https://jobright.ai/jobs/info/6965be4d5ad3a93f82311f51?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern (Recent Grad) - Atlantic Region P&C (hybrid)](https://jobright.ai/jobs/info/69f53c0a0b36ff03547514dd?utm_campaign=1052&utm_source=git)** | South Burlington, VT | Hybrid | May 01 |
 | **[Citi](https://www.citi.com)** | **[Functions - Finance, Summer Analyst, Buffalo - US 2027](https://jobright.ai/jobs/info/69f539fb12f2811ab5a63e13?utm_campaign=1052&utm_source=git)** | Getzville, NY | On Site | May 01 |
 | ↳ | **[Functions - Finance, Summer Analyst, Tampa - US 2027](https://jobright.ai/jobs/info/69f535fda3d34b4f76f5451f?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 01 |
+| **[Ecclesiastical Insurance](https://ecclesiastical.ca/)** | **[Underwriting Associate, National Programs](https://jobright.ai/jobs/info/69f55f5912f2811ab5a64637?utm_campaign=1052&utm_source=git)** | Dartmouth, Nova Scotia, Canada | Hybrid | May 01 |
 | **[Constellation Insurance, Inc.](http://www.constellationinsurance.com )** | **[Tax Intern](https://jobright.ai/jobs/info/69f5524fdb88714bcdfb3453?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | May 01 |
 | **[CAE](http://www.cae.com)** | **[Finance/Accounting Internship-EN](https://jobright.ai/jobs/info/69f534ce12f2811ab5a63cf9?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 01 |
 | **[Doeren Mayhew](http://doeren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69f5302a0b36ff0354751058?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809cf738f2f099e89a294?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f49af2a3d34b4f76f5093f?utm_campaign=1052&utm_source=git)** | Joplin, MO | On Site | May 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Internal Audit Intern (Summer 2026)](https://jobright.ai/jobs/info/699faca681476f6176b965d8?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | May 01 |
-| **[April Housing](https://www.aprilhousing.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69a580a20da45516f16e2d8a?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

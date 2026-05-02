@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / Evansville](https://jobright.ai/jobs/info/69f597caa3d34b4f76f55a2e?utm_campaign=1052&utm_source=git)** | Evansville, IN | On Site | May 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f57cff81706a5bd2166931?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/69f5764b81706a5bd216679c?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | May 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f574f343a25828a8d18e2c?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | May 01 |
@@ -81,7 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Functions - Finance, Summer Analyst, Tampa - US 2027](https://jobright.ai/jobs/info/69f535fda3d34b4f76f5451f?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 01 |
 | **[Constellation Insurance, Inc.](http://www.constellationinsurance.com )** | **[Tax Intern](https://jobright.ai/jobs/info/69f5524fdb88714bcdfb3453?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | May 01 |
 | **[CAE](http://www.cae.com)** | **[Finance/Accounting Internship-EN](https://jobright.ai/jobs/info/69f534ce12f2811ab5a63cf9?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 01 |
-| **[Doeren Mayhew](http://doeren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69f5302a0b36ff0354751054?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 01 |
+| **[Doeren Mayhew](http://doeren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69f5302a0b36ff0354751058?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f52ff6a3d34b4f76f542ef?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States of America | Hybrid | May 01 |
 | **[Western States Equipment](https://westernstatescat.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f52fec81706a5bd216547b?utm_campaign=1052&utm_source=git)** | Meridian, Idaho, United States | On Site | May 01 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern (Recent Grad) - Atlantic Region P&C (hybrid)](https://jobright.ai/jobs/info/69f52fe981706a5bd2165467?utm_campaign=1052&utm_source=git)** | Wakefield, Massachusetts, United States | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern. Controller](https://jobright.ai/jobs/info/69bb20725697383741411f1d?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | ↳ | **[Intern, Portfolio Management](https://jobright.ai/jobs/info/69bb8eef3b74eb1e2c8a1682?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Finance & Acctg Intern](https://jobright.ai/jobs/info/6969d97c1703f05405abe6f5?utm_campaign=1052&utm_source=git)** | Simi Valley, CA | On Site | May 01 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Capital & Project Accounting](https://jobright.ai/jobs/info/69b643e456973837413b8802?utm_campaign=1052&utm_source=git)** | Austell, GA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

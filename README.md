@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Revenue Analyst Intern](https://jobright.ai/jobs/info/69bd6d834828227293ffa00d?utm_campaign=1052&utm_source=git)** | California, United States | Remote | May 02 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69bd6d92b106024562825013?utm_campaign=1052&utm_source=git)** | California, United States | Remote | May 02 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Summer Analyst, Corporate Venture Capital Fund Internship](https://jobright.ai/jobs/info/69d9c0365356a60f40fdc1b9?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 02 |
 | **[Bay FC](https://bayfc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f5d20b0b36ff0354752fb7?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 02 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f5ca1aa3d34b4f76f566f5?utm_campaign=1052&utm_source=git)** | Westerville, OH | Hybrid | May 01 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Summer 2027 / Evansville](https://jobright.ai/jobs/info/69f597caa3d34b4f76f55a2e?utm_campaign=1052&utm_source=git)** | Evansville, IN | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealthspire Retirement Intern - CA](https://jobright.ai/jobs/info/6983ca5801214b4cdacbcb41?utm_campaign=1052&utm_source=git)** | Aliso Viejo, CA | Hybrid | May 01 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Treasury Data and Governance, Intern](https://jobright.ai/jobs/info/69f157f4825a315d7ca377c9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
 | ↳ | **[Credit Risk, Intern](https://jobright.ai/jobs/info/69f18cad825a315d7ca38660?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
-| **[Rivero, Gordimer & Company, P.A.](http://www.rgcocpa.com)** | **[Audit Intern Fall 2027](https://jobright.ai/jobs/info/69f4ffbe43a25828a8d16125?utm_campaign=1052&utm_source=git)** | 201 North Franklin Street suite 2200, Tampa, FL, USA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

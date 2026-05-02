@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69f6406db1fc847fc1ae2acc?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | May 02 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69f6406ab1fc847fc1ae2acb?utm_campaign=1052&utm_source=git)** | Iowa City, IA | On Site | May 02 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69f6401981706a5bd216857c?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | May 02 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[P&L Controller – Intern](https://jobright.ai/jobs/info/69d9cad8f748bc5d08a4e169?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 02 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Accounting - USA - GA - Atlanta - Global Support Center - R26-03923](https://jobright.ai/jobs/info/69d988df5356a60f40fda3f1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Transaction Automation Intern - Summer 2027](https://jobright.ai/jobs/info/69f61c7fa3d34b4f76f57bfa?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | May 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nacogdoches Memorial Hospital](http://nacmem.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f515c181706a5bd2164b4e?utm_campaign=1052&utm_source=git)** | Nacogdoches, TX | On Site | May 01 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2026 Intern - Investment Banking](https://jobright.ai/jobs/info/69f4dc050b36ff035474f919?utm_campaign=1052&utm_source=git)** | Charlotte, NC, US | On Site | May 01 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Commodity Management & Sourcing Intern - Summer](https://jobright.ai/jobs/info/69f4fa8f0b36ff035474ff7b?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | On Site | May 01 |
-| **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69f51d5b12f2811ab5a62f5e?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 01 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69f51d5bdb88714bcdfb1ffa?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 01 |
-| **[Central Transport](http://www.centraltransport.com/)** | **[Collections Intern](https://jobright.ai/jobs/info/69f4d4090b36ff035474f23d?utm_campaign=1052&utm_source=git)** | Warren, MI | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

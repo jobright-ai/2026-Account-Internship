@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[P&L Controller – Intern](https://jobright.ai/jobs/info/69d9cad8f748bc5d08a4e169?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 02 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Accounting - USA - GA - Atlanta - Global Support Center - R26-03923](https://jobright.ai/jobs/info/69d988df5356a60f40fda3f1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Transaction Automation Intern - Summer 2027](https://jobright.ai/jobs/info/69f61c7fa3d34b4f76f57bfa?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | May 02 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Intern – Market Risk Analyst (Summer 2026)](https://jobright.ai/jobs/info/692e5b0fef4b48533d13f23c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 02 |
@@ -65,8 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Mission US](https://missionunderwriters.com/)** | **[Underwriting Intern (Fall)](https://jobright.ai/jobs/info/69f6154581706a5bd21682d3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f6137c582f810f9c8c840b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Tax](https://jobright.ai/jobs/info/69d6865bcfdc6132f946a5f2?utm_campaign=1052&utm_source=git)** | Fort Collins, CO | On Site | May 02 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/68f93c72a628d10664e8ac80?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 02 |
 | **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/69bdeb5bb106024562834c72?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 02 |
-| **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6967f667639b452fb57d8349?utm_campaign=1052&utm_source=git)** | Moncton, New Brunswick, Canada | Hybrid | May 02 |
+| **[CAA Club Group](http://www.caasco.com)** | **[Actuarial Intern (ECH-ON)](https://jobright.ai/jobs/info/69bdc8bb393a1008f7436459?utm_campaign=1052&utm_source=git)** | Vaughan, Ontario, Canada | On Site | May 02 |
 | **[Regional Municipality of Wood Buffalo](https://rmwb.ca)** | **[Billing Services Clerk](https://jobright.ai/jobs/info/69f60d9cb1fc847fc1ae2774?utm_campaign=1052&utm_source=git)** | Fort McMurray, Alberta, Canada | On Site | May 02 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Revenue Analyst Intern](https://jobright.ai/jobs/info/69bd6d834828227293ffa00d?utm_campaign=1052&utm_source=git)** | California, United States | Remote | May 02 |
 | ↳ | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69bd6d92b106024562825013?utm_campaign=1052&utm_source=git)** | California, United States | Remote | May 02 |
@@ -98,7 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Functions - Finance, Summer Analyst, Tampa - US 2027](https://jobright.ai/jobs/info/69f535fda3d34b4f76f5451f?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 01 |
 | **[Constellation Insurance, Inc.](http://www.constellationinsurance.com )** | **[Tax Intern](https://jobright.ai/jobs/info/69f5524fdb88714bcdfb3453?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | May 01 |
 | **[CAE](http://www.cae.com)** | **[Finance/Accounting Internship-EN](https://jobright.ai/jobs/info/69f534ce12f2811ab5a63cf9?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 01 |
-| **[Doeren Mayhew](http://doeren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69f5302a0b36ff0354751058?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 01 |
+| **[Doeren Mayhew](http://doeren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69f5302a0b36ff0354751054?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f52ff6a3d34b4f76f542ef?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States of America | Hybrid | May 01 |
 | **[Western States Equipment](https://westernstatescat.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f52fec81706a5bd216547b?utm_campaign=1052&utm_source=git)** | Meridian, Idaho, United States | On Site | May 01 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern (Recent Grad) - Atlantic Region P&C (hybrid)](https://jobright.ai/jobs/info/69f52fe981706a5bd2165467?utm_campaign=1052&utm_source=git)** | Wakefield, Massachusetts, United States | Hybrid | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69f51d5b12f2811ab5a62f5e?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 01 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69f51d5bdb88714bcdfb1ffa?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 01 |
 | **[Central Transport](http://www.centraltransport.com/)** | **[Collections Intern](https://jobright.ai/jobs/info/69f4d4090b36ff035474f23d?utm_campaign=1052&utm_source=git)** | Warren, MI | On Site | May 01 |
-| **[Ziegler](http://www.ziegler.com)** | **[2027 Investment Banking Summer Analyst-Healthcare](https://jobright.ai/jobs/info/69f4d3e6db88714bcdfb024a?utm_campaign=1052&utm_source=git)** | Bethesda, MD | On Site | May 01 |
-| **[NPK](https://npki.com)** | **[Undergraduate Intern - Internal Audit](https://jobright.ai/jobs/info/69f4d36743a25828a8d15101?utm_campaign=1052&utm_source=git)** | The Woodlands, TX | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

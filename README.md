@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Upbound Group](https://www.upbound.com)** | **[Business Operations intern](https://jobright.ai/jobs/info/69f56e610b36ff0354751de4?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | May 01 |
+| **[Sylvamo](https://www.sylvamo.com)** | **[Finance & Analytics Intern](https://jobright.ai/jobs/info/69f5699412f2811ab5a647fc?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | May 01 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69f555e881706a5bd2166001?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69f55367a3d34b4f76f54d04?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | May 01 |
 | **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Tax Intern](https://jobright.ai/jobs/info/69f55242db88714bcdfb3421?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, South Jordan, UT, US | On Site | May 01 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/69f51c5da3d34b4f76f53b6c?utm_campaign=1052&utm_source=git)** | Prince Albert, Saskatchewan, Canada | On Site | May 01 |
 | **[Heart Aerospace](https://heartaerospace.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69f4f48112f2811ab5a61fa5?utm_campaign=1052&utm_source=git)** | Torrance | On Site | May 01 |
 | **[DSB Rock Island](https://dsb-rockisland.com)** | **[Tax Intern](https://jobright.ai/jobs/info/694b0e4d4b53a1551f94be88?utm_campaign=1052&utm_source=git)** | Mendota Heights, MN | On Site | May 01 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Summer 2027 / Nashville](https://jobright.ai/jobs/info/69f4f0ffa3d34b4f76f52975?utm_campaign=1052&utm_source=git)** | Nashville, TN | Hybrid | May 01 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f510fc0b36ff0354750665?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | May 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Sales and Use Intern - Summer 2027](https://jobright.ai/jobs/info/69f4efcd43a25828a8d15c9d?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | May 01 |
 | **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[2027 Equity Research Summer Internship](https://jobright.ai/jobs/info/69f534690b36ff03547512eb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 01 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6983db450f6f7e7a2cddb067?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69f4f14aa3d34b4f76f5299b?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 01 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f4c9120b36ff035474edb3?utm_campaign=1052&utm_source=git)** | 200 W Old Wilson Bridge Road, Columbus, OH, 43085, US | Hybrid | May 01 |
-| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f4c8e7a3d34b4f76f51943?utm_campaign=1052&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 01 |
-| ↳ | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69f4c8e7a3d34b4f76f51942?utm_campaign=1052&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 01 |
+| **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69f4c8e7a3d34b4f76f51942?utm_campaign=1052&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 01 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69f4c8e7a3d34b4f76f51943?utm_campaign=1052&utm_source=git)** | LOUISVILLE, KY, US | On Site | May 01 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealthspire Retirement Intern - CA](https://jobright.ai/jobs/info/6983ca5801214b4cdacbcb41?utm_campaign=1052&utm_source=git)** | Aliso Viejo, CA | Hybrid | May 01 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Treasury Data and Governance, Intern](https://jobright.ai/jobs/info/69f157f4825a315d7ca377c9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
 | ↳ | **[Credit Risk, Intern](https://jobright.ai/jobs/info/69f18cad825a315d7ca38660?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Fall 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809d5738f2f099e89a2b2?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
 | ↳ | **[Audit Intern - Summer 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809cf738f2f099e89a294?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f49af2a3d34b4f76f5093f?utm_campaign=1052&utm_source=git)** | Joplin, MO | On Site | May 01 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Internal Audit Intern (Summer 2026)](https://jobright.ai/jobs/info/699faca681476f6176b965d8?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

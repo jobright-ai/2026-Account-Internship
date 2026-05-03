@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Los Angeles Summer 2027](https://jobright.ai/jobs/info/6983bed901214b4cdacbab14?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[GLC Advisors & Co., LLC](https://glca.com/)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69b14648d04c69566c736991?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 03 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69f722afa3d34b4f76f5a68d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 03 |
+| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69f722b0a3d34b4f76f5a692?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 03 |
 | **[United Integrated Services (USA) Corp.](https://www.uisusacorp.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/69e7fa6b7820c036924d963d?utm_campaign=1052&utm_source=git)** | Phoenix, Arizona | On Site | May 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Director/Associate Director Business Operations, Athletics](https://jobright.ai/jobs/info/69f6cdc481706a5bd216a817?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 02 |
 | **[Contemporary Amperex Technology USA Inc](http://www.catl.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b23c4ca8ac8e70ff66107f?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | May 02 |
@@ -121,7 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Functions - Finance, Summer Analyst, Tampa - US 2027](https://jobright.ai/jobs/info/69f535fda3d34b4f76f5451f?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 01 |
 | **[Constellation Insurance, Inc.](http://www.constellationinsurance.com )** | **[Tax Intern](https://jobright.ai/jobs/info/69f5524fdb88714bcdfb3453?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Remote | May 01 |
 | **[CAE](http://www.cae.com)** | **[Finance/Accounting Internship-EN](https://jobright.ai/jobs/info/69f534ce12f2811ab5a63cf9?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 01 |
-| **[Doeren Mayhew](http://doeren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69f5302a0b36ff0354751058?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 01 |
+| **[Doeren Mayhew](http://doeren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69f5302a0b36ff0354751054?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f52ff6a3d34b4f76f542ef?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States of America | Hybrid | May 01 |
 | **[Western States Equipment](https://westernstatescat.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f52fec81706a5bd216547b?utm_campaign=1052&utm_source=git)** | Meridian, Idaho, United States | On Site | May 01 |
 | **[Milliman](http://www.milliman.com)** | **[Summer 2026 Actuarial Intern (Recent Grad) - Atlantic Region P&C (hybrid)](https://jobright.ai/jobs/info/69f52fe981706a5bd2165467?utm_campaign=1052&utm_source=git)** | Wakefield, Massachusetts, United States | Hybrid | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Value Advisory](https://jobright.ai/jobs/info/69f501f0db88714bcdfb16a5?utm_campaign=1052&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | May 01 |
 | **[Bay FC](https://bayfc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f5009ca3d34b4f76f52ee9?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 01 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Financial Management Department Financial Management Intern](https://jobright.ai/jobs/info/69f5298ca3d34b4f76f53ed0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Sales and Use Intern - Summer 2027](https://jobright.ai/jobs/info/69f4ffcd0b36ff035475014e?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | May 01 |
-| **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern) - Corporate Finance - Turnaround & Restructuring](https://jobright.ai/jobs/info/69bb5b603b74eb1e2c89c907?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Financial Analyst Cost Accounting](https://jobright.ai/jobs/info/69f4fec881706a5bd21641d2?utm_campaign=1052&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

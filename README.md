@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Los Angeles Summer 2027](https://jobright.ai/jobs/info/6983bed901214b4cdacbab14?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[GLC Advisors & Co., LLC](https://glca.com/)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69b14648d04c69566c736991?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 03 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69f722afa3d34b4f76f5a68d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 03 |
-| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69f722b0a3d34b4f76f5a692?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 03 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69f722b0a3d34b4f76f5a692?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 03 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69f722afa3d34b4f76f5a68d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 03 |
 | **[United Integrated Services (USA) Corp.](https://www.uisusacorp.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/69e7fa6b7820c036924d963d?utm_campaign=1052&utm_source=git)** | Phoenix, Arizona | On Site | May 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Director/Associate Director Business Operations, Athletics](https://jobright.ai/jobs/info/69f6cdc481706a5bd216a817?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 02 |
 | **[Contemporary Amperex Technology USA Inc](http://www.catl.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69b23c4ca8ac8e70ff66107f?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | May 02 |

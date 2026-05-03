@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Stratos Private Wealth](http://www.stratosprivatewealth.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69f783a3582f810f9c8cc0af?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 03 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Dallas)](https://jobright.ai/jobs/info/69ebaf4e7820c036924f62e1?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ce038c366bb95ba5506bf2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Liquidity and Rate Metrics Intern (May – August 2026)](https://jobright.ai/jobs/info/69320968d0010831497be8d9?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d908a1b67cec4f9b09f9dc?utm_campaign=1052&utm_source=git)** | Chino, CA | On Site | May 01 |
 | **[CBRE](https://www.cbre.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f5066843a25828a8d1689f?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | Hybrid | May 01 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Accounting Shared Services Internship – Summer & Year Round Opportunities](https://jobright.ai/jobs/info/69f505bea3d34b4f76f53256?utm_campaign=1052&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | May 01 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Spring 2027 - Nashville, TN](https://jobright.ai/jobs/info/69c5ed6a1818a24cd84bc563?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

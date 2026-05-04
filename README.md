@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Reliant Group Management, LLC](https://reliantgroup.com)** | **[Part-Time Multifamily Acquisitions Intern – Summer 2026](https://jobright.ai/jobs/info/69f7cb3bdb88714bcdfb9800?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
-| **[Avolta Inc.](https://www.avoltacanada.com)** | **[Finance Student Intern (Co-op)](https://jobright.ai/jobs/info/69f7cbc3582f810f9c8cc3ab?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 03 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[General Accounting Intern Fall 2026](https://jobright.ai/jobs/info/69686949f25a38006696d5f5?utm_campaign=1052&utm_source=git)** | Columbus, MS | On Site | May 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69f21d428feca91f149232c9?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA | On Site | May 03 |
 | **[Acorns](https://www.acorns.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69be0d3a393a1008f743e4c2?utm_campaign=1052&utm_source=git)** | United States | Remote | May 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship - Accounting and Finance](https://jobright.ai/jobs/info/69f5070581706a5bd2164723?utm_campaign=1052&utm_source=git)** | Louisville, CO | On Site | May 01 |
 | **[STORE Capital](http://storecapital.com/)** | **[Intern- Summer Cycle 2026](https://jobright.ai/jobs/info/698f8ea76ea51a7610f1ed73?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | May 01 |
 | **[CAE](http://www.cae.com)** | **[Finance/Accounting Internship](https://jobright.ai/jobs/info/69f5066f43a25828a8d168b9?utm_campaign=1052&utm_source=git)** | Tampa, US | On Site | May 01 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d908a1b67cec4f9b09f9dc?utm_campaign=1052&utm_source=git)** | Chino, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

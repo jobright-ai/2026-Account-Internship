@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Osmundson Mfg. Co.](https://www.osmundson.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f8a2e081706a5bd216d5c5?utm_campaign=1052&utm_source=git)** | Perry,IA,US | On Site | May 04 |
 | **[Ultimate 3D Printing Store](https://ultimate3dprintingstore.com)** | **[Summer 2026 / Accounting Internship / Ultimate 3D Printing Store — Tampa Bay](https://jobright.ai/jobs/info/69f8901581706a5bd216d4a0?utm_campaign=1052&utm_source=git)** | Florida, United States | Hybrid | May 04 |
 | **[Cresa](http://cresa.com)** | **[Transaction Management Intern](https://jobright.ai/jobs/info/69f88edf582f810f9c8cd50e?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 04 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Power Accounting Services](https://jobright.ai/jobs/info/69f86b8bdb88714bcdfba7c3?utm_campaign=1052&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69f83e05b1fc847fc1ae765f?utm_campaign=1052&utm_source=git)** | Richmond Hill, ON, CA | Hybrid | May 03 |
-| **[BMO](http://www.bmo.com)** | **[Finance Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834d2b1fc847fc1ae7628?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
+| **[BMO](http://www.bmo.com)** | **[Finance Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834d2b1fc847fc1ae7627?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | ↳ | **[Financial Governance and Controls Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834cca3d34b4f76f5cbb2?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | ↳ | **[Analyst, Capital Markets Treasury, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834cba3d34b4f76f5cbb1?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Internal Controls - Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8249eb1fc847fc1ae733d?utm_campaign=1052&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Tax Intern](https://jobright.ai/jobs/info/69f58d1581706a5bd2166ae1?utm_campaign=1052&utm_source=git)** | South Jordan, UT | On Site | May 01 |
 | **[Sylvamo](https://www.sylvamo.com)** | **[Finance & Analytics Intern](https://jobright.ai/jobs/info/69f5699412f2811ab5a647fc?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | May 01 |
 | **[Community Unit School District 300](http://D300.org)** | **[Accounts Payable Specialist](https://jobright.ai/jobs/info/69f57cf581706a5bd2166906?utm_campaign=1052&utm_source=git)** | Algonquin, IL | On Site | May 01 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69f555e881706a5bd2166001?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69f55367a3d34b4f76f54d04?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | May 01 |
 | **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Tax Intern](https://jobright.ai/jobs/info/69f55242db88714bcdfb3421?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, South Jordan, UT, US | On Site | May 01 |
 | **[University Partners](http://www.universitypartners.com)** | **[Analyst, Investments & Asset Management Intern - Summer 2027](https://jobright.ai/jobs/info/69f54417a3d34b4f76f548e7?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | May 01 |

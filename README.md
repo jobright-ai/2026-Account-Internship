@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sartorius](http://sartorius.com)** | **[Finance & Controlling (part time) Intern - Bohemia, NY](https://jobright.ai/jobs/info/69f8e5ad81706a5bd216e9f5?utm_campaign=1052&utm_source=git)** | Bohemia, NY, United States of America | On Site | May 04 |
+| **[AuguStar Life](www.augustarfinancial.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f8f266b1fc847fc1ae9b3e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, 45242, United States | Remote | May 04 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Research Intern](https://jobright.ai/jobs/info/69f8f1f481706a5bd216f328?utm_campaign=1052&utm_source=git)** | McLean, Virginia, United States | Hybrid | May 04 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69f8f1efa3d34b4f76f5ee1b?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 04 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69f8f1dd0b36ff035475bdd7?utm_campaign=1052&utm_source=git)** | Windsor, Connecticut, United States | Hybrid | May 04 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69f8f1dc582f810f9c8cf1b1?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 04 |
+| **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/69f8f08fa3d34b4f76f5ec03?utm_campaign=1052&utm_source=git)** | Greater Milwaukee | Hybrid | May 04 |
+| **[GFT](https://www.gftinc.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69f8ec31a3d34b4f76f5ea0e?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | May 04 |
+| ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/69f8ec27b1fc847fc1ae9614?utm_campaign=1052&utm_source=git)** | Mechanicsburg, PA, US | On Site | May 04 |
 | **[Northland Securities, Inc.](https://www.northlandsecurities.com)** | **[Northland Securities - Equity Research Intern](https://jobright.ai/jobs/info/69f8de77db88714bcdfbbc18?utm_campaign=1052&utm_source=git)** | Minneapolis, MN - Northland Securities Office, US | On Site | May 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Financial Analyst - Intern](https://jobright.ai/jobs/info/69f8de4e81706a5bd216e7aa?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, USA, US | On Site | May 04 |
 | **[BCS Financial Corporation](https://bcsf.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69f8ddf4db88714bcdfbbba6?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | May 04 |
@@ -71,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Voya Financial](https://www.voya.com/)** | **[Finance Technology Strategy Intern](https://jobright.ai/jobs/info/69f8c22ba3d34b4f76f5dc08?utm_campaign=1052&utm_source=git)** | United States-Remote, US | Remote | May 04 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69f8bd3ba3d34b4f76f5dab1?utm_campaign=1052&utm_source=git)** | US-PA-Mechanicsburg | On Site | May 04 |
 | ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/69f8bd33582f810f9c8ce090?utm_campaign=1052&utm_source=git)** | US-GA-Atlanta | On Site | May 04 |
-| **[DecisionPoint Corporation](https://decisionpointcorp.com/)** | **[Accounting/Contracts Analyst Intern](https://jobright.ai/jobs/info/69f8bcfeb1fc847fc1ae8744?utm_campaign=1052&utm_source=git)** | US-VA-Reston | Hybrid | May 04 |
-| ↳ | **[Accounting/Contracts Analyst Intern](https://jobright.ai/jobs/info/69f8bcfe0b36ff035475a9ec?utm_campaign=1052&utm_source=git)** | Reston, VA, US | Hybrid | May 04 |
+| **[DecisionPoint Corporation](https://decisionpointcorp.com/)** | **[Accounting/Contracts Analyst Intern](https://jobright.ai/jobs/info/69f8bcfe0b36ff035475a9ec?utm_campaign=1052&utm_source=git)** | Reston, VA, US | Hybrid | May 04 |
+| ↳ | **[Accounting/Contracts Analyst Intern](https://jobright.ai/jobs/info/69f8bcfeb1fc847fc1ae8744?utm_campaign=1052&utm_source=git)** | US-VA-Reston | Hybrid | May 04 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69f8bcea0b36ff035475a9db?utm_campaign=1052&utm_source=git)** | Mechanicsburg, PA, US | On Site | May 04 |
 | ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/69f8bce681706a5bd216e0a1?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | May 04 |
 | **[Lunch Pail Ventures](https://www.lunchpailventures.com)** | **[Investment Analyst Extern (Summer 2026) Lunch Pail Ventures](https://jobright.ai/jobs/info/69f8b9db0b36ff035475a975?utm_campaign=1052&utm_source=git)** | United States | Remote | May 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f5ca1aa3d34b4f76f566f5?utm_campaign=1052&utm_source=git)** | Westerville, OH | Hybrid | May 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f57cff81706a5bd2166931?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/69f5764b81706a5bd216679c?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | May 01 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f574f343a25828a8d18e2c?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | May 01 |
-| **[Upbound Group](https://www.upbound.com)** | **[Business Operations intern](https://jobright.ai/jobs/info/69f56e610b36ff0354751de4?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | May 01 |
-| **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Tax Intern](https://jobright.ai/jobs/info/69f58d1581706a5bd2166ae1?utm_campaign=1052&utm_source=git)** | South Jordan, UT | On Site | May 01 |
-| **[Sylvamo](https://www.sylvamo.com)** | **[Finance & Analytics Intern](https://jobright.ai/jobs/info/69f5699412f2811ab5a647fc?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | May 01 |
-| **[Community Unit School District 300](http://D300.org)** | **[Accounts Payable Specialist](https://jobright.ai/jobs/info/69f57cf581706a5bd2166906?utm_campaign=1052&utm_source=git)** | Algonquin, IL | On Site | May 01 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69f55367a3d34b4f76f54d04?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | May 01 |
-| **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Tax Intern](https://jobright.ai/jobs/info/69f55242db88714bcdfb3421?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, South Jordan, UT, US | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Power Accounting Services](https://jobright.ai/jobs/info/69f86b8bdb88714bcdfba7c3?utm_campaign=1052&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69f83e05b1fc847fc1ae765f?utm_campaign=1052&utm_source=git)** | Richmond Hill, ON, CA | Hybrid | May 03 |
-| **[BMO](http://www.bmo.com)** | **[Finance Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834d2b1fc847fc1ae7628?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
+| **[BMO](http://www.bmo.com)** | **[Finance Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834d2b1fc847fc1ae7627?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | ↳ | **[Financial Governance and Controls Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834cca3d34b4f76f5cbb2?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | ↳ | **[Analyst, Capital Markets Treasury, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834cba3d34b4f76f5cbb1?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Internal Controls - Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8249eb1fc847fc1ae733d?utm_campaign=1052&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Acorns](https://www.acorns.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69be0d3a393a1008f743e4c2?utm_campaign=1052&utm_source=git)** | United States | Remote | May 03 |
 | **[Stratos Private Wealth](http://www.stratosprivatewealth.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69f783a3582f810f9c8cc0af?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 03 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[State and Local Tax, Telecom Intern - Fall 2026 - Atlanta, GA](https://jobright.ai/jobs/info/69bda575393a1008f742ff45?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 03 |
+| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2027 Full-time Internship](https://jobright.ai/jobs/info/68a49723541cc3479840c798?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | May 03 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/68f94822cadb2e5a06a63656?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance (Dallas)](https://jobright.ai/jobs/info/69ebaf4e7820c036924f62e1?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ce038c366bb95ba5506bf2?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Value Advisory](https://jobright.ai/jobs/info/69f52b6a43a25828a8d178b3?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Hybrid | May 01 |
 | **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Accounting Intern](https://jobright.ai/jobs/info/69f52afe12f2811ab5a63959?utm_campaign=1052&utm_source=git)** | Waukee, IA | On Site | May 01 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Treasurer's Office - Summer Intern](https://jobright.ai/jobs/info/69f52aae12f2811ab5a638e1?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | May 01 |
-| **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Accounting Intern](https://jobright.ai/jobs/info/69f52a55a3d34b4f76f540ca?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | May 01 |
-| **[SBP](https://sbpusa.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f52a3481706a5bd2165313?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

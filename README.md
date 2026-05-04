@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koley Jessen P.C., L.L.O.](http://koleyjessen.com)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69f901370b36ff035475c7c3?utm_campaign=1052&utm_source=git)** | Omaha, Nebraska, United States | On Site | May 04 |
+| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Investment Intern:  on-site, part-time - fall](https://jobright.ai/jobs/info/69f8f9790b36ff035475c5d7?utm_campaign=1052&utm_source=git)** | Children's Healthcare of Atlanta Support Center, US | On Site | May 04 |
+| **[Capital Bank, N.A.](http://www.capitalbankmd.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f8f84f81706a5bd216fa15?utm_campaign=1052&utm_source=git)** | Rockville, Maryland, United States | On Site | May 04 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[National Distribution Financial Strategy Intern- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8f7700b36ff035475c3d3?utm_campaign=1052&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[AuguStar Life](www.augustarfinancial.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f8f266b1fc847fc1ae9b3e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, 45242, United States | Remote | May 04 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Research Intern](https://jobright.ai/jobs/info/69f8f1f481706a5bd216f328?utm_campaign=1052&utm_source=git)** | McLean, Virginia, United States | Hybrid | May 04 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69f8f1efa3d34b4f76f5ee1b?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 04 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69f8f1dd0b36ff035475bdd7?utm_campaign=1052&utm_source=git)** | Windsor, Connecticut, United States | Hybrid | May 04 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69f8f1dc582f810f9c8cf1b1?utm_campaign=1052&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 04 |
 | **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/69f8f08fa3d34b4f76f5ec03?utm_campaign=1052&utm_source=git)** | Greater Milwaukee | Hybrid | May 04 |
 | **[GFT](https://www.gftinc.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69f8ec31a3d34b4f76f5ea0e?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | May 04 |
 | ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/69f8ec27b1fc847fc1ae9614?utm_campaign=1052&utm_source=git)** | Mechanicsburg, PA, US | On Site | May 04 |
@@ -71,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Finance](https://jobright.ai/jobs/info/69f8dd1fb1fc847fc1ae8c35?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 04 |
 | **[Ascent Aviation Services](http://ascentmro.com)** | **[Finance Intern (RFP & Automation)](https://jobright.ai/jobs/info/69f8dd1e81706a5bd216e6a4?utm_campaign=1052&utm_source=git)** | Marana, AZ, US | Hybrid | May 04 |
 | **[Knoxville TVA Employees Credit Union](https://www.tvacreditunion.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f8dced0b36ff035475af67?utm_campaign=1052&utm_source=git)** | Knoxville, Tennessee, United States | On Site | May 04 |
+| **[Volkswagen Group Canada Inc.](https://vwgoa.taleo.net/careersection/volkswagen_canada/jobsearch.ftl)** | **[Commercial Credit & Risk Intern](https://jobright.ai/jobs/info/69dca991b67cec4f9b0b2d36?utm_campaign=1052&utm_source=git)** | Pickering, ON | Hybrid | May 04 |
+| **[SAP Taulia](https://taulia.com/)** | **[Tax & Accounting Intern](https://jobright.ai/jobs/info/69ec26ee7820c036924f97ae?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Private Placement Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c8e2582f810f9c8ce2e2?utm_campaign=1052&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Accounting Summer Intern](https://jobright.ai/jobs/info/69f8c8ce582f810f9c8ce2a2?utm_campaign=1052&utm_source=git)** | USA - Coral Gables FL 33134, US | Remote | May 04 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Intern (2027)](https://jobright.ai/jobs/info/69f8c271582f810f9c8ce213?utm_campaign=1052&utm_source=git)** | Alexandria, VA | Hybrid | May 04 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Estate Tax](https://jobright.ai/jobs/info/69f653720b36ff0354754e53?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Policy & Procedures](https://jobright.ai/jobs/info/69f65235a3d34b4f76f58341?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 02 |
 | ↳ | **[Summer Graduate Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/69f65233a3d34b4f76f5832e?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 02 |
-| ↳ | **[Summer Graduate Intern - Child Support - Springfield Location](https://jobright.ai/jobs/info/69f65225db88714bcdfb60ec?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Springfield- 1 Federal Street | On Site | May 02 |
 | ↳ | **[Summer Intern - Cloud Financial Operations (FinOps)](https://jobright.ai/jobs/info/69f65225db88714bcdfb60ed?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
+| ↳ | **[Summer Graduate Intern - Child Support - Springfield Location](https://jobright.ai/jobs/info/69f65225db88714bcdfb60ec?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Springfield- 1 Federal Street | On Site | May 02 |
 | **[First Hope Bank](http://firsthope.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f6511da3d34b4f76f58040?utm_campaign=1052&utm_source=git)** | Blairstown, NJ 07832, USA | On Site | May 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69f64731db88714bcdfb5d0f?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | May 02 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69f6406db1fc847fc1ae2acc?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Summer Analyst, Corporate Venture Capital Fund Internship](https://jobright.ai/jobs/info/69d9c0365356a60f40fdc1b9?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 02 |
 | **[Bay FC](https://bayfc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f5d20b0b36ff0354752fb7?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 02 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f5ca1aa3d34b4f76f566f5?utm_campaign=1052&utm_source=git)** | Westerville, OH | Hybrid | May 01 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Global Derivatives Business Strategy Research Intern](https://jobright.ai/jobs/info/69f57cff81706a5bd2166931?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 01 |
-| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Commercial Finance Intern](https://jobright.ai/jobs/info/69f5764b81706a5bd216679c?utm_campaign=1052&utm_source=git)** | Georgia, United States | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

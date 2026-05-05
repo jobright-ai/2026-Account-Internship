@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Finance Transformation, Fall 2026 - Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f9b89a81706a5bd217210e?utm_campaign=1052&utm_source=git)** | Vancouver, CA | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Development Accounting, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96ff5b1fc847fc1aec2fa?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fefb1fc847fc1aec2f6?utm_campaign=1052&utm_source=git)** | Vancouver, CA | On Site | May 04 |
-| ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef86?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Investments, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef87?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
+| ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef86?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Residential Property Accounting, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe50b36ff035475e7c5?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Finance Co-Op/Intern - Fixed Assets](https://jobright.ai/jobs/info/69f96e97b1fc847fc1aec2db?utm_campaign=1052&utm_source=git)** | Memphis, TN, USA | On Site | May 04 |
 | **[HF Sinclair](http://www.hfsinclair.com)** | **[Intern, Internal Audit (Fall 2026)](https://jobright.ai/jobs/info/69f96e8ddb88714bcdfbef5b?utm_campaign=1052&utm_source=git)** | Dallas, Texas | On Site | May 04 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Aurora Organic Dairy](http://www.auroraorganic.com/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69f91b1a81706a5bd21708a7?utm_campaign=1052&utm_source=git)** | Boulder, CO, US | On Site | May 04 |
 | **[Performance Food Group](http://www.pfgc.com)** | **[Intern](https://jobright.ai/jobs/info/69f9147c0b36ff035475cfbe?utm_campaign=1052&utm_source=git)** | La Crosse, Wisconsin (WI) | On Site | May 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69f9142aa3d34b4f76f5ff66?utm_campaign=1052&utm_source=git)** | 1500 Saint James Street | On Site | May 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69f91428582f810f9c8d0289?utm_campaign=1052&utm_source=git)** | Wisconsin | On Site | May 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69f91428b1fc847fc1aea977?utm_campaign=1052&utm_source=git)** | Performance Foodservice La Crosse (0558) | On Site | May 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69f91428582f810f9c8d0289?utm_campaign=1052&utm_source=git)** | Wisconsin | On Site | May 04 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[International Climate Finance Intern (Fordham IPED Students Only)](https://jobright.ai/jobs/info/69f912cc0b36ff035475cef5?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 04 |
 | ↳ | **[International Climate Finance Intern (Fordham IPED Students Only)](https://jobright.ai/jobs/info/69f91297582f810f9c8d01d1?utm_campaign=1052&utm_source=git)** | New York, NY, US | Hybrid | May 04 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f90c6e582f810f9c8cfd95?utm_campaign=1052&utm_source=git)** | Lakewood, CA, US | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Integrated Services (USA) Corp.](https://www.uisusacorp.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/69e7fa6b7820c036924d963d?utm_campaign=1052&utm_source=git)** | Phoenix, Arizona | On Site | May 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Director/Associate Director Business Operations, Athletics](https://jobright.ai/jobs/info/69f6cdc481706a5bd216a817?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Internal Audit](https://jobright.ai/jobs/info/69f65774582f810f9c8c8b88?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Spring 2027 - Atlanta, GA](https://jobright.ai/jobs/info/69acf7a17e1fab39d3846cbc?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

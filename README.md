@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Financial Systems Analyst](https://jobright.ai/jobs/info/69fac3e5d21cf86d1e3cccf7?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 05 |
 | **[Finning](http://www.finning.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69fac36b38179b6f1ae7243f?utm_campaign=1052&utm_source=git)** | Edmonton, AB, CA | Hybrid | May 05 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69fac32918b94b2515bdc499?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA | Hybrid | May 05 |
+| **[SevenTrain Ventures](https://seventrainventures.com/)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69fad40e86d5cd46527d010e?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Hybrid | May 05 |
 | **[JM Eagle](http://jmeagle.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa96a70b36ff03547630c7?utm_campaign=1052&utm_source=git)** | LOS ANGELES, CA 90045 | On Site | May 05 |
 | **[Plastpro,Inc](https://www.plastproinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa968f582f810f9c8d68f0?utm_campaign=1052&utm_source=git)** | LOS ANGELES, CA 90045 | On Site | May 05 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Accounting/Finance, Part-Time (Summer 2026)](https://jobright.ai/jobs/info/69e7d36a3aa0c4796439c045?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | May 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f403db88714bcdfc040c?utm_campaign=1052&utm_source=git)** | US-NJ-Camden | On Site | May 05 |
 | ↳ | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f3fea3d34b4f76f62ded?utm_campaign=1052&utm_source=git)** | Camden, NJ, US | On Site | May 05 |
 | ↳ | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f3eb81706a5bd2172dd5?utm_campaign=1052&utm_source=git)** | MMA Corp Hourly - NJ | On Site | May 05 |
-| **[Octave](https://www.octave.com/)** | **[Project Accounting - Business Analyst Intern](https://jobright.ai/jobs/info/69dd364a61f6ed54321fbada?utm_campaign=1052&utm_source=git)** | Madison, WI | Remote | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

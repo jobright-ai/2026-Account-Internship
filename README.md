@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novelty Hill Capital](https://noveltyhill.com)** | **[Investment Banking Analyst (Internship for Summer 2027)](https://jobright.ai/jobs/info/69fa800fb1fc847fc1af0808?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | May 05 |
+| **[Hanger, Inc.](https://corporate.hanger.com/)** | **[Intern](https://jobright.ai/jobs/info/69fa7fcddb88714bcdfc32ef?utm_campaign=1052&utm_source=git)** | US-TX-Austin | On Site | May 05 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69fa7f97db88714bcdfc32a2?utm_campaign=1052&utm_source=git)** | US-WV-Huntington | On Site | May 05 |
+| ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/69fa7f54b1fc847fc1af07eb?utm_campaign=1052&utm_source=git)** | Huntington, WV, US | On Site | May 05 |
+| **[Hanger, Inc.](https://corporate.hanger.com/)** | **[Intern](https://jobright.ai/jobs/info/69fa7f24a3d34b4f76f65dad?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | May 05 |
+| **[Nexthink](http://www.nexthink.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69fa7b6edb88714bcdfc327b?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | May 05 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Assurance Fall Intern](https://jobright.ai/jobs/info/69fa70520b36ff0354762863?utm_campaign=1052&utm_source=git)** | Baton Rouge, US | On Site | May 05 |
 | ↳ | **[2026 Assurance Fall Intern](https://jobright.ai/jobs/info/69fa7049b1fc847fc1af03ac?utm_campaign=1052&utm_source=git)** | New Orleans, US | On Site | May 05 |
 | **[LG Electronics](http://www.lg.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69c4686933eecf310794bac7?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 05 |
@@ -144,17 +150,11 @@ For a complete list, click the following sortable link below:
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Payment Operations Analyst](https://jobright.ai/jobs/info/69efa86c0a6e095553056324?utm_campaign=1052&utm_source=git)** | United States | Remote | May 05 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Anchorage)](https://jobright.ai/jobs/info/69dd268cbc6f6622c9910ab1?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Finance Transformation, Fall 2026 - Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f9b89a81706a5bd217210e?utm_campaign=1052&utm_source=git)** | Vancouver, CA | On Site | May 05 |
+| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Asset Management Analyst](https://jobright.ai/jobs/info/69fa7bc2b1fc847fc1af0796?utm_campaign=1052&utm_source=git)** | Bozeman, MT | On Site | May 04 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Development Accounting, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96ff5b1fc847fc1aec2fa?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fefb1fc847fc1aec2f6?utm_campaign=1052&utm_source=git)** | Vancouver, CA | On Site | May 04 |
-| ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef86?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Investments, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef87?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
+| ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef86?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Residential Property Accounting, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe50b36ff035475e7c5?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Finance Co-Op/Intern - Fixed Assets](https://jobright.ai/jobs/info/69f96e97b1fc847fc1aec2db?utm_campaign=1052&utm_source=git)** | Memphis, TN, USA | On Site | May 04 |
-| **[HF Sinclair](http://www.hfsinclair.com)** | **[Intern, Internal Audit (Fall 2026)](https://jobright.ai/jobs/info/69f96e8ddb88714bcdfbef5b?utm_campaign=1052&utm_source=git)** | Dallas, Texas | On Site | May 04 |
-| **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN, RISK MANAGEMENT](https://jobright.ai/jobs/info/69f968c20b36ff035475e729?utm_campaign=1052&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 04 |
-| **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69aa945c34184204e4491c4b?utm_campaign=1052&utm_source=git)** | Culver City, CA | On Site | May 04 |
-| **[Faurecia](https://www.forvia.com)** | **[Year Round Finance Intern](https://jobright.ai/jobs/info/69f51c53a3d34b4f76f53b46?utm_campaign=1052&utm_source=git)** | Madison, WI | On Site | May 04 |
-| **[Atlas Healthcare Partners](https://www.atlashp.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69f94d8ca3d34b4f76f60fb7?utm_campaign=1052&utm_source=git)** | 2355 E Camelback Rd, Phoenix, AZ 85016, USA | On Site | May 04 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Real Estate Investment Analyst Intern](https://jobright.ai/jobs/info/69f94d7cdb88714bcdfbe7f4?utm_campaign=1052&utm_source=git)** | Miami, Florida, United States | On Site | May 04 |
-| ↳ | **[Real Estate Investment Analyst Intern](https://jobright.ai/jobs/info/69f94b42db88714bcdfbe7a8?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

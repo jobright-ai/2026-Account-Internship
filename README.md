@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f403db88714bcdfc040c?utm_campaign=1052&utm_source=git)** | US-NJ-Camden | On Site | May 05 |
 | ↳ | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f3fea3d34b4f76f62ded?utm_campaign=1052&utm_source=git)** | Camden, NJ, US | On Site | May 05 |
 | ↳ | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f3eb81706a5bd2172dd5?utm_campaign=1052&utm_source=git)** | MMA Corp Hourly - NJ | On Site | May 05 |
-| **[Octave](https://www.octave.com/)** | **[Project Accounting - Business Analyst Intern](https://jobright.ai/jobs/info/69dd364a61f6ed54321fbada?utm_campaign=1052&utm_source=git)** | Madison, WI | Remote | May 05 |
+| **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c317e25adaee6c9bda6e55?utm_campaign=1052&utm_source=git)** | Haleyville, AL | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

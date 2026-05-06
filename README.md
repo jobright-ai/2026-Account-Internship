@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JM Eagle](http://jmeagle.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa96a70b36ff03547630c7?utm_campaign=1052&utm_source=git)** | LOS ANGELES, CA 90045 | On Site | May 05 |
+| **[Plastpro,Inc](https://www.plastproinc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa968f582f810f9c8d68f0?utm_campaign=1052&utm_source=git)** | LOS ANGELES, CA 90045 | On Site | May 05 |
+| **[Hanger, Inc.](https://corporate.hanger.com/)** | **[Intern](https://jobright.ai/jobs/info/69fa8e26db88714bcdfc375d?utm_campaign=1052&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 05 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa841bdb88714bcdfc335c?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 05 |
 | **[Hanger, Inc.](https://corporate.hanger.com/)** | **[Intern](https://jobright.ai/jobs/info/69fa7fcddb88714bcdfc32ef?utm_campaign=1052&utm_source=git)** | US-TX-Austin | On Site | May 05 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69fa7f97db88714bcdfc32a2?utm_campaign=1052&utm_source=git)** | US-WV-Huntington | On Site | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Finance Transformation, Fall 2026 - Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f9b89a81706a5bd217210e?utm_campaign=1052&utm_source=git)** | Vancouver, CA | On Site | May 05 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Asset Management Analyst](https://jobright.ai/jobs/info/69fa7bc2b1fc847fc1af0796?utm_campaign=1052&utm_source=git)** | Bozeman, MT | On Site | May 04 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Development Accounting, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96ff5b1fc847fc1aec2fa?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
-| ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fefb1fc847fc1aec2f6?utm_campaign=1052&utm_source=git)** | Vancouver, CA | On Site | May 04 |
-| ↳ | **[Investments, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef87?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
-| ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef86?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

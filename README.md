@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Novelty Hill Capital](https://noveltyhill.com)** | **[Investment Banking Analyst (Internship for Summer 2027)](https://jobright.ai/jobs/info/69fa800fb1fc847fc1af0808?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | May 05 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa841bdb88714bcdfc335c?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 05 |
 | **[Hanger, Inc.](https://corporate.hanger.com/)** | **[Intern](https://jobright.ai/jobs/info/69fa7fcddb88714bcdfc32ef?utm_campaign=1052&utm_source=git)** | US-TX-Austin | On Site | May 05 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69fa7f97db88714bcdfc32a2?utm_campaign=1052&utm_source=git)** | US-WV-Huntington | On Site | May 05 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/69fa7f54b1fc847fc1af07eb?utm_campaign=1052&utm_source=git)** | Huntington, WV, US | On Site | May 05 |
@@ -98,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[OC Sports & Entertainment](https://www.ocvibe.com/)** | **[Finance Intern, ADHC](https://jobright.ai/jobs/info/69fa2f3081706a5bd2174489?utm_campaign=1052&utm_source=git)** | Anaheim, US | On Site | May 05 |
 | **[Housing Opportunities Commission](https://www.hocmc.org/)** | **[Intern Property Management Division](https://jobright.ai/jobs/info/69fa2ec3b1fc847fc1aeea59?utm_campaign=1052&utm_source=git)** | Gaithersburg, MD, US | On Site | May 05 |
 | ↳ | **[Asset Management Division Intern](https://jobright.ai/jobs/info/69fa2ebb0b36ff0354760fec?utm_campaign=1052&utm_source=git)** | Silver Spring, MD, US | On Site | May 05 |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69fa2c35db88714bcdfc19df?utm_campaign=1052&utm_source=git)** | 515 E Las Olas Blvd, Fort Lauderdale, FL, 33301, US | On Site | May 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Revenue Cycle, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/69fa2c15db88714bcdfc19b1?utm_campaign=1052&utm_source=git)** | US - GA, Atlanta, US | On Site | May 05 |
 | ↳ | **[Intern - Revenue Cycle, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/69fa2c120b36ff0354760f40?utm_campaign=1052&utm_source=git)** | US - CO, Boulder, US | On Site | May 05 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Divisional Finance - Summer-Intern](https://jobright.ai/jobs/info/69fa096ab1fc847fc1aede3a?utm_campaign=1052&utm_source=git)** | SMP, 5150 Pelham Rd, Greenville, South Carolina, United States of America | On Site | May 05 |
 | **[Crescent Electric Supply Company](http://www.cesco.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69fa0549db88714bcdfc0c37?utm_campaign=1052&utm_source=git)** | East Dubuque IL, US | On Site | May 05 |
 | **[Blue Nile](http://www.bluenile.com)** | **[Strategic Finance (FP&A) Intern](https://jobright.ai/jobs/info/69fa27e5582f810f9c8d4633?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 05 |
+| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Accounting Intern 2026](https://jobright.ai/jobs/info/69e148376c20aa11495405cc?utm_campaign=1052&utm_source=git)** | Jurupa Valley, CA | On Site | May 05 |
 | **[Enviri](https://www.enviri.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69fa00920b36ff0354760265?utm_campaign=1052&utm_source=git)** | 2401 Edmund Hwy, West Columbia, SC 29170, USA | On Site | May 05 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Internship](https://jobright.ai/jobs/info/69f9ff26db88714bcdfc0b0e?utm_campaign=1052&utm_source=git)** | Ruston, LA | On Site | May 05 |
 | **[ACO Group](https://www.aco.com/)** | **[Finance Assistant Intern](https://jobright.ai/jobs/info/69fa1ecf81706a5bd2173dbd?utm_campaign=1052&utm_source=git)** | Mentor, OH | On Site | May 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fefb1fc847fc1aec2f6?utm_campaign=1052&utm_source=git)** | Vancouver, CA | On Site | May 04 |
 | ↳ | **[Investments, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef87?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Business Controls, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe6db88714bcdfbef86?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
-| ↳ | **[Residential Property Accounting, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe50b36ff035475e7c5?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 04 |
-| **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Finance Co-Op/Intern - Fixed Assets](https://jobright.ai/jobs/info/69f96e97b1fc847fc1aec2db?utm_campaign=1052&utm_source=git)** | Memphis, TN, USA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26038 Oceans Blended and Innovative Finance Intern](https://jobright.ai/jobs/info/69fa644581706a5bd2175678?utm_campaign=1052&utm_source=git)** | Washington, DC, US | On Site | May 05 |
 | **[Pure Water Service Group](https://purewatersg.com/)** | **[Analyst](https://jobright.ai/jobs/info/69fa63f6db88714bcdfc2a30?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | May 05 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk & Advisory Intern / Business Process / Summer 2026](https://jobright.ai/jobs/info/69fa5ddfb1fc847fc1aefc23?utm_campaign=1052&utm_source=git)** | 5959 Rockside Woods Blvd N, Suite 600, Cleveland, OH, 44131, US | On Site | May 05 |
-| **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69d7c5ef869c7e25d859058f?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | May 05 |
 | **[Cortland](https://cortland.com)** | **[Finance and Investor Relations Intern - Atlanta, GA](https://jobright.ai/jobs/info/69fa53b3582f810f9c8d5810?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[DNOW](https://www.dnow.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69fa4c200b36ff0354761d8a?utm_campaign=1052&utm_source=git)** | US TX Houston 7402 N Eldridge Pkwy, US | On Site | May 05 |
 | **[Comfort Systems USA (Kentucky), Inc.](http://comfortsystemsusakentucky.com)** | **[Operational Finance Intern](https://jobright.ai/jobs/info/69fa4c200b36ff0354761d89?utm_campaign=1052&utm_source=git)** | Houston, TX (TAS-Cullen HQ), US | On Site | May 05 |
@@ -103,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/69fa3810b1fc847fc1aeed25?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Hybrid | May 05 |
 | **[State Street](https://www.statestreet.com/)** | **[IT Business Analyst – Data & Regulatory Reporting, Fulltime Internship (July - Dec 2026)](https://jobright.ai/jobs/info/69fa362ba3d34b4f76f64754?utm_campaign=1052&utm_source=git)** | Quincy, Massachusetts, US | On Site | May 05 |
 | **[Pathward](https://www.pathward.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd545c5356a60f40fedb44?utm_campaign=1052&utm_source=git)** | United States | Remote | May 05 |
-| **[OC Sports & Entertainment](https://www.ocvibe.com/)** | **[Finance Intern, ADHC](https://jobright.ai/jobs/info/69fa2f3081706a5bd217448c?utm_campaign=1052&utm_source=git)** | Anaheim, US | On Site | May 05 |
+| **[OC Sports & Entertainment](https://www.ocvibe.com/)** | **[Finance Intern, ADHC](https://jobright.ai/jobs/info/69fa2f3081706a5bd2174489?utm_campaign=1052&utm_source=git)** | Anaheim, US | On Site | May 05 |
 | **[Housing Opportunities Commission](https://www.hocmc.org/)** | **[Intern Property Management Division](https://jobright.ai/jobs/info/69fa2ec3b1fc847fc1aeea59?utm_campaign=1052&utm_source=git)** | Gaithersburg, MD, US | On Site | May 05 |
 | ↳ | **[Asset Management Division Intern](https://jobright.ai/jobs/info/69fa2ebb0b36ff0354760fec?utm_campaign=1052&utm_source=git)** | Silver Spring, MD, US | On Site | May 05 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddc?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f403db88714bcdfc040c?utm_campaign=1052&utm_source=git)** | US-NJ-Camden | On Site | May 05 |
 | ↳ | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f3fea3d34b4f76f62ded?utm_campaign=1052&utm_source=git)** | Camden, NJ, US | On Site | May 05 |
 | ↳ | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f3eb81706a5bd2172dd5?utm_campaign=1052&utm_source=git)** | MMA Corp Hourly - NJ | On Site | May 05 |
+| **[Octave](https://www.octave.com/)** | **[Project Accounting - Business Analyst Intern](https://jobright.ai/jobs/info/69dd364a61f6ed54321fbada?utm_campaign=1052&utm_source=git)** | Madison, WI | Remote | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

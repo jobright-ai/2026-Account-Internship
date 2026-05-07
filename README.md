@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/69c1e36e75f7ff1cd8103f49?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Arista Networks](http://www.arista.com)** | **[Internal Audit Intern – Accounting & Finance](https://jobright.ai/jobs/info/69fb891a86d5cd46527d62fe?utm_campaign=1052&utm_source=git)** | United States | Remote | May 06 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69fb623ad21cf86d1e3d29a1?utm_campaign=1052&utm_source=git)** | 10 Railroad Ave., Closter, NJ, 07624, US | On Site | May 06 |
-| **[Sunrise Senior Living](https://www.sunriseseniorliving.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fb621387a4820e6da87bac?utm_campaign=1052&utm_source=git)** | McLean | On Site | May 06 |
-| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fb61e9ffa73664aeaff48b?utm_campaign=1052&utm_source=git)** | Virginia | On Site | May 06 |
+| **[Sunrise Senior Living](https://www.sunriseseniorliving.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fb621387a4820e6da87bad?utm_campaign=1052&utm_source=git)** | McLean | On Site | May 06 |
+| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fb61e9ffa73664aeaff48c?utm_campaign=1052&utm_source=git)** | Virginia | On Site | May 06 |
 | ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fb61cf86d5cd46527d52a5?utm_campaign=1052&utm_source=git)** | 7902 Westpark Dr | On Site | May 06 |
 | **[UPS](http://www.ups.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/698a46220f6f7e7a2ce5585a?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 06 |
 | **[Guardian Capital Group](http://www.guardiancapital.com)** | **[Investment Operations Intern (June - August 2026)](https://jobright.ai/jobs/info/69fb80e918b94b2515be2d04?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |

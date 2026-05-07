@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Atlantic Medical Group Business/Finance Intern](https://jobright.ai/jobs/info/69fce092432a3c4da8dffcdd?utm_campaign=1052&utm_source=git)** | 465 South St, Morristown, NJ, 07960, US | On Site | May 07 |
+| **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Summer Intern / Vienna, VA](https://jobright.ai/jobs/info/69fce014b113035a9f8ec68a?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | May 07 |
+| **[Lactalis Canada](https://lactalis.ca/)** | **[Corporate Procurement Intern](https://jobright.ai/jobs/info/69fcdf4c666f063d3d6d169c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 07 |
 | **[MyDreamFinance Advisory](https://www.mydreamfinance.com/)** | **[Associate Accountant Intern](https://jobright.ai/jobs/info/69fcdc265cff890b03f340d0?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Taxpayer Information Representative Intern-1](https://jobright.ai/jobs/info/69fcda83666f063d3d6d1353?utm_campaign=1052&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Accounting/ Controllership Intern](https://jobright.ai/jobs/info/69fcda816b788e7e7a5c30be?utm_campaign=1052&utm_source=git)** | NY, US | Hybrid | May 07 |
@@ -65,8 +68,6 @@ For a complete list, click the following sortable link below:
 | **[The Weather Company](https://www.weathercompany.com)** | **[Finance Analyst Intern](https://jobright.ai/jobs/info/69fcd9745cff890b03f33eff?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/69fcd8a5666f063d3d6d11c9?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK, US | On Site | May 07 |
 | **[Tulsa County](http://tulsacounty.org)** | **[Taxpayer Information Representative Intern-1](https://jobright.ai/jobs/info/69fcd2f4666f063d3d6d0f3f?utm_campaign=1052&utm_source=git)** | HQ, US | On Site | May 07 |
-| **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Credit Analyst Intern (Summer) - Dallas, Sterling Plaza](https://jobright.ai/jobs/info/69fcd2bd5cff890b03f33b51?utm_campaign=1052&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Credit Analyst Intern (Summer) - Houston, River Oaks](https://jobright.ai/jobs/info/69fcd2b1b113035a9f8ebeec?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 07 |
 | **[CoreFirst Bank & Trust](https://www.CoreFirstBank.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fcd23db113035a9f8ebe1f?utm_campaign=1052&utm_source=git)** | Topeka,KS,US | On Site | May 07 |
 | **[Fintech](https://www.fintech.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69fcd2395cff890b03f33acd?utm_campaign=1052&utm_source=git)** | Tampa, Florida, United States | On Site | May 07 |
 | **[Springline Advisory](https://springlineadvisory.com)** | **[Spring Internship 2028](https://jobright.ai/jobs/info/69fcccd0432a3c4da8dff1da?utm_campaign=1052&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | May 07 |
@@ -82,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer Finance-Intern, Payroll Operations](https://jobright.ai/jobs/info/69fcb4ac666f063d3d6d00b5?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | May 07 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Private Brands Intelligence](https://jobright.ai/jobs/info/69e02e1a14bf245fc7a70657?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | May 07 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Business Banking Intern](https://jobright.ai/jobs/info/69fcb06f6b788e7e7a5c1dbf?utm_campaign=1052&utm_source=git)** | Branson, MO, 65616, United States | On Site | May 07 |
-| **[Desjardins](https://www.desjardins.com)** | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd27db113035a9f8ebe68?utm_campaign=1052&utm_source=git)** | Mississauga, CA | Hybrid | May 07 |
+| **[Desjardins](https://www.desjardins.com)** | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd2e65cff890b03f33b58?utm_campaign=1052&utm_source=git)** | Toronto, CA | Hybrid | May 07 |
 | ↳ | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd304938a651755f96ca7?utm_campaign=1052&utm_source=git)** | 6835 Railway Street SE Calgary, CA | Hybrid | May 07 |
-| ↳ | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd2e65cff890b03f33b58?utm_campaign=1052&utm_source=git)** | Toronto, CA | Hybrid | May 07 |
+| ↳ | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd27db113035a9f8ebe68?utm_campaign=1052&utm_source=git)** | Mississauga, CA | Hybrid | May 07 |
 | **[Teradyne](http://www.teradyne.com)** | **[Financial Analyst Intern, Summer 2026, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/69fcb05c666f063d3d6d0035?utm_campaign=1052&utm_source=git)** | USA-Massachusetts-North Reading-Building 600 | On Site | May 07 |
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop - Financial Systems](https://jobright.ai/jobs/info/69fcad97666f063d3d6cffd3?utm_campaign=1052&utm_source=git)** | Boston, MA, US | On Site | May 07 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Revenue Intern](https://jobright.ai/jobs/info/69fcad816b788e7e7a5c1d2f?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 07 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/69fc556348ae18086721309e?utm_campaign=1052&utm_source=git)** | NY, US | On Site | May 06 |
 | ↳ | **[Financial and Planning Analysis Intern](https://jobright.ai/jobs/info/69fc5324cf5c6d31006973f6?utm_campaign=1052&utm_source=git)** | Miamisburg, OH, US | On Site | May 06 |
 | ↳ | **[2027 PCS Assurance Winter Intern - Private Client Services](https://jobright.ai/jobs/info/69fc56c92e6c421278ddb812?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 06 |
-| ↳ | **[Transaction Tax Intern - Fall 2026](https://jobright.ai/jobs/info/69fc4f63cf5c6d31006972c6?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 06 |
 | ↳ | **[EIC Intern](https://jobright.ai/jobs/info/69fc523fbb117f6b3f2b4360?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, US | On Site | May 06 |
+| ↳ | **[Transaction Tax Intern - Fall 2026](https://jobright.ai/jobs/info/69fc4f63cf5c6d31006972c6?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | Hybrid | May 06 |
 | ↳ | **[Accounts Payable- Internship](https://jobright.ai/jobs/info/69fc52abab1b7e27b9fa346d?utm_campaign=1052&utm_source=git)** | Braselton, GA, US | On Site | May 06 |
 | ↳ | **[Accounting & Finance - Intern](https://jobright.ai/jobs/info/69fc4db6cf5c6d3100697211?utm_campaign=1052&utm_source=git)** | VA, US | On Site | May 06 |
 | ↳ | **[Financial Planning Department Internship](https://jobright.ai/jobs/info/69fc5090ab1b7e27b9fa33e0?utm_campaign=1052&utm_source=git)** | MO, US | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Finance & Project Management Support Intern](https://jobright.ai/jobs/info/69fc3b394ab6391714fd46cd?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, US | Hybrid | May 06 |
 | ↳ | **[Accounting Intern (for Monet Bank) - Summer 2026 Internship](https://jobright.ai/jobs/info/69fc3ab20940765d3b501ab9?utm_campaign=1052&utm_source=git)** | Plano, TX, US | On Site | May 06 |
 | ↳ | **[Year-Round Finance-Intern, Accounts Payable](https://jobright.ai/jobs/info/69fc3a892275c9640f52cc74?utm_campaign=1052&utm_source=git)** | Cleveland, OH, US | On Site | May 06 |
-| ↳ | **[BizOps & Strategic Finance Intern](https://jobright.ai/jobs/info/69fc3980cbdf932e930a1b8b?utm_campaign=1052&utm_source=git)** | NY, US | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

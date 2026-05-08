@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DoubleTree by Hilton London Ontario](https://www.hilton.com/en/hotels/yxuksdt-doubletree-london-ontario/)** | **[PT Finance Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/69fda633f363bc4dc3399275?utm_campaign=1052&utm_source=git)** | New York Hilton Midtown1335 Avenue Of The Americas | On Site | May 08 |
+| **[EngineeRD](https://engineerd.com)** | **[Finance Technology Operations Engineer, Intern](https://jobright.ai/jobs/info/69fda4ff7714cd50b90fbc3a?utm_campaign=1052&utm_source=git)** | United States | Remote | May 08 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Copy of Intern - Finance and Accounting](https://jobright.ai/jobs/info/69fd9ef86bcf315dc8f522de?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Credit Analyst Intern (Summer) - Dallas, Sterling Plaza](https://jobright.ai/jobs/info/69fd660b7f9567150fa35d1f?utm_campaign=1052&utm_source=git)** | TX, US | On Site | May 07 |
 | ↳ | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69fd65acf363bc4dc3398344?utm_campaign=1052&utm_source=git)** | Green Bay, WI, US | On Site | May 07 |
@@ -116,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer Finance-Intern, Payroll Operations](https://jobright.ai/jobs/info/69fcb4ac666f063d3d6d00b5?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | May 07 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Finance](https://jobright.ai/jobs/info/69c40a8f33eecf31079422bc?utm_campaign=1052&utm_source=git)** | Newaygo, MI | On Site | May 07 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Business Banking Intern](https://jobright.ai/jobs/info/69fcb06f6b788e7e7a5c1dbf?utm_campaign=1052&utm_source=git)** | Branson, MO, 65616, United States | On Site | May 07 |
-| **[Desjardins](https://www.desjardins.com)** | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd2e65cff890b03f33b58?utm_campaign=1052&utm_source=git)** | Toronto, CA | Hybrid | May 07 |
+| **[Desjardins](https://www.desjardins.com)** | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd27db113035a9f8ebe68?utm_campaign=1052&utm_source=git)** | Mississauga, CA | Hybrid | May 07 |
 | ↳ | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd304938a651755f96ca7?utm_campaign=1052&utm_source=git)** | 6835 Railway Street SE Calgary, CA | Hybrid | May 07 |
-| ↳ | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd27db113035a9f8ebe68?utm_campaign=1052&utm_source=git)** | Mississauga, CA | Hybrid | May 07 |
+| ↳ | **[Internship position, Actuarial](https://jobright.ai/jobs/info/69fcd2e65cff890b03f33b58?utm_campaign=1052&utm_source=git)** | Toronto, CA | Hybrid | May 07 |
 | **[Teradyne](http://www.teradyne.com)** | **[Financial Analyst Intern, Summer 2026, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/69fcb05c666f063d3d6d0035?utm_campaign=1052&utm_source=git)** | USA-Massachusetts-North Reading-Building 600 | On Site | May 07 |
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop - Financial Systems](https://jobright.ai/jobs/info/69fcad97666f063d3d6cffd3?utm_campaign=1052&utm_source=git)** | Boston, MA, US | On Site | May 07 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Revenue Intern](https://jobright.ai/jobs/info/69fcad816b788e7e7a5c1d2f?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Galaxy Distribution](https://www.linkedin.com/company/92637478)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/69fd084b6b788e7e7a5c472a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | May 07 |
 | **[IDC](http://www.idc.com)** | **[Quote To Cash Intern](https://jobright.ai/jobs/info/69fc435eae09801097afab0e?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Budget Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fc41433431b1292b9b5d6a?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69fc6b0fb113035a9f8e83c6?utm_campaign=1052&utm_source=git)** | Omaha, NE, US | On Site | May 06 |
-| **[MGM Resorts International](http://mgmresorts.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69fc441ea90a7f57e848e833?utm_campaign=1052&utm_source=git)** | LV Metro Area | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

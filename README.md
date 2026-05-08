@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lakanto](https://www.lakanto.com/)** | **[Accounting & Finance Intern (Part-Time)](https://jobright.ai/jobs/info/69fd1eeb5cff890b03f36358?utm_campaign=1052&utm_source=git)** | Orem,UT,US | On Site | May 07 |
+| **[Alliance Technical Group](https://alliancetg.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/69fd1ed25cff890b03f3631d?utm_campaign=1052&utm_source=git)** | Decatur, Alabama, United States | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Commercial Bank Intern](https://jobright.ai/jobs/info/69fd1335666f063d3d6d319e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
 | ↳ | **[Webber - Accounting Intern - Heavy Civil](https://jobright.ai/jobs/info/69fd12f0938a651755f98ea0?utm_campaign=1052&utm_source=git)** | Tampa, FL, US | On Site | May 07 |
 | **[WineFetch](http://retailer.winefetch.com)** | **[Finance Intern (Summer)](https://jobright.ai/jobs/info/69fd10195cff890b03f35e88?utm_campaign=1052&utm_source=git)** | Markham, Ontario - CAN, CA | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69fc5bac2e6c421278ddb90a?utm_campaign=1052&utm_source=git)** | Boston, MA, US | Hybrid | May 06 |
 | ↳ | **[EIC Intern - Stuart FL](https://jobright.ai/jobs/info/69fc59c848d4483e4b639116?utm_campaign=1052&utm_source=git)** | Stuart, FL, US | On Site | May 06 |
 | **[SFW Partners, LLC](https://sfwpartnersllc.com/)** | **[Busy Season Intern](https://jobright.ai/jobs/info/69fc59b3bb117f6b3f2b471e?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | May 06 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69fc58a148d4483e4b6390dc?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69fc57f948d4483e4b6390a9?utm_campaign=1052&utm_source=git)** | Neenah, WI, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

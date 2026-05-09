@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[COARE](https://www.coare.nl)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/69ff0e4a238f143e835238e6?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 09 |
+| **[JC TELECOM](https://jctelecom.fr)** | **[ACCOUNTING INTERN](https://jobright.ai/jobs/info/69ff0e49238f143e835238e4?utm_campaign=1052&utm_source=git)** | Bartlett, TN | On Site | May 09 |
+| **[Spire](http://www.spire.com)** | **[Operations & Intelligence Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69e27c063770bd5361cd8abc?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 09 |
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – Accounting, Finance, or Management Information Systems (MIS)](https://jobright.ai/jobs/info/69c16db72c312363dcd4411c?utm_campaign=1052&utm_source=git)** | Irving, Texas | Hybrid | May 09 |
+| **[Radwell International](http://radwell.com)** | **[Accounting Co-op](https://jobright.ai/jobs/info/69f53c0bdb88714bcdfb2fa1?utm_campaign=1052&utm_source=git)** | Stoney Creek, Ontario, Canada | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69fed2edcdb965044a864ab3?utm_campaign=1052&utm_source=git)** | San Carlos, CA, US | Hybrid | May 08 |
 | **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69fecae015859e57591cf7ed?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Business Intern](https://jobright.ai/jobs/info/69febcb5d0dc596b8d119f4d?utm_campaign=1052&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/69feb1f21161630dd3b0174c?utm_campaign=1052&utm_source=git)** | CAN, ON, Mississauga, CA | Hybrid | May 08 |
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Wichita)](https://jobright.ai/jobs/info/69ea418d58811370cb13218a?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | May 08 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69c4d5a76f4f855eeda781b9?utm_campaign=1052&utm_source=git)** | Hercules, CA | On Site | May 08 |
-| **[IRIS Software Group](https://www.iris.co.uk)** | **[Payroll Intern – myPay Solutions (6-Week Summer Internship)](https://jobright.ai/jobs/info/69fdf8ed6bcf315dc8f53f33?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | May 08 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Healthcare Advisory Intern (49584)](https://jobright.ai/jobs/info/697439cbbc8e722e7b19320d?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | May 08 |
-| ↳ | **[Winter Internship 2027 / Audit Intern / San Diego (49581)](https://jobright.ai/jobs/info/69bd0914b10602456281e734?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 08 |
-| ↳ | **[Winter Internship 2027 / Tax Intern / White Plains (49593)](https://jobright.ai/jobs/info/697166f451f726477183b1e4?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

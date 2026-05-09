@@ -100,6 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Hybrid Year Round Intern - Finance](https://jobright.ai/jobs/info/69fe579ff363bc4dc339dfbf?utm_campaign=1052&utm_source=git)** | OMAHA NE-UNION PACIFIC RR | Hybrid | May 08 |
 | **[RBC](https://www.rbc.com)** | **[2026 CAE, Fall Global Credit Intern (4 months)](https://jobright.ai/jobs/info/69fe533dad691a11f34ed231?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 08 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69fe4f7bad691a11f34ed202?utm_campaign=1052&utm_source=git)** | Story City,IA,US | On Site | May 08 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Treasury Intern- Fall 2026](https://jobright.ai/jobs/info/69febda81161630dd3b04734?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 08 |
+| **[TierPoint](http://www.tierpoint.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69febd9e1161630dd3b04713?utm_campaign=1052&utm_source=git)** | Saint Louis, MO, US | On Site | May 08 |
 | **[Investar Bank, National Association](https://www.investarbank.com)** | **[Audit Intern](https://jobright.ai/jobs/info/69fe49f9ad691a11f34ecf64?utm_campaign=1052&utm_source=git)** | Tower, Baton Rouge, LA, US | On Site | May 08 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Financial Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69feb6711161630dd3b02798?utm_campaign=1052&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 08 |
 | **[Village of Lemont](http://www.lemont.il.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69fe49874b9bbf21744b06ce?utm_campaign=1052&utm_source=git)** | Lemont,IL,US | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[2026 Underwriting Internship Program - Warren, NJ](https://jobright.ai/jobs/info/69fdf2477714cd50b90fd255?utm_campaign=1052&utm_source=git)** | NJ, US | Hybrid | May 08 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 Investment Associate Intern](https://jobright.ai/jobs/info/697aab529d60e431a16c45ee?utm_campaign=1052&utm_source=git)** | New York City | On Site | May 08 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2026)](https://jobright.ai/jobs/info/6971616c587dfa0bb55f03b7?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | May 08 |
-| **[FICO](http://www.fico.com)** | **[Risk & Assurance Intern](https://jobright.ai/jobs/info/69e15ea96c20aa1149540ca6?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 08 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Risk](https://jobright.ai/jobs/info/69a9d01d9ca4e908ec64fc68?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

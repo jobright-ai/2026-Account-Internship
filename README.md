@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69ff29ce74b5407dd4673cb8?utm_campaign=1052&utm_source=git)** | Falls Church Virginia | On Site | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Investment Administration)](https://jobright.ai/jobs/info/69ff237c238f143e83523e8a?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| ↳ | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| ↳ | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| ↳ | **[Accounting (Accounts Receivable Intern)](https://jobright.ai/jobs/info/69ff237b74b5407dd4673ab7?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[Spire](http://www.spire.com)** | **[Revenue & Predictive Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2798e5c44d4710fe25643?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 09 |
 | **[COARE](https://www.coare.nl)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/69ff0e4a238f143e835238e6?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 09 |
 | **[JC TELECOM](https://jctelecom.fr)** | **[ACCOUNTING INTERN](https://jobright.ai/jobs/info/69ff0e49238f143e835238e4?utm_campaign=1052&utm_source=git)** | Bartlett, TN | On Site | May 09 |
@@ -104,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2027 (Seattle)](https://jobright.ai/jobs/info/69fe5bdf4b9bbf21744b0d4a?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | May 08 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[FP&A Intern- Fall 2026](https://jobright.ai/jobs/info/69fe5b2552e2b44f558b1107?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | May 08 |
 | **[S&P Global](https://www.spglobal.com)** | **[Public Finance Intern](https://jobright.ai/jobs/info/69fe5adb52e2b44f558b1029?utm_campaign=1052&utm_source=git)** | New York, NY, US | Hybrid | May 08 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Hybrid Year Round Intern - Finance](https://jobright.ai/jobs/info/69fe579ff363bc4dc339dfbf?utm_campaign=1052&utm_source=git)** | OMAHA NE-UNION PACIFIC RR | Hybrid | May 08 |
+| **[Union Pacific Railroad](http://www.up.com)** | **[Hybrid Year Round Intern - Finance](https://jobright.ai/jobs/info/69fe579ff363bc4dc339dfbf?utm_campaign=1052&utm_source=git)** | OMAHA NE-UNION PACIFIC RR | Hybrid | May 08 |
 | **[RBC](https://www.rbc.com)** | **[2026 CAE, Fall Global Credit Intern (4 months)](https://jobright.ai/jobs/info/69fe533dad691a11f34ed231?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 08 |
 | **[American Packaging Corporation](https://americanpackaging.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69fe4f7bad691a11f34ed202?utm_campaign=1052&utm_source=git)** | Story City,IA,US | On Site | May 08 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Treasury Intern- Fall 2026](https://jobright.ai/jobs/info/69febda81161630dd3b04734?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waco Family Medicine](https://wacofamilymedicine.org)** | **[Summer Internship - Finance (3760)](https://jobright.ai/jobs/info/69fe1291f363bc4dc339b777?utm_campaign=1052&utm_source=git)** | Central - Waco, TX 76707 | On Site | May 08 |
 | **[North Horizon Holdings Inc.](https://northhorizon.com)** | **[Junior Accountant, Intern (Co-op)](https://jobright.ai/jobs/info/69fbddcfd21cf86d1e3d57a1?utm_campaign=1052&utm_source=git)** | North York, Ontario, Canada | On Site | May 08 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Treasurer's Office - Summer Intern](https://jobright.ai/jobs/info/69f52aae12f2811ab5a638e1?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | May 08 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/69feb22f1161630dd3b0187b?utm_campaign=1052&utm_source=git)** | Green Bay, WI, US | On Site | May 08 |
-| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Finance Intern – FP&A](https://jobright.ai/jobs/info/69fe0c24f363bc4dc339b332?utm_campaign=1052&utm_source=git)** | Omaha NE, US | On Site | May 08 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Valuations & Modelling - Toronto - Fall 2026](https://jobright.ai/jobs/info/69fb1b1687a4820e6da84f4b?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
-| **[McKesson](http://www.mckesson.com)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/69feb1f21161630dd3b0174c?utm_campaign=1052&utm_source=git)** | CAN, ON, Mississauga, CA | Hybrid | May 08 |
-| **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Wichita)](https://jobright.ai/jobs/info/69ea418d58811370cb13218a?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

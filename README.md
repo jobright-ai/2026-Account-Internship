@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69fed2edcdb965044a864ab3?utm_campaign=1052&utm_source=git)** | San Carlos, CA, US | Hybrid | May 08 |
+| **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69fecae015859e57591cf7ed?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Business Intern](https://jobright.ai/jobs/info/69febcb5d0dc596b8d119f4d?utm_campaign=1052&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern - Elmira, NY](https://jobright.ai/jobs/info/69febbf5d0dc596b8d119dc4?utm_campaign=1052&utm_source=git)** | Elmira - Elmira, NY 14901 | On Site | May 08 |
 | ↳ | **[Winter 2027 Tax Intern - Elmira, NY](https://jobright.ai/jobs/info/69febbebd0dc596b8d119db0?utm_campaign=1052&utm_source=git)** | Elmira - Elmira, NY 14901 | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Internship 2027 / Audit Intern / San Diego (49581)](https://jobright.ai/jobs/info/69bd0914b10602456281e734?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 08 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / White Plains (49593)](https://jobright.ai/jobs/info/697166f451f726477183b1e4?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[2026 Underwriting Internship Program - Warren, NJ](https://jobright.ai/jobs/info/69fdf2477714cd50b90fd255?utm_campaign=1052&utm_source=git)** | NJ, US | Hybrid | May 08 |
-| **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 Investment Associate Intern](https://jobright.ai/jobs/info/697aab529d60e431a16c45ee?utm_campaign=1052&utm_source=git)** | New York City | On Site | May 08 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2026)](https://jobright.ai/jobs/info/6971616c587dfa0bb55f03b7?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

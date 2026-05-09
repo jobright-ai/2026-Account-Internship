@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69feabe5ad691a11f34eeaad?utm_campaign=1052&utm_source=git)** | Falls Church Virginia | On Site | May 08 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/69fe97e34b9bbf21744b2244?utm_campaign=1052&utm_source=git)** | The Woodlands, TX | On Site | May 08 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Intern - FP & A](https://jobright.ai/jobs/info/69fe8ccd4b9bbf21744b2164?utm_campaign=1052&utm_source=git)** | NSC, US | On Site | May 08 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/69fe89a07714cd50b9101934?utm_campaign=1052&utm_source=git)** | Watsonville, CA | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Advisory Analyst Intern](https://jobright.ai/jobs/info/69fd4cc96b5b765031e82252?utm_campaign=1052&utm_source=git)** | VA, US | On Site | May 07 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69fd4c9f6b5b765031e8221a?utm_campaign=1052&utm_source=git)** | Las Vegas, NV, US | Hybrid | May 07 |
 | **[Atlas Healthcare Partners](https://www.atlashp.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69faf19586d5cd46527d1408?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | May 07 |
-| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fd438eb113035a9f8efc12?utm_campaign=1052&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

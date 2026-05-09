@@ -57,18 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anjuna Sports Acupuncture](https://anjunamedicine.com)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/69ff9d26c2ffb31f4535fb6d?utm_campaign=1052&utm_source=git)** | Eugene, OR | On Site | May 09 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Intern - FP & A](https://jobright.ai/jobs/info/69ff8964fa1aa73213d8c395?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 09 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Chicago (49585)](https://jobright.ai/jobs/info/69bc536745e08b3dc1f8c829?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 09 |
 | **[ITW](http://www.itw.com/)** | **[Corporate Tax Intern - Winter 2027](https://jobright.ai/jobs/info/69f4568c343eef4fb0aa0916?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | May 09 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Fund Financial Reporting Department](https://jobright.ai/jobs/info/69c5d20c1818a24cd84bb7ad?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
 | **[University of Michigan](https://www.umich.edu)** | **[ACCOUNTANT INTERNSHIP (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/69fbef6d2f9f6b7cf690fbd9?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | May 09 |
 | **[Tigbourne Capital Ltd](https://www.tigbournecapital.com/)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69ff4056c2ffb31f4535e307?utm_campaign=1052&utm_source=git)** | SLC Metro Area | Remote | May 09 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA | On Site | May 09 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / White Plains (49583)](https://jobright.ai/jobs/info/69716ea1333b6343a14df628?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | May 09 |
+| ↳ | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA | On Site | May 09 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Asset Management Operations, Portfolio Ops & Analytics](https://jobright.ai/jobs/info/69c5d3a783ea553769fd0685?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69ff29ce74b5407dd4673cb8?utm_campaign=1052&utm_source=git)** | Falls Church Virginia | On Site | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Investment Administration)](https://jobright.ai/jobs/info/69ff237c238f143e83523e8a?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | ↳ | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| ↳ | **[Summer Intern (Investment Administration)](https://jobright.ai/jobs/info/69ff237c238f143e83523e8a?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | ↳ | **[Accounting (Accounts Receivable Intern)](https://jobright.ai/jobs/info/69ff237b74b5407dd4673ab7?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[Spire](http://www.spire.com)** | **[Revenue & Predictive Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2798e5c44d4710fe25643?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 09 |
 | **[COARE](https://www.coare.nl)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/69ff0e4a238f143e835238e6?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Accounting & Finance](https://jobright.ai/jobs/info/69fe2a4352e2b44f558aece7?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, US | Hybrid | May 08 |
 | ↳ | **[M&A Intern](https://jobright.ai/jobs/info/69fe2a31f363bc4dc339bef9?utm_campaign=1052&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
 | **[SWBC](https://www.swbc.com)** | **[Accounting Intern (Onsite)](https://jobright.ai/jobs/info/69fe29ca4b9bbf21744aeb98?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | May 08 |
-| **[TransUnion](http://www.transunion.com)** | **[Financial Planning & Analysis Internship](https://jobright.ai/jobs/info/69fe29c34b9bbf21744aeb77?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, US | Hybrid | May 08 |
-| **[Osmose](https://www.osmose.com/)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/69fe206b6bcf315dc8f54d4e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

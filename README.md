@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern, Accounting (Finance and Records Dept.)](https://jobright.ai/jobs/info/69fe6b306bcf315dc8f57ab9?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | May 08 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Financial Affairs Support Team Internship](https://jobright.ai/jobs/info/69fe668a7714cd50b9100dae?utm_campaign=1052&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern / Wealth Management](https://jobright.ai/jobs/info/69fe65e652e2b44f558b18c7?utm_campaign=1052&utm_source=git)** | Brentwood, TN, US | On Site | May 08 |
 | ↳ | **[CW Accounts Receivable Intern](https://jobright.ai/jobs/info/69fe65d66bcf315dc8f5766a?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, US | On Site | May 08 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Accounting College Internship](https://jobright.ai/jobs/info/69fe62ae52e2b44f558b15e6?utm_campaign=1052&utm_source=git)** | Honolulu, HI, US | On Site | May 08 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/69fe6258ad691a11f34ed673?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | May 08 |
 | **[Centura Wealth Advisory](https://centurawealth.com/)** | **[Intern](https://jobright.ai/jobs/info/69fe618d7714cd50b9100963?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 08 |
-| **[Treme-Parker](https://www.tremeparker.com)** | **[Commercial Real Estate Analyst Intern](https://jobright.ai/jobs/info/69fe609052e2b44f558b13f9?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | May 08 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Seattle)](https://jobright.ai/jobs/info/69fe5bdf4b9bbf21744b0d47?utm_campaign=1052&utm_source=git)** | Two Union Square, Seattle, WA, 98101, US | On Site | May 08 |
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2027 (Seattle)](https://jobright.ai/jobs/info/69fe5bdf4b9bbf21744b0d4a?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | May 08 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[FP&A Intern- Fall 2026](https://jobright.ai/jobs/info/69fe5b2552e2b44f558b1107?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | May 08 |

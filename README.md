@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meriton](https://meriton.com/)** | **[Summer Internship – Accounting, Finance, or Management Information Systems (MIS)](https://jobright.ai/jobs/info/69c16db72c312363dcd4411c?utm_campaign=1052&utm_source=git)** | Irving, Texas | Hybrid | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69fed2edcdb965044a864ab3?utm_campaign=1052&utm_source=git)** | San Carlos, CA, US | Hybrid | May 08 |
 | **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69fecae015859e57591cf7ed?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Business Intern](https://jobright.ai/jobs/info/69febcb5d0dc596b8d119f4d?utm_campaign=1052&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Healthcare Advisory Intern (49584)](https://jobright.ai/jobs/info/697439cbbc8e722e7b19320d?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | May 08 |
 | ↳ | **[Winter Internship 2027 / Audit Intern / San Diego (49581)](https://jobright.ai/jobs/info/69bd0914b10602456281e734?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 08 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / White Plains (49593)](https://jobright.ai/jobs/info/697166f451f726477183b1e4?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[2026 Underwriting Internship Program - Warren, NJ](https://jobright.ai/jobs/info/69fdf2477714cd50b90fd255?utm_campaign=1052&utm_source=git)** | NJ, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

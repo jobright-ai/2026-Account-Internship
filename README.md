@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/69fe97e34b9bbf21744b2244?utm_campaign=1052&utm_source=git)** | The Woodlands, TX | On Site | May 08 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Intern - FP & A](https://jobright.ai/jobs/info/69fe8ccd4b9bbf21744b2164?utm_campaign=1052&utm_source=git)** | NSC, US | On Site | May 08 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/69fe89a07714cd50b9101934?utm_campaign=1052&utm_source=git)** | Watsonville, CA | On Site | May 08 |
 | **[Alliance Trust Company of Nevada](https://alliancetrustcompany.com/)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69fe83bead691a11f34ee324?utm_campaign=1052&utm_source=git)** | Reno, Nevada, United States | On Site | May 08 |
@@ -146,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Copy of Intern - Finance and Accounting](https://jobright.ai/jobs/info/69fd9ef86bcf315dc8f522de?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | May 08 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69fdfed84b9bbf21744adb5b?utm_campaign=1052&utm_source=git)** | Brewster | On Site | May 07 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Audit Internship](https://jobright.ai/jobs/info/69f1b989ecbc8c2f73207cb5?utm_campaign=1052&utm_source=git)** | Idaho, United States | Hybrid | May 07 |
+| ↳ | **[Audit Internship](https://jobright.ai/jobs/info/69f1b96e825a315d7ca39b09?utm_campaign=1052&utm_source=git)** | Washington, United States | Hybrid | May 07 |
 | ↳ | **[Audit Internship](https://jobright.ai/jobs/info/69f1b96e825a315d7ca39b0a?utm_campaign=1052&utm_source=git)** | Pocatello, ID | Hybrid | May 07 |
 | ↳ | **[Audit Internship](https://jobright.ai/jobs/info/69f1b989ecbc8c2f73207cb8?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Credit Analyst Intern (Summer) - Dallas, Sterling Plaza](https://jobright.ai/jobs/info/69fd660b6bcf315dc8f51746?utm_campaign=1052&utm_source=git)** | TX, US | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69fd4c9f6b5b765031e8221a?utm_campaign=1052&utm_source=git)** | Las Vegas, NV, US | Hybrid | May 07 |
 | **[Atlas Healthcare Partners](https://www.atlashp.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/69faf19586d5cd46527d1408?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | May 07 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fd438eb113035a9f8efc12?utm_campaign=1052&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | May 07 |
-| **[EQ Bank](http://www.eqbank.ca)** | **[Credit Risk, Intern](https://jobright.ai/jobs/info/69f18cad825a315d7ca38660?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 07 |
-| ↳ | **[Treasury Data and Governance, Intern](https://jobright.ai/jobs/info/69f157f4825a315d7ca377c9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

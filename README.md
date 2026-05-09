@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BAE Systems](http://www.baesystems.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69ff29ce74b5407dd4673cb8?utm_campaign=1052&utm_source=git)** | Falls Church Virginia | On Site | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Investment Administration)](https://jobright.ai/jobs/info/69ff237c238f143e83523e8a?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| ↳ | **[Summer Intern (Investment Administration)](https://jobright.ai/jobs/info/69ff237c238f143e83523e8a?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | ↳ | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
-| ↳ | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | ↳ | **[Accounting (Accounts Receivable Intern)](https://jobright.ai/jobs/info/69ff237b74b5407dd4673ab7?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[Spire](http://www.spire.com)** | **[Revenue & Predictive Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2798e5c44d4710fe25643?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 09 |
 | **[COARE](https://www.coare.nl)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/69ff0e4a238f143e835238e6?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 09 |
@@ -116,7 +116,8 @@ For a complete list, click the following sortable link below:
 | **[TierPoint](http://www.tierpoint.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69febd9e1161630dd3b04713?utm_campaign=1052&utm_source=git)** | Saint Louis, MO, US | On Site | May 08 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Intern / Wealth Management](https://jobright.ai/jobs/info/69ff19c274b5407dd4673a32?utm_campaign=1052&utm_source=git)** | US-TN-Brentwood | On Site | May 08 |
 | **[Investar Bank, National Association](https://www.investarbank.com)** | **[Audit Intern](https://jobright.ai/jobs/info/69fe49f9ad691a11f34ecf64?utm_campaign=1052&utm_source=git)** | Tower, Baton Rouge, LA, US | On Site | May 08 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Financial Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69feb6711161630dd3b02798?utm_campaign=1052&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 08 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Risk Services Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69ff2e7bc2ffb31f4535da4c?utm_campaign=1052&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 08 |
+| ↳ | **[Financial Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69feb6711161630dd3b02798?utm_campaign=1052&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 08 |
 | **[Village of Lemont](http://www.lemont.il.us)** | **[Finance Intern](https://jobright.ai/jobs/info/69fe49874b9bbf21744b06ce?utm_campaign=1052&utm_source=git)** | Lemont,IL,US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Accounting Intern (Onsite)](https://jobright.ai/jobs/info/69fe48be7714cd50b9100054?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | May 08 |
 | ↳ | **[Financial Planning & Analysis Internship](https://jobright.ai/jobs/info/69fe48b252e2b44f558b05d6?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | Hybrid | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axcelus Financial](https://www.axcelus.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/69fe15386bcf315dc8f549f6?utm_campaign=1052&utm_source=git)** | Philadelphia, PA 19103, USA | On Site | May 08 |
 | **[Waco Family Medicine](https://wacofamilymedicine.org)** | **[Summer Internship - Finance (3760)](https://jobright.ai/jobs/info/69fe1291f363bc4dc339b777?utm_campaign=1052&utm_source=git)** | Central - Waco, TX 76707 | On Site | May 08 |
 | **[North Horizon Holdings Inc.](https://northhorizon.com)** | **[Junior Accountant, Intern (Co-op)](https://jobright.ai/jobs/info/69fbddcfd21cf86d1e3d57a1?utm_campaign=1052&utm_source=git)** | North York, Ontario, Canada | On Site | May 08 |
-| **[Arlington County Government](https://www.arlingtonva.us)** | **[Treasurer's Office - Summer Intern](https://jobright.ai/jobs/info/69f52aae12f2811ab5a638e1?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

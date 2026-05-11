@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Stadler](http://www.stadlerrail.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a01284aa0eddc08c239e87f?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 10 |
 | **[Maverick Power](https://maverickpwr.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a0124d6a0eddc08c239e77a?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data & Pricing Analyst Intern](https://jobright.ai/jobs/info/6a0121cd238f143e8352b422?utm_campaign=1052&utm_source=git)** | IL, US | On Site | May 10 |
-| **[Qabas | Consulting & Training](https://qbs.ly/)** | **[Internship - Financial Analyst](https://jobright.ai/jobs/info/6a011e90c4b08448a0b1d960?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | May 10 |
 | **[Waldom](http://www.waldom.com/)** | **[Data & Pricing Analyst Intern](https://jobright.ai/jobs/info/6a010a0fa0eddc08c239e362?utm_campaign=1052&utm_source=git)** | Rockford, Illinois, United States | On Site | May 10 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69ebc38fdc35f7132c4b30b0?utm_campaign=1052&utm_source=git)** | Morgantown, WV | Hybrid | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 Temporary Financial Data & Strategy Intern- Endwell, NY](https://jobright.ai/jobs/info/6a00cd11c2ffb31f45363a4c?utm_campaign=1052&utm_source=git)** | NY, US | On Site | May 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern, Accounting (Finance and Records Dept.)](https://jobright.ai/jobs/info/69fe6b306bcf315dc8f57ab9?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | May 08 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Financial Affairs Support Team Internship](https://jobright.ai/jobs/info/69fe668a7714cd50b9100dae?utm_campaign=1052&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern / Wealth Management](https://jobright.ai/jobs/info/69fe65e652e2b44f558b18c7?utm_campaign=1052&utm_source=git)** | Brentwood, TN, US | On Site | May 08 |
+| ↳ | **[CW Accounts Receivable Intern](https://jobright.ai/jobs/info/69fe65d66bcf315dc8f5766a?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

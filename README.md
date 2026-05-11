@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HHM CPAs](http://hhmcpas.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a018989c2ffb31f45366328?utm_campaign=1052&utm_source=git)** | Cleveland, TN | On Site | May 11 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/69eee56b16b2612c2a127cd5?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 10 |
 | **[STORE Capital](http://storecapital.com/)** | **[Intern- Summer Cycle 2026](https://jobright.ai/jobs/info/698f8ea76ea51a7610f1ed73?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | May 10 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Finance](https://jobright.ai/jobs/info/6a01346c238f143e8352b6b6?utm_campaign=1052&utm_source=git)** | Canada - Mississauga, CA | Hybrid | May 10 |
@@ -115,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Commercialization Finance Intern](https://jobright.ai/jobs/info/69e13f2a40a62c1fa93b75db?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69ff29ce74b5407dd4673cb8?utm_campaign=1052&utm_source=git)** | Falls Church Virginia | On Site | May 09 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2026)](https://jobright.ai/jobs/info/69715f06587dfa0bb55f0161?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | ↳ | **[Summer Intern (Investment Administration)](https://jobright.ai/jobs/info/69ff237c238f143e83523e8a?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| ↳ | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | ↳ | **[Accounting (Accounts Receivable Intern)](https://jobright.ai/jobs/info/69ff237b74b5407dd4673ab7?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[Spire](http://www.spire.com)** | **[Revenue & Predictive Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2798e5c44d4710fe25643?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 09 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Treasury](https://jobright.ai/jobs/info/69c496abd5a1016e98dbe0d6?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/69fe746a4b9bbf21744b1a59?utm_campaign=1052&utm_source=git)** | The Woodlands, Texas, US | On Site | May 08 |
 | ↳ | **[Treasury Intern](https://jobright.ai/jobs/info/69fe74676bcf315dc8f57c8b?utm_campaign=1052&utm_source=git)** | Watsonville, California, US | On Site | May 08 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69c4f3fc33eecf310795711c?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 08 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern, Accounting (Finance and Records Dept.)](https://jobright.ai/jobs/info/69fe6b306bcf315dc8f57ab9?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

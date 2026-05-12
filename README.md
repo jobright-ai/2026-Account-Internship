@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VAS Holdings LLC](https://www.linkedin.com/company/110912667)** | **[Summer 2026 Private Real Estate Intern](https://jobright.ai/jobs/info/6a0294ccbc4184089f22a637?utm_campaign=1052&utm_source=git)** | United States | Remote | May 11 |
+| **[LaFrance Corp](http://www.lafrancecorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a0292857c753c287f6df41f?utm_campaign=1052&utm_source=git)** | Concordville, PA, US | Hybrid | May 11 |
+| **[Loenbro](http://loenbro.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a02900005484923de476570?utm_campaign=1052&utm_source=git)** | Westminster, CO | On Site | May 11 |
+| **[University Partners](http://www.universitypartners.com)** | **[Analyst, Investments & Asset Management Intern](https://jobright.ai/jobs/info/6a028cc2f3d6cc51d636ed87?utm_campaign=1052&utm_source=git)** | Dallas, Texas, TX | On Site | May 11 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern Accounting Finance](https://jobright.ai/jobs/info/6a0280ba238f143e83534567?utm_campaign=1052&utm_source=git)** | Allendale, NJ, US | On Site | May 11 |
 | ↳ | **[Intern Accounting Finance](https://jobright.ai/jobs/info/6a02807bdf52f1450d84b15b?utm_campaign=1052&utm_source=git)** | US-NJ-Allendale | On Site | May 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a027a41c4b08448a0b26937?utm_campaign=1052&utm_source=git)** | United States-Washington-Bellevue | On Site | May 11 |
@@ -93,10 +97,10 @@ For a complete list, click the following sortable link below:
 | **[SSI SCHÄFER](https://www.ssi-schaefer.com)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/6a02298bdf52f1450d847dd9?utm_campaign=1052&utm_source=git)** | Charlotte, NC, US | On Site | May 11 |
 | **[Minnesota Valley Transit Authority](https://www.mvta.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a022630fa1aa73213d97048?utm_campaign=1052&utm_source=git)** | Burnsville, MN, US | On Site | May 11 |
 | **[altafiber](https://www.altafiber.com)** | **[Accounting and Financial Reporting Fall Intern](https://jobright.ai/jobs/info/6a0225f8c2ffb31f4536a0dc?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, 45202, United States | On Site | May 11 |
-| **[Qlarant](https://www.qlarant.com/)** | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a0225f4c2ffb31f4536a0d5?utm_campaign=1052&utm_source=git)** | TX Home Based | Hybrid | May 11 |
-| ↳ | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a0225f4c2ffb31f4536a0d7?utm_campaign=1052&utm_source=git)** | TX | Hybrid | May 11 |
-| ↳ | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a0225f4c2ffb31f4536a0d8?utm_campaign=1052&utm_source=git)** | US | Hybrid | May 11 |
+| **[Qlarant](https://www.qlarant.com/)** | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a0225f4c2ffb31f4536a0d7?utm_campaign=1052&utm_source=git)** | TX | Hybrid | May 11 |
 | ↳ | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a0225f4c2ffb31f4536a0d6?utm_campaign=1052&utm_source=git)** | United States | Remote | May 11 |
+| ↳ | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a0225f4c2ffb31f4536a0d8?utm_campaign=1052&utm_source=git)** | US | Hybrid | May 11 |
+| ↳ | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a0225f4c2ffb31f4536a0d5?utm_campaign=1052&utm_source=git)** | TX Home Based | Hybrid | May 11 |
 | **[AV](https://www.avinc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a022571238f143e83530cbc?utm_campaign=1052&utm_source=git)** | 410 Jan Davis Drive NorthWest, Huntsville, AL, US | On Site | May 11 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a022566fa1aa73213d96fe0?utm_campaign=1052&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | May 11 |
 | **[Qlarant](https://www.qlarant.com/)** | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a022389c2ffb31f45369e5a?utm_campaign=1052&utm_source=git)** | TX Dallas Office, Dallas, TX, US | Hybrid | May 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/69ab64fc7e1fab39d382ea9f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | May 10 |
 | **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/69c89712e565c26a7002faf8?utm_campaign=1052&utm_source=git)** | Cumberland, MD | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 Temporary Financial Data & Strategy Intern- Endwell, NY](https://jobright.ai/jobs/info/6a00cd11c2ffb31f45363a4c?utm_campaign=1052&utm_source=git)** | NY, US | On Site | May 10 |
-| **[Withum](http://www.withum.com)** | **[Summer Interns 2026](https://jobright.ai/jobs/info/68cf15dc846f0b04af67f414?utm_campaign=1052&utm_source=git)** | Princeton, NJ | On Site | May 10 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e4ba4bf8fa2f3ec329c4e3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 10 |
-| **[American Packaging Corporation](https://americanpackaging.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a023ac6df52f1450d848c76?utm_campaign=1052&utm_source=git)** | Story City, IA, US | On Site | May 10 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Florham Park (49597)](https://jobright.ai/jobs/info/69716a25333b6343a14df2c7?utm_campaign=1052&utm_source=git)** | Voorhees, NJ | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

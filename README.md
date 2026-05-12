@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Honest Health](https://honesthealth.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69e6b37c3aa0c47964395ac0?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Financial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6a03574422395b6dc6d938b6?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
+| **[AccuWeather](http://www.accuweather.com)** | **[FP&A Internship](https://jobright.ai/jobs/info/6a03573b7c753c287f6e60cc?utm_campaign=1052&utm_source=git)** | State College, PA | On Site | May 12 |
+| **[Golden Oaks Law Group, LLP](https://goldenoakslawgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a035698ed6a637463f4ee4c?utm_campaign=1052&utm_source=git)** | Upland, CA | On Site | May 12 |
+| **[Group One Trading](http://group1.com)** | **[Dynamex Trading Operations Intern](https://jobright.ai/jobs/info/6a03557cbc4184089f231615?utm_campaign=1052&utm_source=git)** | New York,NY,US | On Site | May 12 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern – Asset Management/ESG (2 Positions)](https://jobright.ai/jobs/info/6a0350566c07461fe1702a57?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 12 |
+| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034fa5bc4184089f2311a4?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 12 |
+| ↳ | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034fa4bc4184089f23119d?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | May 12 |
+| ↳ | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034f8bed6a637463f4e87e?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 12 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Corporate Tax](https://jobright.ai/jobs/info/6a034a19bc4184089f231062?utm_campaign=1052&utm_source=git)** | Iselin, US | Hybrid | May 12 |
+| **[Hunter Fan Company](http://www.hunterfan.com)** | **[Accounts Payable Specialist (Intern)](https://jobright.ai/jobs/info/6a034a0422395b6dc6d9302a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | May 12 |
+| **[Honest Health](https://honesthealth.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a0349f0f3d6cc51d63753e7?utm_campaign=1052&utm_source=git)** | Remote, US | Remote | May 12 |
+| ↳ | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69e6b37c3aa0c47964395ac0?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
 | **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[2026 Summer Intern - Finance (U.S. Business Unit)](https://jobright.ai/jobs/info/69cb1743466f1e133aacac9b?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | May 12 |
 | **[CMCO Brasil](https://www.cmco.com/pt-br/)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a03442422395b6dc6d92d38?utm_campaign=1052&utm_source=git)** | Hartland, WI | On Site | May 12 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[ASPIRE Commercial Banking - Real Estate Banking - Fall 2026 Co-op / Internship Toronto](https://jobright.ai/jobs/info/69e715779b6eb37e26f82f1c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
@@ -126,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/69bc8c5045e08b3dc1f94a55?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | May 11 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0255ee238f143e83533530?utm_campaign=1052&utm_source=git)** | Minneapolis, Minnesota | On Site | May 11 |
 | **[HCVT](http://www.hcvt.com)** | **[International Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a0255a5fa1aa73213d99793?utm_campaign=1052&utm_source=git)** | Glendale, CA; Irvine, CA | Hybrid | May 11 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[ACCOUNTANT INTERNSHIP (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6a03117dbc4184089f22ee8e?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | May 11 |
 | **[Sanmina](https://www.sanmina.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a030bff6c07461fe16ffe0f?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | May 11 |
 | **[AV](https://www.avinc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a0311b96c07461fe1700680?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | May 11 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2028 - Fox Cities, WI](https://jobright.ai/jobs/info/6a024e393053db70a1176c0c?utm_campaign=1052&utm_source=git)** | Oshkosh, WI, US | On Site | May 11 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Accounting Intern - Denver, CO (Fall 2026)](https://jobright.ai/jobs/info/6a02433afa1aa73213d98a63?utm_campaign=1052&utm_source=git)** | 6312 S Fiddlers Green Cir Ste 510N, Greenwood Village, CO, 80111, US | On Site | May 11 |
 | **[flyExclusive](https://www.flyexclusive.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a02407bdf52f1450d849062?utm_campaign=1052&utm_source=git)** | Raleigh, NC  - Raleigh , NC 27609 | On Site | May 11 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a023f09c4b08448a0b2498a?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | May 11 |
-| **[PNC](http://www.pnc.com)** | **[Graduate Intern, Economic Scenario Design, Chief Investment Office (CIO) (Non-Campus)](https://jobright.ai/jobs/info/6a023a743053db70a1175d97?utm_campaign=1052&utm_source=git)** | NY - New York (10173), US | On Site | May 11 |
-| **[Revvity](https://www.revvity.com/)** | **[Accounting Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6a023a6b3053db70a1175d6c?utm_campaign=1052&utm_source=git)** | San Diego - BioLegend, US | On Site | May 11 |
-| **[altafiber](https://www.altafiber.com)** | **[Accounting and Financial Reporting Fall Intern](https://jobright.ai/jobs/info/6a030cea6c07461fe1700293?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 11 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Corporate Finance](https://jobright.ai/jobs/info/698103eb7f40342e15d9dd8a?utm_campaign=1052&utm_source=git)** | Port Washington, NY | On Site | May 11 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Year-Round Finance-Intern, Oracle Business Support](https://jobright.ai/jobs/info/6a022ea0fa1aa73213d97688?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | May 11 |
-| **[Alchemy Insurance Solutions, LLC](https://alchemyins.com/)** | **[Remote Underwriter Internship](https://jobright.ai/jobs/info/6a030bbb22395b6dc6d905bf?utm_campaign=1052&utm_source=git)** | Lancaster, PA | Remote | May 11 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Financial Service Intern](https://jobright.ai/jobs/info/6a022b57df52f1450d847eae?utm_campaign=1052&utm_source=git)** | La Crosse, Wisconsin, United States of America | On Site | May 11 |
-| **[Minnesota Valley Transit Authority](https://www.mvta.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a022630fa1aa73213d97048?utm_campaign=1052&utm_source=git)** | Burnsville, MN, US | On Site | May 11 |
-| **[altafiber](https://www.altafiber.com)** | **[Accounting and Financial Reporting Fall Intern](https://jobright.ai/jobs/info/6a0225f8c2ffb31f4536a0dc?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, 45202, United States | On Site | May 11 |
-| **[Qlarant](https://www.qlarant.com/)** | **[Summer 2026 Intern - Audit/Investigation](https://jobright.ai/jobs/info/6a0225f4c2ffb31f4536a0d8?utm_campaign=1052&utm_source=git)** | US | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

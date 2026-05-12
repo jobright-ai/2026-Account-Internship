@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Intern - Chattanooga](https://jobright.ai/jobs/info/6a03ade622395b6dc6d97370?utm_campaign=1052&utm_source=git)** | 08 Chattanooga - Chattanooga, TN 37402 | On Site | May 12 |
+| **[Onex](http://onex.com)** | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a03aa6bbc4184089f234bba?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
+| **[American Arbitration Association](https://www.adr.org)** | **[Financial Technology Intern](https://jobright.ai/jobs/info/6a03a81b6c07461fe1706472?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 12 |
+| **[UNFI](http://unfi.com)** | **[Finance Summer Internship - MN or RI](https://jobright.ai/jobs/info/6a03a7b88ecfd93cd9c10839?utm_campaign=1052&utm_source=git)** | Providence, RI | Hybrid | May 12 |
+| **[Holland Applied Technologies](https://hollandapt.com)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/6a03a6b27c753c287f6e91dc?utm_campaign=1052&utm_source=git)** | Burr Ridge, IL | On Site | May 12 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Summer Internship, Finance, Retail Decision Support](https://jobright.ai/jobs/info/6a03a4af22395b6dc6d96ac9?utm_campaign=1052&utm_source=git)** | Nutrien Saskatoon Corporate Office | On Site | May 12 |
+| **[Aqua](https://www.aquawater.com/)** | **[Finance Internship - People's Natural Gas](https://jobright.ai/jobs/info/6a03a30a7c753c287f6e9097?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 12 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6a039c8722395b6dc6d96791?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | May 12 |
 | **[Cortland](https://cortland.com)** | **[Investments Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a039c7922395b6dc6d96760?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a039c5a22395b6dc6d9671e?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | May 12 |
@@ -73,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[MANTECH](https://www.mantech.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a03908d7c753c287f6e8710?utm_campaign=1052&utm_source=git)** | USA-VA-Herndon | Hybrid | May 12 |
 | **[Varda Space Industries](http://varda.com)** | **[Financial Analyst Internship - Fall 2026](https://jobright.ai/jobs/info/6a038f1ff3d6cc51d6377ff3?utm_campaign=1052&utm_source=git)** | El Segundo, California, United States | On Site | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a038eb822395b6dc6d95cd5?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | May 12 |
-| ↳ | **[Tax Intern - Spring 2028 - Dixon, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f81e?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | May 12 |
 | ↳ | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f819?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | May 12 |
+| ↳ | **[Tax Intern - Spring 2028 - Dixon, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f81e?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | May 12 |
 | **[American Landmark Apartments](https://www.alapts.com/)** | **[Capital Markets Summer Intern/Analyst - Manhattan, NY - Paid](https://jobright.ai/jobs/info/6a038e1122395b6dc6d95c35?utm_campaign=1052&utm_source=git)** | Manhattan, New York, NY, US | On Site | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2028 - Indianapolis, IN](https://jobright.ai/jobs/info/6a038decbc4184089f23382a?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 12 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6a038dad6c07461fe170529c?utm_campaign=1052&utm_source=git)** | Los Angeles Office, KFO | Hybrid | May 12 |
@@ -111,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: Accounting Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a0369efed6a637463f4f6be?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | May 12 |
 | **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/6a036834bc4184089f232050?utm_campaign=1052&utm_source=git)** | Topeka, Kansas, US | On Site | May 12 |
 | **[DP World](https://www.dpworld.com/)** | **[Intern Finance](https://jobright.ai/jobs/info/6a03663f7c753c287f6e6960?utm_campaign=1052&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | May 12 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Financial Technology Intern](https://jobright.ai/jobs/info/6a038efaf3d6cc51d6377f4f?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Accountant Intern](https://jobright.ai/jobs/info/69e6ec55f8fa2f3ec32a3f97?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69e6d5cfe0cd471b2f127a8f?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | May 12 |
 | **[Heart City Health](https://www.heartcityhealth.org)** | **[Accounts Payable Assistant - Intern](https://jobright.ai/jobs/info/6a035ef37c753c287f6e665a?utm_campaign=1052&utm_source=git)** | Elkhart, IN, US | On Site | May 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a033eccbc4184089f23091f?utm_campaign=1052&utm_source=git)** | Champaign, IL, US | On Site | May 12 |
 | ↳ | **[Tax and Audit Intern - Spring 2028 - Indianapolis, IN](https://jobright.ai/jobs/info/6a033eb4ed6a637463f4e1b5?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | May 12 |
 | ↳ | **[Tax Intern - Spring 2028 - Dixon, IL](https://jobright.ai/jobs/info/6a033eb3ed6a637463f4e1b1?utm_campaign=1052&utm_source=git)** | Dixon, IL, US | On Site | May 12 |
-| ↳ | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a033eaeed6a637463f4e1a4?utm_campaign=1052&utm_source=git)** | Bloomington, IL, US | On Site | May 12 |
-| ↳ | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a033ea96c07461fe17022a6?utm_campaign=1052&utm_source=git)** | Peoria, IL, US | On Site | May 12 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a033e736c07461fe170220f?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 12 |
-| **[BiggsKofford](https://www.biggskofford.com/)** | **[Audit Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/69ca52698fc6090c5d44cff1?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | May 12 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Internal Audit Summer Intern](https://jobright.ai/jobs/info/6a033d406c07461fe1701f55?utm_campaign=1052&utm_source=git)** | New York, United States - Remote, US | Remote | May 12 |
-| **[YES! Communities](http://www.yescommunities.com/)** | **[*Internal Audit Intern](https://jobright.ai/jobs/info/6a032051ed6a637463f4cd60?utm_campaign=1052&utm_source=git)** | 5050 S Syracuse St, Denver, CO 80237, USA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

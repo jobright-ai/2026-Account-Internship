@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a0463f37c753c287f6eebe7?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6a046322f811a0436960a18d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | May 13 |
+| ↳ | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6a04631f22395b6dc6d9c469?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | May 13 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e76a1a3aa0c47964399f1f?utm_campaign=1052&utm_source=git)** | Springfield, OH | On Site | May 13 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Finance Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a045528f811a0436960954e?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
+| ↳ | **[2027 Finance Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a045524bc4184089f239ab6?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | May 13 |
 | **[TAG Heuer](http://www.tagheuer.com/)** | **[Retail Operations Intern (12 Month Assignment)](https://jobright.ai/jobs/info/69d690f2e63cea7a8b669ae7?utm_campaign=1052&utm_source=git)** | Springfield, NJ | On Site | May 13 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e77dea0a6e09555302abc9?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | May 13 |
 | ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e77de80a6e09555302abc8?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | May 13 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Finance Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a0454b2f3d6cc51d637dca1?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | May 13 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a045481f3d6cc51d637dc06?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 13 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Savannah, GA](https://jobright.ai/jobs/info/69e98a6358811370cb12e492?utm_campaign=1052&utm_source=git)** | 22 Savannah - Savannah, GA 31405 | On Site | May 13 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a043365bc4184089f238f2d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 13 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a043331f811a043696089b9?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 13 |
@@ -102,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Holland Applied Technologies](https://hollandapt.com)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/6a03a6b27c753c287f6e91dc?utm_campaign=1052&utm_source=git)** | Burr Ridge, IL | On Site | May 12 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Summer Internship, Finance, Retail Decision Support](https://jobright.ai/jobs/info/6a03a4af22395b6dc6d96ac9?utm_campaign=1052&utm_source=git)** | Nutrien Saskatoon Corporate Office | On Site | May 12 |
 | **[Aqua](https://www.aquawater.com/)** | **[Finance Internship - People's Natural Gas](https://jobright.ai/jobs/info/6a03a30a7c753c287f6e9097?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 12 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6a039c8722395b6dc6d96791?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a039c5a22395b6dc6d9671e?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | May 12 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Finance & Accounting Year- Round Intern: Chicken Segment](https://jobright.ai/jobs/info/6a03960ebc4184089f2340aa?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | May 12 |
 | **[Delinea](https://delinea.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a039605f3d6cc51d637858a?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
@@ -118,11 +122,10 @@ For a complete list, click the following sortable link below:
 | **[MANTECH](https://www.mantech.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a03908d7c753c287f6e8710?utm_campaign=1052&utm_source=git)** | USA-VA-Herndon | Hybrid | May 12 |
 | **[Varda Space Industries](http://varda.com)** | **[Financial Analyst Internship - Fall 2026](https://jobright.ai/jobs/info/6a038f1ff3d6cc51d6377ff3?utm_campaign=1052&utm_source=git)** | El Segundo, California, United States | On Site | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a038eb822395b6dc6d95cd5?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | May 12 |
-| ↳ | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f819?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | May 12 |
 | ↳ | **[Tax Intern - Spring 2028 - Dixon, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f81e?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | May 12 |
+| ↳ | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f819?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | May 12 |
 | **[American Landmark Apartments](https://www.alapts.com/)** | **[Capital Markets Summer Intern/Analyst - Manhattan, NY - Paid](https://jobright.ai/jobs/info/6a038e1122395b6dc6d95c35?utm_campaign=1052&utm_source=git)** | Manhattan, New York, NY, US | On Site | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2028 - Indianapolis, IN](https://jobright.ai/jobs/info/6a038decbc4184089f23382a?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 12 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6a038dad6c07461fe170529c?utm_campaign=1052&utm_source=git)** | Los Angeles Office, KFO | Hybrid | May 12 |
 | **[Shoppa's Material Handling](https://www.shoppasmaterialhandling.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a03859a8ecfd93cd9c0f22d?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | May 12 |
 | **[Aqua](https://www.aquawater.com/)** | **[Finance Internship - People's Natural Gas](https://jobright.ai/jobs/info/6a03851622395b6dc6d95588?utm_campaign=1052&utm_source=git)** | PA NORTH SHORE - 375, US | On Site | May 12 |
 | **[Hannibal Regional](https://hospital.hannibalregional.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a038513bc4184089f233257?utm_campaign=1052&utm_source=git)** | Hannibal, MO | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/6a036834bc4184089f232050?utm_campaign=1052&utm_source=git)** | Topeka, Kansas, US | On Site | May 12 |
 | **[DP World](https://www.dpworld.com/)** | **[Intern Finance](https://jobright.ai/jobs/info/6a03663f7c753c287f6e6960?utm_campaign=1052&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | May 12 |
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Accountant Intern](https://jobright.ai/jobs/info/69e6ec55f8fa2f3ec32a3f97?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69e6d5cfe0cd471b2f127a8f?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | May 12 |
-| **[Heart City Health](https://www.heartcityhealth.org)** | **[Accounts Payable Assistant - Intern](https://jobright.ai/jobs/info/6a035ef37c753c287f6e665a?utm_campaign=1052&utm_source=git)** | Elkhart, IN, US | On Site | May 12 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

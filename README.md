@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TAG Heuer](http://www.tagheuer.com/)** | **[Retail Operations Intern (12 Month Assignment)](https://jobright.ai/jobs/info/69d690f2e63cea7a8b669ae7?utm_campaign=1052&utm_source=git)** | Springfield, NJ | On Site | May 13 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e77dea0a6e09555302abc9?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | May 13 |
+| ↳ | **[Tax Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e77de80a6e09555302abc8?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | May 13 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Finance Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a0454b2f3d6cc51d637dca1?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | May 13 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a045481f3d6cc51d637dc06?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 13 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Savannah, GA](https://jobright.ai/jobs/info/69e98a6358811370cb12e492?utm_campaign=1052&utm_source=git)** | 22 Savannah - Savannah, GA 31405 | On Site | May 13 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a043365bc4184089f238f2d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 13 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a043331f811a043696089b9?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 13 |
@@ -113,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[MANTECH](https://www.mantech.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a03908d7c753c287f6e8710?utm_campaign=1052&utm_source=git)** | USA-VA-Herndon | Hybrid | May 12 |
 | **[Varda Space Industries](http://varda.com)** | **[Financial Analyst Internship - Fall 2026](https://jobright.ai/jobs/info/6a038f1ff3d6cc51d6377ff3?utm_campaign=1052&utm_source=git)** | El Segundo, California, United States | On Site | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a038eb822395b6dc6d95cd5?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | May 12 |
-| ↳ | **[Tax Intern - Spring 2028 - Dixon, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f81e?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | May 12 |
 | ↳ | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f819?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | May 12 |
+| ↳ | **[Tax Intern - Spring 2028 - Dixon, IL](https://jobright.ai/jobs/info/6a038eb58ecfd93cd9c0f81e?utm_campaign=1052&utm_source=git)** | Dixon, IL | On Site | May 12 |
 | **[American Landmark Apartments](https://www.alapts.com/)** | **[Capital Markets Summer Intern/Analyst - Manhattan, NY - Paid](https://jobright.ai/jobs/info/6a038e1122395b6dc6d95c35?utm_campaign=1052&utm_source=git)** | Manhattan, New York, NY, US | On Site | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2028 - Indianapolis, IN](https://jobright.ai/jobs/info/6a038decbc4184089f23382a?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 12 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6a038dad6c07461fe170529c?utm_campaign=1052&utm_source=git)** | Los Angeles Office, KFO | Hybrid | May 12 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Accountant Intern](https://jobright.ai/jobs/info/69e6ec55f8fa2f3ec32a3f97?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69e6d5cfe0cd471b2f127a8f?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | May 12 |
 | **[Heart City Health](https://www.heartcityhealth.org)** | **[Accounts Payable Assistant - Intern](https://jobright.ai/jobs/info/6a035ef37c753c287f6e665a?utm_campaign=1052&utm_source=git)** | Elkhart, IN, US | On Site | May 12 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d33?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 12 |
-| ↳ | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 12 |
-| **[Cherokee Federal](https://cherokee-federal.com)** | **[Intern Finance](https://jobright.ai/jobs/info/6a035bbc6c07461fe17033a1?utm_campaign=1052&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | May 12 |
-| **[Sunrise Credit Services, Inc.](https://www.sunrisecreditservices.com)** | **[Entry Level Debt Collectors - F/T-P/T](https://jobright.ai/jobs/info/6a035a99ed6a637463f4f358?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | May 12 |
-| **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, Assurance and Accounting (Winter 2027)](https://jobright.ai/jobs/info/69af714b749500645093e1be?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | May 12 |
-| **[Honest Health](https://honesthealth.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a035a6eed6a637463f4f2d5?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

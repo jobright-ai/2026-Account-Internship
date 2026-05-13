@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Orlando, FL](https://jobright.ai/jobs/info/6a03dcf822395b6dc6d98425?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | May 12 |
+| ↳ | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/6a03dbc0f3d6cc51d637a269?utm_campaign=1052&utm_source=git)** | Sheboygan, WI | On Site | May 12 |
+| ↳ | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/6a03dbaf6c07461fe1707c18?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | May 12 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a03d58af3d6cc51d637a176?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | May 12 |
 | **[Revvity](https://www.revvity.com/)** | **[Accounting Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6a03d56bf3d6cc51d637a0e8?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 12 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Corporate Tax](https://jobright.ai/jobs/info/6a03d1e36c07461fe1707ab7?utm_campaign=1052&utm_source=git)** | Iselin, NJ | Hybrid | May 12 |
@@ -73,6 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Qabas | Consulting & Training](https://qbs.ly/)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/6a03b0818ecfd93cd9c10f9e?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | May 12 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Intern - Chattanooga](https://jobright.ai/jobs/info/6a03ade622395b6dc6d97370?utm_campaign=1052&utm_source=git)** | 08 Chattanooga - Chattanooga, TN 37402 | On Site | May 12 |
 | **[Onex](http://onex.com)** | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a03aa6bbc4184089f234bba?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Summer Internship, Finance, Retail Decision Support](https://jobright.ai/jobs/info/6a03dcf422395b6dc6d98412?utm_campaign=1052&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | May 12 |
+| ↳ | **[Summer Internship, Finance, Retail Decision Support](https://jobright.ai/jobs/info/6a03dbc5f3d6cc51d637a280?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 12 |
 | **[Holland Applied Technologies](https://hollandapt.com)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/6a03a6b27c753c287f6e91dc?utm_campaign=1052&utm_source=git)** | Burr Ridge, IL | On Site | May 12 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Summer Internship, Finance, Retail Decision Support](https://jobright.ai/jobs/info/6a03a4af22395b6dc6d96ac9?utm_campaign=1052&utm_source=git)** | Nutrien Saskatoon Corporate Office | On Site | May 12 |
 | **[Aqua](https://www.aquawater.com/)** | **[Finance Internship - People's Natural Gas](https://jobright.ai/jobs/info/6a03a30a7c753c287f6e9097?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 12 |
@@ -132,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Accountant Intern](https://jobright.ai/jobs/info/69e6ec55f8fa2f3ec32a3f97?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69e6d5cfe0cd471b2f127a8f?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | May 12 |
 | **[Heart City Health](https://www.heartcityhealth.org)** | **[Accounts Payable Assistant - Intern](https://jobright.ai/jobs/info/6a035ef37c753c287f6e665a?utm_campaign=1052&utm_source=git)** | Elkhart, IN, US | On Site | May 12 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d33?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 12 |
-| ↳ | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 12 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 12 |
+| ↳ | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d33?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 12 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Intern Finance](https://jobright.ai/jobs/info/6a035bbc6c07461fe17033a1?utm_campaign=1052&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | May 12 |
 | **[Sunrise Credit Services, Inc.](https://www.sunrisecreditservices.com)** | **[Entry Level Debt Collectors - F/T-P/T](https://jobright.ai/jobs/info/6a035a99ed6a637463f4f358?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | May 12 |
 | **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, Assurance and Accounting (Winter 2027)](https://jobright.ai/jobs/info/69af714b749500645093e1be?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | May 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hunter Fan Company](http://www.hunterfan.com)** | **[Accounts Payable Specialist (Intern)](https://jobright.ai/jobs/info/6a034a0422395b6dc6d9302a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | May 12 |
 | **[Honest Health](https://honesthealth.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a0349f0f3d6cc51d63753e7?utm_campaign=1052&utm_source=git)** | Remote, US | Remote | May 12 |
 | ↳ | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69e6b37c3aa0c47964395ac0?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
-| **[Hudbay Minerals U.S. Business Unit](http://www.hudbayminerals.com/English/Our-Business/Arizona/default.aspx)** | **[2026 Summer Intern - Finance (U.S. Business Unit)](https://jobright.ai/jobs/info/69cb1743466f1e133aacac9b?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | May 12 |
-| **[CMCO Brasil](https://www.cmco.com/pt-br/)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a03442422395b6dc6d92d38?utm_campaign=1052&utm_source=git)** | Hartland, WI | On Site | May 12 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[ASPIRE Commercial Banking - Real Estate Banking - Fall 2026 Co-op / Internship Toronto](https://jobright.ai/jobs/info/69e715779b6eb37e26f82f1c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e66533f8fa2f3ec32a1a49?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | May 12 |
-| **[NORMA Group](http://normagroup.com/)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/69e65e967820c036924cfef4?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Savannah, GA](https://jobright.ai/jobs/info/69e98a6358811370cb12e492?utm_campaign=1052&utm_source=git)** | 22 Savannah - Savannah, GA 31405 | On Site | May 13 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a043365bc4184089f238f2d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 13 |
+| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a043331f811a043696089b9?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 13 |
+| **[Choice Digital Corp](https://choicedigital.co)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a04319d6c07461fe170a9b3?utm_campaign=1052&utm_source=git)** | Broomfield, CO | On Site | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Internship - Undergraduate Accounting (DPW)](https://jobright.ai/jobs/info/6a04289d7c753c287f6ed73f?utm_campaign=1052&utm_source=git)** | San Rafael, CA | Hybrid | May 13 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[UC Investments - Investments Fellow AI Initiatives](https://jobright.ai/jobs/info/6a0424cf7c753c287f6ed5a7?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | May 13 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Corporate Services](https://jobright.ai/jobs/info/6a0413b0f3d6cc51d637c351?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
@@ -123,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Accounting](https://jobright.ai/jobs/info/69af6b12749500645093dffe?utm_campaign=1052&utm_source=git)** | Lost Hills, CA | On Site | May 12 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Internship – Office of Internal Oversight (OIO)](https://jobright.ai/jobs/info/6a037d59f3d6cc51d63770ba?utm_campaign=1052&utm_source=git)** | Montreal, QC, Canada | On Site | May 12 |
 | **[Piping Technology & Products, Inc.](http://www.pipingtech.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a0378b57c753c287f6e757a?utm_campaign=1052&utm_source=git)** | Houston,TX,US | On Site | May 12 |
-| **[DP World](https://www.dpworld.com/)** | **[Intern Finance](https://jobright.ai/jobs/info/6a0378b1f3d6cc51d6376f6a?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | May 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern – Asset Management/ESG (2 Positions)](https://jobright.ai/jobs/info/6a03788df3d6cc51d6376ec8?utm_campaign=1052&utm_source=git)** | Manhattan, NY | On Site | May 12 |
 | **[Dossier Perfumes](https://dossier.co/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a039c8722395b6dc6d9678f?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | May 12 |
 | **[International Civil Aviation Organization](http://icao.int)** | **[Internship – Office of Internal Oversight (OIO)](https://jobright.ai/jobs/info/6a0377ea6c07461fe17043dd?utm_campaign=1052&utm_source=git)** | Montreal, QC, Canada | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sunrise Credit Services, Inc.](https://www.sunrisecreditservices.com)** | **[Entry Level Debt Collectors - F/T-P/T](https://jobright.ai/jobs/info/6a035a99ed6a637463f4f358?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | May 12 |
 | **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, Assurance and Accounting (Winter 2027)](https://jobright.ai/jobs/info/69af714b749500645093e1be?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | May 12 |
 | **[Honest Health](https://honesthealth.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a035a6eed6a637463f4f2d5?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
-| **[Accion](http://www.accion.org)** | **[Investment Intern, Emerge](https://jobright.ai/jobs/info/69effc44fbe0994a40eb9cd5?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 12 |
-| **[Longfellow Investment Management](https://longfellowim.com/)** | **[Sustainable Investing Summer Intern](https://jobright.ai/jobs/info/6a0358b46c07461fe17030d7?utm_campaign=1052&utm_source=git)** | 125 High Street suite 832, Boston, MA 02110, USA | On Site | May 12 |
-| **[LCG Advisors](https://lcgadvisors.com/)** | **[Finance Intern - Small Business Services](https://jobright.ai/jobs/info/6a0358a97c753c287f6e6137?utm_campaign=1052&utm_source=git)** | REMOTE-United States | Remote | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

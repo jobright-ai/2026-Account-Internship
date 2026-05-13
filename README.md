@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Firstrust Bank](https://www.firstrust.com/)** | **[Business Banking Intern](https://jobright.ai/jobs/info/6a04c0e6bc4184089f23e62c?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | Hybrid | May 13 |
+| **[Univeris](http://www.univeris.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a04c00f22395b6dc6da04ba?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a04beb1bc4184089f23e3cc?utm_campaign=1052&utm_source=git)** | Buffalo, NY, US | On Site | May 13 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer Finance-Intern, Accounting](https://jobright.ai/jobs/info/6a04ba7922395b6dc6da0125?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | May 13 |
+| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Finance](https://jobright.ai/jobs/info/69b0679174950064509695e8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
+| **[pSemi, A Murata Company](http://www.psemi.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6a04ba1bbc4184089f23e12b?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 13 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Fall Intern - Corporate Development](https://jobright.ai/jobs/info/6a04b7ffbc4184089f23e06d?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[B&G Foods Inc.](http://bgfoods.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a04b585bc4184089f23dfd7?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | On Site | May 13 |
 | **[Savista](https://www.savistarcm.com)** | **[Finance - Intern](https://jobright.ai/jobs/info/6a04b07a6c07461fe170fd24?utm_campaign=1052&utm_source=git)** | United States | Remote | May 13 |
@@ -91,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - Akron/Canton](https://jobright.ai/jobs/info/6a04944abc4184089f23cc23?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | May 13 |
 | **[BB Energy](https://bbenergy.com)** | **[Accounting Intern (Summer Internship)](https://jobright.ai/jobs/info/6a0494266c07461fe170eb36?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 13 |
 | **[Vaxcyte](http://www.vaxcyte.com)** | **[Summer Intern, Accounting](https://jobright.ai/jobs/info/69e848944b0fa35a70761fe8?utm_campaign=1052&utm_source=git)** | San Carlos, CA | On Site | May 13 |
+| **[Stadler](http://www.stadlerrail.com/)** | **[Accounts Payable Intern – Salt Lake City, UT](https://jobright.ai/jobs/info/69fad9ff87a4820e6da82690?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 13 |
 | **[IDC](http://www.idc.com)** | **[Quote To Cash Intern](https://jobright.ai/jobs/info/6a04917cbc4184089f23c896?utm_campaign=1052&utm_source=git)** | US-MA-Boston | Hybrid | May 13 |
 | **[Gustave A. Larson](http://galarson.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a04910322395b6dc6d9e821?utm_campaign=1052&utm_source=git)** | Pewaukee, Pewaukee, WI, US | On Site | May 13 |
 | **[BGM](https://bgm360.com)** | **[2027 Tax Season Internship- West Des Moines](https://jobright.ai/jobs/info/6a049066f3d6cc51d638083f?utm_campaign=1052&utm_source=git)** | West Des Moines, Iowa, United States | On Site | May 13 |
@@ -106,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Investment Grade Finance & Corporate Sales](https://jobright.ai/jobs/info/69431fb350bbaf765054f7c4?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - Akron/Canton](https://jobright.ai/jobs/info/6a0494077c753c287f6f1422?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | May 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Counterparty Credit Risk Intern (4 Months)](https://jobright.ai/jobs/info/69e7efe83aa0c4796439cd00?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
-| ↳ | **[2026 Fall - GRM, Analyst - Portfolio Insight and Risk Oversight Intern (4 Months)](https://jobright.ai/jobs/info/69e7f02958811370cb11f733?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | ↳ | **[2026 Fall - GRM, Local Market Risk Intern (4 Months)](https://jobright.ai/jobs/info/69e7f02c7820c036924d93b9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
+| ↳ | **[2026 Fall - GRM, Analyst - Portfolio Insight and Risk Oversight Intern (4 Months)](https://jobright.ai/jobs/info/69e7f02958811370cb11f733?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Wealth Management - Finance Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e7efbe3aa0c4796439cc79?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 13 |
 | **[B&G Foods Inc.](http://bgfoods.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a046ca822395b6dc6d9c819?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, US | On Site | May 13 |
 | **[Blackbird Labs](https://www.blackbird.xyz)** | **[Junior Analyst](https://jobright.ai/jobs/info/69e8bbfe7820c036924e285a?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | May 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/6a03b57a8ecfd93cd9c112fe?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 12 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Intern - Chattanooga](https://jobright.ai/jobs/info/6a03ade622395b6dc6d97370?utm_campaign=1052&utm_source=git)** | 08 Chattanooga - Chattanooga, TN 37402 | On Site | May 12 |
 | **[Onex](http://onex.com)** | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a03aa6bbc4184089f234bba?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Summer Internship, Finance, Retail Decision Support](https://jobright.ai/jobs/info/6a03dcf422395b6dc6d98412?utm_campaign=1052&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | May 12 |
-| ↳ | **[Summer Internship, Finance, Retail Decision Support](https://jobright.ai/jobs/info/6a03dbc5f3d6cc51d637a280?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 12 |
-| **[Holland Applied Technologies](https://hollandapt.com)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/6a03a6b27c753c287f6e91dc?utm_campaign=1052&utm_source=git)** | Burr Ridge, IL | On Site | May 12 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Summer Internship, Finance, Retail Decision Support](https://jobright.ai/jobs/info/6a03a4af22395b6dc6d96ac9?utm_campaign=1052&utm_source=git)** | Nutrien Saskatoon Corporate Office | On Site | May 12 |
-| **[Aqua](https://www.aquawater.com/)** | **[Finance Internship - People's Natural Gas](https://jobright.ai/jobs/info/6a03a30a7c753c287f6e9097?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 12 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Bloomington/Champaign/Peoria, IL](https://jobright.ai/jobs/info/6a039c5a22395b6dc6d9671e?utm_campaign=1052&utm_source=git)** | Champaign, IL | On Site | May 12 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Finance & Accounting Year- Round Intern: Chicken Segment](https://jobright.ai/jobs/info/6a03960ebc4184089f2340aa?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

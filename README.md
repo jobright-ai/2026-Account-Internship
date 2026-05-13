@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Arbitration Association](https://www.adr.org)** | **[Financial Technology Intern](https://jobright.ai/jobs/info/6a041c706c07461fe170a37c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 12 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Internship - Undergraduate Accounting (DPW)](https://jobright.ai/jobs/info/6a04289d7c753c287f6ed73f?utm_campaign=1052&utm_source=git)** | San Rafael, CA | Hybrid | May 13 |
+| **[University of California Office of the President](https://www.ucop.edu)** | **[UC Investments - Investments Fellow AI Initiatives](https://jobright.ai/jobs/info/6a0424cf7c753c287f6ed5a7?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | May 13 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Corporate Services](https://jobright.ai/jobs/info/6a0413b0f3d6cc51d637c351?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
+| **[MGM Resorts International](http://mgmresorts.com)** | **[Internal Audit Work Experience Program - Internship](https://jobright.ai/jobs/info/6a0420147c753c287f6ed33b?utm_campaign=1052&utm_source=git)** | Landry Office, New Brunswick, Canada | On Site | May 12 |
 | **[Ritchie Bros.](http://www.rbauction.com)** | **[Intern](https://jobright.ai/jobs/info/6a03fc366c07461fe1708e13?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 12 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Corporate Finance](https://jobright.ai/jobs/info/6a03f2f66c07461fe1708b33?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 12 |
 | **[Lennar Mortgage](https://www.lennarmortgage.com/)** | **[LMF - Intern](https://jobright.ai/jobs/info/6a03f188f3d6cc51d637b120?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 12 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Accountant Intern](https://jobright.ai/jobs/info/69e6ec55f8fa2f3ec32a3f97?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69e6d5cfe0cd471b2f127a8f?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | May 12 |
 | **[Heart City Health](https://www.heartcityhealth.org)** | **[Accounts Payable Assistant - Intern](https://jobright.ai/jobs/info/6a035ef37c753c287f6e665a?utm_campaign=1052&utm_source=git)** | Elkhart, IN, US | On Site | May 12 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 12 |
-| ↳ | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d33?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 12 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d33?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 12 |
+| ↳ | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 12 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Intern Finance](https://jobright.ai/jobs/info/6a035bbc6c07461fe17033a1?utm_campaign=1052&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | May 12 |
 | **[Sunrise Credit Services, Inc.](https://www.sunrisecreditservices.com)** | **[Entry Level Debt Collectors - F/T-P/T](https://jobright.ai/jobs/info/6a035a99ed6a637463f4f358?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | May 12 |
 | **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, Assurance and Accounting (Winter 2027)](https://jobright.ai/jobs/info/69af714b749500645093e1be?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Accion](http://www.accion.org)** | **[Investment Intern, Emerge](https://jobright.ai/jobs/info/69effc44fbe0994a40eb9cd5?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[Longfellow Investment Management](https://longfellowim.com/)** | **[Sustainable Investing Summer Intern](https://jobright.ai/jobs/info/6a0358b46c07461fe17030d7?utm_campaign=1052&utm_source=git)** | 125 High Street suite 832, Boston, MA 02110, USA | On Site | May 12 |
 | **[LCG Advisors](https://lcgadvisors.com/)** | **[Finance Intern - Small Business Services](https://jobright.ai/jobs/info/6a0358a97c753c287f6e6137?utm_campaign=1052&utm_source=git)** | REMOTE-United States | Remote | May 12 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Accounting Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a035860bc4184089f23185c?utm_campaign=1052&utm_source=git)** | Greensboro, NC, US, 27409 | On Site | May 12 |
-| **[Golden Oaks Law Group, LLP](https://goldenoakslawgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a035698ed6a637463f4ee4c?utm_campaign=1052&utm_source=git)** | Upland, CA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

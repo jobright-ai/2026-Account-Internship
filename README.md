@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennar Mortgage](https://www.lennarmortgage.com/)** | **[LMF - Intern](https://jobright.ai/jobs/info/6a03f188f3d6cc51d637b120?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 12 |
+| **[Cortland](https://cortland.com)** | **[Investments Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a03efad7c753c287f6eb487?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 12 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Finance Intern; Mount Sinai Health System; Per Diem (HYBRID)](https://jobright.ai/jobs/info/69fb32b438179b6f1ae7692e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 12 |
+| **[Loftware](http://www.loftware.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a03e8e6f811a04369606671?utm_campaign=1052&utm_source=git)** | Portsmouth, NH | Hybrid | May 12 |
+| **[SWBC](https://www.swbc.com)** | **[Investment Services Intern](https://jobright.ai/jobs/info/6a03e8d122395b6dc6d98aea?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | May 12 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Accounting & Finance - Summer 2025 - Los Angeles](https://jobright.ai/jobs/info/6a03e8b1f3d6cc51d637a9b0?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | May 12 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Orlando, FL](https://jobright.ai/jobs/info/6a03dcf822395b6dc6d98425?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | May 12 |
 | ↳ | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/6a03dbc0f3d6cc51d637a269?utm_campaign=1052&utm_source=git)** | Sheboygan, WI | On Site | May 12 |
 | ↳ | **[Tax Intern - Spring 2027 - Northeast WI](https://jobright.ai/jobs/info/6a03dbaf6c07461fe1707c18?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | May 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Group One Trading](http://group1.com)** | **[Dynamex Trading Operations Intern](https://jobright.ai/jobs/info/6a03557cbc4184089f231615?utm_campaign=1052&utm_source=git)** | New York,NY,US | On Site | May 12 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern – Asset Management/ESG (2 Positions)](https://jobright.ai/jobs/info/6a0350566c07461fe1702a57?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 12 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034fa5bc4184089f2311a4?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 12 |
-| ↳ | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034fa4bc4184089f23119d?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | May 12 |
-| ↳ | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034f8bed6a637463f4e87e?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 12 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Corporate Tax](https://jobright.ai/jobs/info/6a034a19bc4184089f231062?utm_campaign=1052&utm_source=git)** | Iselin, US | Hybrid | May 12 |
-| **[Hunter Fan Company](http://www.hunterfan.com)** | **[Accounts Payable Specialist (Intern)](https://jobright.ai/jobs/info/6a034a0422395b6dc6d9302a?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | May 12 |
-| **[Honest Health](https://honesthealth.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a0349f0f3d6cc51d63753e7?utm_campaign=1052&utm_source=git)** | Remote, US | Remote | May 12 |
-| ↳ | **[Strategic Finance Intern](https://jobright.ai/jobs/info/69e6b37c3aa0c47964395ac0?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

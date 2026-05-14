@@ -57,10 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCI](https://www.bci.ca/)** | **[Private Equity Co-op/Internship (Fall 2026 or Winter 2027 or Summer 2027)](https://jobright.ai/jobs/info/6a05779afbf3d169d3c5f3b1?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Payments & Banking Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057799fbf3d169d3c5f3af?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Infrastructure & Renewable Resources Co-op/Internship (Fall 2026 or Winter 2027)](https://jobright.ai/jobs/info/6a057799fbf3d169d3c5f3ae?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | On Site | May 14 |
+| ↳ | **[Finance Co-op/Internship (Fall 2026 and Winter 2027 or Winter and Summer 2027)](https://jobright.ai/jobs/info/6a057798fbf3d169d3c5f3ad?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Capital Markets & Credit Investments - Public Equities Co-op/Internship (Fall 2026 or Winter 2027)](https://jobright.ai/jobs/info/6a0577917c753c287f6f982a?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | On Site | May 14 |
+| ↳ | **[Quantitative Equity Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a05778b6c07461fe1716947?utm_campaign=1052&utm_source=git)** | Vancouver, BC, CA | Hybrid | May 14 |
+| ↳ | **[Performance & Analytics Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a05778bbc4184089f2456fd?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Private Debt Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057789bc4184089f2456f7?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Risk Reporting & Data Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057788a88ea73abf7f1730?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Transactions & Total Portfolio Risk Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057788bc4184089f2456f6?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Liquidity & Counterparty Risk Management Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057788bc4184089f2456f5?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Private Equity Analytics Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577877c753c287f6f9820?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[ESG Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057782f3d6cc51d63894de?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | On Site | May 14 |
+| ↳ | **[Strategic Asset Allocation & Client Relations Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057781f3d6cc51d63894dc?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Investment Risk Modelling  Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a05777ebc4184089f2456f1?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a0573a3f3d6cc51d638932c?utm_campaign=1052&utm_source=git)** | Menlo Park, CA | Hybrid | May 14 |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a056f07fbf3d169d3c5efb2?utm_campaign=1052&utm_source=git)** | Closter, NJ | On Site | May 13 |
 | **[AWM Global Advisors](https://www.awmga.com)** | **[Investment Associate](https://jobright.ai/jobs/info/6a056855a88ea73abf7f0e20?utm_campaign=1052&utm_source=git)** | SD Metro Area | On Site | May 13 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Treasury Intern- Fall 2026](https://jobright.ai/jobs/info/6a0558586c07461fe1715c3b?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 13 |
-| ↳ | **[FP&A Intern- Fall 2026](https://jobright.ai/jobs/info/6a055855a88ea73abf7f0aab?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 13 |
 | ↳ | **[FP&A Intern- Fall 2026](https://jobright.ai/jobs/info/6a055855a88ea73abf7f0aac?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | May 13 |
+| ↳ | **[FP&A Intern- Fall 2026](https://jobright.ai/jobs/info/6a055855a88ea73abf7f0aab?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 13 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69fbefb83160b250eb1ba8d0?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 13 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a0557467c753c287f6f8aa0?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 13 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69fbeff0c39b9a66c0c55607?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 13 |
@@ -135,26 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax and Audit Intern - Spring 2027 - San Antonio, TX](https://jobright.ai/jobs/info/6a04e1737c753c287f6f44db?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | May 13 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Central WI](https://jobright.ai/jobs/info/6a04e1727c753c287f6f44d6?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | May 13 |
 | **[Aircastle](http://www.aircastle.com)** | **[Intern, Pricing](https://jobright.ai/jobs/info/6a04ddd44373b07358a378c0?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | May 13 |
-| **[Axcelis Technologies](http://www.axcelis.com)** | **[Investor Relations and Corporate Strategy Intern](https://jobright.ai/jobs/info/6a04ddcb4373b07358a378af?utm_campaign=1052&utm_source=git)** | Beverly, MA | On Site | May 13 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Finance (Military Operations)](https://jobright.ai/jobs/info/6a04dd296c07461fe1711409?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | May 13 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2028 - Central WI](https://jobright.ai/jobs/info/6a04dd0e22395b6dc6da15fc?utm_campaign=1052&utm_source=git)** | Wausau, WI | On Site | May 13 |
 | ↳ | **[Tax / Audit Intern - Spring 2027 - Western, WI](https://jobright.ai/jobs/info/6a04dcfe22395b6dc6da15bf?utm_campaign=1052&utm_source=git)** | Eau Claire, WI | On Site | May 13 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af3e29dfaeda6ff5975ff2?utm_campaign=1052&utm_source=git)** | Greater Lansing | On Site | May 13 |
 | ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af3e22dfaeda6ff5975fec?utm_campaign=1052&utm_source=git)** | Greater Orlando | On Site | May 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[TSIB - Intern](https://jobright.ai/jobs/info/6a04dcb7f3d6cc51d6383d73?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ, US | Hybrid | May 13 |
-| **[Georgia Transmission](http://gatrans.com)** | **[Co-op/Intern Accounting & Treasury](https://jobright.ai/jobs/info/6a0503814373b07358a39579?utm_campaign=1052&utm_source=git)** | Tucker, GA | On Site | May 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[TSIB - Intern](https://jobright.ai/jobs/info/6a04f965f3d6cc51d6384f4f?utm_campaign=1052&utm_source=git)** | Saddle Brook, NJ | On Site | May 13 |
-| ↳ | **[TSIB - Intern](https://jobright.ai/jobs/info/6a04f7ae7c753c287f6f51b0?utm_campaign=1052&utm_source=git)** | Shelton, CT | On Site | May 13 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69fb792bd21cf86d1e3d3502?utm_campaign=1052&utm_source=git)** | Kennewick, WA | On Site | May 13 |
-| **[Harsco Rail](http://harscorail.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69fb288f38179b6f1ae760d0?utm_campaign=1052&utm_source=git)** | West Columbia, SC | On Site | May 13 |
-| **[Topsort](https://www.topsort.com)** | **[Finance Intern, Accounting](https://jobright.ai/jobs/info/6a04d3657c753c287f6f3dae?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | May 13 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a04d35a7c753c287f6f3d8b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 13 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/6a04d35722395b6dc6da11ae?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI | On Site | May 13 |
-| ↳ | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/6a04d33e6c07461fe1710fbc?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | May 13 |
-| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69b6556956973837413b9cab?utm_campaign=1052&utm_source=git)** | Yakima, WA | On Site | May 13 |
-| **[Mason & Hanger](http://masonandhanger.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a04cff4f3d6cc51d638301e?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | On Site | May 13 |
-| **[Schindler Group](http://www.schindler.com/)** | **[Financial Services Intern - Summer 2026](https://jobright.ai/jobs/info/6a04cfcebc4184089f23f0be?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 13 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Fox Cities, WI](https://jobright.ai/jobs/info/6a04cfc0f3d6cc51d6382f8c?utm_campaign=1052&utm_source=git)** | Appleton, WI | On Site | May 13 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af3873749500645093bad2?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | May 13 |
-| **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Financial Services Group](https://jobright.ai/jobs/info/69e7fdb90a6e09555302d74c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

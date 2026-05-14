@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vialto](https://vialtopartners.com/)** | **[Equity & Rewards - Summer Intern](https://jobright.ai/jobs/info/6a05c825f3d6cc51d638b42d?utm_campaign=1052&utm_source=git)** | Manhattan, US | Hybrid | May 14 |
+| **[Ryan Ace Music](https://www.ryanacemusic.com/)** | **[Finance intern](https://jobright.ai/jobs/info/6a05c6217c753c287f6fb74b?utm_campaign=1052&utm_source=git)** | Orlando, Florida | Remote | May 14 |
+| **[Treinetic](https://treinetic.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a05c5f67c753c287f6fb716?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 14 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Equity Intern](https://jobright.ai/jobs/info/6a05c2f7f3d6cc51d638b1ed?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 14 |
 | **[BB Energy](https://bbenergy.com)** | **[Trade Commodity Finance (Summer Internship)](https://jobright.ai/jobs/info/6a05c2d9320bff2205ea45af?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 14 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Accounting Co-op](https://jobright.ai/jobs/info/6a05c2d7320bff2205ea459f?utm_campaign=1052&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | May 14 |
@@ -69,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6a05a12ebc4184089f2462cf?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 14 |
 | ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f23565de58104c7151bb?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 14 |
 | **[Tarbell Management Group LLC](http://thetmg.com)** | **[Material Control Clerk/Analyst Intern](https://jobright.ai/jobs/info/6a058db4bc4184089f245f36?utm_campaign=1052&utm_source=git)** | AKWESASNE, NY 13655, USA | On Site | May 14 |
-| **[EngineeRD](https://engineerd.com)** | **[Cyber and Risk Management Intern](https://jobright.ai/jobs/info/6a058708f3d6cc51d6389949?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | May 14 |
-| ↳ | **[Cyber and Risk Management Intern](https://jobright.ai/jobs/info/6a058708f3d6cc51d638994a?utm_campaign=1052&utm_source=git)** | United States | Remote | May 14 |
+| **[EngineeRD](https://engineerd.com)** | **[Cyber and Risk Management Intern](https://jobright.ai/jobs/info/6a058708f3d6cc51d638994a?utm_campaign=1052&utm_source=git)** | United States | Remote | May 14 |
+| ↳ | **[Cyber and Risk Management Intern](https://jobright.ai/jobs/info/6a058708f3d6cc51d6389949?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Private Equity Co-op/Internship (Fall 2026 or Winter 2027 or Summer 2027)](https://jobright.ai/jobs/info/6a05779afbf3d169d3c5f3b1?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[Payments & Banking Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057799fbf3d169d3c5f3af?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[Infrastructure & Renewable Resources Co-op/Internship (Fall 2026 or Winter 2027)](https://jobright.ai/jobs/info/6a057799fbf3d169d3c5f3ae?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | On Site | May 14 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0523fe7c753c287f6f716d?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | May 13 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0523ee7c753c287f6f7140?utm_campaign=1052&utm_source=git)** | San Antonio, TX | Remote | May 13 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0523dd6c07461fe1714348?utm_campaign=1052&utm_source=git)** | Lubbock, TX | Remote | May 13 |
-| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Financial Services Intern - Summer 2026](https://jobright.ai/jobs/info/6a052116f3d6cc51d6386e00?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 13 |
 | **[Knife River Corporation](https://www.kniferiver.com/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6a0520f222395b6dc6da4315?utm_campaign=1052&utm_source=git)** | Belgrade, MT | On Site | May 13 |
 | **[Amazon](https://amazon.com)** | **[Economist Intern, Economic Valuation and Optimization (EV&O)](https://jobright.ai/jobs/info/6a0520d44373b07358a3a6a2?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
 | **[The Ware Group](https://thewaregrouprealestate.com/)** | **[Accounting Summer Internship](https://jobright.ai/jobs/info/6a051ce522395b6dc6da40f0?utm_campaign=1052&utm_source=git)** | US-NV-LAS VEGAS | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Knife River Corporation](https://www.kniferiver.com/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6a04f021bc4184089f240c1a?utm_campaign=1052&utm_source=git)** | BELGRADE, MT 59714, USA | On Site | May 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Columbia)](https://jobright.ai/jobs/info/6a04ef50bc4184089f240bbe?utm_campaign=1052&utm_source=git)** | 10960 Grantchester Way, Columbia, MD, 21044, US | On Site | May 13 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Assurance & Advisory (Data Analytics)](https://jobright.ai/jobs/info/6a04ec474373b07358a38099?utm_campaign=1052&utm_source=git)** | Toronto, CA | On Site | May 13 |
-| **[Habitat for Humanity of Kansas City](https://habitatkc.org/#)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/6a04eaecbc4184089f240a8d?utm_campaign=1052&utm_source=git)** | Kansas City,MO,US | On Site | May 13 |
-| **[EcoShield Pest Solutions](http://www.ecoshieldpest.com)** | **[Accounting & Treasury Analytics Intern](https://jobright.ai/jobs/info/6a04e738bc4184089f240940?utm_campaign=1052&utm_source=git)** | US-AZ-Gilbert | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

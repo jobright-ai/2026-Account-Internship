@@ -57,20 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0a57e0b2db6275c04f611?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | May 14 |
+| ↳ | **[Assurance Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6a05a12ebc4184089f2462cf?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 14 |
+| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1f23565de58104c7151bb?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 14 |
 | **[Tarbell Management Group LLC](http://thetmg.com)** | **[Material Control Clerk/Analyst Intern](https://jobright.ai/jobs/info/6a058db4bc4184089f245f36?utm_campaign=1052&utm_source=git)** | AKWESASNE, NY 13655, USA | On Site | May 14 |
-| **[EngineeRD](https://engineerd.com)** | **[Cyber and Risk Management Intern](https://jobright.ai/jobs/info/6a058708f3d6cc51d6389949?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | May 14 |
-| ↳ | **[Cyber and Risk Management Intern](https://jobright.ai/jobs/info/6a058708f3d6cc51d638994a?utm_campaign=1052&utm_source=git)** | United States | Remote | May 14 |
+| **[EngineeRD](https://engineerd.com)** | **[Cyber and Risk Management Intern](https://jobright.ai/jobs/info/6a058708f3d6cc51d638994a?utm_campaign=1052&utm_source=git)** | United States | Remote | May 14 |
+| ↳ | **[Cyber and Risk Management Intern](https://jobright.ai/jobs/info/6a058708f3d6cc51d6389949?utm_campaign=1052&utm_source=git)** | Fairfax, VA | Hybrid | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Private Equity Co-op/Internship (Fall 2026 or Winter 2027 or Summer 2027)](https://jobright.ai/jobs/info/6a05779afbf3d169d3c5f3b1?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
-| ↳ | **[Infrastructure & Renewable Resources Co-op/Internship (Fall 2026 or Winter 2027)](https://jobright.ai/jobs/info/6a057799fbf3d169d3c5f3ae?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | On Site | May 14 |
 | ↳ | **[Payments & Banking Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057799fbf3d169d3c5f3af?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Infrastructure & Renewable Resources Co-op/Internship (Fall 2026 or Winter 2027)](https://jobright.ai/jobs/info/6a057799fbf3d169d3c5f3ae?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | On Site | May 14 |
 | ↳ | **[Finance Co-op/Internship (Fall 2026 and Winter 2027 or Winter and Summer 2027)](https://jobright.ai/jobs/info/6a057798fbf3d169d3c5f3ad?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[Capital Markets & Credit Investments - Public Equities Co-op/Internship (Fall 2026 or Winter 2027)](https://jobright.ai/jobs/info/6a0577917c753c287f6f982a?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | On Site | May 14 |
 | ↳ | **[Quantitative Equity Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a05778b6c07461fe1716947?utm_campaign=1052&utm_source=git)** | Vancouver, BC, CA | Hybrid | May 14 |
 | ↳ | **[Performance & Analytics Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a05778bbc4184089f2456fd?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[Private Debt Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057789bc4184089f2456f7?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
-| ↳ | **[Liquidity & Counterparty Risk Management Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057788bc4184089f2456f5?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
-| ↳ | **[Risk Reporting & Data Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057788a88ea73abf7f1730?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[Transactions & Total Portfolio Risk Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057788bc4184089f2456f6?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Risk Reporting & Data Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057788a88ea73abf7f1730?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Liquidity & Counterparty Risk Management Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a057788bc4184089f2456f5?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[Private Equity Analytics Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577877c753c287f6f9820?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[ESG Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057782f3d6cc51d63894de?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | On Site | May 14 |
 | ↳ | **[Strategic Asset Allocation & Client Relations Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057781f3d6cc51d63894dc?utm_campaign=1052&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[EcoShield Pest Solutions](http://www.ecoshieldpest.com)** | **[Accounting & Treasury Analytics Intern](https://jobright.ai/jobs/info/6a04e738bc4184089f240940?utm_campaign=1052&utm_source=git)** | US-AZ-Gilbert | On Site | May 13 |
 | **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Columbia)](https://jobright.ai/jobs/info/6a04e6c97c753c287f6f491c?utm_campaign=1052&utm_source=git)** | Columbia, MD, United States | On Site | May 13 |
 | **[American Residential Services](http://ars.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a04e5c0f3d6cc51d6384476?utm_campaign=1052&utm_source=git)** | Columbus, OH, US | On Site | May 13 |
-| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a04e5bff3d6cc51d6384475?utm_campaign=1052&utm_source=git)** | US-OH-Columbus | On Site | May 13 |
 | ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a04e5bff3d6cc51d6384474?utm_campaign=1052&utm_source=git)** | Columbus Worthington Air (Columbus) | On Site | May 13 |
+| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a04e5bff3d6cc51d6384475?utm_campaign=1052&utm_source=git)** | US-OH-Columbus | On Site | May 13 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a04e57c4373b07358a37e04?utm_campaign=1052&utm_source=git)** | Buffalo, NY | On Site | May 13 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Central WI](https://jobright.ai/jobs/info/6a04e1ed6c07461fe1711713?utm_campaign=1052&utm_source=git)** | Marshfield, WI | On Site | May 13 |
 | ↳ | **[Tax and Audit Intern - Spring 2027 - San Antonio, TX](https://jobright.ai/jobs/info/6a04e1737c753c287f6f44db?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | May 13 |
 | ↳ | **[Tax/Audit Intern - Spring 2027 - Central WI](https://jobright.ai/jobs/info/6a04e1727c753c287f6f44d6?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | May 13 |
-| **[Aircastle](http://www.aircastle.com)** | **[Intern, Pricing](https://jobright.ai/jobs/info/6a04ddd44373b07358a378c0?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | May 13 |
-| **[The Michaels Organization](https://tmo.com)** | **[Intern - Finance (Military Operations)](https://jobright.ai/jobs/info/6a04dd296c07461fe1711409?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | May 13 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2028 - Central WI](https://jobright.ai/jobs/info/6a04dd0e22395b6dc6da15fc?utm_campaign=1052&utm_source=git)** | Wausau, WI | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

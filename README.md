@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Transformation Internship](https://jobright.ai/jobs/info/69ebaf6958811370cb13bd7f?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | May 15 |
+| **[ChemTreat](http://www.chemtreat.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0762e9a203b1052e43a019?utm_campaign=1052&utm_source=git)** | Glen Allen, VA | On Site | May 15 |
+| **[Osmose](https://www.osmose.com/)** | **[Financial Analyst Internship](https://jobright.ai/jobs/info/69fe206b6bcf315dc8f54d4e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 15 |
+| **[Balchem Corporation](http://balchem.com)** | **[Pricing & Business Process Strategy Intern](https://jobright.ai/jobs/info/69eb98fe0a6e095553048f46?utm_campaign=1052&utm_source=git)** | Montvale, NJ | Hybrid | May 15 |
+| **[Skillsoft](http://www.skillsoft.com)** | **[Part-Time Financial Analyst Intern](https://jobright.ai/jobs/info/6a0760573b54ed42d74ccafb?utm_campaign=1052&utm_source=git)** | US - Remote | Remote | May 15 |
+| **[UMass Memorial Medical Center](https://www.umassmemorialhealthcare.org)** | **[Career Path Intern Undergrad - Payroll, Treasury and Accounts Payable](https://jobright.ai/jobs/info/6a075fb7939a5f01db94ea38?utm_campaign=1052&utm_source=git)** | Worcester, MA, US | On Site | May 15 |
+| **[Ciena](http://www.ciena.com)** | **[Accounting & Finance Intern (Summer 2026 - 2 months)](https://jobright.ai/jobs/info/6a075b33403fc339507e3487?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | May 15 |
+| **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[finance Intern](https://jobright.ai/jobs/info/6a075b20a203b1052e439cee?utm_campaign=1052&utm_source=git)** | Bedford, NH | On Site | May 15 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a06e13cb897ee41d28311e9?utm_campaign=1052&utm_source=git)** | St. Louis, MO, USA | Remote | May 15 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Real Assets Sustainability - Investment Management - Off-Cycle Intern](https://jobright.ai/jobs/info/6a0757bb939a5f01db94e83b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 15 |
 | **[Altasciences](http://www.algopharm.com)** | **[Project Finance Analyst Intern](https://jobright.ai/jobs/info/6a075678a203b1052e439b23?utm_campaign=1052&utm_source=git)** | Overland Park, Kansas, US | Remote | May 15 |
@@ -64,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern, Client Accounting](https://jobright.ai/jobs/info/6a0755046186f4685987d534?utm_campaign=1052&utm_source=git)** | Saint Louis, Missouri, USA, US | On Site | May 15 |
 | **[Hach](http://www.hach.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a07538c8f3e371eb6175c80?utm_campaign=1052&utm_source=git)** | Glen Allen, Virginia, United States of America | On Site | May 15 |
 | **[CoreFirst Bank & Trust](https://www.CoreFirstBank.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a0752b9939a5f01db94e585?utm_campaign=1052&utm_source=git)** | Topeka,KS,US | On Site | May 15 |
-| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a0750cfa203b1052e43986f?utm_campaign=1052&utm_source=git)** | US-CA-Irvine | On Site | May 15 |
-| ↳ | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a0750cfa203b1052e439870?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | May 15 |
+| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a0750cfa203b1052e439870?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | May 15 |
+| ↳ | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a0750cfa203b1052e43986f?utm_campaign=1052&utm_source=git)** | US-CA-Irvine | On Site | May 15 |
 | **[TD](https://www.td.com)** | **[Underwriting Automation Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/6a075038a203b1052e439826?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | On Site | May 15 |
 | **[Artane Partners](https://artanepartners.com)** | **[Investment Banking Internship](https://jobright.ai/jobs/info/6a07501a6186f4685987d224?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | May 15 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/69ebb7fd58811370cb13bffa?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Finance Intern](https://jobright.ai/jobs/info/6a07003d9f57175bd581d8f3?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | May 15 |
 | **[Northmarq](http://www.northmarq.com)** | **[2026 Internship Pipeline](https://jobright.ai/jobs/info/68bf5b9b5c5d5f14f46d636f?utm_campaign=1052&utm_source=git)** | Baltimore, Maryland, United States | On Site | May 15 |
 | **[Ascend](https://ascendtogether.com)** | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/69d3fc59366bb95ba553943f?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | May 15 |
-| **[Northmarq](http://www.northmarq.com)** | **[2026 Internship Pipeline](https://jobright.ai/jobs/info/6a06ffff4a0a6a7e7d81f3b4?utm_campaign=1052&utm_source=git)** | Phoenix, Arizona, United States | On Site | May 15 |
-| ↳ | **[2026 Internship Pipeline](https://jobright.ai/jobs/info/6a06fffd4a0a6a7e7d81f3ab?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States | On Site | May 15 |
-| **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a06fff7078fec52738a4dc9?utm_campaign=1052&utm_source=git)** | HQ - Redwood City | Hybrid | May 15 |
-| ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a06fff0078fec52738a4da8?utm_campaign=1052&utm_source=git)** | San Diego Office | Hybrid | May 15 |
-| ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/69feb5c1d0dc596b8d119ab2?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | May 15 |
-| **[SAX](http://saxllp.com)** | **[Tax Internship - January to April 2027 (On-site)](https://jobright.ai/jobs/info/6a06ff0e9f57175bd581d2c3?utm_campaign=1052&utm_source=git)** | Parsippany, New Jersey, United States | On Site | May 15 |
-| ↳ | **[Tax Internship - January to April 2027 (On-site)](https://jobright.ai/jobs/info/6a06ff0d9f57175bd581d2b0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 15 |
-| ↳ | **[Tax Internship - January to April 2027 (On-site)](https://jobright.ai/jobs/info/6a06ff0d9f57175bd581d2ad?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

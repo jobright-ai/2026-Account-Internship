@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deckers Brands](http://deckers.com)** | **[Investor Relations & Corporate Finance Intern](https://jobright.ai/jobs/info/6a06b1f26c07461fe1721e30?utm_campaign=1052&utm_source=git)** | Westlake Village, CA | Hybrid | May 14 |
+| ↳ | **[Investor Relations & Corporate Finance Intern](https://jobright.ai/jobs/info/6a06b03b320bff2205eae463?utm_campaign=1052&utm_source=git)** | Santa Barbara, CA | Hybrid | May 14 |
 | **[Ohana Pacific Health](https://www.ohanapacific.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a06a326a88ea73abf7fcfe7?utm_campaign=1052&utm_source=git)** | OPH - Honolulu, Honolulu, HI, US | On Site | May 14 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship – Treasury](https://jobright.ai/jobs/info/6a0692cca88ea73abf7fcb8c?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 14 |
 | **[Bourque & McLucas CPAs, Inc.](https://www.bourquemclucas.com)** | **[CPA Firm Administrative Internship](https://jobright.ai/jobs/info/6a068c14320bff2205ead5ef?utm_campaign=1052&utm_source=git)** | San Clemente, CA | On Site | May 14 |
@@ -92,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[RealManage](http://realmanage.com)** | **[Accounting/Admin Summer Intern (PTX51226)](https://jobright.ai/jobs/info/6a0652c4bc4184089f24e858?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | May 14 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Fall 2026 Internship - Multi-Unit Underwriter](https://jobright.ai/jobs/info/6a066f05bc4184089f24fa68?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 14 |
 | **[R+L Carriers](http://www.rlcarriers.com)** | **[Intern-Billing](https://jobright.ai/jobs/info/6a0651457c753c287f702184?utm_campaign=1052&utm_source=git)** | 315 NE 14th St, Ocala, FL, 34470, US | On Site | May 14 |
-| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Finance, Valuation, Risk Analytics (September 2026 - 4 or 8 month Contract)](https://jobright.ai/jobs/info/6a066f007c753c287f703591?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
-| ↳ | **[Intern - Finance, Corporate Accounting (September 2026 - 8 months)](https://jobright.ai/jobs/info/6a066c79a88ea73abf7fbbf5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
+| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Finance, Corporate Accounting (September 2026 - 8 months)](https://jobright.ai/jobs/info/6a066c79a88ea73abf7fbbf5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | ↳ | **[Intern - Portfolio Engineering, Capital Markets, CMIA (September 2026 - 8 months)](https://jobright.ai/jobs/info/6a066da26c07461fe17206ad?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
+| ↳ | **[Intern - Finance, Valuation, Risk Analytics (September 2026 - 4 or 8 month Contract)](https://jobright.ai/jobs/info/6a066f007c753c287f703591?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Accounting](https://jobright.ai/jobs/info/6a064d1a320bff2205eab274?utm_campaign=1052&utm_source=git)** | Butte, MT, USA | On Site | May 14 |
 | **[Boys & Girls Clubs of San Francisco](https://www.kidsclub.org/)** | **[Operations & Innovation Intern](https://jobright.ai/jobs/info/6a064a21f3d6cc51d6391eee?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | May 14 |
 | **[Research To Practice](http://www.researchtopractice.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0649f86c07461fe171ec87?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | May 14 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a067344bc4184089f24fc86?utm_campaign=1052&utm_source=git)** | Collegeville, PA | On Site | May 14 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[College Savings Intern](https://jobright.ai/jobs/info/6a063be5f3d6cc51d6391558?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | May 14 |
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6a063bd76c07461fe171e1cf?utm_campaign=1052&utm_source=git)** | Golden, CO | On Site | May 14 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e77?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 14 |
-| ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e78?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 14 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e78?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 14 |
+| ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e77?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 14 |
 | **[State Street](https://www.statestreet.com/)** | **[IT Business Analyst – Data & Regulatory Reporting intern, Fulltime Internship (July - Dec 2026)](https://jobright.ai/jobs/info/69fa362ba3d34b4f76f64754?utm_campaign=1052&utm_source=git)** | Quincy, Massachusetts, US | On Site | May 14 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/6a065df96c07461fe171fd19?utm_campaign=1052&utm_source=git)** | Tewksbury, MA | On Site | May 14 |
 | ↳ | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/6a065e037c753c287f702b50?utm_campaign=1052&utm_source=git)** | Tewksbury, MA | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/69eab1d67820c036924ef30d?utm_campaign=1052&utm_source=git)** | California, United States | On Site | May 14 |
 | **[RingCentral](https://www.ringcentral.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/6a06225cbc4184089f24bb2f?utm_campaign=1052&utm_source=git)** | Belmont, CA | On Site | May 14 |
 | **[Crystal Heating and Cooling](https://crystalheatingandcooling.com)** | **[Summer Accounting Intern](https://jobright.ai/jobs/info/6a063fdda88ea73abf7f996f?utm_campaign=1052&utm_source=git)** | Festus, MO | On Site | May 14 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Finance Intern (Year-Round)](https://jobright.ai/jobs/info/6a062126f3d6cc51d638f64e?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | May 14 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69f2aeaf8feca91f14926432?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

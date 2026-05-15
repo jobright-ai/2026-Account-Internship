@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terex Corporation](http://www.terex.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a0666b0320bff2205eac462?utm_campaign=1052&utm_source=git)** | Bothell, WA | Hybrid | May 14 |
+| **[Schneider Electric](https://www.se.com)** | **[Finance Intern – Finance Transformation](https://jobright.ai/jobs/info/6a0666216c07461fe17200b2?utm_campaign=1052&utm_source=git)** | Buffalo, NY | On Site | May 14 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Assurance & Advisory (Data Analytics)](https://jobright.ai/jobs/info/6a065d61f3d6cc51d6392e3c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[Key Risk (a Berkley Company)](https://www.keyrisk.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a065afaa88ea73abf7fb2db?utm_campaign=1052&utm_source=git)** | High Point, NC | On Site | May 14 |
 | **[Element Materials Technology](https://www.element.com)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/6a065af9a88ea73abf7fb2d2?utm_campaign=1052&utm_source=git)** | Middleburg Heights, OH | On Site | May 14 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[E11EVEN VODKA](https://11vodka.com)** | **[Intern](https://jobright.ai/jobs/info/6a063e69bc4184089f24d677?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | May 14 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[College Savings Intern](https://jobright.ai/jobs/info/6a063be5f3d6cc51d6391558?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | May 14 |
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6a063bd76c07461fe171e1cf?utm_campaign=1052&utm_source=git)** | Golden, CO | On Site | May 14 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e77?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 14 |
-| ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e78?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 14 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e78?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 14 |
+| ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e77?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 14 |
 | **[State Street](https://www.statestreet.com/)** | **[IT Business Analyst – Data & Regulatory Reporting intern, Fulltime Internship (July - Dec 2026)](https://jobright.ai/jobs/info/69fa362ba3d34b4f76f64754?utm_campaign=1052&utm_source=git)** | Quincy, Massachusetts, US | On Site | May 14 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/6a065df96c07461fe171fd19?utm_campaign=1052&utm_source=git)** | Tewksbury, MA | On Site | May 14 |
 | ↳ | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/6a065e037c753c287f702b50?utm_campaign=1052&utm_source=git)** | Tewksbury, MA | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[P&C Finance Intern](https://jobright.ai/jobs/info/6a061123bc4184089f24a799?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 14 |
 | ↳ | **[Property Intern](https://jobright.ai/jobs/info/6a061122bc4184089f24a78d?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 14 |
 | **[NORMA Group](http://normagroup.com/)** | **[Tariff Support Intern](https://jobright.ai/jobs/info/69ea865f0a6e095553041a82?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | May 14 |
-| **[Ameren](http://ameren.com)** | **[Intern](https://jobright.ai/jobs/info/6a060c29bc4184089f24a47e?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | May 14 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, Corporate Services](https://jobright.ai/jobs/info/6a060c0aa88ea73abf7f67ea?utm_campaign=1052&utm_source=git)** | United States | Remote | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

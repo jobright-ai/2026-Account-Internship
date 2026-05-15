@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship – Treasury](https://jobright.ai/jobs/info/6a0692cca88ea73abf7fcb8c?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 14 |
+| **[Bourque & McLucas CPAs, Inc.](https://www.bourquemclucas.com)** | **[CPA Firm Administrative Internship](https://jobright.ai/jobs/info/6a068c14320bff2205ead5ef?utm_campaign=1052&utm_source=git)** | San Clemente, CA | On Site | May 14 |
+| **[DCS Corp](http://www.dcscorp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0688486c07461fe17210dc?utm_campaign=1052&utm_source=git)** | Alexandria, VA | On Site | May 14 |
 | **[ITT Inc.](http://www.itt.com)** | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/6a0683f7a88ea73abf7fc529?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | May 14 |
 | **[Meriton](https://meriton.com/)** | **[Summer Internship – Accounting, Finance, or Management Information Systems (MIS)](https://jobright.ai/jobs/info/69c16db72c312363dcd4411c?utm_campaign=1052&utm_source=git)** | Irving, Texas | Hybrid | May 14 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a067dcff3d6cc51d6393d2a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 14 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a066ff5f3d6cc51d63939e9?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | May 14 |
 | **[The Michaels Organization](https://tmo.com)** | **[Intern - Portfolio Management/Capital Markets](https://jobright.ai/jobs/info/6a066ed9f3d6cc51d639382f?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | May 14 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Actuary Intern 2](https://jobright.ai/jobs/info/6a066ed6f3d6cc51d639381f?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 14 |
-| **[ITT Inc.](http://www.itt.com)** | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/6a066e4f6c07461fe172074f?utm_campaign=1052&utm_source=git)** | Stamford, CT, US | On Site | May 14 |
-| ↳ | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/6a066e4f6c07461fe1720750?utm_campaign=1052&utm_source=git)** | US-CT-Stamford | On Site | May 14 |
+| **[ITT Inc.](http://www.itt.com)** | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/6a066e4f6c07461fe1720750?utm_campaign=1052&utm_source=git)** | US-CT-Stamford | On Site | May 14 |
+| ↳ | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/6a066e4f6c07461fe172074f?utm_campaign=1052&utm_source=git)** | Stamford, CT, US | On Site | May 14 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Fall 2026 Internship - Finance and Economics](https://jobright.ai/jobs/info/6a066d91320bff2205eaca17?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 14 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Actuary Intern 1](https://jobright.ai/jobs/info/6a066d68320bff2205eac90e?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 14 |
 | **[Terex Corporation](http://www.terex.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a0666b0320bff2205eac462?utm_campaign=1052&utm_source=git)** | Bothell, WA | Hybrid | May 14 |
@@ -88,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[RealManage](http://realmanage.com)** | **[Accounting/Admin Summer Intern (PTX51226)](https://jobright.ai/jobs/info/6a0652c4bc4184089f24e858?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | May 14 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Fall 2026 Internship - Multi-Unit Underwriter](https://jobright.ai/jobs/info/6a066f05bc4184089f24fa68?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 14 |
 | **[R+L Carriers](http://www.rlcarriers.com)** | **[Intern-Billing](https://jobright.ai/jobs/info/6a0651457c753c287f702184?utm_campaign=1052&utm_source=git)** | 315 NE 14th St, Ocala, FL, 34470, US | On Site | May 14 |
-| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Portfolio Engineering, Capital Markets, CMIA (September 2026 - 8 months)](https://jobright.ai/jobs/info/6a066da26c07461fe17206ad?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
-| ↳ | **[Intern - Finance, Corporate Accounting (September 2026 - 8 months)](https://jobright.ai/jobs/info/6a066c79a88ea73abf7fbbf5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
+| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Finance, Corporate Accounting (September 2026 - 8 months)](https://jobright.ai/jobs/info/6a066c79a88ea73abf7fbbf5?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | ↳ | **[Intern - Finance, Valuation, Risk Analytics (September 2026 - 4 or 8 month Contract)](https://jobright.ai/jobs/info/6a066f007c753c287f703591?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
+| ↳ | **[Intern - Portfolio Engineering, Capital Markets, CMIA (September 2026 - 8 months)](https://jobright.ai/jobs/info/6a066da26c07461fe17206ad?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Intern Accounting](https://jobright.ai/jobs/info/6a064d1a320bff2205eab274?utm_campaign=1052&utm_source=git)** | Butte, MT, USA | On Site | May 14 |
 | **[Boys & Girls Clubs of San Francisco](https://www.kidsclub.org/)** | **[Operations & Innovation Intern](https://jobright.ai/jobs/info/6a064a21f3d6cc51d6391eee?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | May 14 |
 | **[Research To Practice](http://www.researchtopractice.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0649f86c07461fe171ec87?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | May 14 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a067344bc4184089f24fc86?utm_campaign=1052&utm_source=git)** | Collegeville, PA | On Site | May 14 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[College Savings Intern](https://jobright.ai/jobs/info/6a063be5f3d6cc51d6391558?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Hybrid | May 14 |
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6a063bd76c07461fe171e1cf?utm_campaign=1052&utm_source=git)** | Golden, CO | On Site | May 14 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e77?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 14 |
-| ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e78?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 14 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e78?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 14 |
+| ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e77?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 14 |
 | **[State Street](https://www.statestreet.com/)** | **[IT Business Analyst – Data & Regulatory Reporting intern, Fulltime Internship (July - Dec 2026)](https://jobright.ai/jobs/info/69fa362ba3d34b4f76f64754?utm_campaign=1052&utm_source=git)** | Quincy, Massachusetts, US | On Site | May 14 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Winter 2027 Tax Internship](https://jobright.ai/jobs/info/6a065df96c07461fe171fd19?utm_campaign=1052&utm_source=git)** | Tewksbury, MA | On Site | May 14 |
 | ↳ | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/6a065e037c753c287f702b50?utm_campaign=1052&utm_source=git)** | Tewksbury, MA | On Site | May 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Heating and Cooling](https://crystalheatingandcooling.com)** | **[Summer Accounting Intern](https://jobright.ai/jobs/info/6a063fdda88ea73abf7f996f?utm_campaign=1052&utm_source=git)** | Festus, MO | On Site | May 14 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Finance Intern (Year-Round)](https://jobright.ai/jobs/info/6a062126f3d6cc51d638f64e?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | May 14 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69f2aeaf8feca91f14926432?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | May 14 |
-| **[RMS Energy Co, LLC](https://www.rmsenergy.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a063fdda88ea73abf7f9971?utm_campaign=1052&utm_source=git)** | Little Falls, MN | On Site | May 14 |
-| **[Heidrick & Struggles](http://www.heidrick.com)** | **[Finance Transaction Services Intern](https://jobright.ai/jobs/info/6a061ef4bc4184089f24b52b?utm_campaign=1052&utm_source=git)** | Chicago, US | On Site | May 14 |
-| **[OUTFRONT Media](https://www.outfront.com)** | **[Summer Intern, Cash Applications](https://jobright.ai/jobs/info/6a061df3bc4184089f24b44b?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, US | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

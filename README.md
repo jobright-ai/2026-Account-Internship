@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a09c2d48f3e371eb6185c0d?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 17 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern-Fall 2026 (Indianapolis)](https://jobright.ai/jobs/info/6a081985a203b1052e441481?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 17 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Sally Finance Intern](https://jobright.ai/jobs/info/69b475185697383741394ce7?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | May 17 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Sally Finance Intern](https://jobright.ai/jobs/info/69b491ba5697383741397860?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | May 17 |
 | **[The Hakimian Organization](https://www.hakimian.com)** | **[Real Estate Analyst - Paid Intern](https://jobright.ai/jobs/info/6a0935d3939a5f01db95d2d1?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | May 16 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6a0868fc8f3e371eb6180255?utm_campaign=1052&utm_source=git)** | Brownsville Metro | On Site | May 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a086587a203b1052e444404?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 16 |
 | ↳ | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a0864ec939a5f01db959521?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 16 |
-| ↳ | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a0860a2403fc339507eda7f?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 16 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 International Tax Services Intern](https://jobright.ai/jobs/info/6a09c2b66186f4685988dfc3?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 16 |
+| **[PROENERGY](http://www.proenergyservices.com)** | **[V -Accounts Payable Intern](https://jobright.ai/jobs/info/6a04f461f3d6cc51d6384b15?utm_campaign=1052&utm_source=git)** | Sedalia, MO | On Site | May 16 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a0860a2403fc339507eda7f?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Financial Management Department Financial Management Intern](https://jobright.ai/jobs/info/6a08519b6186f46859887b9e?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Financial Management Department Financial Management Intern](https://jobright.ai/jobs/info/6a0851996186f46859887b90?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | **[Clear Edge Filtration](https://www.clear-edge.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a085168a203b1052e4439aa?utm_campaign=1052&utm_source=git)** | Buffalo, NY, US | Hybrid | May 16 |
@@ -108,13 +108,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a0850fe403fc339507ecfcb?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a0850fd403fc339507ecfc6?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fd939a5f01db95876f?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
-| ↳ | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fb8f3e371eb617f6e1?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/6a0850fb8f3e371eb617f6e4?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| ↳ | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fa939a5f01db958766?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
+| ↳ | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fb8f3e371eb617f6e1?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/6a0850fa8f3e371eb617f6da?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| ↳ | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fa939a5f01db958766?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Fall 2027 (Bradenton, FL)](https://jobright.ai/jobs/info/68ed5bfa81fdd1626d39ba77?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | May 16 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e5?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e6?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e6?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e5?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a084f8f403fc339507ecc78?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 16 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69fbeff0c39b9a66c0c55607?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 16 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a0557467c753c287f6f8aa0?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 16 |

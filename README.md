@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Global Banking Americas – Corporate Coverage – 2026 Summer Analyst Internship](https://jobright.ai/jobs/info/697d7817727747250d5860b9?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 17 |
+| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Capital Markets Analyst Intern](https://jobright.ai/jobs/info/69e559867820c036924cd2dc?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 17 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2026 Full-time Audit Internship](https://jobright.ai/jobs/info/69c1a21e75f7ff1cd80fee60?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Corporate Credit Analyst – Intern (May – August 2026)](https://jobright.ai/jobs/info/697d6b0a3f57a3356967511e?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Intern](https://jobright.ai/jobs/info/69fb475787a4820e6da86c1a?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | May 17 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e6?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e5?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a084f8f403fc339507ecc78?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 16 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a0557467c753c287f6f8aa0?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 16 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69fbeff0c39b9a66c0c55607?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 16 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a0557467c753c287f6f8aa0?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 16 |
 | **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Summer Intern – Finance & Accounting](https://jobright.ai/jobs/info/6a084f838f3e371eb617f307?utm_campaign=1052&utm_source=git)** | Chantilly, VA, US | On Site | May 16 |
 | ↳ | **[Summer Intern – Finance & Accounting](https://jobright.ai/jobs/info/6a04ae77bc4184089f23dc14?utm_campaign=1052&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a084f7c6186f468598875a1?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a084d088f3e371eb617ec7d?utm_campaign=1052&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a084d078f3e371eb617ec7c?utm_campaign=1052&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Tube Supply](https://www.tubesupply.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a084c85403fc339507ec600?utm_campaign=1052&utm_source=git)** | 6000 Jensen Drive, Houston | On Site | May 16 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a084c83403fc339507ec5ff?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 16 |
-| **[ITT Inc.](http://www.itt.com)** | **[Audit Intern - Summer 2026](https://jobright.ai/jobs/info/6a084c6da203b1052e442d84?utm_campaign=1052&utm_source=git)** | Stamford, CT, US | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith](http://www.smithweb.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6a0abc2a403fc339507f82a1?utm_campaign=1052&utm_source=git)** | Shanghai, VA | On Site | May 18 |
 | **[Devz AI Technologies Inc](https://www.devz.ai)** | **[Equity Analyst Summer Intern](https://jobright.ai/jobs/info/6a0a8baf8f3e371eb61891ee?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | May 17 |
 | **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - St. Louis](https://jobright.ai/jobs/info/6a0a7e1d939a5f01db962ac4?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | May 17 |
 | ↳ | **[2027 Staff Accountant Intern - Austin](https://jobright.ai/jobs/info/6a0a7e1c6186f468598912a9?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | May 17 |
-| ↳ | **[2027 Staff Accountant Intern - San Francisco](https://jobright.ai/jobs/info/6a0a7e176186f4685989129f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 17 |
-| ↳ | **[2027 Staff Accountant Intern - Naples](https://jobright.ai/jobs/info/6a0a7e178f3e371eb6189043?utm_campaign=1052&utm_source=git)** | Naples, FL | On Site | May 17 |
 | ↳ | **[2027 Staff Accountant Intern - Philadelphia](https://jobright.ai/jobs/info/6a0a7e17a203b1052e44d926?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | May 17 |
-| ↳ | **[2027 Staff Accountant Intern - Andover](https://jobright.ai/jobs/info/6a0a7e153b54ed42d74e0544?utm_campaign=1052&utm_source=git)** | Andover, MA | On Site | May 17 |
+| ↳ | **[2027 Staff Accountant Intern - Naples](https://jobright.ai/jobs/info/6a0a7e178f3e371eb6189043?utm_campaign=1052&utm_source=git)** | Naples, FL | On Site | May 17 |
+| ↳ | **[2027 Staff Accountant Intern - San Francisco](https://jobright.ai/jobs/info/6a0a7e176186f4685989129f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 17 |
 | ↳ | **[2027 Staff Accountant Intern - Cleveland](https://jobright.ai/jobs/info/6a0a7e15939a5f01db962ab1?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | May 17 |
+| ↳ | **[2027 Staff Accountant Intern - Andover](https://jobright.ai/jobs/info/6a0a7e153b54ed42d74e0544?utm_campaign=1052&utm_source=git)** | Andover, MA | On Site | May 17 |
 | ↳ | **[2027 Staff Accountant Intern - Southfield](https://jobright.ai/jobs/info/6a0a7e0f8f3e371eb6189038?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 17 |
 | ↳ | **[2027 Staff Accountant Intern - Boston](https://jobright.ai/jobs/info/6a0a7e0e939a5f01db962aab?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | May 17 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[ACCOUNTANT INTERNSHIP (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6a0a43913b54ed42d74df576?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | May 17 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Spring 2027)](https://jobright.ai/jobs/info/695f3557a112b402660dfa2d?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 16 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Pension Finance & Data Integrity, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec63707820c036924faa2f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 16 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Spring 2027)](https://jobright.ai/jobs/info/69d5c339706f771673ba63b4?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | May 16 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Treasury Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4da203b1052e444701?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
-| ↳ | **[FP&A Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4d939a5f01db959839?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[FP&A Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4d939a5f01db959839?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
+| ↳ | **[Treasury Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4da203b1052e444701?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | ↳ | **[FP&A Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4d939a5f01db95983a?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | May 16 |
 | ↳ | **[Treasury Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4ba203b1052e4446fb?utm_campaign=1052&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/6a086a233b54ed42d74d7814?utm_campaign=1052&utm_source=git)** | Brewster, NY, US | On Site | May 16 |
@@ -125,24 +126,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy and Research Department Macro and Market Research Intern](https://jobright.ai/jobs/info/6a085101403fc339507ecfd6?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a04ccb97c753c287f6f3642?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a0850fe403fc339507ecfcb?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| ↳ | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fd939a5f01db95876f?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a0850fd403fc339507ecfc6?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| ↳ | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fd939a5f01db95876f?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/6a0850fb8f3e371eb617f6e4?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fb8f3e371eb617f6e1?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fa939a5f01db958766?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/6a0850fa8f3e371eb617f6da?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Fall 2027 (Bradenton, FL)](https://jobright.ai/jobs/info/68ed5bfa81fdd1626d39ba77?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | May 16 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e5?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e6?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e6?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 16 |
+| ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e5?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a084f8f403fc339507ecc78?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 16 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69fbeff0c39b9a66c0c55607?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 16 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a0557467c753c287f6f8aa0?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 16 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69fbeff0c39b9a66c0c55607?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 16 |
 | **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Summer Intern – Finance & Accounting](https://jobright.ai/jobs/info/6a084f838f3e371eb617f307?utm_campaign=1052&utm_source=git)** | Chantilly, VA, US | On Site | May 16 |
 | ↳ | **[Summer Intern – Finance & Accounting](https://jobright.ai/jobs/info/6a04ae77bc4184089f23dc14?utm_campaign=1052&utm_source=git)** | US-VA-Chantilly | On Site | May 16 |
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a084f7c6186f468598875a1?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 16 |
 | ↳ | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a084f696186f4685988755d?utm_campaign=1052&utm_source=git)** | UT-Salt Lake City | On Site | May 16 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 16 |
-| ↳ | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a084f0e8f3e371eb617f20c?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 16 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a084f0e8f3e371eb617f20c?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 16 |
+| ↳ | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 16 |
 | **[Sunrise Senior Living](https://www.sunriseseniorliving.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fb621387a4820e6da87bac?utm_campaign=1052&utm_source=git)** | McLean | On Site | May 16 |
 | ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a084ed08f3e371eb617f168?utm_campaign=1052&utm_source=git)** | McLean, VA, US | On Site | May 16 |
 | ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/69fb61e9ffa73664aeaff48b?utm_campaign=1052&utm_source=git)** | Virginia | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/6a084e1da203b1052e442f75?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | May 16 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship-Healthcare Audit Internship-Fall 2027](https://jobright.ai/jobs/info/6a084e196186f468598870e8?utm_campaign=1052&utm_source=git)** | US-WA-Spokane | Hybrid | May 16 |
 | ↳ | **[Accounting Internship-Healthcare Audit Internship-Fall 2027](https://jobright.ai/jobs/info/6a084e196186f468598870de?utm_campaign=1052&utm_source=git)** | Spokane, WA, US | On Site | May 16 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a084e17403fc339507ec7d3?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

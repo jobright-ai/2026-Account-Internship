@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Student Intern - Financial Analyst](https://jobright.ai/jobs/info/6a0bd6e8963f7a67d95d35b7?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | May 18 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Supply Chain Finance](https://jobright.ai/jobs/info/6a0bd6c54d9320363687468a?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 18 |
+| **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6a0bd0c9963f7a67d95d33cf?utm_campaign=1052&utm_source=git)** | Rye, NY | On Site | May 18 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0bce4b538d03366dc88d4c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 18 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Summer 2027 - Pittsburgh, PA](https://jobright.ai/jobs/info/6a0bc0c8538d03366dc887e7?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 18 |
 | **[NexCore Group](http://nexcoregroup.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6a0bb9c1538d03366dc8860c?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | May 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship Finance 26' – Data Analysis and Technical Skills](https://jobright.ai/jobs/info/6a0b37b822d0d34036c8961d?utm_campaign=1052&utm_source=git)** | AIR Office, NL | On Site | May 18 |
 | **[MetLife](http://www.metlife.com)** | **[Financial Operations Expense Intern](https://jobright.ai/jobs/info/6a0b36c60411d7417a1ae0bd?utm_campaign=1052&utm_source=git)** | Tampa, FL | Hybrid | May 18 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0b30af963f7a67d95ccfa0?utm_campaign=1052&utm_source=git)** | Owensboro, KY | Remote | May 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0b3059538d03366dc828ee?utm_campaign=1052&utm_source=git)** | Lehi, UT | Remote | May 18 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Summer 2027 - King of Prussia, PA](https://jobright.ai/jobs/info/6a0b2e64538d03366dc827e3?utm_campaign=1052&utm_source=git)** | King of Prussia, PA, US | On Site | May 18 |
-| **[UNDP Careers](https://www.undp.org/careers)** | **[Sustainable Finance Research intern - HOME-BASED](https://jobright.ai/jobs/info/6a0b2d180411d7417a1ade58?utm_campaign=1052&utm_source=git)** | Home, KS | Remote | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

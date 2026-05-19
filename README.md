@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mizkan America](http://mizkan.com)** | **[Intern, Accounting AI Analytics](https://jobright.ai/jobs/info/6a0c17da538d03366dc8a706?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | May 19 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department-Sanctions and Compliance Audit Intern](https://jobright.ai/jobs/info/6a0c16160411d7417a1b5bea?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship 26' - Digital Finance](https://jobright.ai/jobs/info/6a0c0b5422d0d34036c9126a?utm_campaign=1052&utm_source=git)** | AIR Office, NL | On Site | May 19 |
 | **[KinderCare Learning Companies for Employers](http://www.kindercare.com/employer-sponsored-child-care/)** | **[Intern - Risk & Insurance Specialist](https://jobright.ai/jobs/info/6a0c0adf963f7a67d95d473f?utm_campaign=1052&utm_source=git)** | Work From Home OR, US | Hybrid | May 19 |
 | **[Bossard Americas](https://americas.bossard.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6a0bf7cc4d932036368753f1?utm_campaign=1052&utm_source=git)** | Cedar Falls, IA | On Site | May 18 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Universal Technical Institute, Inc.](https://www.uti.edu)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a0b747c4d93203636871285?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Hybrid | May 18 |
 | **[Citi](https://www.citi.com)** | **[Functions - Internal Audit, Summer Analyst - Mississauga, ON 2027](https://jobright.ai/jobs/info/69d3e4d0cfdc6132f94558c8?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 18 |
 | **[Nike](https://www.nike.com)** | **[NIKE, Inc. Finance Graduate Internship](https://jobright.ai/jobs/info/6a0b72a2a235d749afa8552c?utm_campaign=1052&utm_source=git)** | Beaverton, Oregon, US | On Site | May 18 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a0b721a4d93203636870fd5?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 18 |
 | **[FDH Aero](https://fdhaero.com/)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/6a0b71bc0411d7417a1b0d8b?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | May 18 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2027 Global Capital Markets Summer Intern – Macro and Commodities](https://jobright.ai/jobs/info/6a0b71b90411d7417a1b0d75?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 18 |
 | ↳ | **[2027 Global Capital Markets Summer Intern – Debt Finance Banking](https://jobright.ai/jobs/info/6a0b7186538d03366dc855c0?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 18 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Supply Chain Finance](https://jobright.ai/jobs/info/6a0b6285538d03366dc84d0d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Accounting Fall Internship](https://jobright.ai/jobs/info/6a0b62160411d7417a1b04a6?utm_campaign=1052&utm_source=git)** | Tampa - North Tampa | On Site | May 18 |
 | ↳ | **[Accounting Fall Internship](https://jobright.ai/jobs/info/6a0b62150411d7417a1b04a5?utm_campaign=1052&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
-| **[United Petroleum Transports](http://otl-upt.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a0b5f05a235d749afa84aef?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
-| ↳ | **[Treasury Intern](https://jobright.ai/jobs/info/6a0b5f054d93203636870555?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
+| **[United Petroleum Transports](http://otl-upt.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6a0b5f054d93203636870555?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
+| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/6a0b5f05a235d749afa84aef?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
 | **[Waterfall Asset Management LLC](http://www.waterfallam.com)** | **[2027 Summer Analyst Program](https://jobright.ai/jobs/info/6a0b5e7a0411d7417a1b02b1?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | May 18 |
 | **[InSite Real Estate](http://insiterealestate.com)** | **[CAPITAL MARKETS INTERN](https://jobright.ai/jobs/info/6a0b5ae44d932036368701ad?utm_campaign=1052&utm_source=git)** | Oak Brook, IL, US | On Site | May 18 |
 | **[Crane Company](http://www.craneco.com/)** | **[FInance Intern](https://jobright.ai/jobs/info/6a0b58904d9320363686ff3d?utm_campaign=1052&utm_source=git)** | Spartanburg, South Carolina, US | On Site | May 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6a0b39b3a235d749afa8297e?utm_campaign=1052&utm_source=git)** | Brownsville Metro | On Site | May 18 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Intern, Accounts Payable](https://jobright.ai/jobs/info/6a0b39b2a235d749afa82972?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | May 18 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[Equity Research Associate Analyst Internship – Summer 2026](https://jobright.ai/jobs/info/6a0b389b0411d7417a1ae14f?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US | Hybrid | May 18 |
-| ↳ | **[Equity Research Associate Analyst Internship – Summer 2026](https://jobright.ai/jobs/info/6a0b38990411d7417a1ae147?utm_campaign=1052&utm_source=git)** | Baltimore, MD, US | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NexCore Group](http://nexcoregroup.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6a0ba08a0411d7417a1b2f3b?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 18 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Accounting Fall Internship](https://jobright.ai/jobs/info/6a0ba077538d03366dc8777c?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | May 18 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Tax Summer 2027 / Fort Wayne](https://jobright.ai/jobs/info/6a0ba0664d93203636872e84?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | May 18 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Finance (Summer 2026)](https://jobright.ai/jobs/info/6a0b9a47538d03366dc87519?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 18 |
+| **[Covenant HealthCare](https://www.covenanthealthcare.com/)** | **[SUPPLY CHAIN COLLEGE INTERN](https://jobright.ai/jobs/info/6a06574bbc4184089f24ecf2?utm_campaign=1052&utm_source=git)** | Saginaw, MI | On Site | May 18 |
+| **[Veeco](http://www.veeco.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a0b99c20411d7417a1b2d01?utm_campaign=1052&utm_source=git)** | Plainview, NY | On Site | May 18 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Intern / Wealth Management](https://jobright.ai/jobs/info/6a0b98c00411d7417a1b2cbf?utm_campaign=1052&utm_source=git)** | US-PA-Devon | On Site | May 18 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Property & Inland Marine Underwriting Intern - Year Round](https://jobright.ai/jobs/info/6a0b958a22d0d34036c8e20c?utm_campaign=1052&utm_source=git)** | Richardson, TX | On Site | May 18 |
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0b943f0411d7417a1b2921?utm_campaign=1052&utm_source=git)** | BATON ROUGE, Louisiana, United States | On Site | May 18 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Finance Department](https://jobright.ai/jobs/info/6a0b901c538d03366dc86cf5?utm_campaign=1052&utm_source=git)** | New York City | Hybrid | May 18 |
@@ -72,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Supply Chain Finance](https://jobright.ai/jobs/info/6a0b85a4538d03366dc86627?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 18 |
 | **[Miller Kaplan](http://www.millerkaplan.com/)** | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b849a0411d7417a1b1dcc?utm_campaign=1052&utm_source=git)** | Hailey, ID 83333, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b849a0411d7417a1b1dcb?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
-| ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b48?utm_campaign=1052&utm_source=git)** | Burbank, CA 91505, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b47?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
+| ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b48?utm_campaign=1052&utm_source=git)** | Burbank, CA 91505, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8492963f7a67d95d0b46?utm_campaign=1052&utm_source=git)** | Seattle, WA 98121, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b84910411d7417a1b1dc8?utm_campaign=1052&utm_source=git)** | Burbank, CA 91505, USA | Hybrid | May 18 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Finance (Summer 2026)](https://jobright.ai/jobs/info/6a0b80f04d93203636871ccb?utm_campaign=1052&utm_source=git)** | Denver, Colorado, US | On Site | May 18 |
@@ -137,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0b2c4aa235d749afa824b1?utm_campaign=1052&utm_source=git)** | Pasco, WA | Remote | May 18 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Audit Intern - Spring 2027](https://jobright.ai/jobs/info/68d2f0ea8c62e63bc7fdbcb9?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 18 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0b2c02963f7a67d95ccd25?utm_campaign=1052&utm_source=git)** | Chino Hills, CA | Remote | May 18 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0b2beb22d0d34036c8927b?utm_campaign=1052&utm_source=git)** | Carmichael, CA | Remote | May 18 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0b2beb22d0d34036c8927a?utm_campaign=1052&utm_source=git)** | Flower Mound, TX | Remote | May 18 |
+| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0b2beb22d0d34036c8927b?utm_campaign=1052&utm_source=git)** | Carmichael, CA | Remote | May 18 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68d2fb34f0d9af73038ddbfe?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 18 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a0b2b06963f7a67d95ccc3f?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 18 |
 | ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a0b2b05963f7a67d95ccc3e?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Global Capital Markets Summer Intern – Macro and Commodities](https://jobright.ai/jobs/info/6a0b2a76a235d749afa823ac?utm_campaign=1052&utm_source=git)** | Charlotte, NC, US | On Site | May 18 |
 | ↳ | **[2027 Global Capital Markets Summer Intern – Macro and Commodities](https://jobright.ai/jobs/info/6a0b2a71a235d749afa823a6?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a0b299e22d0d34036c8915d?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | May 18 |
-| **[Tube Supply](https://www.tubesupply.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a0b27b74d9320363686ddb0?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 18 |
-| ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a0b27b64d9320363686ddae?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 18 |
-| ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a0b27b64d9320363686ddaf?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 18 |
-| **[Graphic Information Systems](https://www.graphicinfo.com)** | **[Internship - Accounting](https://jobright.ai/jobs/info/6a0b274fa235d749afa821f3?utm_campaign=1052&utm_source=git)** | Mason , OH | On Site | May 18 |
-| **[CME Wire and Cable, Inc.](http://cmewire.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0b265f0411d7417a1ada25?utm_campaign=1052&utm_source=git)** | Suwanee, GA | On Site | May 18 |
-| **[Inspira Health](https://www.inspirahealthnetwork.org/)** | **[Accounting Intern- Finance, Part-Time, Mullica Hill](https://jobright.ai/jobs/info/6a0b261f963f7a67d95cc8e9?utm_campaign=1052&utm_source=git)** | 163 Bridgeton Pike, Mullica Hill, NJ, 08062, US | On Site | May 18 |
-| **[UNDP Careers](https://www.undp.org/careers)** | **[Sustainable Finance Analytics & Strategy intern - HOME-BASED](https://jobright.ai/jobs/info/6a0b2605a235d749afa82157?utm_campaign=1052&utm_source=git)** | Home, KS | Remote | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

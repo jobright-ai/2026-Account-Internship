@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a0c72130411d7417a1b89d0?utm_campaign=1052&utm_source=git)** | Franktown, Colorado | On Site | May 19 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Pricing and Market Analytics Intern](https://jobright.ai/jobs/info/6a0c63ae22d0d34036c93f1e?utm_campaign=1052&utm_source=git)** | Lake Forest, CA | Hybrid | May 19 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/6a0c618a4d932036368778e3?utm_campaign=1052&utm_source=git)** | United States | Remote | May 19 |
 | ↳ | **[Venture Capital Intern](https://jobright.ai/jobs/info/6a0c612c0411d7417a1b7c9d?utm_campaign=1052&utm_source=git)** | United States | Remote | May 19 |
@@ -111,10 +112,10 @@ For a complete list, click the following sortable link below:
 | **[NTN Bearing Corporation](http://www.ntnamericas.com)** | **[Intern](https://jobright.ai/jobs/info/6a0b85af538d03366dc8664d?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | May 18 |
 | **[United Petroleum Transports](http://otl-upt.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6a0b85a7a235d749afa865dc?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | On Site | May 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Supply Chain Finance](https://jobright.ai/jobs/info/6a0b85a4538d03366dc86627?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 18 |
-| **[Miller Kaplan](http://www.millerkaplan.com/)** | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b849a0411d7417a1b1dcc?utm_campaign=1052&utm_source=git)** | Hailey, ID 83333, USA | Hybrid | May 18 |
-| ↳ | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b849a0411d7417a1b1dcb?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
-| ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b47?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
+| **[Miller Kaplan](http://www.millerkaplan.com/)** | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b849a0411d7417a1b1dcb?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
+| ↳ | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b849a0411d7417a1b1dcc?utm_campaign=1052&utm_source=git)** | Hailey, ID 83333, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b48?utm_campaign=1052&utm_source=git)** | Burbank, CA 91505, USA | Hybrid | May 18 |
+| ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b47?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8492963f7a67d95d0b46?utm_campaign=1052&utm_source=git)** | Seattle, WA 98121, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b84910411d7417a1b1dc8?utm_campaign=1052&utm_source=git)** | Burbank, CA 91505, USA | Hybrid | May 18 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Finance (Summer 2026)](https://jobright.ai/jobs/info/6a0b80f04d93203636871ccb?utm_campaign=1052&utm_source=git)** | Denver, Colorado, US | On Site | May 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0b47d4538d03366dc8387f?utm_campaign=1052&utm_source=git)** | 400 Olive St, Dallas, TX, 75201, US | On Site | May 18 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[Fixed Income Part-Time Academic Year Internship (2026-2027)](https://jobright.ai/jobs/info/6a0b469fa235d749afa83791?utm_campaign=1052&utm_source=git)** | Baltimore, MD, US | Hybrid | May 18 |
 | **[United Petroleum Transports](http://otl-upt.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0b42fc4d9320363686ef92?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/69e1e435fd1c0456f3fb2c45?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

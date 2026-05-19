@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/6a0c598022d0d34036c9361f?utm_campaign=1052&utm_source=git)** | United States | Remote | May 19 |
+| **[Herring Bank](https://www.herringbank.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a0c5266538d03366dc8bdc3?utm_campaign=1052&utm_source=git)** | Amarillo, TX | On Site | May 19 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698455eb8da7a612045e770b?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 19 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Finance FP&A](https://jobright.ai/jobs/info/69cdd1ab54f00230c6cf6d06?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | May 19 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/69e9e8ca58811370cb12f6db?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | May 19 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Baltimore)](https://jobright.ai/jobs/info/69eff3b9fbe0994a40eb9b6d?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | May 19 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Intern - Risk & Insurance Specialist](https://jobright.ai/jobs/info/6a0c481b538d03366dc8bb76?utm_campaign=1052&utm_source=git)** | Beaverton, OR | On Site | May 19 |
 | **[Mizkan America](http://mizkan.com)** | **[Intern, Accounting AI Analytics](https://jobright.ai/jobs/info/6a0c17da538d03366dc8a706?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | Hybrid | May 19 |
-| **[Johnson Block & Company, Inc.](http://johnsonblock.com)** | **[Spring 2027 Audit Internships](https://jobright.ai/jobs/info/6a0c4815963f7a67d95d5faf?utm_campaign=1052&utm_source=git)** | La Crosse, WI | On Site | May 19 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department-Sanctions and Compliance Audit Intern](https://jobright.ai/jobs/info/6a0c16160411d7417a1b5bea?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship 26' - Digital Finance](https://jobright.ai/jobs/info/6a0c0b5422d0d34036c9126a?utm_campaign=1052&utm_source=git)** | AIR Office, NL | On Site | May 19 |
 | **[KinderCare Learning Companies for Employers](http://www.kindercare.com/employer-sponsored-child-care/)** | **[Intern - Risk & Insurance Specialist](https://jobright.ai/jobs/info/6a0c0adf963f7a67d95d473f?utm_campaign=1052&utm_source=git)** | Work From Home OR, US | Hybrid | May 19 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Supply Chain Finance](https://jobright.ai/jobs/info/6a0b85a4538d03366dc86627?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 18 |
 | **[Miller Kaplan](http://www.millerkaplan.com/)** | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b849a0411d7417a1b1dcc?utm_campaign=1052&utm_source=git)** | Hailey, ID 83333, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b849a0411d7417a1b1dcb?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
-| ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b47?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b48?utm_campaign=1052&utm_source=git)** | Burbank, CA 91505, USA | Hybrid | May 18 |
+| ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8493963f7a67d95d0b47?utm_campaign=1052&utm_source=git)** | San Francisco, CA 94105, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Audit (June 2027)](https://jobright.ai/jobs/info/6a0b8492963f7a67d95d0b46?utm_campaign=1052&utm_source=git)** | Seattle, WA 98121, USA | Hybrid | May 18 |
 | ↳ | **[Internship - Tax (June 2027)](https://jobright.ai/jobs/info/6a0b84910411d7417a1b1dc8?utm_campaign=1052&utm_source=git)** | Burbank, CA 91505, USA | Hybrid | May 18 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Finance (Summer 2026)](https://jobright.ai/jobs/info/6a0b80f04d93203636871ccb?utm_campaign=1052&utm_source=git)** | Denver, Colorado, US | On Site | May 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Audit & Assurance Intern - Spring 2027](https://jobright.ai/jobs/info/6a0b42880411d7417a1aebb3?utm_campaign=1052&utm_source=git)** | Tulsa | On Site | May 18 |
 | **[Pinnacle Actuarial Resources, Inc.](http://pinnacleactuaries.com)** | **[Future Consideration - Actuarial Intern](https://jobright.ai/jobs/info/6a0b42764d9320363686ee22?utm_campaign=1052&utm_source=git)** | Chicago | On Site | May 18 |
 | ↳ | **[Future Consideration - Actuarial Intern](https://jobright.ai/jobs/info/6a0b42744d9320363686ee1f?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | May 18 |
-| ↳ | **[Future Consideration - Actuarial Intern](https://jobright.ai/jobs/info/6a0b42714d9320363686ee19?utm_campaign=1052&utm_source=git)** | Atlanta | On Site | May 18 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Treasury Specialist Intern (1876)](https://jobright.ai/jobs/info/6a0b41e60411d7417a1aeb08?utm_campaign=1052&utm_source=git)** | 105 - BakerRipley Central - Houston, TX 77011 | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6a0bd0c9963f7a67d95d33cf?utm_campaign=1052&utm_source=git)** | Rye, NY | On Site | May 18 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0bce4b538d03366dc88d4c?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 18 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Summer 2027 - Pittsburgh, PA](https://jobright.ai/jobs/info/6a0bc0c8538d03366dc887e7?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 18 |
-| **[Ferrotec](http://www.ferrotec.com/)** | **[Strategic Accounts Intern](https://jobright.ai/jobs/info/6a0bec16a235d749afa89656?utm_campaign=1052&utm_source=git)** | Livermore, CA | On Site | May 18 |
 | **[NexCore Group](http://nexcoregroup.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6a0bb9c1538d03366dc8860c?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | May 18 |
 | **[Ferrotec](http://www.ferrotec.com/)** | **[Strategic Accounts Intern](https://jobright.ai/jobs/info/6a0bb65f4d93203636873adc?utm_campaign=1052&utm_source=git)** | Livermore, CA 94550, USA | On Site | May 18 |
 | **[Kinetico Incorporated](https://www.kinetico.com)** | **[Service & Billing Intern](https://jobright.ai/jobs/info/6a0bb5ca4d93203636873aaf?utm_campaign=1052&utm_source=git)** | Newbury, OH | On Site | May 18 |
@@ -131,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Supply Chain Finance](https://jobright.ai/jobs/info/6a0b6285538d03366dc84d0d?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Accounting Fall Internship](https://jobright.ai/jobs/info/6a0b62160411d7417a1b04a6?utm_campaign=1052&utm_source=git)** | Tampa - North Tampa | On Site | May 18 |
 | ↳ | **[Accounting Fall Internship](https://jobright.ai/jobs/info/6a0b62150411d7417a1b04a5?utm_campaign=1052&utm_source=git)** | Tampa, FL, US | On Site | May 18 |
-| **[United Petroleum Transports](http://otl-upt.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a0b5f05a235d749afa84aef?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
-| ↳ | **[Treasury Intern](https://jobright.ai/jobs/info/6a0b5f054d93203636870555?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
+| **[United Petroleum Transports](http://otl-upt.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6a0b5f054d93203636870555?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
+| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/6a0b5f05a235d749afa84aef?utm_campaign=1052&utm_source=git)** | OK Oklahoma City - Oklahoma City, OK 73129 | On Site | May 18 |
 | **[Waterfall Asset Management LLC](http://www.waterfallam.com)** | **[2027 Summer Analyst Program](https://jobright.ai/jobs/info/6a0b5e7a0411d7417a1b02b1?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | May 18 |
 | **[InSite Real Estate](http://insiterealestate.com)** | **[CAPITAL MARKETS INTERN](https://jobright.ai/jobs/info/6a0b5ae44d932036368701ad?utm_campaign=1052&utm_source=git)** | Oak Brook, IL, US | On Site | May 18 |
 | **[Crane Company](http://www.craneco.com/)** | **[FInance Intern](https://jobright.ai/jobs/info/6a0b58904d9320363686ff3d?utm_campaign=1052&utm_source=git)** | Spartanburg, South Carolina, US | On Site | May 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SGS & Co](https://www.sgsco.com/)** | **[Intern, Accounts Payable](https://jobright.ai/jobs/info/6a0b39b2a235d749afa82972?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | May 18 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[Equity Research Associate Analyst Internship – Summer 2026](https://jobright.ai/jobs/info/6a0b389b0411d7417a1ae14f?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US | Hybrid | May 18 |
 | ↳ | **[Equity Research Associate Analyst Internship – Summer 2026](https://jobright.ai/jobs/info/6a0b38990411d7417a1ae147?utm_campaign=1052&utm_source=git)** | Baltimore, MD, US | Hybrid | May 18 |
+| **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship Finance 26' – Data Analysis and Technical Skills](https://jobright.ai/jobs/info/6a0b37b822d0d34036c8961d?utm_campaign=1052&utm_source=git)** | AIR Office, NL | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SingerLewak LLP](http://singerlewak.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f12d198d8d624381a9a8e0?utm_campaign=1052&utm_source=git)** | Torrance, CA | Hybrid | May 20 |
+| **[MCN Build](http://mcnbuild.com)** | **[Real Estate Investment & Development Analyst Intern - D.C.](https://jobright.ai/jobs/info/6a0df02547fea1610bca54d6?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Assurance Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a0dedf483d7144289813e8d?utm_campaign=1052&utm_source=git)** | Green Bay, WI, US | On Site | May 20 |
 | ↳ | **[Assurance Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a0dedf283d7144289813e8c?utm_campaign=1052&utm_source=git)** | Sheboygan, WI, US | On Site | May 20 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Financial Engineer](https://jobright.ai/jobs/info/6a0de9b0c152ac7824481320?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | May 20 |
@@ -76,7 +78,11 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Personal Debt Solutions - Langley - September 2026](https://jobright.ai/jobs/info/6a0dd94f47fea1610bca4385?utm_campaign=1052&utm_source=git)** | City of Langley, British Columbia, Canada | Hybrid | May 20 |
 | **[CITGO](https://www.citgo.com/Home.jsp)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0dd6d209ecfd704b3e313f?utm_campaign=1052&utm_source=git)** | CITGO Corporate Headquarter TX | On Site | May 20 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dcf6880bf0430c762656f?utm_campaign=1052&utm_source=git)** | North Richland Hills, TX | Remote | May 20 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dce2309ecfd704b3e2e47?utm_campaign=1052&utm_source=git)** | Grand Forks, ND | Remote | May 20 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df04e09ecfd704b3e4381?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 20 |
+| ↳ | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df03147fea1610bca5510?utm_campaign=1052&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | Hybrid | May 20 |
+| ↳ | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df07dbeb4d73cb622d4f4?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 20 |
+| ↳ | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df03347fea1610bca5517?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | May 20 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dce2309ecfd704b3e2e47?utm_campaign=1052&utm_source=git)** | Grand Forks, ND | Remote | May 20 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Accounting Paid Internship](https://jobright.ai/jobs/info/6a0dce2109ecfd704b3e2e3e?utm_campaign=1052&utm_source=git)** | Broadview Heights, OH | On Site | May 20 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/699cb2fee0bddb6acacbc2e9?utm_campaign=1052&utm_source=git)** | Del Rio, TX | On Site | May 20 |
 | **[ICAP](http://www.icap.com)** | **[Global Broking Intern](https://jobright.ai/jobs/info/6a0dcd9e83d7144289812a2e?utm_campaign=1052&utm_source=git)** | New York, US | On Site | May 20 |
@@ -97,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc48fbeb4d73cb622b66b?utm_campaign=1052&utm_source=git)** | Lakeville, MN | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc47dc152ac782447fa59?utm_campaign=1052&utm_source=git)** | Rocklin, CA | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc47dc152ac782447fa5a?utm_campaign=1052&utm_source=git)** | Noblesville, IN | Remote | May 20 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc42480bf0430c7625e6c?utm_campaign=1052&utm_source=git)** | Dover, NH | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc42480bf0430c7625e71?utm_campaign=1052&utm_source=git)** | Tamarac, FL | Remote | May 20 |
+| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc42480bf0430c7625e6c?utm_campaign=1052&utm_source=git)** | Dover, NH | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc41080bf0430c7625e36?utm_campaign=1052&utm_source=git)** | Mount Vernon, NY | Remote | May 20 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[Tax Intern - Carthage, MO](https://jobright.ai/jobs/info/69f1471462b48c6838794db5?utm_campaign=1052&utm_source=git)** | Carthage, MO | On Site | May 20 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6a0dbae847fea1610bca33b9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ki Mobility](http://kimobility.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0d02e3a235d749afa92c19?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | May 19 |
 | **[Manatee Memorial Hospital](http://www.manateememorial.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0d00f7538d03366dc93566?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
 | **[Legends Global](http://legends.net)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a0d00b94d9320363687e39b?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | May 19 |
-| **[Peachford Hospital](http://peachford.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cff47538d03366dc934aa?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Pembroke Hospital](https://pembrokehospital.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cff15963f7a67d95ddbd2?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[BHC Alhambra Hospital, Inc.](https://www.bhcalhambra.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfefa22d0d34036c9ac02?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Central Florida Behavioral Hospital](https://centralfloridabehavioral.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfe984d9320363687e1cd?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Cedar Hills Hospital](https://cedarhillshospital.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfe974d9320363687e1c9?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Intermountain Hospital](https://intermountainhospital.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfe3a538d03366dc9339f?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCVT](http://www.hcvt.com)** | **[M&A Advisory Internship - Summer 2027](https://jobright.ai/jobs/info/6a0d8aa183d714428981091e?utm_campaign=1052&utm_source=git)** | Pasadena, CA | Hybrid | May 20 |
+| **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship 2026](https://jobright.ai/jobs/info/69de50f3433ac8430e0d9024?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | May 20 |
+| **[Bourns, Inc.](http://www.bourns.com/)** | **[Finance and Accounting Intern - Junior](https://jobright.ai/jobs/info/6a0d7552d516b5204a376e8b?utm_campaign=1052&utm_source=git)** | Riverside, CA | Hybrid | May 20 |
 | **[North American Construction Group](http://www.nacg.ca/)** | **[Co-op, Finance/Accounting - September 2026](https://jobright.ai/jobs/info/6a0d633022d0d34036c9d9e1?utm_campaign=1052&utm_source=git)** | Acheson, Alberta, Canada | On Site | May 20 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d891d09ecfd704b3e0605?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 20 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d893080bf0430c7623eeb?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 20 |
 | **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a0d52e8538d03366dc95a98?utm_campaign=1052&utm_source=git)** | Westlake Village, CA | Hybrid | May 19 |
 | **[Allworth Financial](https://allworthfinancial.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6a0d35e24d9320363687fbfb?utm_campaign=1052&utm_source=git)** | Folsom, CA | Hybrid | May 19 |
 | ↳ | **[Financial Planning Intern](https://jobright.ai/jobs/info/6a0d35e14d9320363687fbfa?utm_campaign=1052&utm_source=git)** | Folsom, California, United States | Hybrid | May 19 |
@@ -102,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Technical Accounting Student Intern](https://jobright.ai/jobs/info/6a0cf1740411d7417a1be13d?utm_campaign=1052&utm_source=git)** | US-CO-Denver, Colorado (Panorama Arrow Building), US | Hybrid | May 19 |
 | **[Bluespring Wealth Partners](https://www.bluespringwealth.com)** | **[Summer Internship, Financial Advisory](https://jobright.ai/jobs/info/6a0ceea4538d03366dc92c49?utm_campaign=1052&utm_source=git)** | Brookfield, WI, USA | On Site | May 19 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Accounting and Finance - Intern](https://jobright.ai/jobs/info/6a0cee114d9320363687da58?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | May 19 |
-| ↳ | **[Accounting and Finance - Intern](https://jobright.ai/jobs/info/6a0cee0e4d9320363687da56?utm_campaign=1052&utm_source=git)** | US-GA-Atlanta | On Site | May 19 |
 | ↳ | **[Accounting and Finance - Intern](https://jobright.ai/jobs/info/6a0cee0e4d9320363687da55?utm_campaign=1052&utm_source=git)** | GA, Atlanta - 2 Ravinia Drive - Suite 1100 | On Site | May 19 |
+| ↳ | **[Accounting and Finance - Intern](https://jobright.ai/jobs/info/6a0cee0e4d9320363687da56?utm_campaign=1052&utm_source=git)** | US-GA-Atlanta | On Site | May 19 |
 | **[MetLife](http://www.metlife.com)** | **[Finance Summer Intern – GTO Finance](https://jobright.ai/jobs/info/6a0cecf14d9320363687d958?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ | Hybrid | May 19 |
 | **[Quartus Engineering](http://quartus.com)** | **[Accounting Intern - Summer 2026 - 075QE](https://jobright.ai/jobs/info/6a0ceaa2963f7a67d95dd109?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Hybrid | May 19 |
 | **[OXEA](https://oxea.com)** | **[Finance Internship (Accounting)](https://jobright.ai/jobs/info/6a0ce9f522d0d34036c9a163?utm_campaign=1052&utm_source=git)** | Houston | Hybrid | May 19 |
@@ -113,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6a0ce1ec538d03366dc921e8?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, USA, US | On Site | May 19 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a0cdff4963f7a67d95dc6ff?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
 | ↳ | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a0cdff4963f7a67d95dc6fe?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | May 19 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cdf10a235d749afa91465?utm_campaign=1052&utm_source=git)** | US.CO.Denver | On Site | May 19 |
-| ↳ | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cdf10a235d749afa91464?utm_campaign=1052&utm_source=git)** | US | On Site | May 19 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cdf10a235d749afa91464?utm_campaign=1052&utm_source=git)** | US | On Site | May 19 |
+| ↳ | **[Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cdf10a235d749afa91465?utm_campaign=1052&utm_source=git)** | US.CO.Denver | On Site | May 19 |
 | **[Novelty Hill Capital](https://noveltyhill.com)** | **[Investment Banking Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a0cdc42a235d749afa91372?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Remote | May 19 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Asset Mix & Trading](https://jobright.ai/jobs/info/6a0cdc29963f7a67d95dc587?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a0cd4d7a235d749afa90fb7?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA, US | On Site | May 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Audit Winter 2027 / Long Island](https://jobright.ai/jobs/info/6a0ca0f9963f7a67d95d9d1d?utm_campaign=1052&utm_source=git)** | Woodbury, NY | On Site | May 19 |
 | **[Ascend](https://ascendtogether.com)** | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/69d408e7891d7b11cfcf6c75?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | May 19 |
 | **[CAE](http://www.cae.com)** | **[C-FIN-200 Tax Intern-EN](https://jobright.ai/jobs/info/6a0cc4890411d7417a1bc27c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 19 |
-| **[Risewell Homes](http://www.risewellhomes.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69efd8770a6e09555305799d?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | May 19 |
-| **[Hatch](https://www.hatch.com)** | **[Finance Co-op Student](https://jobright.ai/jobs/info/6a0cbcdd963f7a67d95dafc8?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 19 |
-| **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship - Strategic Planning Intern](https://jobright.ai/jobs/info/6a0c989ca235d749afa8e599?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | May 19 |
-| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69d4449054f00230c6d2fb9f?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | May 19 |
-| **[Jockey International, Inc.](http://www.jockey.com)** | **[Cost Accounting Intern](https://jobright.ai/jobs/info/6a0c9147963f7a67d95d92e0?utm_campaign=1052&utm_source=git)** | Kenosha, Wisconsin, United States | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

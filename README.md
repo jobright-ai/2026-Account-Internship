@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Assurance Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a0dedf483d7144289813e8d?utm_campaign=1052&utm_source=git)** | Green Bay, WI, US | On Site | May 20 |
+| ↳ | **[Assurance Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a0dedf283d7144289813e8c?utm_campaign=1052&utm_source=git)** | Sheboygan, WI, US | On Site | May 20 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Financial Engineer](https://jobright.ai/jobs/info/6a0de9b0c152ac7824481320?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | May 20 |
+| **[Justrite Safety Group](https://www.justrite.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69d5b75b706f771673ba503f?utm_campaign=1052&utm_source=git)** | Deerfield, IL | Hybrid | May 20 |
+| **[Solved](https://www.solvedbytanna.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0de8fcc152ac782448121e?utm_campaign=1052&utm_source=git)** | Tampa, Florida, United States | On Site | May 20 |
+| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69d4452acfdc6132f94594fc?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | May 20 |
+| **[Soltis Investment Advisors](https://www.soltisadvisors.com)** | **[Alternative Investment Intern](https://jobright.ai/jobs/info/6a0de75680bf0430c7627559?utm_campaign=1052&utm_source=git)** | Lehi, UT | On Site | May 20 |
+| **[ATBS](http://atbs.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a0de69fbeb4d73cb622ce00?utm_campaign=1052&utm_source=git)** | Laramie, WY | On Site | May 20 |
 | **[Floridacentral Credit Union](https://www.floridacentralcu.com/)** | **[Intern Accounting - Part time](https://jobright.ai/jobs/info/6a0de44bc152ac7824480f36?utm_campaign=1052&utm_source=git)** | 3333 Henderson Blvd, Tampa, FL 33609, USA | On Site | May 20 |
 | **[Soltis Investment Advisors](https://www.soltisadvisors.com)** | **[Alternative Investment Intern](https://jobright.ai/jobs/info/6a0de35109ecfd704b3e3baa?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 20 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/69d4305ecdb525785fbc7155?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | May 20 |
@@ -77,13 +85,14 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca6283d71442898127b6?utm_campaign=1052&utm_source=git)** | Rogers, AR | Remote | May 20 |
 | **[Ancora Education](https://ancoraeducation.com)** | **[Finance & Operations Intern - Special Project](https://jobright.ai/jobs/info/6a0dca5c80bf0430c7626208?utm_campaign=1052&utm_source=git)** | Arlington, TX | On Site | May 20 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca4e83d714428981277f?utm_campaign=1052&utm_source=git)** | Altoona, PA | Remote | May 20 |
+| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0def72c152ac78244816c4?utm_campaign=1052&utm_source=git)** | East Orange, NJ | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca3180bf0430c76261d0?utm_campaign=1052&utm_source=git)** | Blacksburg, VA | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca2dbeb4d73cb622b911?utm_campaign=1052&utm_source=git)** | Casas Adobes, AZ | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca1909ecfd704b3e2b69?utm_campaign=1052&utm_source=git)** | Baldwin Park, CA | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca1909ecfd704b3e2b6a?utm_campaign=1052&utm_source=git)** | Dale City, VA | Remote | May 20 |
 | **[Ancora Education](https://ancoraeducation.com)** | **[Finance & Operations Intern - Special Project](https://jobright.ai/jobs/info/6a0dc51380bf0430c7625f81?utm_campaign=1052&utm_source=git)** | United States | On Site | May 20 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc4b747fea1610bca39ec?utm_campaign=1052&utm_source=git)** | Wesley Chapel, FL | Remote | May 20 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc4b747fea1610bca39eb?utm_campaign=1052&utm_source=git)** | Fairbanks, AK | Remote | May 20 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc4b747fea1610bca39eb?utm_campaign=1052&utm_source=git)** | Fairbanks, AK | Remote | May 20 |
+| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc4b747fea1610bca39ec?utm_campaign=1052&utm_source=git)** | Wesley Chapel, FL | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc48fbeb4d73cb622b669?utm_campaign=1052&utm_source=git)** | Lebanon, PA | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc48fbeb4d73cb622b66b?utm_campaign=1052&utm_source=git)** | Lakeville, MN | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc47dc152ac782447fa59?utm_campaign=1052&utm_source=git)** | Rocklin, CA | Remote | May 20 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Central Florida Behavioral Hospital](https://centralfloridabehavioral.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfe984d9320363687e1cd?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
 | **[Cedar Hills Hospital](https://cedarhillshospital.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfe974d9320363687e1c9?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
 | **[Intermountain Hospital](https://intermountainhospital.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfe3a538d03366dc9339f?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Garfield Park Behavioral Hospital](https://www.garfieldparkhospital.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfde222d0d34036c9aad9?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[Finance Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b7?utm_campaign=1052&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Finance Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd78963f7a67d95dda51?utm_campaign=1052&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Finance Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd7822d0d34036c9aa93?utm_campaign=1052&utm_source=git)** | San Jose | On Site | May 19 |
-| **[Clive Behavioral Health](https://clivebehavioral.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfb29a235d749afa92615?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[River Oaks Hospital](https://riveroakshospital.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfb05538d03366dc930dd?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Bluespring Wealth Partners](https://www.bluespringwealth.com)** | **[Summer Internship, Financial Advisory](https://jobright.ai/jobs/info/6a0cfaf3963f7a67d95dd801?utm_campaign=1052&utm_source=git)** | Brookfield, WI | On Site | May 19 |
-| **[Via Linda Behavioral Hospital](https://vialindabehavioral.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfacea235d749afa925ef?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Windsor Laurelwood Center For Behavioral Medicine](https://www.windsorlaurelwood.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0cfaba22d0d34036c9a8a9?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

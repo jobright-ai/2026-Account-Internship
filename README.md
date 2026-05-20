@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/69f153f58d8d624381a9bac7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 20 |
+| **[Therma](http://www.therma.com)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e0760beb4d73cb622e2a1?utm_campaign=1052&utm_source=git)** | Therma, 1601 Las Plumas Avenue, San Jose, California, United States of America | On Site | May 20 |
+| ↳ | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e074b09ecfd704b3e5158?utm_campaign=1052&utm_source=git)** | Therma, 1601 Las Plumas Avenue, San Jose, California, United States of America | On Site | May 20 |
+| **[Audubon Companies](http://www.auduboncompanies.com)** | **[Accounting Finance Intern](https://jobright.ai/jobs/info/6a0e000680bf0430c7628509?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 20 |
+| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - School Year Spring 2027 - Atlantic Region Property and Casualty (part-time, remote)](https://jobright.ai/jobs/info/6a0e000209ecfd704b3e4d2c?utm_campaign=1052&utm_source=git)** | Wakefield, Massachusetts, United States | Remote | May 20 |
+| ↳ | **[Actuarial Intern - School Year Spring 2027 - Atlantic Region Property and Casualty (part-time, remote)](https://jobright.ai/jobs/info/6a0e000209ecfd704b3e4d2b?utm_campaign=1052&utm_source=git)** | South Burlington, Vermont, United States | Remote | May 20 |
 | **[SingerLewak LLP](http://singerlewak.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f12d198d8d624381a9a8e0?utm_campaign=1052&utm_source=git)** | Torrance, CA | Hybrid | May 20 |
 | **[MCN Build](http://mcnbuild.com)** | **[Real Estate Investment & Development Analyst Intern - D.C.](https://jobright.ai/jobs/info/6a0df02547fea1610bca54d6?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Assurance Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a0dedf483d7144289813e8d?utm_campaign=1052&utm_source=git)** | Green Bay, WI, US | On Site | May 20 |
@@ -66,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Solved](https://www.solvedbytanna.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0de8fcc152ac782448121e?utm_campaign=1052&utm_source=git)** | Tampa, Florida, United States | On Site | May 20 |
 | **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69d4452acfdc6132f94594fc?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | May 20 |
 | **[Soltis Investment Advisors](https://www.soltisadvisors.com)** | **[Alternative Investment Intern](https://jobright.ai/jobs/info/6a0de75680bf0430c7627559?utm_campaign=1052&utm_source=git)** | Lehi, UT | On Site | May 20 |
+| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/69d43981366bb95ba553bbcf?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | May 20 |
 | **[ATBS](http://atbs.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a0de69fbeb4d73cb622ce00?utm_campaign=1052&utm_source=git)** | Laramie, WY | On Site | May 20 |
 | **[Floridacentral Credit Union](https://www.floridacentralcu.com/)** | **[Intern Accounting - Part time](https://jobright.ai/jobs/info/6a0de44bc152ac7824480f36?utm_campaign=1052&utm_source=git)** | 3333 Henderson Blvd, Tampa, FL 33609, USA | On Site | May 20 |
 | **[Soltis Investment Advisors](https://www.soltisadvisors.com)** | **[Alternative Investment Intern](https://jobright.ai/jobs/info/6a0de35109ecfd704b3e3baa?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 20 |
@@ -94,11 +101,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0def72c152ac78244816c4?utm_campaign=1052&utm_source=git)** | East Orange, NJ | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca3180bf0430c76261d0?utm_campaign=1052&utm_source=git)** | Blacksburg, VA | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca2dbeb4d73cb622b911?utm_campaign=1052&utm_source=git)** | Casas Adobes, AZ | Remote | May 20 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca1909ecfd704b3e2b69?utm_campaign=1052&utm_source=git)** | Baldwin Park, CA | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca1909ecfd704b3e2b6a?utm_campaign=1052&utm_source=git)** | Dale City, VA | Remote | May 20 |
+| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dca1909ecfd704b3e2b69?utm_campaign=1052&utm_source=git)** | Baldwin Park, CA | Remote | May 20 |
 | **[Ancora Education](https://ancoraeducation.com)** | **[Finance & Operations Intern - Special Project](https://jobright.ai/jobs/info/6a0dc51380bf0430c7625f81?utm_campaign=1052&utm_source=git)** | United States | On Site | May 20 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc4b747fea1610bca39eb?utm_campaign=1052&utm_source=git)** | Fairbanks, AK | Remote | May 20 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc4b747fea1610bca39ec?utm_campaign=1052&utm_source=git)** | Wesley Chapel, FL | Remote | May 20 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc4b747fea1610bca39ec?utm_campaign=1052&utm_source=git)** | Wesley Chapel, FL | Remote | May 20 |
+| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc4b747fea1610bca39eb?utm_campaign=1052&utm_source=git)** | Fairbanks, AK | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc48fbeb4d73cb622b669?utm_campaign=1052&utm_source=git)** | Lebanon, PA | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc48fbeb4d73cb622b66b?utm_campaign=1052&utm_source=git)** | Lakeville, MN | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dc47dc152ac782447fa59?utm_campaign=1052&utm_source=git)** | Rocklin, CA | Remote | May 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Winter Intern - Financial Services](https://jobright.ai/jobs/info/6a0d15790411d7417a1bf1dd?utm_campaign=1052&utm_source=git)** | Iselin, NJ | Hybrid | May 19 |
 | **[Etched](https://www.etched.com)** | **[Finance Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d13cb0411d7417a1bf180?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Finance Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d10dda235d749afa9320a?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[Finance Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d10d54d9320363687eb3b?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| **[Fortinet](http://www.fortinet.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a0d0daf538d03366dc93c7e?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA | On Site | May 19 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a0d05bc963f7a67d95de06d?utm_campaign=1052&utm_source=git)** | Sunnyvale, CA, United States | On Site | May 19 |
-| **[Riverside Medical Clinic](https://www.riversidemedicalclinic.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0d03d7a235d749afa92ca3?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Ki Mobility](http://kimobility.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0d02e3a235d749afa92c19?utm_campaign=1052&utm_source=git)** | Stevens Point, WI | On Site | May 19 |
-| **[Manatee Memorial Hospital](http://www.manateememorial.com)** | **[INTERN](https://jobright.ai/jobs/info/6a0d00f7538d03366dc93566?utm_campaign=1052&utm_source=git)** | PHILADELPHIA,Pennsylvania,United States | On Site | May 19 |
-| **[Legends Global](http://legends.net)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a0d00b94d9320363687e39b?utm_campaign=1052&utm_source=git)** | West Conshohocken, PA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

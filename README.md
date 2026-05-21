@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/6a0ed67f619335383fb27a26?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | May 21 |
+| ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/6a0ed66b83d714428981b755?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | May 21 |
+| ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/6a0ed66a83d714428981b752?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | May 21 |
 | **[PowerSchool](http://www.k12planet.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a0ecdac9f654b3359ce11a7?utm_campaign=1052&utm_source=git)** | United States | Remote | May 21 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a0ebde483d714428981ac2d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 21 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a0ebddb09ecfd704b3eacd3?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 21 |
@@ -75,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0e72f847fea1610bcaa59c?utm_campaign=1052&utm_source=git)** | Poway, CA | On Site | May 20 |
 | **[Waccamaw Management, LLC](https://www.waccamawmanagement.com/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6a0e65f580bf0430c762c744?utm_campaign=1052&utm_source=git)** | Honolulu, HI, 96813 | On Site | May 20 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e62bebeb4d73cb6231ebc?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | May 20 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbeb?utm_campaign=1052&utm_source=git)** | Pasadena, CA, US | On Site | May 20 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbec?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | May 20 |
+| ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbeb?utm_campaign=1052&utm_source=git)** | Pasadena, CA, US | On Site | May 20 |
 | ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbea?utm_campaign=1052&utm_source=git)** | Century City, CA, US | On Site | May 20 |
-| ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbec?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | May 20 |
 | ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500580bf0430c762bbe8?utm_campaign=1052&utm_source=git)** | Ontario, CA, US | On Site | May 20 |
 | ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500580bf0430c762bbe9?utm_campaign=1052&utm_source=git)** | Carlsbad, CA, US | On Site | May 20 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4bd209ecfd704b3e7ac4?utm_campaign=1052&utm_source=git)** | Tyler, TX | Remote | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0e1bb0beb4d73cb622f079?utm_campaign=1052&utm_source=git)** | Maricopa, AZ | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0e1b4880bf0430c762970c?utm_campaign=1052&utm_source=git)** | Gaithersburg, MD | Remote | May 20 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0dcf6880bf0430c762656f?utm_campaign=1052&utm_source=git)** | North Richland Hills, TX | Remote | May 20 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df04e09ecfd704b3e4381?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 20 |
-| ↳ | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df03147fea1610bca5510?utm_campaign=1052&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | Hybrid | May 20 |
-| ↳ | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df07dbeb4d73cb622d4f4?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

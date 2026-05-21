@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PowerSchool](http://www.k12planet.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a0ecdac9f654b3359ce11a7?utm_campaign=1052&utm_source=git)** | United States | Remote | May 21 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a0ebde483d714428981ac2d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 21 |
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a0ebddb09ecfd704b3eacd3?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 21 |
 | **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a0ea3fb83d714428981a56f?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | May 20 |
@@ -74,18 +75,18 @@ For a complete list, click the following sortable link below:
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0e72f847fea1610bcaa59c?utm_campaign=1052&utm_source=git)** | Poway, CA | On Site | May 20 |
 | **[Waccamaw Management, LLC](https://www.waccamawmanagement.com/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6a0e65f580bf0430c762c744?utm_campaign=1052&utm_source=git)** | Honolulu, HI, 96813 | On Site | May 20 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e62bebeb4d73cb6231ebc?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | May 20 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbea?utm_campaign=1052&utm_source=git)** | Century City, CA, US | On Site | May 20 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbeb?utm_campaign=1052&utm_source=git)** | Pasadena, CA, US | On Site | May 20 |
+| ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbea?utm_campaign=1052&utm_source=git)** | Century City, CA, US | On Site | May 20 |
 | ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbec?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | May 20 |
-| ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500680bf0430c762bbeb?utm_campaign=1052&utm_source=git)** | Pasadena, CA, US | On Site | May 20 |
 | ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500580bf0430c762bbe8?utm_campaign=1052&utm_source=git)** | Ontario, CA, US | On Site | May 20 |
 | ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0e500580bf0430c762bbe9?utm_campaign=1052&utm_source=git)** | Carlsbad, CA, US | On Site | May 20 |
-| **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4bd209ecfd704b3e7ac3?utm_campaign=1052&utm_source=git)** | South Bend, IN | Remote | May 20 |
-| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4bd209ecfd704b3e7ac4?utm_campaign=1052&utm_source=git)** | Tyler, TX | Remote | May 20 |
+| **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4bd209ecfd704b3e7ac4?utm_campaign=1052&utm_source=git)** | Tyler, TX | Remote | May 20 |
+| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4bd209ecfd704b3e7ac3?utm_campaign=1052&utm_source=git)** | South Bend, IN | Remote | May 20 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4b8fc152ac782448547c?utm_campaign=1052&utm_source=git)** | Tucson, AZ | Remote | May 20 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a0e4b5a80bf0430c762b6ee?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | May 20 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4b5680bf0430c762b6cf?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Remote | May 20 |
-| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4b5480bf0430c762b6c8?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | Remote | May 20 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4b5480bf0430c762b6c9?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Remote | May 20 |
+| ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4b5480bf0430c762b6c8?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | Remote | May 20 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0e4b17beb4d73cb6230eda?utm_campaign=1052&utm_source=git)** | Pomona, CA | Remote | May 20 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a0e4ad047fea1610bca8cf8?utm_campaign=1052&utm_source=git)** | Irving, TX | Remote | May 20 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - School Year Spring 2027 - Atlantic Region Property and Casualty (part-time, remote)](https://jobright.ai/jobs/info/6a0e490a83d7144289817a31?utm_campaign=1052&utm_source=git)** | Wakefield, MA | Remote | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df04e09ecfd704b3e4381?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 20 |
 | ↳ | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df03147fea1610bca5510?utm_campaign=1052&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | Hybrid | May 20 |
 | ↳ | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df07dbeb4d73cb622d4f4?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 20 |
-| ↳ | **[Co-op or Intern, Personal Debt Solutions - Multiple Locations - September 2026](https://jobright.ai/jobs/info/6a0df03347fea1610bca5517?utm_campaign=1052&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

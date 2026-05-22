@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAM](https://www.sam.biz)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a0527e1f3d6cc51d63870cc?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | May 21 |
+| **[DNOW](https://www.dnow.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0fad6612f8b43cf3980fd5?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | May 21 |
+| **[PRO*ACT](http://www.proactusa.com)** | **[Procurement Internship](https://jobright.ai/jobs/info/6a0fa9d3619335383fb2e679?utm_campaign=1052&utm_source=git)** | Monterey,CA,US | On Site | May 21 |
+| **[Helix Electric](http://www.helixelectric.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0fa7a372b52f7225f3f89e?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6a0fa76d83d7144289821f29?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | May 21 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0f9ef09f654b3359ce7330?utm_campaign=1052&utm_source=git)** | Pomona, CA | Remote | May 21 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0f9e9e619335383fb2e1d7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Remote | May 21 |
 | ↳ | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a0f9e9983d7144289821b60?utm_campaign=1052&utm_source=git)** | Tucson, AZ | Remote | May 21 |
@@ -82,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[US Fertility](https://www.usfertility.com/)** | **[Accounting and Finance Summer Intern](https://jobright.ai/jobs/info/6a0f808283d7144289820faf?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | May 21 |
 | **[Gate Petroleum Company](https://www.gatepetro.com)** | **[CORPORATE CREDIT ANALYST INTERN](https://jobright.ai/jobs/info/6a0f8040619335383fb2d514?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | May 21 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a0f7ea512f8b43cf397fb29?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
+| **[Amentum](https://www.amentum.com/)** | **[Intern - Senior Accounting Specialist (Summer 2026)](https://jobright.ai/jobs/info/6a0fa1de619335383fb2e3f8?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
 | **[Distinct Engineering Solutions, Inc.](https://www.distinct-esi.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a0f7a8672b52f7225f3e570?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | May 21 |
 | **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Accounting and Finance Summer Intern](https://jobright.ai/jobs/info/6a0f764b9f654b3359ce606d?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | May 21 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a0f75ce619335383fb2c8d1?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 21 |
@@ -114,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a0f4f9180bf0430c76328a7?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Finance Administration](https://jobright.ai/jobs/info/6a0f4f4880bf0430c7632895?utm_campaign=1052&utm_source=git)** | West Hollywood City Hall - 8300 Santa Monica Blvd, West Hollywood, CA | On Site | May 21 |
 | **[Summit Health](https://www.summithealth.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0f498712f8b43cf397d280?utm_campaign=1052&utm_source=git)** | Remote - Texas, US | Remote | May 21 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Income Tax Advisory](https://jobright.ai/jobs/info/6a0f45aa80bf0430c7632305?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[repsol](http://www.repsol.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a0f453a83d714428981e2b9?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/699d08b1e0bddb6acacc2507?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | On Site | May 21 |
 | **[Novocure](http://www.novocure.com/)** | **[Enterprise Technology Investments, Intern](https://jobright.ai/jobs/info/6a0f422780bf0430c76321ce?utm_campaign=1052&utm_source=git)** | Wayne, PA | On Site | May 21 |
@@ -138,12 +143,12 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2028 - Southern MN](https://jobright.ai/jobs/info/69b26fdea8ac8e70ff665524?utm_campaign=1052&utm_source=git)** | Austin, MN | On Site | May 21 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - Senior Accounting Specialist (Summer 2026)](https://jobright.ai/jobs/info/6a0f20c072b52f7225f3b1d4?utm_campaign=1052&utm_source=git)** | US-NV-Las Vegas, US | On Site | May 21 |
 | **[repsol](http://www.repsol.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a0f2017619335383fb29569?utm_campaign=1052&utm_source=git)** | Downtown Houston, US | On Site | May 21 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1cc1619335383fb293af?utm_campaign=1052&utm_source=git)** | Dundalk, MD | Remote | May 21 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1cc1619335383fb293b0?utm_campaign=1052&utm_source=git)** | Lynwood, CA | Remote | May 21 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1cc1619335383fb293b0?utm_campaign=1052&utm_source=git)** | Lynwood, CA | Remote | May 21 |
+| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1cc1619335383fb293af?utm_campaign=1052&utm_source=git)** | Dundalk, MD | Remote | May 21 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1cb39f654b3359ce2c01?utm_campaign=1052&utm_source=git)** | Commerce City, CO | Remote | May 21 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1c9f80bf0430c7630ee6?utm_campaign=1052&utm_source=git)** | Albany, OR | Remote | May 21 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1c9f80bf0430c7630ee3?utm_campaign=1052&utm_source=git)** | Malden, MA | Remote | May 21 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1c9f80bf0430c7630ee4?utm_campaign=1052&utm_source=git)** | Pflugerville, TX | Remote | May 21 |
+| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1c9f80bf0430c7630ee3?utm_campaign=1052&utm_source=git)** | Malden, MA | Remote | May 21 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1c7972b52f7225f3afeb?utm_campaign=1052&utm_source=git)** | Castro Valley, CA | Remote | May 21 |
 | ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f1c7972b52f7225f3afec?utm_campaign=1052&utm_source=git)** | Great Falls, MT | Remote | May 21 |
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Plano)](https://jobright.ai/jobs/info/69eb57f016b2612c2a11b583?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | May 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Martinsburg](http://cityofmartinsburg.org/)** | **[Finance Department Intern](https://jobright.ai/jobs/info/6a0f175e12f8b43cf397bb3e?utm_campaign=1052&utm_source=git)** | Martinsburg, US | On Site | May 21 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Accounting Associate Internship](https://jobright.ai/jobs/info/6a0f3660619335383fb29f51?utm_campaign=1052&utm_source=git)** | Pooler, GA | On Site | May 21 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Summer Internship – Accounting & Payroll (Amarillo TX Complex)](https://jobright.ai/jobs/info/6a0f3dee9f654b3359ce3bed?utm_campaign=1052&utm_source=git)** | Amarillo, TX | On Site | May 21 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f153180bf0430c7630bc0?utm_campaign=1052&utm_source=git)** | Dalton, GA | Remote | May 21 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f153180bf0430c7630bbf?utm_campaign=1052&utm_source=git)** | Hanford, CA | Remote | May 21 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f153180bf0430c7630bc1?utm_campaign=1052&utm_source=git)** | Waltham, MA | Remote | May 21 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f152f83d714428981cc1e?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Remote | May 21 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6a0f152f83d714428981cc1f?utm_campaign=1052&utm_source=git)** | Dubuque, IA | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Summer 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809cf738f2f099e89a294?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 22 |
+| **[Primerica](https://www.primerica.com)** | **[Securities Operations Finance Intern](https://jobright.ai/jobs/info/69f423c858b23a2329da9976?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 22 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Internal Audit Intern (Summer 2026)](https://jobright.ai/jobs/info/699faca681476f6176b965d8?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | May 22 |
+| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Sustainable Finance Research intern - HOME-BASED](https://jobright.ai/jobs/info/6a1043b29fdbf21f36cad765?utm_campaign=1052&utm_source=git)** | Home, KS | Remote | May 22 |
 | **[City of New York](http://www1.nyc.gov)** | **[Accounting (Accounts Receivable Intern)](https://jobright.ai/jobs/info/6a1039eb12f8b43cf3983887?utm_campaign=1052&utm_source=git)** | New York City, NY | On Site | May 22 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Accounts Payable Central](https://jobright.ai/jobs/info/6a1039059fdbf21f36cad2c2?utm_campaign=1052&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 22 |
 | **[Lendsqr](https://lendsqr.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1036d083d7144289824a65?utm_campaign=1052&utm_source=git)** | United States | Remote | May 22 |
@@ -71,23 +75,24 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba8f0906c1ba00c54ca4c4?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | May 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d0d7461b9b613a624027?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | May 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69ba902806c1ba00c54ca9fe?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | May 22 |
+| ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Boston)](https://jobright.ai/jobs/info/69c8a0e91818a24cd84d5e69?utm_campaign=1052&utm_source=git)** | Boston, MA | Hybrid | May 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a1013ba83d7144289823f2c?utm_campaign=1052&utm_source=git)** | Monrovia, CA | Hybrid | May 22 |
 | **[Flexential](https://www.flexential.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a1006e79f654b3359ce93a9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019683d7144289823a60?utm_campaign=1052&utm_source=git)** | Traverse City, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5e?utm_campaign=1052&utm_source=git)** | East Lansing, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5f?utm_campaign=1052&utm_source=git)** | Fort Collins, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5e?utm_campaign=1052&utm_source=git)** | East Lansing, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5d?utm_campaign=1052&utm_source=git)** | Macomb, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5a?utm_campaign=1052&utm_source=git)** | Cincinnati, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5b?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5a?utm_campaign=1052&utm_source=git)** | Cincinnati, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5c?utm_campaign=1052&utm_source=git)** | Auburn Hills, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a59?utm_campaign=1052&utm_source=git)** | Columbus, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a55?utm_campaign=1052&utm_source=git)** | Detroit, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a58?utm_campaign=1052&utm_source=git)** | Kalamazoo, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a52?utm_campaign=1052&utm_source=git)** | Flint, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a54?utm_campaign=1052&utm_source=git)** | Schaumburg, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a56?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a53?utm_campaign=1052&utm_source=git)** | Ann Arbor, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a57?utm_campaign=1052&utm_source=git)** | Cleveland, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a54?utm_campaign=1052&utm_source=git)** | Schaumburg, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a58?utm_campaign=1052&utm_source=git)** | Kalamazoo, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a52?utm_campaign=1052&utm_source=git)** | Flint, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a55?utm_campaign=1052&utm_source=git)** | Detroit, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019283d7144289823a50?utm_campaign=1052&utm_source=git)** | Grand Rapids, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019283d7144289823a51?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10018e83d7144289823a4f?utm_campaign=1052&utm_source=git)** | Toledo, US | On Site | May 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance intern](https://jobright.ai/jobs/info/6a0f5ce972b52f7225f3d3e2?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | May 21 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0f5c9a83d714428981f18a?utm_campaign=1052&utm_source=git)** | Carlsbad, CA | On Site | May 21 |
 | ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0f5c5080bf0430c7632f8c?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | May 21 |
-| ↳ | **[Intern - Spring 2027 - SoCal](https://jobright.ai/jobs/info/6a0f5c4f80bf0430c7632f8b?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | May 21 |
-| ↳ | **[Tax / Audit Intern - Spring 2028 - Southern MN](https://jobright.ai/jobs/info/69810488abff4c399a9fd2c8?utm_campaign=1052&utm_source=git)** | New Ulm, MN | On Site | May 21 |
-| **[First Financial Bank Texas](https://ffin.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a0f5af812f8b43cf397db48?utm_campaign=1052&utm_source=git)** | Abilene Main, US | On Site | May 21 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Corporate Financial Reporting Internal Auditor](https://jobright.ai/jobs/info/6a0f59f112f8b43cf397dad9?utm_campaign=1052&utm_source=git)** | Sandusky, OH, US | On Site | May 21 |
-| ↳ | **[Intern - Corporate Financial Reporting Internal Auditor](https://jobright.ai/jobs/info/6a0f59ef12f8b43cf397dad5?utm_campaign=1052&utm_source=git)** | US-OH-Sandusky | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New York](http://www1.nyc.gov)** | **[Accounting (Accounts Receivable Intern)](https://jobright.ai/jobs/info/6a1039eb12f8b43cf3983887?utm_campaign=1052&utm_source=git)** | New York City, NY | On Site | May 22 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Accounts Payable Central](https://jobright.ai/jobs/info/6a1039059fdbf21f36cad2c2?utm_campaign=1052&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 22 |
+| **[Lendsqr](https://lendsqr.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1036d083d7144289824a65?utm_campaign=1052&utm_source=git)** | United States | Remote | May 22 |
+| **[Tennis Channel](http://www.tennischannel.com/)** | **[Summer 2026 Intern – Production Finance](https://jobright.ai/jobs/info/69d7fcf4f4ea471a51fe2cfa?utm_campaign=1052&utm_source=git)** | Santa Monica, CA | On Site | May 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d17e6942c746fa694e32?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | May 22 |
 | ↳ | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3e39a343eef4fb0a9ec2d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 22 |
 | ↳ | **[Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d90ac78b9e45189581d1?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | May 22 |
@@ -71,19 +75,19 @@ For a complete list, click the following sortable link below:
 | **[Flexential](https://www.flexential.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a1006e79f654b3359ce93a9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019683d7144289823a60?utm_campaign=1052&utm_source=git)** | Traverse City, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5e?utm_campaign=1052&utm_source=git)** | East Lansing, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5d?utm_campaign=1052&utm_source=git)** | Macomb, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5f?utm_campaign=1052&utm_source=git)** | Fort Collins, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a59?utm_campaign=1052&utm_source=git)** | Columbus, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5d?utm_campaign=1052&utm_source=git)** | Macomb, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5a?utm_campaign=1052&utm_source=git)** | Cincinnati, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5b?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5c?utm_campaign=1052&utm_source=git)** | Auburn Hills, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5a?utm_campaign=1052&utm_source=git)** | Cincinnati, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a52?utm_campaign=1052&utm_source=git)** | Flint, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a59?utm_campaign=1052&utm_source=git)** | Columbus, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a56?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a53?utm_campaign=1052&utm_source=git)** | Ann Arbor, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a57?utm_campaign=1052&utm_source=git)** | Cleveland, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a54?utm_campaign=1052&utm_source=git)** | Schaumburg, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a55?utm_campaign=1052&utm_source=git)** | Detroit, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a58?utm_campaign=1052&utm_source=git)** | Kalamazoo, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a53?utm_campaign=1052&utm_source=git)** | Ann Arbor, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a52?utm_campaign=1052&utm_source=git)** | Flint, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a55?utm_campaign=1052&utm_source=git)** | Detroit, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019283d7144289823a50?utm_campaign=1052&utm_source=git)** | Grand Rapids, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019283d7144289823a51?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10018e83d7144289823a4f?utm_campaign=1052&utm_source=git)** | Toledo, US | On Site | May 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Financial Bank Texas](https://ffin.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a0f5af812f8b43cf397db48?utm_campaign=1052&utm_source=git)** | Abilene Main, US | On Site | May 21 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Corporate Financial Reporting Internal Auditor](https://jobright.ai/jobs/info/6a0f59f112f8b43cf397dad9?utm_campaign=1052&utm_source=git)** | Sandusky, OH, US | On Site | May 21 |
 | ↳ | **[Intern - Corporate Financial Reporting Internal Auditor](https://jobright.ai/jobs/info/6a0f59ef12f8b43cf397dad5?utm_campaign=1052&utm_source=git)** | US-OH-Sandusky | On Site | May 21 |
-| **[Mountain America Credit Union](https://www.macu.com/)** | **[Post-Graduate Internal Audit Intern (6 Month Duration)](https://jobright.ai/jobs/info/6a0f59d2619335383fb2b1bb?utm_campaign=1052&utm_source=git)** | Sandy, UT, US | On Site | May 21 |
-| ↳ | **[IT Internal Audit Intern - Post-Graduate (6 Month Duration)](https://jobright.ai/jobs/info/6a0f59a29f654b3359ce4a4a?utm_campaign=1052&utm_source=git)** | Sandy, UT, US | On Site | May 21 |
-| **[Gate Petroleum Company](https://www.gatepetro.com)** | **[CORPORATE CREDIT ANALYST INTERN](https://jobright.ai/jobs/info/6a0f505f9f654b3359ce460b?utm_campaign=1052&utm_source=git)** | 9540 San Jose Blvd, Jacksonville, FL 32257, USA | On Site | May 21 |
-| **[Wayne County Michigan](http://www.waynecounty.com)** | **[Student Intern 2(809455)](https://jobright.ai/jobs/info/6a0f4fab9f654b3359ce4591?utm_campaign=1052&utm_source=git)** | 400 Monroe St, Detroit, MI, 48226, US | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

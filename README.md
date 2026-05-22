@@ -59,22 +59,22 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Flexential](https://www.flexential.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a1006e79f654b3359ce93a9?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | May 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019683d7144289823a60?utm_campaign=1052&utm_source=git)** | Traverse City, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5e?utm_campaign=1052&utm_source=git)** | East Lansing, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5d?utm_campaign=1052&utm_source=git)** | Macomb, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5f?utm_campaign=1052&utm_source=git)** | Fort Collins, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a59?utm_campaign=1052&utm_source=git)** | Columbus, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019583d7144289823a5e?utm_campaign=1052&utm_source=git)** | East Lansing, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5b?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5a?utm_campaign=1052&utm_source=git)** | Cincinnati, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a59?utm_campaign=1052&utm_source=git)** | Columbus, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5c?utm_campaign=1052&utm_source=git)** | Auburn Hills, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019483d7144289823a5a?utm_campaign=1052&utm_source=git)** | Cincinnati, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a56?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a54?utm_campaign=1052&utm_source=git)** | Schaumburg, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a57?utm_campaign=1052&utm_source=git)** | Cleveland, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a52?utm_campaign=1052&utm_source=git)** | Flint, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a58?utm_campaign=1052&utm_source=git)** | Kalamazoo, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a55?utm_campaign=1052&utm_source=git)** | Detroit, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a54?utm_campaign=1052&utm_source=git)** | Schaumburg, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a53?utm_campaign=1052&utm_source=git)** | Ann Arbor, US | On Site | May 22 |
-| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019283d7144289823a50?utm_campaign=1052&utm_source=git)** | Grand Rapids, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a55?utm_campaign=1052&utm_source=git)** | Detroit, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a58?utm_campaign=1052&utm_source=git)** | Kalamazoo, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019383d7144289823a57?utm_campaign=1052&utm_source=git)** | Cleveland, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019283d7144289823a51?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | May 22 |
+| ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10019283d7144289823a50?utm_campaign=1052&utm_source=git)** | Grand Rapids, US | On Site | May 22 |
 | ↳ | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a10018e83d7144289823a4f?utm_campaign=1052&utm_source=git)** | Toledo, US | On Site | May 22 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Finance, Risk Management, and Insurance](https://jobright.ai/jobs/info/6a0ffdf583d71442898239d7?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 21 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0fed929f654b3359ce8ec6?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | May 21 |

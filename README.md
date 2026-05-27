@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160db40073182bd92afafd?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160db20073182bd92afafb?utm_campaign=1052&utm_source=git)** | Irvine, California, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dad0073182bd92afaee?utm_campaign=1052&utm_source=git)** | Raynham, Massachusetts, United States of America | On Site | May 26 |
-| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dac0073182bd92afae7?utm_campaign=1052&utm_source=git)** | West Chester, Pennsylvania, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dac0073182bd92afae5?utm_campaign=1052&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | May 26 |
+| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dac0073182bd92afae7?utm_campaign=1052&utm_source=git)** | West Chester, Pennsylvania, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dab0073182bd92afae2?utm_campaign=1052&utm_source=git)** | El Paso, Texas, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dab0073182bd92afae4?utm_campaign=1052&utm_source=git)** | Spring House, Pennsylvania, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160daa0073182bd92afae1?utm_campaign=1052&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | May 26 |

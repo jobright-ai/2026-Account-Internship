@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[General Accounting Intern Fall 2026](https://jobright.ai/jobs/info/6a0ab365a203b1052e44e977?utm_campaign=1052&utm_source=git)** | Columbus, MS | On Site | May 26 |
+| ↳ | **[Cost Accounting Intern Fall 2026](https://jobright.ai/jobs/info/6966ac3c7a34f53920552a1b?utm_campaign=1052&utm_source=git)** | Columbus, MS | On Site | May 26 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Accounting Intern 1](https://jobright.ai/jobs/info/6a0f1be79f654b3359ce2bb5?utm_campaign=1052&utm_source=git)** | Chillicothe, OH | On Site | May 26 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2027 Global Capital Markets Summer Intern – Debt Finance Banking](https://jobright.ai/jobs/info/6a0b7186538d03366dc855c0?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 26 |
+| ↳ | **[2027 Global Capital Markets Summer Intern – Macro and Commodities](https://jobright.ai/jobs/info/6a0b71b90411d7417a1b0d75?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 26 |
 | **[Bristol Hospital and Health Care Group, Inc.](https://bristolhospital.org)** | **[AP Clerk Intern Mon.-Friday 8am-4:30pm](https://jobright.ai/jobs/info/6a129ffb83d714428982ec25?utm_campaign=1052&utm_source=git)** | BHI Bristol Hospital Main Campus - Bristol, CT 06010 | On Site | May 26 |
 | **[PCI Pharma Services](http://www.pciservices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a163a430073182bd92b18cf?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | May 26 |
 | **[Onex](http://onex.com)** | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f958?utm_campaign=1052&utm_source=git)** | Toronto | On Site | May 26 |
@@ -86,9 +91,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dab0073182bd92afae2?utm_campaign=1052&utm_source=git)** | El Paso, Texas, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dab0073182bd92afae4?utm_campaign=1052&utm_source=git)** | Spring House, Pennsylvania, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160daa0073182bd92afae1?utm_campaign=1052&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | May 26 |
+| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afadf?utm_campaign=1052&utm_source=git)** | New Brunswick, New Jersey, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afadc?utm_campaign=1052&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afada?utm_campaign=1052&utm_source=git)** | Warsaw, Indiana, United States of America | On Site | May 26 |
-| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afadf?utm_campaign=1052&utm_source=git)** | New Brunswick, New Jersey, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da80073182bd92afad9?utm_campaign=1052&utm_source=git)** | Raritan, New Jersey, United States of America | On Site | May 26 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a160ba3128680351d9673aa?utm_campaign=1052&utm_source=git)** | US-IN-Fort Wayne | On Site | May 26 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a160ba2128680351d9673a9?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN, US | On Site | May 26 |
@@ -110,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[GLENDIVE MEDICAL CENTER](https://www.gmc.org)** | **[Accounting / Finance Internship](https://jobright.ai/jobs/info/6a1602371935fa61b3c6ddd0?utm_campaign=1052&utm_source=git)** | Glendive,MT,US | On Site | May 26 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 26 |
 | **[PCI Pharma Services](http://www.pciservices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a15fe2ea429fd279da94483?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, USA, US | On Site | May 26 |
-| **[Readystate Asset Management LP](https://www.readyx.com)** | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8d?utm_campaign=1052&utm_source=git)** | Chicago | On Site | May 26 |
-| ↳ | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 26 |
+| **[Readystate Asset Management LP](https://www.readyx.com)** | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 26 |
+| ↳ | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8d?utm_campaign=1052&utm_source=git)** | Chicago | On Site | May 26 |
 | **[BBVA](https://bbva.csod.com)** | **[Global Trade Finance USA- 1 Year Intern](https://jobright.ai/jobs/info/6a16176cdc845f4be5bdc319?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2027 (Melbourne, FL)](https://jobright.ai/jobs/info/6a15facd128680351d966481?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | May 26 |
 | **[KEATING](http://keatinginc.com)** | **[Emerging Advisor Intern](https://jobright.ai/jobs/info/6a15f88da429fd279da9417a?utm_campaign=1052&utm_source=git)** | Manhattan, KS | On Site | May 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Tax - Spring 2028 (Hybrid)](https://jobright.ai/jobs/info/6a15b467dc845f4be5bd815f?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30338-4724, USA | Hybrid | May 26 |
 | ↳ | **[Internship - Audit - Spring 2028 (Hybrid)](https://jobright.ai/jobs/info/6a15b4580073182bd92abf05?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30338-4724, USA | Hybrid | May 26 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a15b0e90073182bd92abd67?utm_campaign=1052&utm_source=git)** | Atlanta HQ (OPD) | Hybrid | May 26 |
-| **[Just Eat Takeaway.com](https://www.gep.de/)** | **[Intern O2C Corporate Clients & Collections](https://jobright.ai/jobs/info/6a15a936128680351d962e50?utm_campaign=1052&utm_source=git)** | Amsterdam Office, NL | Hybrid | May 26 |
-| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a15a865128680351d962dca?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | May 26 |
-| **[Corden Pharma - A Full-Service CDMO](http://cordenpharma.com)** | **[Accounting Operations Intern](https://jobright.ai/jobs/info/6a15a2f6128680351d962cbe?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | May 26 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Putnam Equity Associate Intern](https://jobright.ai/jobs/info/6a159df51935fa61b3c69762?utm_campaign=1052&utm_source=git)** | USA-BOS100-Boston, US | On Site | May 26 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69fafbb0e156000841155782?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lambda](https://lambda.ai)** | **[Accounting AI Intern - Summer 2026](https://jobright.ai/jobs/info/6a176889f45c6530ce9ac40b?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | May 27 |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern - American Science Cloud Cost Models](https://jobright.ai/jobs/info/6a1766205b0a497d5210be38?utm_campaign=1052&utm_source=git)** | United States | Remote | May 27 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Accounting Intern- Fall 2026](https://jobright.ai/jobs/info/6a1762995b0a497d5210bcbe?utm_campaign=1052&utm_source=git)** | United States | Remote | May 27 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Tax Analyst](https://jobright.ai/jobs/info/6a175e32b091c7417c4fdf7e?utm_campaign=1052&utm_source=git)** | CA-Remote | Remote | May 27 |
 | **[Redwire](https://redwirespace.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a175a83b091c7417c4fdd77?utm_campaign=1052&utm_source=git)** | 8226 Philips Highway, Suite 101, Jacksonville, FL | On Site | May 27 |
 | **[Nexus](https://www.nexmc.com/)** | **[FP&A Analyst – Intern (On-site)](https://jobright.ai/jobs/info/6a175a19d6a04f21602e6132?utm_campaign=1052&utm_source=git)** | Schertz,TX,US | On Site | May 27 |
@@ -107,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities Worcester County](https://www.ccworc.org)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6a170e05f45c6530ce9a83c1?utm_campaign=1052&utm_source=git)** | West Boylston - Admin, West Boylston, MA, US | Hybrid | May 27 |
 | **[Hatzel & Buehler, Inc](http://hatzelandbuehler.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d08d6a04f21602e2524?utm_campaign=1052&utm_source=git)** | Pennsylvania | On Site | May 27 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d08d6a04f21602e2523?utm_campaign=1052&utm_source=git)** | DC | On Site | May 27 |
-| ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d00d6a04f21602e251e?utm_campaign=1052&utm_source=git)** | WV | On Site | May 27 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d00d6a04f21602e251f?utm_campaign=1052&utm_source=git)** | United States | Remote | May 27 |
+| ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d00d6a04f21602e251e?utm_campaign=1052&utm_source=git)** | WV | On Site | May 27 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170cfdd6a04f21602e251d?utm_campaign=1052&utm_source=git)** | NY | On Site | May 27 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170cfcd6a04f21602e251a?utm_campaign=1052&utm_source=git)** | NJ | On Site | May 27 |
 | **[ING Hubs Poland](https://ingtechpoland.com)** | **[Summer 2027 Internship - Lending](https://jobright.ai/jobs/info/6a170bdeb091c7417c4fa194?utm_campaign=1052&utm_source=git)** | New York, US | Hybrid | May 27 |
@@ -118,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[PCL Construction](http://www.pcl.com)** | **[Procurement Student](https://jobright.ai/jobs/info/6a173833f45c6530ce9aa5cb?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 27 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/69fb2d4b87a4820e6da861c4?utm_campaign=1052&utm_source=git)** | Carthage, MO | On Site | May 27 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Property Pricing Intern](https://jobright.ai/jobs/info/6a1729bff45c6530ce9a9845?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 27 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Operational Finance Intern - Summer 2026 (Port Washington)](https://jobright.ai/jobs/info/69fb258ce156000841156bcf?utm_campaign=1052&utm_source=git)** | Port Washington, WI | On Site | May 27 |
 | **[Texas Research International](https://tri-intl.com/)** | **[Accounting Intern I](https://jobright.ai/jobs/info/6a1703f99005d858e94f50b2?utm_campaign=1052&utm_source=git)** | Austin,TX,US | On Site | May 27 |
 | **[Teknor Apex Company](http://www.teknorapex.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a1701891430333075ccc4be?utm_campaign=1052&utm_source=git)** | Pawtucket, RI | Hybrid | May 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Tax Intern (Non-Exempt)](https://jobright.ai/jobs/info/6a16feb1d6a04f21602e1fa5?utm_campaign=1052&utm_source=git)** | 06998 - Team Evergreen North CBO-Federal Way Business Office, US | Hybrid | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f957?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 26 |
 | **[Lincoln Institute of Land Policy](https://www.lincolninst.edu/)** | **[Intern, Fiscal Systems](https://jobright.ai/jobs/info/6a1630121935fa61b3c6f7f1?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Hybrid | May 26 |
 | **[Unigen Corporation](https://www.unigen.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a16292ea429fd279da9641d?utm_campaign=1052&utm_source=git)** | Newark, CA | On Site | May 26 |
-| **[Accion](http://www.accion.org)** | **[Summer Intern, Knowledge and Insights, Impact Measurement and Management (IMM)](https://jobright.ai/jobs/info/6a16270e554b0e12c0589cbc?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | May 26 |
-| **[Unigen Corporation](https://www.unigen.com/)** | **[Trade Analytics Intern](https://jobright.ai/jobs/info/6a1626e01935fa61b3c6f4b3?utm_campaign=1052&utm_source=git)** | Newark, CA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

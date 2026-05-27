@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bristol Hospital and Health Care Group, Inc.](https://bristolhospital.org)** | **[AP Clerk Intern Mon.-Friday 8am-4:30pm](https://jobright.ai/jobs/info/6a129ffb83d714428982ec25?utm_campaign=1052&utm_source=git)** | BHI Bristol Hospital Main Campus - Bristol, CT 06010 | On Site | May 26 |
+| **[PCI Pharma Services](http://www.pciservices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a163a430073182bd92b18cf?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | May 26 |
 | **[Onex](http://onex.com)** | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f958?utm_campaign=1052&utm_source=git)** | Toronto | On Site | May 26 |
 | ↳ | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f957?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 26 |
 | **[ECM Holding Group, Inc.](https://www.ecmholdinggroup.com/)** | **[Finance and Accounting Intern, EMCOR Construction Services](https://jobright.ai/jobs/info/6a16316e554b0e12c058a048?utm_campaign=1052&utm_source=git)** | Norwalk, CT | On Site | May 26 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[GLENDIVE MEDICAL CENTER](https://www.gmc.org)** | **[Accounting / Finance Internship](https://jobright.ai/jobs/info/6a1602371935fa61b3c6ddd0?utm_campaign=1052&utm_source=git)** | Glendive,MT,US | On Site | May 26 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 26 |
 | **[PCI Pharma Services](http://www.pciservices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a15fe2ea429fd279da94483?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, USA, US | On Site | May 26 |
-| **[Readystate Asset Management LP](https://www.readyx.com)** | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 26 |
-| ↳ | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8d?utm_campaign=1052&utm_source=git)** | Chicago | On Site | May 26 |
+| **[Readystate Asset Management LP](https://www.readyx.com)** | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8d?utm_campaign=1052&utm_source=git)** | Chicago | On Site | May 26 |
+| ↳ | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 26 |
 | **[BBVA](https://bbva.csod.com)** | **[Global Trade Finance USA- 1 Year Intern](https://jobright.ai/jobs/info/6a16176cdc845f4be5bdc319?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2027 (Melbourne, FL)](https://jobright.ai/jobs/info/6a15facd128680351d966481?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | May 26 |
 | **[KEATING](http://keatinginc.com)** | **[Emerging Advisor Intern](https://jobright.ai/jobs/info/6a15f88da429fd279da9417a?utm_campaign=1052&utm_source=git)** | Manhattan, KS | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corden Pharma - A Full-Service CDMO](http://cordenpharma.com)** | **[Accounting Operations Intern](https://jobright.ai/jobs/info/6a15a2f6128680351d962cbe?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | May 26 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Putnam Equity Associate Intern](https://jobright.ai/jobs/info/6a159df51935fa61b3c69762?utm_campaign=1052&utm_source=git)** | USA-BOS100-Boston, US | On Site | May 26 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69fafbb0e156000841155782?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/6a15982b554b0e12c0584001?utm_campaign=1052&utm_source=git)** | Canada | Remote | May 26 |
-| **[Friedman + Huey Associates LLP](http://www.fhassoc.com)** | **[2027 Winter/Spring Tax Internship](https://jobright.ai/jobs/info/69a73d0e76bbe83d3afa9807?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

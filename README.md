@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrity](https://www.integrity.com)** | **[Commissions Analyst Intern](https://jobright.ai/jobs/info/6a16916b202ae849ed8d42ce?utm_campaign=1052&utm_source=git)** | Urbandale, IA | On Site | May 26 |
+| **[Univeris](http://www.univeris.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a168985128680351d96b5a9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | May 26 |
 | **[LSNE Contract Manufacturing](http://www.pci.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a167dca1935fa61b3c72037?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | May 26 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a1657df554b0e12c058b988?utm_campaign=1052&utm_source=git)** | Westlake Village, CA | Hybrid | May 26 |
 | ↳ | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a1657d9128680351d96a295?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | May 26 |
@@ -92,14 +94,14 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160db40073182bd92afafd?utm_campaign=1052&utm_source=git)** | Cincinnati, Ohio, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160db20073182bd92afafb?utm_campaign=1052&utm_source=git)** | Irvine, California, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dad0073182bd92afaee?utm_campaign=1052&utm_source=git)** | Raynham, Massachusetts, United States of America | On Site | May 26 |
-| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dac0073182bd92afae5?utm_campaign=1052&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dac0073182bd92afae7?utm_campaign=1052&utm_source=git)** | West Chester, Pennsylvania, United States of America | On Site | May 26 |
+| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dac0073182bd92afae5?utm_campaign=1052&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dab0073182bd92afae4?utm_campaign=1052&utm_source=git)** | Spring House, Pennsylvania, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160dab0073182bd92afae2?utm_campaign=1052&utm_source=git)** | El Paso, Texas, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160daa0073182bd92afae1?utm_campaign=1052&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | May 26 |
-| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afadf?utm_campaign=1052&utm_source=git)** | New Brunswick, New Jersey, United States of America | On Site | May 26 |
-| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afada?utm_campaign=1052&utm_source=git)** | Warsaw, Indiana, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afadc?utm_campaign=1052&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | May 26 |
+| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afada?utm_campaign=1052&utm_source=git)** | Warsaw, Indiana, United States of America | On Site | May 26 |
+| ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da90073182bd92afadf?utm_campaign=1052&utm_source=git)** | New Brunswick, New Jersey, United States of America | On Site | May 26 |
 | ↳ | **[Summer 2027 Finance Internship](https://jobright.ai/jobs/info/6a160da80073182bd92afad9?utm_campaign=1052&utm_source=git)** | Raritan, New Jersey, United States of America | On Site | May 26 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a160ba3128680351d9673aa?utm_campaign=1052&utm_source=git)** | US-IN-Fort Wayne | On Site | May 26 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a160ba2128680351d9673a9?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN, US | On Site | May 26 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[GLENDIVE MEDICAL CENTER](https://www.gmc.org)** | **[Accounting / Finance Internship](https://jobright.ai/jobs/info/6a1602371935fa61b3c6ddd0?utm_campaign=1052&utm_source=git)** | Glendive,MT,US | On Site | May 26 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 26 |
 | **[PCI Pharma Services](http://www.pciservices.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a15fe2ea429fd279da94483?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, USA, US | On Site | May 26 |
-| **[Readystate Asset Management LP](https://www.readyx.com)** | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 26 |
-| ↳ | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8d?utm_campaign=1052&utm_source=git)** | Chicago | On Site | May 26 |
+| **[Readystate Asset Management LP](https://www.readyx.com)** | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8d?utm_campaign=1052&utm_source=git)** | Chicago | On Site | May 26 |
+| ↳ | **[Investment Intern (Summer 2027)](https://jobright.ai/jobs/info/6a15fdf9dc845f4be5bdaf8f?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 26 |
 | **[BBVA](https://bbva.csod.com)** | **[Global Trade Finance USA- 1 Year Intern](https://jobright.ai/jobs/info/6a16176cdc845f4be5bdc319?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2027 (Melbourne, FL)](https://jobright.ai/jobs/info/6a15facd128680351d966481?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | May 26 |
 | **[KEATING](http://keatinginc.com)** | **[Emerging Advisor Intern](https://jobright.ai/jobs/info/6a15f88da429fd279da9417a?utm_campaign=1052&utm_source=git)** | Manhattan, KS | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novogradac](https://www.novoco.com)** | **[Staff Accountant Intern](https://jobright.ai/jobs/info/6a15c3c2a429fd279da91ae6?utm_campaign=1052&utm_source=git)** | San Francisco, US | On Site | May 26 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Denver)](https://jobright.ai/jobs/info/6a15bbe6a429fd279da9181b?utm_campaign=1052&utm_source=git)** | 20 303 E. 17th Avenue, Denver, CO, 80203, US | On Site | May 26 |
 | **[Emigrant Bank](https://www.emigrant.com)** | **[Intern - Capital Markets](https://jobright.ai/jobs/info/6a15ba37554b0e12c0585482?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[Therma](http://www.therma.com)** | **[Procurement Intern Summer 2026](https://jobright.ai/jobs/info/6a15ba00128680351d963bda?utm_campaign=1052&utm_source=git)** | Therma, 1601 Las Plumas Avenue, San Jose, California, United States of America | On Site | May 26 |
-| **[PHI Air Medical](https://www.phiairmedical.com)** | **[General Procurement Intern](https://jobright.ai/jobs/info/6a15b7b80073182bd92ac09a?utm_campaign=1052&utm_source=git)** | Lafayette, LA, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

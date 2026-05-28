@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Season Intern](https://jobright.ai/jobs/info/6a1798ebf45c6530ce9ae12b?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | May 27 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/69f128e6b27fee43e8cd754d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 27 |
+| **[CTBK](https://www.ctbk.com/)** | **[Business Valuation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17922a1430333075cd275d?utm_campaign=1052&utm_source=git)** | Buffalo, NY | On Site | May 27 |
+| **[Kepler Communications Inc.](https://kepler.space)** | **[Finance & Accounting Intern (September 2026) (8+ months)](https://jobright.ai/jobs/info/6a178bb0b091c7417c4ffc35?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | May 27 |
 | **[Drive Medical](http://www.drivemedical.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1784d7b091c7417c4ff36b?utm_campaign=1052&utm_source=git)** | Port Washington, NY | Remote | May 27 |
 | **[Montagna & Associates, Incorporated](http://montagnainc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a177ed881fe455c705a96fb?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | On Site | May 27 |
 | **[KerberRose](http://kerberrose.com)** | **[ParaPlanner Intern](https://jobright.ai/jobs/info/6a17794e81fe455c705a9546?utm_campaign=1052&utm_source=git)** | Appleton,WI,US | On Site | May 27 |
@@ -89,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[2027 KeyBank Finance/Accounting Summer Internship - Cleveland, OH](https://jobright.ai/jobs/info/6a17447ab091c7417c4fcb94?utm_campaign=1052&utm_source=git)** | Cleveland, OH, US | Hybrid | May 27 |
 | **[Drive Medical](http://www.drivemedical.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a174181b091c7417c4fc9f9?utm_campaign=1052&utm_source=git)** | US Remote, Port Washington, NY, US | Remote | May 27 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Poultry Finance and Accounting Year-Round Intern](https://jobright.ai/jobs/info/6a1740a55b0a497d5210a3f3?utm_campaign=1052&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | May 27 |
-| **[Grain Millers, Inc.](http://grainmillers.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a175b359005d858e94f9206?utm_campaign=1052&utm_source=git)** | Eden Prairie, MN | On Site | May 27 |
 | **[POLITICO](http://www.politico.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69fb3226e156000841157920?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | May 27 |
 | **[Mohr CPAs LLP](https://mohrcpas.com)** | **[Seasonal Tax Intern Part Time](https://jobright.ai/jobs/info/6a173e4cd6a04f21602e4b9d?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | May 27 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Intern](https://jobright.ai/jobs/info/6a173dbdf45c6530ce9aa8b8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a16a5cb128680351d96c133?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | May 27 |
 | **[Integrity](https://www.integrity.com)** | **[Commissions Analyst Intern](https://jobright.ai/jobs/info/6a16916b202ae849ed8d42ce?utm_campaign=1052&utm_source=git)** | Urbandale, IA | On Site | May 26 |
 | **[Univeris](http://www.univeris.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a168985128680351d96b5a9?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | May 26 |
-| **[LSNE Contract Manufacturing](http://www.pci.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a167dca1935fa61b3c72037?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | May 26 |
-| **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a1657df554b0e12c058b988?utm_campaign=1052&utm_source=git)** | Westlake Village, CA | Hybrid | May 26 |
-| ↳ | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a1657d9128680351d96a295?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

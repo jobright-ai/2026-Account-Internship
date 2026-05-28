@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities Worcester County](https://www.ccworc.org)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6a170e05f45c6530ce9a83c1?utm_campaign=1052&utm_source=git)** | West Boylston - Admin, West Boylston, MA, US | Hybrid | May 27 |
 | **[Hatzel & Buehler, Inc](http://hatzelandbuehler.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d08d6a04f21602e2524?utm_campaign=1052&utm_source=git)** | Pennsylvania | On Site | May 27 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d08d6a04f21602e2523?utm_campaign=1052&utm_source=git)** | DC | On Site | May 27 |
-| ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d00d6a04f21602e251f?utm_campaign=1052&utm_source=git)** | United States | Remote | May 27 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d00d6a04f21602e251e?utm_campaign=1052&utm_source=git)** | WV | On Site | May 27 |
+| ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170d00d6a04f21602e251f?utm_campaign=1052&utm_source=git)** | United States | Remote | May 27 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170cfdd6a04f21602e251d?utm_campaign=1052&utm_source=git)** | NY | On Site | May 27 |
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6a170cfcd6a04f21602e251a?utm_campaign=1052&utm_source=git)** | NJ | On Site | May 27 |
 | **[ING Hubs Poland](https://ingtechpoland.com)** | **[Summer 2027 Internship - Lending](https://jobright.ai/jobs/info/6a170bdeb091c7417c4fa194?utm_campaign=1052&utm_source=git)** | New York, US | Hybrid | May 27 |

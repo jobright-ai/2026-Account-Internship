@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a182f006243320e8d161336?utm_campaign=1052&utm_source=git)** | Sissonville, WV | On Site | May 28 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Credits and Incentives Tax Intern - Summer 2027](https://jobright.ai/jobs/info/6a183e89dbc80963f934149d?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | May 28 |
+| **[Groupe Clarins](http://www.groupeclarins.com)** | **[Intern, Financial Planning & Analysis](https://jobright.ai/jobs/info/6a183acac2a87d6cd3dee661?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 28 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/691d19850b7dff73414ffbca?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | May 28 |
+| **[UPS](http://www.ups.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a05a9616c07461fe17178be?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 28 |
+| **[BiggsKofford](https://www.biggskofford.com/)** | **[Audit Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/6a1832976243320e8d1617d6?utm_campaign=1052&utm_source=git)** | Colorado Springs | On Site | May 28 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Group Financial Security](https://jobright.ai/jobs/info/69fc30c03802c7621fd8fecd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Strategy and Research Department Macro and Market Research Intern](https://jobright.ai/jobs/info/6a182686dbc80963f9340a96?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 28 |
 | ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a182147c2a87d6cd3dedc25?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 28 |
@@ -89,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[HRchitect](https://www.hrchitect.com/)** | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a17ca31da08264614c90659?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 27 |
 | ↳ | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a17ca30da08264614c90658?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | ↳ | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a17ca14da08264614c9062a?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 27 |
-| ↳ | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a17ca13da08264614c90629?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | ↳ | **[Internal Audit Department-Sanctions and Compliance Audit Intern](https://jobright.ai/jobs/info/6a17ca131430333075cd41e9?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 27 |
+| ↳ | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a17ca13da08264614c90629?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | ↳ | **[Credit Risk Management Department Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a17ca1281fe455c705abd4a?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | ↳ | **[Internal Audit Department-Sanctions and Compliance Audit Intern](https://jobright.ai/jobs/info/6a17ca111430333075cd41e7?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | ↳ | **[Credit Risk Management Department Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a17ca1181fe455c705abd49?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a173aae1430333075cceed4?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | May 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Tax Intern (Non-Exempt)](https://jobright.ai/jobs/info/6a1738a0f45c6530ce9aa5ff?utm_campaign=1052&utm_source=git)** | Auburn, WA | On Site | May 27 |
 | **[V2X Inc](https://gov2x.com)** | **[Finance Internship - Program Finance - Madison, MS/Reston, VA/Greenville, SC/Orlando, FL - (Summer 2026)](https://jobright.ai/jobs/info/69fb21ba38179b6f1ae75950?utm_campaign=1052&utm_source=git)** | Greenville, FL | On Site | May 27 |
-| **[Wegner CPAs](http://wegnercpas.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a1737b59005d858e94f7854?utm_campaign=1052&utm_source=git)** | Madison,WI,US | On Site | May 27 |
-| **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[986 EN - EDC Student / New Grad Positions - Finance Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1788af5b0a497d5210d2db?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 27 |
-| ↳ | **[986 EN - EDC Student / New Grad Positions - Finance Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1787a71430333075cd1db2?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 27 |
-| ↳ | **[986 EN - EDC Student / New Grad Positions - Finance Stream (Fall 2026)](https://jobright.ai/jobs/info/6a1787ea1430333075cd1df7?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

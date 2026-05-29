@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/6a19d27ee24ef36525827a7f?utm_campaign=1052&utm_source=git)** | 4 515 S Flower St, Los Angeles, CA, 90071, US | On Site | May 29 |
+| ↳ | **[Assurance Intern - Summer 2027 (San Diego)](https://jobright.ai/jobs/info/6a19d271e24ef36525827a7c?utm_campaign=1052&utm_source=git)** | 3570 Carmel Mountain Road, San Diego, CA, 92130, US | On Site | May 29 |
+| ↳ | **[Assurance Intern - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6a19d26c9111f771d1a088a9?utm_campaign=1052&utm_source=git)** | 33 600 Anton Boulevard , Costa Mesa, CA, 92626, US | On Site | May 29 |
+| **[Vaisala](http://www.vaisala.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a19d1999111f771d1a08888?utm_campaign=1052&utm_source=git)** | Louisville, CO | On Site | May 29 |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 29 |
+| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | May 29 |
+| **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Wichita)](https://jobright.ai/jobs/info/69ea418d58811370cb13218a?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | May 29 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/6a19cc0e547e292ae1394d93?utm_campaign=1052&utm_source=git)** | 06998 - Team Evergreen North CBO-Federal Way Business Office, US | Hybrid | May 29 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Financial Services Internship Summer 2026](https://jobright.ai/jobs/info/6a19cb872b206f3955eb0a5d?utm_campaign=1052&utm_source=git)** | 340 W 10th St, Indianapolis, IN, 46202, US | On Site | May 29 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Treasury](https://jobright.ai/jobs/info/69c496abd5a1016e98dbe0d6?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 29 |
 | **[PROJXON](www.projxon.com)** | **[Finance Specialist (Intern)](https://jobright.ai/jobs/info/6a19ca32e24ef36525827885?utm_campaign=1052&utm_source=git)** | United States | Remote | May 29 |
 | **[Blaze Credit Union](http://www.blazecu.com)** | **[Mortgage Servicing Intern](https://jobright.ai/jobs/info/6a19c891547e292ae1394cb2?utm_campaign=1052&utm_source=git)** | Falcon Heights,MN,US | On Site | May 29 |
 | **[Osmundson Mfg. Co.](https://www.osmundson.com/)** | **[FP&A & Cost Accounting Intern](https://jobright.ai/jobs/info/6a19c57c9111f771d1a08478?utm_campaign=1052&utm_source=git)** | Perry,IA,US | On Site | May 29 |
-| **[MetOx International](http://www.metoxtech.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a19bbc3547e292ae1394378?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 29 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a19bbcb547e292ae1394396?utm_campaign=1052&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 29 |
+| **[MetOx International](http://www.metoxtech.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a19bbcb547e292ae1394396?utm_campaign=1052&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 29 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a19bbc3547e292ae1394378?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[EWH Small Business Accounting S.C.](https://www.ewhsba.com/)** | **[Seasonal Tax Intern](https://jobright.ai/jobs/info/6a19c2bfe24ef36525827564?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | May 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Finance](https://jobright.ai/jobs/info/6a19bf8a547e292ae139488b?utm_campaign=1052&utm_source=git)** | Temecula, CA 92590 | On Site | May 29 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Leasing Agency Intern](https://jobright.ai/jobs/info/6a19be799111f771d1a081e1?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, USA, US | On Site | May 29 |
@@ -79,20 +87,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a3c2b600907a962b561c?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | May 29 |
 | ↳ | **[Summer 2027 Assurance Intern](https://jobright.ai/jobs/info/69a5a889359fe034b1d049b3?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | May 29 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2ae9111f771d1a071c1?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States of America | Hybrid | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071b9?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071ba?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States of America | Hybrid | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071bb?utm_campaign=1052&utm_source=git)** | Franklin, Tennessee, United States of America | On Site | May 29 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071b9?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071b8?utm_campaign=1052&utm_source=git)** | Franklin, Tennessee, United States | Hybrid | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a39111f771d1a071b5?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | Hybrid | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a39111f771d1a071b6?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a39111f771d1a071b7?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | Hybrid | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a29111f771d1a071b4?utm_campaign=1052&utm_source=git)** | Bloomfield, Connecticut, United States of America | Hybrid | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a29111f771d1a071b3?utm_campaign=1052&utm_source=git)** | Bloomfield, Connecticut, United States | Hybrid | May 29 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a29111f771d1a071b4?utm_campaign=1052&utm_source=git)** | Bloomfield, Connecticut, United States of America | Hybrid | May 29 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a257e24ef3652582621d?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a255e24ef3652582621a?utm_campaign=1052&utm_source=git)** | Bloomfield, CT, US | On Site | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a255e24ef36525826219?utm_campaign=1052&utm_source=git)** | Denver, CO, US | On Site | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a255e24ef3652582621c?utm_campaign=1052&utm_source=git)** | Franklin, TN, US | On Site | May 29 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a255e24ef36525826219?utm_campaign=1052&utm_source=git)** | Denver, CO, US | On Site | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a255e24ef3652582621b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, US | On Site | May 29 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a255e24ef3652582621a?utm_campaign=1052&utm_source=git)** | Bloomfield, CT, US | On Site | May 29 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2026)](https://jobright.ai/jobs/info/6971616c587dfa0bb55f03b7?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | May 29 |
 | **[Springline Advisory](https://springlineadvisory.com)** | **[Spring Internship 2028](https://jobright.ai/jobs/info/69fcccd0432a3c4da8dff1da?utm_campaign=1052&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | May 29 |
 | **[Teleflex](http://www.teleflex.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a0f61e912f8b43cf397e88d?utm_campaign=1052&utm_source=git)** | Morrisville, NC | On Site | May 29 |
@@ -127,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Rainmaker Technology Corporation](https://makerain.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a18bdcb6243320e8d1677da?utm_campaign=1052&utm_source=git)** | El Segundo, CA | On Site | May 28 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Finance Intern, NA Supply Chain](https://jobright.ai/jobs/info/6a18b87cc2a87d6cd3df40b7?utm_campaign=1052&utm_source=git)** | Piscataway, NJ | On Site | May 28 |
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Audit and Tax Intern](https://jobright.ai/jobs/info/6a0c7baa0411d7417a1b90c3?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | May 28 |
-| ↳ | **[Audit and Tax Intern](https://jobright.ai/jobs/info/6a0cb5ee0411d7417a1bb887?utm_campaign=1052&utm_source=git)** | Wooster, OH | On Site | May 28 |
 | ↳ | **[Audit and Tax Intern](https://jobright.ai/jobs/info/6a0c777b4d932036368787db?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | May 28 |
+| ↳ | **[Audit and Tax Intern](https://jobright.ai/jobs/info/6a0cb5ee0411d7417a1bb887?utm_campaign=1052&utm_source=git)** | Wooster, OH | On Site | May 28 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a18b28bdbc80963f9346aef?utm_campaign=1052&utm_source=git)** | The Woodlands, TX, US | On Site | May 28 |
 | **[HERE Technologies](https://www.here.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a18c99554a441713ae881fe?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[Stored Energy Systems LLC (SENS)](http://www.sens-usa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a18ab8fabc8f63abac7b301?utm_campaign=1052&utm_source=git)** | Longmont, CO | On Site | May 28 |
@@ -147,14 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer Finance-Intern, Accounting](https://jobright.ai/jobs/info/6a189b9d54a441713ae8654e?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | May 28 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Fall 2026](https://jobright.ai/jobs/info/69fb8c3f38179b6f1ae7939b?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | May 28 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e6?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
-| ↳ | **[Credit Risk Management Department Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a185caac2a87d6cd3df0256?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
-| ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/69fbdab587a4820e6da8b075?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/6a0850f56186f468598879e5?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
-| ↳ | **[Credit Risk Management Department Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a185ca8c2a87d6cd3df024b?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
-| **[UPS](http://www.ups.com)** | **[Maintenance F&A Intern Analyst / 099](https://jobright.ai/jobs/info/6a1898d754a441713ae8645f?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 28 |
-| **[WBL CPAs + Advisors](https://wblcpa.com/)** | **[Internship - Audit - Spring 2028 (Hybrid)](https://jobright.ai/jobs/info/6a15e6ffdc845f4be5bda371?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | May 28 |
-| **[National Bank of Canada](http://www.nbc.ca/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6a18973754a441713ae863bc?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 28 |
-| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345787?utm_campaign=1052&utm_source=git)** | USA | On Site | May 28 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345788?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | May 28 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Internal Audit Unit Intern - UNPAID](https://jobright.ai/jobs/info/6a1890bc17492d3a389b78aa?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 28 |
+| ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/69fbdab587a4820e6da8b075?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6a18a0056243320e8d1664a0?utm_campaign=1052&utm_source=git)** | Winchester, KY, US | On Site | May 29 |
 | ↳ | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6a107ecb9f654b3359cec206?utm_campaign=1052&utm_source=git)** | Troy, MI, US | On Site | May 29 |
 | **[GS Power Partners](https://gspowerpartners.com/)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/6a14c8e5c48b503aeffbfdbe?utm_campaign=1052&utm_source=git)** | New York - NY | On Site | May 29 |
-| **[Cathay Bank](https://www.cathaybank.com/)** | **[Internal Audit Intern - 1194 Internal Auditing](https://jobright.ai/jobs/info/69a7677b76bbe83d3afaca73?utm_campaign=1052&utm_source=git)** | El Monte, CA, USA | On Site | May 29 |
-| ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a10c62069bd827926af05ea?utm_campaign=1052&utm_source=git)** | El Monte, CA, USA | On Site | May 29 |
+| **[Cathay Bank](https://www.cathaybank.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a10c62069bd827926af05ea?utm_campaign=1052&utm_source=git)** | El Monte, CA, USA | On Site | May 29 |
+| ↳ | **[Internal Audit Intern - 1194 Internal Auditing](https://jobright.ai/jobs/info/69a7677b76bbe83d3afaca73?utm_campaign=1052&utm_source=git)** | El Monte, CA, USA | On Site | May 29 |
 | **[Initio Capital](https://initiostudios.io)** | **[Deal Sourcing Analyst](https://jobright.ai/jobs/info/6a19581f9111f771d1a05a28?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 29 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Growth Equity Investing Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a14ff22bc9bff375af02a1b?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | May 29 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a193ddc9111f771d1a05107?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 29 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Maintenance F&A Intern Analyst / 099](https://jobright.ai/jobs/info/6a1898d754a441713ae8645f?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 28 |
 | **[WBL CPAs + Advisors](https://wblcpa.com/)** | **[Internship - Audit - Spring 2028 (Hybrid)](https://jobright.ai/jobs/info/6a15e6ffdc845f4be5bda371?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | May 28 |
 | **[National Bank of Canada](http://www.nbc.ca/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6a18973754a441713ae863bc?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 28 |
-| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345787?utm_campaign=1052&utm_source=git)** | USA | On Site | May 28 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345788?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | May 28 |
+| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345788?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | May 28 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345787?utm_campaign=1052&utm_source=git)** | USA | On Site | May 28 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Internal Audit Unit Intern - UNPAID](https://jobright.ai/jobs/info/6a1890bc17492d3a389b78aa?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 28 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a18c53154a441713ae88035?utm_campaign=1052&utm_source=git)** | Lake Charles, LA | On Site | May 28 |
 | **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a188ccd17492d3a389b76c1?utm_campaign=1052&utm_source=git)** | FOWLER, CA | On Site | May 28 |
@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Samsonite](http://www.samsonite.com)** | **[Treasury & Special Projects Intern](https://jobright.ai/jobs/info/6a1876ae54a441713ae84d77?utm_campaign=1052&utm_source=git)** | Mansfield, MA | On Site | May 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a187446c2a87d6cd3df14dd?utm_campaign=1052&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a187444c2a87d6cd3df14da?utm_campaign=1052&utm_source=git)** | Washington, DC, US | On Site | May 28 |
-| **[Tube Supply](https://www.tubesupply.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a1872dcc2a87d6cd3df1423?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 28 |
-| ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a1872dcabc8f63abac78b57?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 28 |
+| **[Tube Supply](https://www.tubesupply.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a1872dcabc8f63abac78b57?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 28 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a1872dcc2a87d6cd3df1423?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 28 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a1872dbc2a87d6cd3df141f?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 28 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a1872dbc2a87d6cd3df1420?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 28 |
 | ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a1872daabc8f63abac78b53?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 28 |

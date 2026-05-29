@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kinective](https://www.kinective.io)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a1900e46243320e8d169bc2?utm_campaign=1052&utm_source=git)** | Gilbert, AZ | On Site | May 28 |
 | **[UPS](http://www.ups.com)** | **[Maintenance F&A Intern Analyst / 099](https://jobright.ai/jobs/info/6a18eb9edbc80963f93487f3?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 28 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Internal Audit Intern (Fall 2026-Remote)](https://jobright.ai/jobs/info/6a18eaaaabc8f63abac7d3ae?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | May 28 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a18e9c317492d3a389bab9d?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | May 28 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Maintenance F&A Intern Analyst / 099](https://jobright.ai/jobs/info/6a1898d754a441713ae8645f?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | May 28 |
 | **[WBL CPAs + Advisors](https://wblcpa.com/)** | **[Internship - Audit - Spring 2028 (Hybrid)](https://jobright.ai/jobs/info/6a15e6ffdc845f4be5bda371?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | May 28 |
 | **[National Bank of Canada](http://www.nbc.ca/)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6a18973754a441713ae863bc?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 28 |
-| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345788?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | May 28 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345787?utm_campaign=1052&utm_source=git)** | USA | On Site | May 28 |
+| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345787?utm_campaign=1052&utm_source=git)** | USA | On Site | May 28 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a18944fdbc80963f9345788?utm_campaign=1052&utm_source=git)** | Middletown, RI | On Site | May 28 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Internal Audit Unit Intern - UNPAID](https://jobright.ai/jobs/info/6a1890bc17492d3a389b78aa?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 28 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6a18c53154a441713ae88035?utm_campaign=1052&utm_source=git)** | Lake Charles, LA | On Site | May 28 |
 | **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a188ccd17492d3a389b76c1?utm_campaign=1052&utm_source=git)** | FOWLER, CA | On Site | May 28 |
@@ -106,16 +107,16 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Atlanta)](https://jobright.ai/jobs/info/69eb8f5b0a6e09555304798f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 28 |
 | **[HERE Technologies](https://www.here.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a187a496243320e8d164cc8?utm_campaign=1052&utm_source=git)** | Chicago, IL, US | On Site | May 28 |
 | ↳ | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a187a486243320e8d164cc7?utm_campaign=1052&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Actuarial Intern- Summer 2027](https://jobright.ai/jobs/info/6a1877b2dbc80963f93444c2?utm_campaign=1052&utm_source=git)** | Owatonna, MN, US | On Site | May 28 |
-| ↳ | **[Actuarial Intern- Summer 2027](https://jobright.ai/jobs/info/6a1877b2dbc80963f93444c1?utm_campaign=1052&utm_source=git)** | US-MN-Owatonna | On Site | May 28 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Actuarial Intern- Summer 2027](https://jobright.ai/jobs/info/6a1877b2dbc80963f93444c1?utm_campaign=1052&utm_source=git)** | US-MN-Owatonna | On Site | May 28 |
+| ↳ | **[Actuarial Intern- Summer 2027](https://jobright.ai/jobs/info/6a1877b2dbc80963f93444c2?utm_campaign=1052&utm_source=git)** | Owatonna, MN, US | On Site | May 28 |
 | **[Samsonite Latinoamérica](https://www.linkedin.com/company/89312460)** | **[Treasury & Special Projects Intern](https://jobright.ai/jobs/info/6a18776254a441713ae84df2?utm_campaign=1052&utm_source=git)** | Mansfield, MA, United States | On Site | May 28 |
 | **[Samsonite](http://www.samsonite.com)** | **[Treasury & Special Projects Intern](https://jobright.ai/jobs/info/6a1876ae54a441713ae84d77?utm_campaign=1052&utm_source=git)** | Mansfield, MA | On Site | May 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a187446c2a87d6cd3df14dd?utm_campaign=1052&utm_source=git)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a187444c2a87d6cd3df14da?utm_campaign=1052&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Tube Supply](https://www.tubesupply.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a1872dcabc8f63abac78b57?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 28 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a1872dcc2a87d6cd3df1423?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 28 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a1872dbc2a87d6cd3df141f?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 28 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a1872dbc2a87d6cd3df1420?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 28 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a1872dbc2a87d6cd3df141f?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 28 |
 | ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a1872daabc8f63abac78b53?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 28 |
 | ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a1872d6abc8f63abac78b50?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 28 |
 | **[Monogram Foods](http://www.monogramfoods.com/)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/6a1872d317492d3a389b6471?utm_campaign=1052&utm_source=git)** | Haverhill MA - Haverhill, MA 01832 | On Site | May 28 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/69ebaea5dc35f7132c4b28ae?utm_campaign=1052&utm_source=git)** | Canfield, OH | On Site | May 28 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Management](https://jobright.ai/jobs/info/6a13a16312f8b43cf398f62b?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 28 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Fund Financial Operations Intern (San Antonio, TX)](https://jobright.ai/jobs/info/6a185cfe6243320e8d1638cc?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | May 28 |
-| ↳ | **[Real Estate Summer Intern 2027 (San Antonio, TX)](https://jobright.ai/jobs/info/6a185cf3c2a87d6cd3df031f?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | May 28 |
 | ↳ | **[Real Estate Summer Intern 2027 (San Antonio, TX)](https://jobright.ai/jobs/info/6a185cf3c2a87d6cd3df0320?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | May 28 |
+| ↳ | **[Real Estate Summer Intern 2027 (San Antonio, TX)](https://jobright.ai/jobs/info/6a185cf3c2a87d6cd3df031f?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | May 28 |
 | **[Barnes Dennig](http://barnesdennig.com)** | **[Tax  Internship / January-April (Winter) 2027 - Cincinnati, OH](https://jobright.ai/jobs/info/6a185cecc2a87d6cd3df0305?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | May 28 |
 | ↳ | **[Tax  Internship / January-April (Winter) 2027 - Dayton, OH](https://jobright.ai/jobs/info/6a185ce0dbc80963f93430ab?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | May 28 |
 | ↳ | **[Tax  Internship / January-April (Winter) 2027 - Crestview Hills, KY](https://jobright.ai/jobs/info/6a185cd6dbc80963f934308a?utm_campaign=1052&utm_source=git)** | Crestview Hills, KY | On Site | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/6a185c7e6243320e8d16374d?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c77abc8f63abac779c5?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c73abc8f63abac7798f?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
-| ↳ | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a185c7317492d3a389b5333?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

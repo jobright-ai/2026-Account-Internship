@@ -120,11 +120,11 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a185c82dbc80963f9342f8d?utm_campaign=1052&utm_source=git)** | US-FL-Boca Raton | Hybrid | May 28 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Strategy and Research Department Macro and Market Research Intern](https://jobright.ai/jobs/info/6a185c82c2a87d6cd3df01d5?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a185c81dbc80963f9342f7f?utm_campaign=1052&utm_source=git)** | Boca Raton, FL, US | Hybrid | May 28 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/6a185c7e6243320e8d16374b?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
-| ↳ | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/6a185c7e6243320e8d16374d?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/6a185c7e6243320e8d16374d?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
+| ↳ | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/6a185c7e6243320e8d16374b?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c77abc8f63abac779c5?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
-| ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c73abc8f63abac7798f?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a185c7317492d3a389b5333?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | May 28 |
+| ↳ | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c73abc8f63abac7798f?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a185c6f17492d3a389b5308?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Tax Analyst](https://jobright.ai/jobs/info/6a185c6e54a441713ae8384e?utm_campaign=1052&utm_source=git)** | CA-Remote | Remote | May 28 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a185c6c17492d3a389b52ef?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO, US | Hybrid | May 28 |
@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a185b61c2a87d6cd3defe01?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 28 |
 | ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a185b23abc8f63abac774f7?utm_campaign=1052&utm_source=git)** | US-TX-Houston | On Site | May 28 |
 | ↳ | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a185b21abc8f63abac774f3?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 28 |
-| **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Summer Intern – Finance & Accounting](https://jobright.ai/jobs/info/6a185b20c2a87d6cd3defce6?utm_campaign=1052&utm_source=git)** | Chantilly, VA, US | On Site | May 28 |
-| ↳ | **[Summer Intern – Finance & Accounting](https://jobright.ai/jobs/info/6a185b20c2a87d6cd3defce7?utm_campaign=1052&utm_source=git)** | US-VA-Chantilly | On Site | May 28 |
+| **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Summer Intern – Finance & Accounting](https://jobright.ai/jobs/info/6a185b20c2a87d6cd3defce7?utm_campaign=1052&utm_source=git)** | US-VA-Chantilly | On Site | May 28 |
+| ↳ | **[Summer Intern – Finance & Accounting](https://jobright.ai/jobs/info/6a185b20c2a87d6cd3defce6?utm_campaign=1052&utm_source=git)** | Chantilly, VA, US | On Site | May 28 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a185b1fabc8f63abac774ee?utm_campaign=1052&utm_source=git)** | Houston | On Site | May 28 |
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a185aebabc8f63abac773fe?utm_campaign=1052&utm_source=git)** | UT-Salt Lake City | On Site | May 28 |
 | **[Accion](http://www.accion.org)** | **[Summer Intern, Knowledge and Insights, Impact Measurement and Management (IMM)](https://jobright.ai/jobs/info/6a185a5117492d3a389b4c73?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | May 28 |

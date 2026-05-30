@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a1b60592b206f3955eb8f8d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | May 30 |
 | **[Calvetti Ferguson](http://calvettiferguson.com)** | **[Assurance Spring 2027 Internship](https://jobright.ai/jobs/info/6a1b4682547e292ae139ceeb?utm_campaign=1052&utm_source=git)** | Nashville | On Site | May 30 |
 | ↳ | **[Assurance Spring 2027 Internship](https://jobright.ai/jobs/info/6a1b467f547e292ae139cee9?utm_campaign=1052&utm_source=git)** | Nashville, Tennessee, United States | On Site | May 30 |
 | **[Varda Space Industries](http://varda.com)** | **[Financial Analyst Internship - Fall 2026](https://jobright.ai/jobs/info/6a1b428dc2a87d6cd3e0371b?utm_campaign=1052&utm_source=git)** | El Segundo, California, United States | On Site | May 30 |
@@ -67,8 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Moore Colson](https://www.moorecolson.com)** | **[Assurance Intern (Spring 2027)](https://jobright.ai/jobs/info/6a1b0bef2b206f3955eb7a95?utm_campaign=1052&utm_source=git)** | Atlanta | On Site | May 30 |
 | **[Gordon Tax](www.gordontax.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a1b03bae24ef3652582e792?utm_campaign=1052&utm_source=git)** | Skokie, IL | On Site | May 30 |
 | **[Level Group Ltd.](level-ltd.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a111b5b9f654b3359ceff3c?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | May 30 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a1898a117492d3a389b7d79?utm_campaign=1052&utm_source=git)** | Sheboygan, WI | On Site | May 30 |
-| ↳ | **[Tax Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a1898a1abc8f63abac7a464?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | May 30 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a1898a1abc8f63abac7a464?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | May 30 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a13f3929fdbf21f36cbaefd?utm_campaign=1052&utm_source=git)** | Richfield, OH | On Site | May 30 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA | Hybrid | May 30 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/69716e0b587dfa0bb55f0cd5?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | May 30 |
@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Blaze Credit Union](http://www.blazecu.com)** | **[Mortgage Servicing Intern](https://jobright.ai/jobs/info/6a19c891547e292ae1394cb2?utm_campaign=1052&utm_source=git)** | Falcon Heights,MN,US | On Site | May 29 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Actuarial - Student/Intern](https://jobright.ai/jobs/info/6a1a3bca547e292ae1397b86?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 29 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Accountant Assistant Intern](https://jobright.ai/jobs/info/6a1a35e8547e292ae1397a23?utm_campaign=1052&utm_source=git)** | Brea, California, United States | On Site | May 29 |
+| **[MAHLE](https://www.mahle.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a0cba1822d0d34036c97ae2?utm_campaign=1052&utm_source=git)** | Farmington Hills, MI | On Site | May 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Accounts Payable Intern (Year Round)](https://jobright.ai/jobs/info/6a1a3139e24ef3652582a5fe?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | May 29 |
 | **[MAHLE](https://www.mahle.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a0cb1a4963f7a67d95da9f4?utm_campaign=1052&utm_source=git)** | Farmington Hills, MI, US, 48335 | On Site | May 29 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a19e6e42b206f3955eb16f1?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, CA | On Site | May 29 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6a19d26c9111f771d1a088a9?utm_campaign=1052&utm_source=git)** | 33 600 Anton Boulevard , Costa Mesa, CA, 92626, US | On Site | May 29 |
 | **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[813 - EN - EDC Student / New Grad Position - ESG Climate & Sustainable Finance](https://jobright.ai/jobs/info/6a19ee5fe24ef365258286ed?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 29 |
 | **[Vaisala](http://www.vaisala.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a19d1999111f771d1a08888?utm_campaign=1052&utm_source=git)** | Louisville, CO | On Site | May 29 |
-| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | May 29 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 29 |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 29 |
+| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | May 29 |
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Wichita)](https://jobright.ai/jobs/info/69ea418d58811370cb13218a?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | May 29 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/6a19cc0e547e292ae1394d93?utm_campaign=1052&utm_source=git)** | 06998 - Team Evergreen North CBO-Federal Way Business Office, US | Hybrid | May 29 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Financial Services Internship Summer 2026](https://jobright.ai/jobs/info/6a19cb872b206f3955eb0a5d?utm_campaign=1052&utm_source=git)** | 340 W 10th St, Indianapolis, IN, 46202, US | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Technical Group](https://alliancetg.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/69fd1ed25cff890b03f3631d?utm_campaign=1052&utm_source=git)** | Decatur, Alabama, United States | On Site | May 29 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / San Diego (49581)](https://jobright.ai/jobs/info/69bd0914b10602456281e734?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | May 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[2026 - Account Specialist Intern](https://jobright.ai/jobs/info/6a19b16ec2a87d6cd3dfa83e?utm_campaign=1052&utm_source=git)** | 390 Robert St. N St. Paul, MN | Hybrid | May 29 |
-| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a0fb1cc9f654b3359ce7c34?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

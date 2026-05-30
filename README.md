@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Interstate Insurance Company](https://natl.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a13f3929fdbf21f36cbaefd?utm_campaign=1052&utm_source=git)** | Richfield, OH | On Site | May 30 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA | Hybrid | May 30 |
+| ↳ | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/69716e0b587dfa0bb55f0cd5?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | May 30 |
+| ↳ | **[Winter Internship 2027 / Audit Intern / White Plains (49583)](https://jobright.ai/jobs/info/69716ea1333b6343a14df628?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | May 30 |
+| ↳ | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/69716961587dfa0bb55f09b7?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | May 30 |
+| ↳ | **[Winter Internship 2027 / Tax Intern / New York City (49586)](https://jobright.ai/jobs/info/697170d2587dfa0bb55f0e67?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 30 |
+| ↳ | **[Winter Internship 2027 / Healthcare Advisory Intern (49584)](https://jobright.ai/jobs/info/697439cbbc8e722e7b19320d?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | May 30 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Treasury/Sales Audit & Tax Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69aa11f02ebd316bece1ce72?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69fecae015859e57591cf7ed?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | May 30 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Providence (49591)](https://jobright.ai/jobs/info/6971650551f726477183b001?utm_campaign=1052&utm_source=git)** | Providence, RI | On Site | May 30 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / Philadelphia (49589)](https://jobright.ai/jobs/info/69a6851dd706a731db387360?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | May 30 |
@@ -121,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6a19d26c9111f771d1a088a9?utm_campaign=1052&utm_source=git)** | 33 600 Anton Boulevard , Costa Mesa, CA, 92626, US | On Site | May 29 |
 | **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[813 - EN - EDC Student / New Grad Position - ESG Climate & Sustainable Finance](https://jobright.ai/jobs/info/6a19ee5fe24ef365258286ed?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 29 |
 | **[Vaisala](http://www.vaisala.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a19d1999111f771d1a08888?utm_campaign=1052&utm_source=git)** | Louisville, CO | On Site | May 29 |
-| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | May 29 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 29 |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 29 |
+| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | May 29 |
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Wichita)](https://jobright.ai/jobs/info/69ea418d58811370cb13218a?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | May 29 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/6a19cc0e547e292ae1394d93?utm_campaign=1052&utm_source=git)** | 06998 - Team Evergreen North CBO-Federal Way Business Office, US | Hybrid | May 29 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Financial Services Internship Summer 2026](https://jobright.ai/jobs/info/6a19cb872b206f3955eb0a5d?utm_campaign=1052&utm_source=git)** | 340 W 10th St, Indianapolis, IN, 46202, US | On Site | May 29 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a3c2b600907a962b561c?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | May 29 |
 | ↳ | **[Summer 2027 Assurance Intern](https://jobright.ai/jobs/info/69a5a889359fe034b1d049b3?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | May 29 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2ae9111f771d1a071c1?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States of America | Hybrid | May 29 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071b8?utm_campaign=1052&utm_source=git)** | Franklin, Tennessee, United States | Hybrid | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071ba?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States of America | Hybrid | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071bb?utm_campaign=1052&utm_source=git)** | Franklin, Tennessee, United States of America | On Site | May 29 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071b9?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a49111f771d1a071b8?utm_campaign=1052&utm_source=git)** | Franklin, Tennessee, United States | Hybrid | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a39111f771d1a071b7?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | Hybrid | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a39111f771d1a071b6?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a39111f771d1a071b5?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | Hybrid | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a29111f771d1a071b4?utm_campaign=1052&utm_source=git)** | Bloomfield, Connecticut, United States of America | Hybrid | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a2a29111f771d1a071b3?utm_campaign=1052&utm_source=git)** | Bloomfield, Connecticut, United States | Hybrid | May 29 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a257e24ef3652582621d?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a255e24ef3652582621b?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, US | On Site | May 29 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a19a255e24ef3652582621a?utm_campaign=1052&utm_source=git)** | Bloomfield, CT, US | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

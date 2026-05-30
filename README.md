@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Omni Glass & Paint, LLC](http://www.omnigp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a1b38d0e24ef3652582f6d6?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | May 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Excise and Energy Credits Tax Intern - Summer 2027](https://jobright.ai/jobs/info/6a19424dfee8f340243532b8?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | May 30 |
+| **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a0703cf24dcb03739f1de7a?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 30 |
 | **[Zoox](https://www.zoox.com/)** | **[Payment Operations Intern](https://jobright.ai/jobs/info/6a1753699005d858e94f8de9?utm_campaign=1052&utm_source=git)** | Foster City, CA | On Site | May 30 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69fb0e0f18b94b2515bde77c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 30 |
 | **[Moore Colson](https://www.moorecolson.com)** | **[Assurance Intern (Spring 2027)](https://jobright.ai/jobs/info/6a1b0bef2b206f3955eb7a95?utm_campaign=1052&utm_source=git)** | Atlanta | On Site | May 30 |
@@ -111,11 +112,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f957?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 29 |
 | **[TJT](http://tjtpa.com)** | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbfc2a87d6cd3dfd0fb?utm_campaign=1052&utm_source=git)** | Durham, North Carolina, United States | On Site | May 29 |
 | ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbdc2a87d6cd3dfd0fa?utm_campaign=1052&utm_source=git)** | Wilmington | On Site | May 29 |
-| ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbcc2a87d6cd3dfd0f9?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | May 29 |
 | ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbcc2a87d6cd3dfd0f8?utm_campaign=1052&utm_source=git)** | Wilmington, North Carolina, United States | On Site | May 29 |
+| ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbcc2a87d6cd3dfd0f9?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | May 29 |
 | ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbac2a87d6cd3dfd0f5?utm_campaign=1052&utm_source=git)** | Raleigh | On Site | May 29 |
-| **[Ondaro](https://ondarowave.com)** | **[Accounting Labor and Payroll Intern](https://jobright.ai/jobs/info/6a19d7429111f771d1a08bc1?utm_campaign=1052&utm_source=git)** | United States | Remote | May 29 |
-| ↳ | **[Accounting Labor and Payroll Intern](https://jobright.ai/jobs/info/6a19d74b9111f771d1a08bec?utm_campaign=1052&utm_source=git)** | US | On Site | May 29 |
+| **[Ondaro](https://ondarowave.com)** | **[Accounting Labor and Payroll Intern](https://jobright.ai/jobs/info/6a19d74b9111f771d1a08bec?utm_campaign=1052&utm_source=git)** | US | On Site | May 29 |
+| ↳ | **[Accounting Labor and Payroll Intern](https://jobright.ai/jobs/info/6a19d7429111f771d1a08bc1?utm_campaign=1052&utm_source=git)** | United States | Remote | May 29 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights - Calgary (January 2027)](https://jobright.ai/jobs/info/6a1a05dc2b206f3955eb2004?utm_campaign=1052&utm_source=git)** | Calgary - 8th Ave SW, CA | Hybrid | May 29 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Cash Apps Intern](https://jobright.ai/jobs/info/6a1a03a5547e292ae13962d1?utm_campaign=1052&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | May 29 |
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Cash Apps Intern](https://jobright.ai/jobs/info/6a1a026cc2a87d6cd3dfcd3b?utm_campaign=1052&utm_source=git)** | Norwell, MA, United States | On Site | May 29 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assurance Intern - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6a19d26c9111f771d1a088a9?utm_campaign=1052&utm_source=git)** | 33 600 Anton Boulevard , Costa Mesa, CA, 92626, US | On Site | May 29 |
 | **[Export Development Canada | Exportation et développement Canada](https://www.edc.ca/)** | **[813 - EN - EDC Student / New Grad Position - ESG Climate & Sustainable Finance](https://jobright.ai/jobs/info/6a19ee5fe24ef365258286ed?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 29 |
 | **[Vaisala](http://www.vaisala.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a19d1999111f771d1a08888?utm_campaign=1052&utm_source=git)** | Louisville, CO | On Site | May 29 |
-| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | May 29 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 29 |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 29 |
+| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | May 29 |
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Wichita)](https://jobright.ai/jobs/info/69ea418d58811370cb13218a?utm_campaign=1052&utm_source=git)** | Wichita, KS | On Site | May 29 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/6a19cc0e547e292ae1394d93?utm_campaign=1052&utm_source=git)** | 06998 - Team Evergreen North CBO-Federal Way Business Office, US | Hybrid | May 29 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Financial Services Internship Summer 2026](https://jobright.ai/jobs/info/6a19cb872b206f3955eb0a5d?utm_campaign=1052&utm_source=git)** | 340 W 10th St, Indianapolis, IN, 46202, US | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a0fb1cc9f654b3359ce7c34?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 29 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Florham Park (49592)](https://jobright.ai/jobs/info/69716777333b6343a14df03e?utm_campaign=1052&utm_source=git)** | Voorhees, NJ | On Site | May 29 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / White Plains (49593)](https://jobright.ai/jobs/info/697166f451f726477183b1e4?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | May 29 |
-| ↳ | **[Winter Internship 2027 / Tax Intern / Long Island (49596)](https://jobright.ai/jobs/info/69b795ec56973837413cb866?utm_campaign=1052&utm_source=git)** | Jericho, NY | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,18 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | May 30 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | May 30 |
 | **[Amazon](https://amazon.com)** | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a1b60592b206f3955eb8f8d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | May 30 |
 | **[Calvetti Ferguson](http://calvettiferguson.com)** | **[Assurance Spring 2027 Internship](https://jobright.ai/jobs/info/6a1b4682547e292ae139ceeb?utm_campaign=1052&utm_source=git)** | Nashville | On Site | May 30 |
 | ↳ | **[Assurance Spring 2027 Internship](https://jobright.ai/jobs/info/6a1b467f547e292ae139cee9?utm_campaign=1052&utm_source=git)** | Nashville, Tennessee, United States | On Site | May 30 |
 | **[Varda Space Industries](http://varda.com)** | **[Financial Analyst Internship - Fall 2026](https://jobright.ai/jobs/info/6a1b428dc2a87d6cd3e0371b?utm_campaign=1052&utm_source=git)** | El Segundo, California, United States | On Site | May 30 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Excise and Energy Credits Tax Intern - Summer 2027](https://jobright.ai/jobs/info/6a19424dfee8f340243532b8?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | May 30 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a0703cf24dcb03739f1de7a?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 30 |
 | **[Zoox](https://www.zoox.com/)** | **[Payment Operations Intern](https://jobright.ai/jobs/info/6a1753699005d858e94f8de9?utm_campaign=1052&utm_source=git)** | Foster City, CA | On Site | May 30 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69fb0e0f18b94b2515bde77c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 30 |
 | **[Moore Colson](https://www.moorecolson.com)** | **[Assurance Intern (Spring 2027)](https://jobright.ai/jobs/info/6a1b0bef2b206f3955eb7a95?utm_campaign=1052&utm_source=git)** | Atlanta | On Site | May 30 |
 | **[Gordon Tax](www.gordontax.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a1b03bae24ef3652582e792?utm_campaign=1052&utm_source=git)** | Skokie, IL | On Site | May 30 |
 | **[Level Group Ltd.](level-ltd.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a111b5b9f654b3359ceff3c?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | May 30 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax Intern - Spring 2028 - Northeast WI](https://jobright.ai/jobs/info/6a1898a1abc8f63abac7a464?utm_campaign=1052&utm_source=git)** | Green Bay, WI | On Site | May 30 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a13f3929fdbf21f36cbaefd?utm_campaign=1052&utm_source=git)** | Richfield, OH | On Site | May 30 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA | Hybrid | May 30 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/69716e0b587dfa0bb55f0cd5?utm_campaign=1052&utm_source=git)** | San Diego, CA | Hybrid | May 30 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/6a19cc0e547e292ae1394d93?utm_campaign=1052&utm_source=git)** | 06998 - Team Evergreen North CBO-Federal Way Business Office, US | Hybrid | May 29 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Financial Services Internship Summer 2026](https://jobright.ai/jobs/info/6a19cb872b206f3955eb0a5d?utm_campaign=1052&utm_source=git)** | 340 W 10th St, Indianapolis, IN, 46202, US | On Site | May 29 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Treasury](https://jobright.ai/jobs/info/69c496abd5a1016e98dbe0d6?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 29 |
-| **[MetOx International](http://www.metoxtech.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a19bbc3547e292ae1394378?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 29 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a19bbcb547e292ae1394396?utm_campaign=1052&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 29 |
+| **[MetOx International](http://www.metoxtech.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a19bbcb547e292ae1394396?utm_campaign=1052&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 29 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a19bbc3547e292ae1394378?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[EWH Small Business Accounting S.C.](https://www.ewhsba.com/)** | **[Seasonal Tax Intern](https://jobright.ai/jobs/info/6a19c2bfe24ef36525827564?utm_campaign=1052&utm_source=git)** | Onalaska, WI | On Site | May 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Finance](https://jobright.ai/jobs/info/6a19bf8a547e292ae139488b?utm_campaign=1052&utm_source=git)** | Temecula, CA 92590 | On Site | May 29 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Project Purchasing Analyst Intern (Year-Round)](https://jobright.ai/jobs/info/6a19b9042b206f3955eafd18?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI, US | On Site | May 29 |

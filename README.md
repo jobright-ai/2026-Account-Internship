@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a1c6a8e9111f771d1a14e82?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 31 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/6a1c6711547e292ae13a1135?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | May 31 |
+| ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6a1c67019111f771d1a14e35?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | Hybrid | May 31 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Chicago (49582)](https://jobright.ai/jobs/info/69bc21f84828227293fd6e7c?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 31 |
 | **[ITW](http://www.itw.com/)** | **[Corporate Tax Intern - Winter 2027](https://jobright.ai/jobs/info/69a7af70637232443f64fca6?utm_campaign=1052&utm_source=git)** | Glenview - 60025 - Corporate | On Site | May 31 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern-Spring 2027 (Indianapolis)](https://jobright.ai/jobs/info/6a1c3f45547e292ae13a0728?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 31 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 31 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/690726f563502c0aded8518c?utm_campaign=1052&utm_source=git)** | Plastic Trim International, Inc., East Tawas, MI, US | On Site | May 31 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6907272a63502c0aded8519a?utm_campaign=1052&utm_source=git)** | East Tawas, MI, US | On Site | May 31 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6907277d122e8474c78e2e69?utm_campaign=1052&utm_source=git)** | Minth Tennessee International, Inc., Lewisburg, TN, US | On Site | May 31 |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6907277d122e8474c78e2e69?utm_campaign=1052&utm_source=git)** | Minth Tennessee International, Inc., Lewisburg, TN, US | On Site | May 31 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/690726f563502c0aded8518c?utm_campaign=1052&utm_source=git)** | Plastic Trim International, Inc., East Tawas, MI, US | On Site | May 31 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/690720adff462851fe007556?utm_campaign=1052&utm_source=git)** | Worldwise Plastics - Lewisburg, TN, Lewisburg, TN, US | On Site | May 31 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6907272a63502c0aded8519a?utm_campaign=1052&utm_source=git)** | East Tawas, MI, US | On Site | May 31 |
 | **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6a1c3086547e292ae13a0639?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA, United States | On Site | May 31 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/6a1c307e547e292ae13a0634?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | May 31 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Chicago (49585)](https://jobright.ai/jobs/info/69bc536745e08b3dc1f8c829?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 31 |
@@ -87,10 +90,10 @@ For a complete list, click the following sortable link below:
 | **[Service Wire Company](http://servicewire.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a1bec529111f771d1a13113?utm_campaign=1052&utm_source=git)** | Culloden, WV 25510 | On Site | May 31 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a1be095c2a87d6cd3e05f42?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 31 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a1be0946b135014dbc909ae?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 31 |
-| **[HCVT](http://www.hcvt.com)** | **[International Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a1bd4cfc2a87d6cd3e05d74?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | May 30 |
-| ↳ | **[International Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a1bd4cfc2a87d6cd3e05d75?utm_campaign=1052&utm_source=git)** | Glendale, CA | Hybrid | May 30 |
-| **[TJT](http://tjtpa.com)** | **[2027 Audit Internship - Full Time](https://jobright.ai/jobs/info/6a1bb38c2b206f3955eba378?utm_campaign=1052&utm_source=git)** | Raleigh | On Site | May 30 |
-| ↳ | **[2027 Audit Internship - Full Time](https://jobright.ai/jobs/info/6a1bb38c2b206f3955eba379?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | May 30 |
+| **[HCVT](http://www.hcvt.com)** | **[International Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a1bd4cfc2a87d6cd3e05d75?utm_campaign=1052&utm_source=git)** | Glendale, CA | Hybrid | May 30 |
+| ↳ | **[International Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a1bd4cfc2a87d6cd3e05d74?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | May 30 |
+| **[TJT](http://tjtpa.com)** | **[2027 Audit Internship - Full Time](https://jobright.ai/jobs/info/6a1bb38c2b206f3955eba379?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | May 30 |
+| ↳ | **[2027 Audit Internship - Full Time](https://jobright.ai/jobs/info/6a1bb38c2b206f3955eba378?utm_campaign=1052&utm_source=git)** | Raleigh | On Site | May 30 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a17c31ff45c6530ce9af784?utm_campaign=1052&utm_source=git)** | Menlo Park - 1035 | Hybrid | May 30 |
 | ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/6a17c320f45c6530ce9af785?utm_campaign=1052&utm_source=git)** | Menlo Park, CA | Hybrid | May 30 |
 | **[Seidel Schroeder](http://ssccpa.com)** | **[2027 Spring Audit Internship](https://jobright.ai/jobs/info/6a1b86d2c2a87d6cd3e04857?utm_campaign=1052&utm_source=git)** | College Station, TX 77845, USA | On Site | May 30 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Project Purchasing Analyst Intern (Year-Round)](https://jobright.ai/jobs/info/6a1a14072b206f3955eb298b?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | May 29 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Research, Alpha](https://jobright.ai/jobs/info/6a1a11912b206f3955eb2875?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 29 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Intern - Unpaid](https://jobright.ai/jobs/info/6a1a1050547e292ae1396a33?utm_campaign=1052&utm_source=git)** | Georgia - Spalding - Griffin | On Site | May 29 |
-| **[Onex](http://onex.com)** | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f958?utm_campaign=1052&utm_source=git)** | Toronto | On Site | May 29 |
-| ↳ | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f957?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 29 |
+| **[Onex](http://onex.com)** | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f957?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 29 |
+| ↳ | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f958?utm_campaign=1052&utm_source=git)** | Toronto | On Site | May 29 |
 | **[TJT](http://tjtpa.com)** | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbfc2a87d6cd3dfd0fb?utm_campaign=1052&utm_source=git)** | Durham, North Carolina, United States | On Site | May 29 |
 | ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbdc2a87d6cd3dfd0fa?utm_campaign=1052&utm_source=git)** | Wilmington | On Site | May 29 |
-| ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbcc2a87d6cd3dfd0f9?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | May 29 |
 | ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbcc2a87d6cd3dfd0f8?utm_campaign=1052&utm_source=git)** | Wilmington, North Carolina, United States | On Site | May 29 |
-| ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbac2a87d6cd3dfd0f5?utm_campaign=1052&utm_source=git)** | Raleigh | On Site | May 29 |
-| **[Ondaro](https://ondarowave.com)** | **[Accounting Labor and Payroll Intern](https://jobright.ai/jobs/info/6a19d7429111f771d1a08bc1?utm_campaign=1052&utm_source=git)** | United States | Remote | May 29 |
-| ↳ | **[Accounting Labor and Payroll Intern](https://jobright.ai/jobs/info/6a19d74b9111f771d1a08bec?utm_campaign=1052&utm_source=git)** | US | On Site | May 29 |
+| ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbcc2a87d6cd3dfd0f9?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

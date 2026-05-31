@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a1c6a8e9111f771d1a14e82?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | May 31 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | May 31 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | May 31 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | May 31 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | May 31 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/6a1c6711547e292ae13a1135?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | May 31 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6a1c67019111f771d1a14e35?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA | Hybrid | May 31 |
 | **[ITW](http://www.itw.com/)** | **[Corporate Tax Intern - Winter 2027](https://jobright.ai/jobs/info/69f4568c343eef4fb0aa0916?utm_campaign=1052&utm_source=git)** | Glenview, IL | On Site | May 31 |
@@ -67,10 +67,10 @@ For a complete list, click the following sortable link below:
 | **[ITW](http://www.itw.com/)** | **[Corporate Tax Intern - Winter 2027](https://jobright.ai/jobs/info/69a7af70637232443f64fca6?utm_campaign=1052&utm_source=git)** | Glenview - 60025 - Corporate | On Site | May 31 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern-Spring 2027 (Indianapolis)](https://jobright.ai/jobs/info/6a1c3f45547e292ae13a0728?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | May 31 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | May 31 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6907277d122e8474c78e2e69?utm_campaign=1052&utm_source=git)** | Minth Tennessee International, Inc., Lewisburg, TN, US | On Site | May 31 |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/690726f563502c0aded8518c?utm_campaign=1052&utm_source=git)** | Plastic Trim International, Inc., East Tawas, MI, US | On Site | May 31 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/690720adff462851fe007556?utm_campaign=1052&utm_source=git)** | Worldwise Plastics - Lewisburg, TN, Lewisburg, TN, US | On Site | May 31 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6907272a63502c0aded8519a?utm_campaign=1052&utm_source=git)** | East Tawas, MI, US | On Site | May 31 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/690726f563502c0aded8518c?utm_campaign=1052&utm_source=git)** | Plastic Trim International, Inc., East Tawas, MI, US | On Site | May 31 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6907277d122e8474c78e2e69?utm_campaign=1052&utm_source=git)** | Minth Tennessee International, Inc., Lewisburg, TN, US | On Site | May 31 |
 | **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6a1c3086547e292ae13a0639?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA, United States | On Site | May 31 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Los Angeles)](https://jobright.ai/jobs/info/6a1c307e547e292ae13a0634?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | May 31 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Chicago (49585)](https://jobright.ai/jobs/info/69bc536745e08b3dc1f8c829?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 31 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Onex Co-op/Internship, Corporate Finance, Toronto (2026)](https://jobright.ai/jobs/info/6a16358c1935fa61b3c6f958?utm_campaign=1052&utm_source=git)** | Toronto | On Site | May 29 |
 | **[TJT](http://tjtpa.com)** | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbfc2a87d6cd3dfd0fb?utm_campaign=1052&utm_source=git)** | Durham, North Carolina, United States | On Site | May 29 |
 | ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbdc2a87d6cd3dfd0fa?utm_campaign=1052&utm_source=git)** | Wilmington | On Site | May 29 |
-| ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbcc2a87d6cd3dfd0f8?utm_campaign=1052&utm_source=git)** | Wilmington, North Carolina, United States | On Site | May 29 |
+| ↳ | **[2027 Tax Internship - Part Time](https://jobright.ai/jobs/info/6a1a0dbcc2a87d6cd3dfd0f9?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

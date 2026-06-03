@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Align Technology](http://www.aligntech.com)** | **[Finance Analytics & AI Enablement Intern](https://jobright.ai/jobs/info/6a2026133a5f0145f4c1299c?utm_campaign=1052&utm_source=git)** | US-California-San Jose | On Site | Jun 03 |
+| **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Finance and Accounting Intern (34465)](https://jobright.ai/jobs/info/6a2022c7902d19201c7b0408?utm_campaign=1052&utm_source=git)** | Corporate Office - Jacksonville, FL 32246 | On Site | Jun 03 |
+| **[Tompkins Community Bank](https://www.tompkinsbank.com)** | **[Temporary Opportunity Accounting Internship](https://jobright.ai/jobs/info/6a036f8d22395b6dc6d94436?utm_campaign=1052&utm_source=git)** | Ithaca, NY | On Site | Jun 03 |
 | **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship 2026](https://jobright.ai/jobs/info/6a2000d9338c012305116bbd?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Stamford)](https://jobright.ai/jobs/info/6a16f4461430333075ccbabd?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jun 03 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship 26' - Digital Finance](https://jobright.ai/jobs/info/6a1fee1c3a5f0145f4c11fe0?utm_campaign=1052&utm_source=git)** | AIR Office, NL | On Site | Jun 03 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Indirect goods and services management (Fall 2026)](https://jobright.ai/jobs/info/6a1fbe31c5277c00c6488342?utm_campaign=1052&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 02 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Internal Controller Intern](https://jobright.ai/jobs/info/6a1f84fda507373dff6c1a53?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jun 02 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Public Funds](https://jobright.ai/jobs/info/6a1f7ed9a507373dff6c18a3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 02 |
-| **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569809442629a6859892?utm_campaign=1052&utm_source=git)** | San Diego | Remote | Jun 02 |
-| ↳ | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
+| **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
+| ↳ | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569809442629a6859892?utm_campaign=1052&utm_source=git)** | San Diego | Remote | Jun 02 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73ccc5277c00c6486a95?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Jun 02 |
 | ↳ | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73c7c5277c00c6486a90?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 02 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6a1f72cb804915678116a4f5?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2027 Corporate Banking Group Intern](https://jobright.ai/jobs/info/6a1ef289dce5db1256d10d9f?utm_campaign=1052&utm_source=git)** | Atlanta, GA - Regions Plaza Office, US | On Site | Jun 02 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034fa4bc4184089f23119d?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jun 02 |
 | **[KWECO - K & W Equipment Company](https://www.kwfuelingsystems.net)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/6a1eef6ddce5db1256d10c75?utm_campaign=1052&utm_source=git)** | Beech Grove, IN | On Site | Jun 02 |
-| **[Franklin Logistics](https://franklinlogistics.com/)** | **[Inventory Control Associate - Summer Intern Opportunity](https://jobright.ai/jobs/info/6a1eecc9a507373dff6bc3d0?utm_campaign=1052&utm_source=git)** | Chambersburg,PA,US | On Site | Jun 02 |
-| **[BiggsKofford](https://www.biggskofford.com/)** | **[Tax Internship 2027 (Denver)](https://jobright.ai/jobs/info/69ca5174e565c26a7003ccc1?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jun 02 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a033e736c07461fe170220f?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

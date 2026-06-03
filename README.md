@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Align Technology](http://www.aligntech.com)** | **[Finance Analytics & AI Enablement Intern](https://jobright.ai/jobs/info/6a1f7d24a507373dff6c184c?utm_campaign=1052&utm_source=git)** | US-California-San Jose | On Site | Jun 02 |
+| **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
+| ↳ | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569809442629a6859892?utm_campaign=1052&utm_source=git)** | San Diego | Remote | Jun 02 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73ccc5277c00c6486a95?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Jun 02 |
 | ↳ | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73c7c5277c00c6486a90?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 02 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6a1f72cb804915678116a4f5?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
@@ -65,11 +68,10 @@ For a complete list, click the following sortable link below:
 | **[Jobster](https://www.jobster.com)** | **[M&A intern - Studentjob.ch](https://jobright.ai/jobs/info/6a1f67efb61b2c65b37b27a6?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Jun 02 |
 | **[Arcis Golf](http://www.arcisgolf.com)** | **[Arcis Accounting Summer Intern](https://jobright.ai/jobs/info/6a1f67de804915678116a0fd?utm_campaign=1052&utm_source=git)** | Arcis Golf - Corporate Office - Dallas, TX, US | On Site | Jun 02 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Boston)](https://jobright.ai/jobs/info/6a1f620f8049156781169970?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jun 02 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Margin Matching](https://jobright.ai/jobs/info/6a1f76c0a507373dff6c16a4?utm_campaign=1052&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jun 02 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[Finance & Accounting Analyst Intern](https://jobright.ai/jobs/info/6a1f5a4c80491567811692ef?utm_campaign=1052&utm_source=git)** | El Segundo, CA | Hybrid | Jun 02 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Winnipeg](https://jobright.ai/jobs/info/6a1f58a809442629a68599a7?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f5883b61b2c65b37b18c1?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jun 02 |
-| **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569809442629a6859892?utm_campaign=1052&utm_source=git)** | San Diego | Remote | Jun 02 |
-| ↳ | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
 | **[Wealth Warden Partners](www.wardenpartners.com)** | **[Unpaid Accounting Intern](https://jobright.ai/jobs/info/6a1f6f40dce5db1256d15794?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jun 02 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Kitchener-Waterloo Offices](https://jobright.ai/jobs/info/6a1f5216b61b2c65b37b1496?utm_campaign=1052&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jun 02 |
 | **[TruAmerica Multifamily](https://www.truamerica.com/)** | **[Acquisitions Analyst, Intern](https://jobright.ai/jobs/info/6a1f4c938049156781168b94?utm_campaign=1052&utm_source=git)** | Miami, FL 33130, USA | On Site | Jun 02 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Columbia, SC](https://jobright.ai/jobs/info/6870da30a5ae807a59cfc4f0?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Jun 02 |
 | **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - California & Reno](https://jobright.ai/jobs/info/6a1f0113a507373dff6bcbff?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jun 02 |
 | ↳ | **[Aprio 2027 Internship Application - Tax/Audit - California & Reno](https://jobright.ai/jobs/info/6a1f010da507373dff6bcbfb?utm_campaign=1052&utm_source=git)** | Woodland Hills, CA | Hybrid | Jun 02 |
-| ↳ | **[Aprio 2027 Internship Application - Tax/Audit - California & Reno](https://jobright.ai/jobs/info/6a1f010ca507373dff6bcbf9?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 02 |
 | ↳ | **[Aprio 2027 Internship Application - Tax/Audit - California & Reno](https://jobright.ai/jobs/info/6a1f010ca507373dff6bcbfa?utm_campaign=1052&utm_source=git)** | Reno, NV | Hybrid | Jun 02 |
+| ↳ | **[Aprio 2027 Internship Application - Tax/Audit - California & Reno](https://jobright.ai/jobs/info/6a1f010ca507373dff6bcbf9?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 02 |
 | **[TransMarket Group](http://www.transmarketgroup.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a1eff2f09442629a68561a8?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 02 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2027 Corporate Banking Group Intern](https://jobright.ai/jobs/info/6a1ef289dce5db1256d10d9f?utm_campaign=1052&utm_source=git)** | Atlanta, GA - Regions Plaza Office, US | On Site | Jun 02 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034fa4bc4184089f23119d?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jun 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Melanson](https://www.melansoncpas.com)** | **[Intern - Commercial Tax](https://jobright.ai/jobs/info/6a1ec208c5277c00c6480b2f?utm_campaign=1052&utm_source=git)** | Greenfield, MA 01301, USA | On Site | Jun 02 |
 | ↳ | **[Intern - Commercial Tax](https://jobright.ai/jobs/info/6a1ec1fab61b2c65b37acc62?utm_campaign=1052&utm_source=git)** | Merrimack, NH 03054, USA | On Site | Jun 02 |
 | **[The Dutch Group](https://www.thedutchgroup.net)** | **[Fall 2026 Accounting Intern](https://jobright.ai/jobs/info/6a1ec01fc5277c00c64809f5?utm_campaign=1052&utm_source=git)** | Columbus, MS 39701, USA | On Site | Jun 02 |
-| **[HAP (Hmong American Partnership)](https://www.hmong.org)** | **[Intern Finance & Accounting](https://jobright.ai/jobs/info/6a1ebdb6a507373dff6bb3c8?utm_campaign=1052&utm_source=git)** | Saint Paul, MN 55103-1933, USA | On Site | Jun 02 |
-| **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Tax Intern](https://jobright.ai/jobs/info/6a1eb888c5277c00c64806fa?utm_campaign=1052&utm_source=git)** | Dunedin, FL 34698, USA | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

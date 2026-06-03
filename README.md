@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Desjardins](https://www.desjardins.com)** | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1faccadce5db1256d16eaf?utm_campaign=1052&utm_source=git)** | Lévis, CA | Hybrid | Jun 02 |
+| ↳ | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1facc4dce5db1256d16ead?utm_campaign=1052&utm_source=git)** | Montréal, CA | Hybrid | Jun 02 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/6a1fa588a507373dff6c22cf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Arcis Golf](http://www.arcisgolf.com)** | **[Arcis Accounting Summer Intern](https://jobright.ai/jobs/info/6a1f994bdce5db1256d16460?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jun 02 |
 | **[EMI Health](https://emihealth.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6a1f963409442629a685b60c?utm_campaign=1052&utm_source=git)** | Murray, UT | On Site | Jun 02 |
 | **[Scripps Research](http://www.scripps.edu/)** | **[SUMMER INTERN - Treasury](https://jobright.ai/jobs/info/6a1f77b4c5277c00c6486bac?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | On Site | Jun 02 |
-| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Accounting Intern-Temporary](https://jobright.ai/jobs/info/6a1f8e67a507373dff6c1cf9?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | On Site | Jun 02 |
-| ↳ | **[Accounting Intern-Temporary](https://jobright.ai/jobs/info/6a1f897c09442629a685b192?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jun 02 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights (GTA Offices) Fall 2026](https://jobright.ai/jobs/info/6a18695754a441713ae84090?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jun 02 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Internal Controller Intern](https://jobright.ai/jobs/info/6a1f84fda507373dff6c1a53?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jun 02 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Public Funds](https://jobright.ai/jobs/info/6a1f7ed9a507373dff6c18a3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 02 |
 | **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, Assurance and Accounting (Winter 2027)](https://jobright.ai/jobs/info/69af714c749500645093e1c3?utm_campaign=1052&utm_source=git)** | Courtenay, British Columbia, Canada | On Site | Jun 02 |
 | ↳ | **[Intern or Co-op Student, U.S Corporate Tax (January 2027)](https://jobright.ai/jobs/info/6a030c1022395b6dc6d90739?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 02 |
 | **[GME Supply](https://www.gmesupply.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a1f0b78b61b2c65b37ae8e1?utm_campaign=1052&utm_source=git)** | Columbia, MO | On Site | Jun 02 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 02 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 02 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 02 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 02 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Halifax](https://jobright.ai/jobs/info/6a1f052db61b2c65b37ae563?utm_campaign=1052&utm_source=git)** | Halifax - Mumford Rd, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Kitchener-Waterloo Offices](https://jobright.ai/jobs/info/6a1f0527dce5db1256d11560?utm_campaign=1052&utm_source=git)** | Guelph - Hanlon Creek, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Ottawa](https://jobright.ai/jobs/info/6a1f0526dce5db1256d1155f?utm_campaign=1052&utm_source=git)** | Ottawa - Kent St, CA | Hybrid | Jun 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[21st Mortgage Corporation](https://www.21stmortgage.com/)** | **[Fall Intern - Financial Counselor](https://jobright.ai/jobs/info/6a1edb59a507373dff6bbc05?utm_campaign=1052&utm_source=git)** | Knoxville, TN, US | On Site | Jun 02 |
 | **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2027](https://jobright.ai/jobs/info/69ae66a87c309707d4afa273?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Jun 02 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[IT Audit Intern](https://jobright.ai/jobs/info/6a1da147c2a87d6cd3e0c810?utm_campaign=1052&utm_source=git)** | New Orleans - New Orleans Region - Louisiana, US | On Site | Jun 02 |
-| **[flyExclusive](https://www.flyexclusive.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1856046243320e8d162a21?utm_campaign=1052&utm_source=git)** | Raleigh, NC - Raleigh , NC 27609 | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

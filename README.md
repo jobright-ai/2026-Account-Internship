@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Align Technology](http://www.aligntech.com)** | **[Finance Analytics & AI Enablement Intern](https://jobright.ai/jobs/info/6a200a0a3a5f0145f4c12469?utm_campaign=1052&utm_source=git)** | US-California-San Jose | On Site | Jun 03 |
+| **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship 2026](https://jobright.ai/jobs/info/6a2000d9338c012305116bbd?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Stamford)](https://jobright.ai/jobs/info/6a16f4461430333075ccbabd?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jun 03 |
 | **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship 26' - Digital Finance](https://jobright.ai/jobs/info/6a1fee1c3a5f0145f4c11fe0?utm_campaign=1052&utm_source=git)** | AIR Office, NL | On Site | Jun 03 |
 | **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a1fe4cd338c012305116608?utm_campaign=1052&utm_source=git)** | Westlake Village, CA | Hybrid | Jun 03 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a200c0a902d19201c7affc3?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 03 |
 | **[Knoxville's Community Development Corporation](http://www.kcdc.org)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a1f4621804915678116887f?utm_campaign=1052&utm_source=git)** | Knoxville,TN,US | On Site | Jun 03 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a1fd5a4dce5db1256d17768?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 03 |
 | **[Desjardins](https://www.desjardins.com)** | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1faccadce5db1256d16eaf?utm_campaign=1052&utm_source=git)** | Lévis, CA | Hybrid | Jun 02 |
@@ -68,14 +71,15 @@ For a complete list, click the following sortable link below:
 | **[Arcis Golf](http://www.arcisgolf.com)** | **[Arcis Accounting Summer Intern](https://jobright.ai/jobs/info/6a1f994bdce5db1256d16460?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jun 02 |
 | **[EMI Health](https://emihealth.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6a1f963409442629a685b60c?utm_campaign=1052&utm_source=git)** | Murray, UT | On Site | Jun 02 |
 | **[Scripps Research](http://www.scripps.edu/)** | **[SUMMER INTERN - Treasury](https://jobright.ai/jobs/info/6a1f77b4c5277c00c6486bac?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | On Site | Jun 02 |
+| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[Finance & Accounting Analyst Intern](https://jobright.ai/jobs/info/6a1f5a4c80491567811692ef?utm_campaign=1052&utm_source=git)** | El Segundo, CA | Hybrid | Jun 02 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Halifax](https://jobright.ai/jobs/info/6a1fc4a6c5277c00c64884e3?utm_campaign=1052&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Financial Reporting & Insights (GTA Offices) Fall 2026](https://jobright.ai/jobs/info/6a186404abc8f63abac77e18?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Financial Reporting & Insights (GTA Offices) Fall 2026](https://jobright.ai/jobs/info/6a18695754a441713ae84090?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jun 02 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Indirect goods and services management (Fall 2026)](https://jobright.ai/jobs/info/6a1fbe31c5277c00c6488342?utm_campaign=1052&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 02 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Internal Controller Intern](https://jobright.ai/jobs/info/6a1f84fda507373dff6c1a53?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jun 02 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Public Funds](https://jobright.ai/jobs/info/6a1f7ed9a507373dff6c18a3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 02 |
-| **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
-| ↳ | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569809442629a6859892?utm_campaign=1052&utm_source=git)** | San Diego | Remote | Jun 02 |
+| **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569809442629a6859892?utm_campaign=1052&utm_source=git)** | San Diego | Remote | Jun 02 |
+| ↳ | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73ccc5277c00c6486a95?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Jun 02 |
 | ↳ | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73c7c5277c00c6486a90?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 02 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6a1f72cb804915678116a4f5?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Arcis Golf](http://www.arcisgolf.com)** | **[Arcis Accounting Summer Intern](https://jobright.ai/jobs/info/6a1f67de804915678116a0fd?utm_campaign=1052&utm_source=git)** | Arcis Golf - Corporate Office - Dallas, TX, US | On Site | Jun 02 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Boston)](https://jobright.ai/jobs/info/6a1f620f8049156781169970?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jun 02 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Margin Matching](https://jobright.ai/jobs/info/6a1f76c0a507373dff6c16a4?utm_campaign=1052&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jun 02 |
-| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[Finance & Accounting Analyst Intern](https://jobright.ai/jobs/info/6a1f5a4c80491567811692ef?utm_campaign=1052&utm_source=git)** | El Segundo, CA | Hybrid | Jun 02 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Winnipeg](https://jobright.ai/jobs/info/6a1f58a809442629a68599a7?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f5883b61b2c65b37b18c1?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jun 02 |
 | **[Wealth Warden Partners](www.wardenpartners.com)** | **[Unpaid Accounting Intern](https://jobright.ai/jobs/info/6a1f6f40dce5db1256d15794?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jun 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KWECO - K & W Equipment Company](https://www.kwfuelingsystems.net)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/6a1eef6ddce5db1256d10c75?utm_campaign=1052&utm_source=git)** | Beech Grove, IN | On Site | Jun 02 |
 | **[Franklin Logistics](https://franklinlogistics.com/)** | **[Inventory Control Associate - Summer Intern Opportunity](https://jobright.ai/jobs/info/6a1eecc9a507373dff6bc3d0?utm_campaign=1052&utm_source=git)** | Chambersburg,PA,US | On Site | Jun 02 |
 | **[BiggsKofford](https://www.biggskofford.com/)** | **[Tax Internship 2027 (Denver)](https://jobright.ai/jobs/info/69ca5174e565c26a7003ccc1?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jun 02 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a033e736c07461fe170220f?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 02 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[CC PASS Fellow/Intern - Office of the Comptroller](https://jobright.ai/jobs/info/6a1ee9ebdce5db1256d10a9e?utm_campaign=1052&utm_source=git)** | Baltimore Convention Center, US | On Site | Jun 02 |
-| ↳ | **[MPO Fellow/Intern - Office of the Comptroller](https://jobright.ai/jobs/info/6a1ee9e3c5277c00c648173d?utm_campaign=1052&utm_source=git)** | 100 Guilford Ave, US | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

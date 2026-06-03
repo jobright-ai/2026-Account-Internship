@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a1fd5a4dce5db1256d17768?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 03 |
+| **[Align Technology](http://www.aligntech.com)** | **[Finance Analytics & AI Enablement Intern](https://jobright.ai/jobs/info/6a1fd163a507373dff6c3398?utm_campaign=1052&utm_source=git)** | US-California-San Jose | On Site | Jun 03 |
 | **[Desjardins](https://www.desjardins.com)** | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1faccadce5db1256d16eaf?utm_campaign=1052&utm_source=git)** | Lévis, CA | Hybrid | Jun 02 |
 | ↳ | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1facc4dce5db1256d16ead?utm_campaign=1052&utm_source=git)** | Montréal, CA | Hybrid | Jun 02 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/6a1fa588a507373dff6c22cf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 02 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Ottawa](https://jobright.ai/jobs/info/6a1f0526dce5db1256d1155f?utm_campaign=1052&utm_source=git)** | Ottawa - Kent St, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Kitchener-Waterloo Offices](https://jobright.ai/jobs/info/6a1f0523dce5db1256d1155d?utm_campaign=1052&utm_source=git)** | Kitchener-Waterloo - Caroline St, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f051bb61b2c65b37ae55c?utm_campaign=1052&utm_source=git)** | Oakville, CA | Hybrid | Jun 02 |
-| ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f0518b61b2c65b37ae559?utm_campaign=1052&utm_source=git)** | Markham, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f0518b61b2c65b37ae558?utm_campaign=1052&utm_source=git)** | Toronto - Bay St, CA | Hybrid | Jun 02 |
+| ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f0518b61b2c65b37ae559?utm_campaign=1052&utm_source=git)** | Markham, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) London](https://jobright.ai/jobs/info/6a1f05178049156781165f2b?utm_campaign=1052&utm_source=git)** | London, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Winnipeg](https://jobright.ai/jobs/info/6a1f0516a507373dff6bcf0a?utm_campaign=1052&utm_source=git)** | Winnipeg, CA | Hybrid | Jun 02 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Columbia, SC](https://jobright.ai/jobs/info/6870da30a5ae807a59cfc4f0?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Jun 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MPO Fellow/Intern - Office of the Comptroller](https://jobright.ai/jobs/info/6a1ee9e3c5277c00c648173d?utm_campaign=1052&utm_source=git)** | 100 Guilford Ave, US | On Site | Jun 02 |
 | **[Skywalker Property Partners](https://www.skywalkerproperty.com)** | **[Fall Acquisition Intern](https://jobright.ai/jobs/info/6a1ee9afdce5db1256d10a87?utm_campaign=1052&utm_source=git)** | Bedford, TX | On Site | Jun 02 |
 | **[Wintermute](https://www.wintermute.com/)** | **[Summer 2026 Internship at Wintermute Ventures](https://jobright.ai/jobs/info/6a1ee552b61b2c65b37ad6de?utm_campaign=1052&utm_source=git)** | New York | Remote | Jun 02 |
-| **[State of Missouri](http://mo.gov)** | **[Staff Auditor Intern-Hire Date June 2027](https://jobright.ai/jobs/info/69ae66c23de6821aaccdbde0?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 02 |
-| ↳ | **[Staff Auditor Intern-Hire Date June 2027](https://jobright.ai/jobs/info/69ae66af7c309707d4afa288?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

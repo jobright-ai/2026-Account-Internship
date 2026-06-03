@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Management Department Financial Management Intern](https://jobright.ai/jobs/info/6a204caec00e701fe8368614?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 03 |
+| **[ABB](https://global.abb/group/en)** | **[Finance Intern - Fall 2026](https://jobright.ai/jobs/info/6a2049f5338c01230511816f?utm_campaign=1052&utm_source=git)** | USA, NC, Cary, US | Hybrid | Jun 03 |
+| ↳ | **[Finance Intern - Fall 2026](https://jobright.ai/jobs/info/6a2049f5338c01230511816e?utm_campaign=1052&utm_source=git)** | USA, NC, Mebane, US | Hybrid | Jun 03 |
+| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a203e55ca8f0b365d79fce6?utm_campaign=1052&utm_source=git)** | Fall River, MA | On Site | Jun 03 |
 | **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Finance and Accounting Intern (34465)](https://jobright.ai/jobs/info/6a2043d63a5f0145f4c13521?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Jun 03 |
 | **[bakerly](https://bakerly.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a20438c902d19201c7b1083?utm_campaign=1052&utm_source=git)** | Coral Gables,FL,US | Hybrid | Jun 03 |
 | **[Angels of Care Pediatric Home Health](https://angelsofcare.com/)** | **[M&A / Corporate Development Summer 2026 Intern](https://jobright.ai/jobs/info/6a2042ac902d19201c7b1018?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | Jun 03 |
 | **[E2 Optics](http://e2optics.com)** | **[Junior Cost Controller - Summer Intern](https://jobright.ai/jobs/info/6a20425e902d19201c7b0ff6?utm_campaign=1052&utm_source=git)** | US-OH-Columbus | Hybrid | Jun 03 |
-| **[LALA U.S., Inc](http://www.lala-us.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a203f6f4bdf8a5a96bcf664?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
-| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a203e55ca8f0b365d79fce6?utm_campaign=1052&utm_source=git)** | Fall River, MA | On Site | Jun 03 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c839?utm_campaign=1052&utm_source=git)** | Michigan - Lansing (Rehmann Office) | On Site | Jun 03 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034fa5bc4184089f2311a4?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jun 03 |
 | **[Montana-Dakota Utilities Co.](https://www.montana-dakota.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a203b3eca8f0b365d79fb0d?utm_campaign=1052&utm_source=git)** | Bismarck, North Dakota, United States | On Site | Jun 03 |
@@ -83,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a200c0a902d19201c7affc3?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 03 |
 | **[Knoxville's Community Development Corporation](http://www.kcdc.org)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a1f4621804915678116887f?utm_campaign=1052&utm_source=git)** | Knoxville,TN,US | On Site | Jun 03 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a1fd5a4dce5db1256d17768?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 03 |
-| **[Desjardins](https://www.desjardins.com)** | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1facc4dce5db1256d16ead?utm_campaign=1052&utm_source=git)** | Montréal, CA | Hybrid | Jun 03 |
-| ↳ | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1faccadce5db1256d16eaf?utm_campaign=1052&utm_source=git)** | Lévis, CA | Hybrid | Jun 03 |
+| **[Desjardins](https://www.desjardins.com)** | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1faccadce5db1256d16eaf?utm_campaign=1052&utm_source=git)** | Lévis, CA | Hybrid | Jun 03 |
+| ↳ | **[Intern, Internal Audit, Financial Risk Management](https://jobright.ai/jobs/info/6a1facc4dce5db1256d16ead?utm_campaign=1052&utm_source=git)** | Montréal, CA | Hybrid | Jun 03 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Credit & Structured Finance, Market Risk](https://jobright.ai/jobs/info/6a1fa588a507373dff6c22cf?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Arcis Golf](http://www.arcisgolf.com)** | **[Arcis Accounting Summer Intern](https://jobright.ai/jobs/info/6a1f994bdce5db1256d16460?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jun 02 |
 | **[Scripps Research](http://www.scripps.edu/)** | **[SUMMER INTERN - Treasury](https://jobright.ai/jobs/info/6a1f77b4c5277c00c6486bac?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | On Site | Jun 02 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Indirect goods and services management (Fall 2026)](https://jobright.ai/jobs/info/6a1fbe31c5277c00c6488342?utm_campaign=1052&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 02 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Internal Controller Intern](https://jobright.ai/jobs/info/6a1f84fda507373dff6c1a53?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jun 02 |
 | **[Meeder Investment Management](http://meederinvestment.com)** | **[Intern - Public Funds](https://jobright.ai/jobs/info/6a1f7ed9a507373dff6c18a3?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 02 |
-| **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
-| ↳ | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569809442629a6859892?utm_campaign=1052&utm_source=git)** | San Diego | Remote | Jun 02 |
+| **[Withum](http://www.withum.com)** | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569809442629a6859892?utm_campaign=1052&utm_source=git)** | San Diego | Remote | Jun 02 |
+| ↳ | **[Investment Banking Summer 2026 Internship](https://jobright.ai/jobs/info/6a1f569509442629a6859887?utm_campaign=1052&utm_source=git)** | San Diego, California, United States | Remote | Jun 02 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73ccc5277c00c6486a95?utm_campaign=1052&utm_source=git)** | Toronto | Hybrid | Jun 02 |
 | ↳ | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73c7c5277c00c6486a90?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 02 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6a1f72cb804915678116a4f5?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jun 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Halifax](https://jobright.ai/jobs/info/6a1f052db61b2c65b37ae563?utm_campaign=1052&utm_source=git)** | Halifax - Mumford Rd, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Kitchener-Waterloo Offices](https://jobright.ai/jobs/info/6a1f0527dce5db1256d11560?utm_campaign=1052&utm_source=git)** | Guelph - Hanlon Creek, CA | Hybrid | Jun 02 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Ottawa](https://jobright.ai/jobs/info/6a1f0526dce5db1256d1155f?utm_campaign=1052&utm_source=git)** | Ottawa - Kent St, CA | Hybrid | Jun 02 |
-| ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Kitchener-Waterloo Offices](https://jobright.ai/jobs/info/6a1f0523dce5db1256d1155d?utm_campaign=1052&utm_source=git)** | Kitchener-Waterloo - Caroline St, CA | Hybrid | Jun 02 |
-| ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f051bb61b2c65b37ae55c?utm_campaign=1052&utm_source=git)** | Oakville, CA | Hybrid | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a06165f6c07461fe171c2ca?utm_campaign=1052&utm_source=git)** | Norwalk, CT | On Site | Jun 05 |
+| **[Frost](https://www.frostbank.com/)** | **[College Intern - Model Risk Management](https://jobright.ai/jobs/info/6a05f599bc4184089f2494b5?utm_campaign=1052&utm_source=git)** | San Antonio, TX - One Frost, US | On Site | Jun 05 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 05 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 05 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6a229f366624e500cad09bc8?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Jun 05 |
 | ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6a229f28dedf78312c7aa559?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jun 05 |
 | ↳ | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a229da96624e500cad09b92?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 05 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Intern](https://jobright.ai/jobs/info/69eee1ec0a6e0955530530c3?utm_campaign=1052&utm_source=git)** | Orlando, FL, USA, US | On Site | Jun 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69eee22658811370cb144b5b?utm_campaign=1052&utm_source=git)** | Orlando, FL, USA | On Site | Jun 04 |
 | **[Lindt & Sprüngli (North America) Inc.](https://www.chocolate.lindt.com/)** | **[FP&A Finance - SLED Intern](https://jobright.ai/jobs/info/6a2206c6c00e701fe83728fa?utm_campaign=1052&utm_source=git)** | San Leandro, California, US | Hybrid | Jun 04 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[earning Systems & Analytics Intern - 6 months](https://jobright.ai/jobs/info/6a2205e4902d19201c7bbbb1?utm_campaign=1052&utm_source=git)** | US-CA-San Carlos | On Site | Jun 04 |
-| ↳ | **[earning Systems & Analytics Intern - 6 months](https://jobright.ai/jobs/info/6a2205e4902d19201c7bbbb2?utm_campaign=1052&utm_source=git)** | San Carlos, CA, US | On Site | Jun 04 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[earning Systems & Analytics Intern - 6 months](https://jobright.ai/jobs/info/6a2205e4902d19201c7bbbb2?utm_campaign=1052&utm_source=git)** | San Carlos, CA, US | On Site | Jun 04 |
+| ↳ | **[earning Systems & Analytics Intern - 6 months](https://jobright.ai/jobs/info/6a2205e4902d19201c7bbbb1?utm_campaign=1052&utm_source=git)** | US-CA-San Carlos | On Site | Jun 04 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights - Calgary (January 2027)](https://jobright.ai/jobs/info/6a1a52a59111f771d1a0c082?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jun 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a2200814bdf8a5a96bd9daa?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 04 |
 | **[Ultimus LeverPoint Private Fund Solutions](http://leverpoint.com/)** | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd7ac00e701fe8372671?utm_campaign=1052&utm_source=git)** | Clifton Park, NY, USA | On Site | Jun 04 |
@@ -96,13 +100,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd79c00e701fe8372670?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, USA | On Site | Jun 04 |
 | ↳ | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd78c00e701fe837266d?utm_campaign=1052&utm_source=git)** | Columbus, OH, USA | On Site | Jun 04 |
 | **[NPR](http://www.npr.org)** | **[Treasury and Investments Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fcaa4bdf8a5a96bd9c71?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
-| **[eSimplicity](https://esimplicity.com)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/6a21ccfb902d19201c7ba0b1?utm_campaign=1052&utm_source=git)** | USA | Hybrid | Jun 04 |
-| ↳ | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/6a21ccfd902d19201c7ba0c0?utm_campaign=1052&utm_source=git)** | Fully Remote | Remote | Jun 04 |
+| **[eSimplicity](https://esimplicity.com)** | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/6a21ccfd902d19201c7ba0c0?utm_campaign=1052&utm_source=git)** | Fully Remote | Remote | Jun 04 |
+| ↳ | **[Accounting and Finance Intern](https://jobright.ai/jobs/info/6a21ccfb902d19201c7ba0b1?utm_campaign=1052&utm_source=git)** | USA | Hybrid | Jun 04 |
 | **[Busey](https://www.busey.com/home/home)** | **[Finance Intern](https://jobright.ai/jobs/info/6a21a65bca8f0b365d7a7a1a?utm_campaign=1052&utm_source=git)** | Executive Center/Champaign, US | On Site | Jun 04 |
 | **[ProMach](http://www.promachbuilt.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a21f811902d19201c7bb682?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jun 04 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a21f492338c012305121f28?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Jun 04 |
-| **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Real Estate Credit Intern – Summer 2027](https://jobright.ai/jobs/info/69696a59f25a380066980450?utm_campaign=1052&utm_source=git)** | BRIO - Main Office | Hybrid | Jun 04 |
-| ↳ | **[Brio Real Estate Credit Intern – Summer 2027](https://jobright.ai/jobs/info/69697541639b452fb57f5682?utm_campaign=1052&utm_source=git)** | BRIO - Dallas | Hybrid | Jun 04 |
+| **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Real Estate Credit Intern – Summer 2027](https://jobright.ai/jobs/info/69697541639b452fb57f5682?utm_campaign=1052&utm_source=git)** | BRIO - Dallas | Hybrid | Jun 04 |
+| ↳ | **[Brio Real Estate Credit Intern – Summer 2027](https://jobright.ai/jobs/info/69696a59f25a380066980450?utm_campaign=1052&utm_source=git)** | BRIO - Main Office | Hybrid | Jun 04 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Accounting Internship, Year-Round](https://jobright.ai/jobs/info/6a21ea594bdf8a5a96bd929f?utm_campaign=1052&utm_source=git)** | Milwaukee, WI Corporate, US | Hybrid | Jun 04 |
 | **[Modern Industries, Inc.](https://modernind.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a21e830ca8f0b365d7a9b75?utm_campaign=1052&utm_source=git)** | Erie, PA | On Site | Jun 04 |
 | **[Manhattan West](https://manhattanwest.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/6a21e75ac00e701fe8371b0a?utm_campaign=1052&utm_source=git)** | LOS ANGELES,CA,US | On Site | Jun 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economics Intern – Internal Audit](https://jobright.ai/jobs/info/69fb7a2c87a4820e6da88736?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Internal Audit Intern – Accounting & Finance](https://jobright.ai/jobs/info/69fb6fca18b94b2515be27f1?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69e9f665dc35f7132c4a664c?utm_campaign=1052&utm_source=git)** | Media, PA | On Site | Jun 04 |
-| ↳ | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a16048d554b0e12c05887b2?utm_campaign=1052&utm_source=git)** | Media, PA | On Site | Jun 04 |
-| ↳ | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a16049edc845f4be5bdba44?utm_campaign=1052&utm_source=git)** | Charlottesville, VA | On Site | Jun 04 |
-| ↳ | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69eb89ff4b0fa35a7077bb38?utm_campaign=1052&utm_source=git)** | Charlottesville, VA | On Site | Jun 04 |
-| ↳ | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/6a076b64a203b1052e43a707?utm_campaign=1052&utm_source=git)** | Charlottesville, VA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

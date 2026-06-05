@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wealthspire](https://www.wealthspire.com/)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a224900902d19201c7bcc2a?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Jun 04 |
 | **[Ghirardelli Chocolate Company](http://www.ghirardelli.com/)** | **[FP&A Finance - SLED Intern](https://jobright.ai/jobs/info/6a22367b7c30cc2cc516dd40?utm_campaign=1052&utm_source=git)** | San Leandro, CA | On Site | Jun 04 |
 | **[Overland AI](https://www.overland.ai)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a2234367c30cc2cc516dcac?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | **[Yesway](http://yesway.com/)** | **[Intern](https://jobright.ai/jobs/info/6a21e2d24bdf8a5a96bd8f2e?utm_campaign=1052&utm_source=git)** | Beverly, Massachusetts, United States | On Site | Jun 04 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[earning Systems & Analytics Intern - 6 months](https://jobright.ai/jobs/info/6a2205e4902d19201c7bbbb1?utm_campaign=1052&utm_source=git)** | US-CA-San Carlos | On Site | Jun 04 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights - Calgary (January 2027)](https://jobright.ai/jobs/info/6a1a52a59111f771d1a0c082?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jun 04 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a2200814bdf8a5a96bd9daa?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 04 |
-| **[Ultimus LeverPoint Private Fund Solutions](http://leverpoint.com/)** | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd7ac00e701fe8372674?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, USA | On Site | Jun 04 |
-| ↳ | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd7ac00e701fe8372671?utm_campaign=1052&utm_source=git)** | Clifton Park, NY, USA | On Site | Jun 04 |
+| **[Ultimus LeverPoint Private Fund Solutions](http://leverpoint.com/)** | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd7ac00e701fe8372671?utm_campaign=1052&utm_source=git)** | Clifton Park, NY, USA | On Site | Jun 04 |
+| ↳ | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd7ac00e701fe8372674?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, USA | On Site | Jun 04 |
 | ↳ | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd79c00e701fe8372670?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, USA | On Site | Jun 04 |
 | ↳ | **[Accounting Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fd78c00e701fe837266d?utm_campaign=1052&utm_source=git)** | Columbus, OH, USA | On Site | Jun 04 |
 | **[NPR](http://www.npr.org)** | **[Treasury and Investments Internship - Fall 2026](https://jobright.ai/jobs/info/6a21fcaa4bdf8a5a96bd9c71?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (NYC)](https://jobright.ai/jobs/info/6a21a706ca8f0b365d7a7a60?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jun 04 |
 | ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (NYC)](https://jobright.ai/jobs/info/6a21a6fe7c30cc2cc516a3ee?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jun 04 |
 | **[The AES Corporation](https://www.aes.com)** | **[Intern, Portfolio Asset Management](https://jobright.ai/jobs/info/6a21a6edca8f0b365d7a7a5a?utm_campaign=1052&utm_source=git)** | US, Louisville, CO, US | On Site | Jun 04 |
-| **[HCVT](http://www.hcvt.com)** | **[State and Local Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a21a5c37c30cc2cc516a33b?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Jun 04 |
-| ↳ | **[State and Local Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a21a5c37c30cc2cc516a33a?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jun 04 |
+| **[HCVT](http://www.hcvt.com)** | **[State and Local Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a21a5c37c30cc2cc516a33a?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Jun 04 |
+| ↳ | **[State and Local Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a21a5c37c30cc2cc516a33b?utm_campaign=1052&utm_source=git)** | Long Beach, CA | Hybrid | Jun 04 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/6a219748c00e701fe836f2ae?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Jun 04 |
 | **[WBD Inc.](https://www.wbd.org)** | **[Credit Analyst I or II](https://jobright.ai/jobs/info/6a21a0287c30cc2cc5169e5b?utm_campaign=1052&utm_source=git)** | Oshkosh, WI | On Site | Jun 04 |
 | **[The Philadelphia Orchestra](https://philorch.org/)** | **[Accountant Intern](https://jobright.ai/jobs/info/6a219c2f338c01230511ef71?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, US | On Site | Jun 04 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Intern - Corporate Financial Reporting Internal Auditor](https://jobright.ai/jobs/info/6a04c98922395b6dc6da0ccd?utm_campaign=1052&utm_source=git)** | Sandusky, OH | On Site | Jun 04 |
 | **[Jobster](https://www.jobster.com)** | **[M&A intern - Studentjob.ch](https://jobright.ai/jobs/info/6a2178af338c01230511e3d4?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Jun 04 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a0573a3f3d6cc51d638932c?utm_campaign=1052&utm_source=git)** | Menlo Park, CA | Hybrid | Jun 04 |
-| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/6a06fbef9f57175bd581c058?utm_campaign=1052&utm_source=git)** | Menlo Park - 1035 | Hybrid | Jun 04 |
 | ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/6a17c31ff45c6530ce9af784?utm_campaign=1052&utm_source=git)** | Menlo Park - 1035 | Hybrid | Jun 04 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Financial Intern](https://jobright.ai/jobs/info/6a216ffaca8f0b365d7a62c9?utm_campaign=1052&utm_source=git)** | Beaufort | On Site | Jun 04 |
+| ↳ | **[FP&A Intern](https://jobright.ai/jobs/info/6a06fbef9f57175bd581c058?utm_campaign=1052&utm_source=git)** | Menlo Park - 1035 | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

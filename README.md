@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a22692894d89a1392b51aee?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Jun 06 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[MPO Fellow/Intern - Office of the Comptroller](https://jobright.ai/jobs/info/6a209747902d19201c7b3568?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jun 06 |
 | **[Multisorb](http://www.multisorb.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1e0f679111f771d1a1d0bd?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/69eb7ec00a6e095553047723?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Jun 06 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[CC PASS Fellow/Intern - Office of the Comptroller](https://jobright.ai/jobs/info/6a2097454bdf8a5a96bd1cd5?utm_campaign=1052&utm_source=git)** | Baltimore, MD | On Site | Jun 06 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[2027 Summer Analyst: Fixed Income Capital Markets - New York](https://jobright.ai/jobs/info/6a23fe766624e500cad0d08b?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jun 06 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[DEP Administrative Penalties & Other Revenue Programs  Intern - UNPAID](https://jobright.ai/jobs/info/6a23fb51d46c0f799608624c?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Jun 06 |
 | ↳ | **[Internal Audit Unit Intern - UNPAID](https://jobright.ai/jobs/info/6a23fb4f757ade085b6af78e?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Jun 06 |
-| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0539?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | Jun 06 |
-| ↳ | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0538?utm_campaign=1052&utm_source=git)** | US-CA-Irvine | On Site | Jun 06 |
+| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0538?utm_campaign=1052&utm_source=git)** | US-CA-Irvine | On Site | Jun 06 |
+| ↳ | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0539?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | Jun 06 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a23f5e34239a4353887f83f?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jun 06 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Fall 2027 (Bradenton, FL)](https://jobright.ai/jobs/info/68ed5bfa81fdd1626d39ba77?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Jun 06 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a23f4d0dedf78312c7ad9f2?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jun 06 |
@@ -116,15 +118,16 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: Financial Analyst – Rochester MN](https://jobright.ai/jobs/info/6a23ba5114de9460dc84543f?utm_campaign=1052&utm_source=git)** | Rochester, MN | Hybrid | Jun 05 |
 | **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/69eab1d67820c036924ef30d?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jun 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) London](https://jobright.ai/jobs/info/6a1f644c09442629a685a6ca?utm_campaign=1052&utm_source=git)** | London, Ontario, Canada | Hybrid | Jun 05 |
-| **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ea1cf6dc35f7132c4a877f?utm_campaign=1052&utm_source=git)** | California  | On Site | Jun 05 |
-| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6a0ce1e7963f7a67d95dc96d?utm_campaign=1052&utm_source=git)** | California | On Site | Jun 05 |
+| **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a0ce1e7963f7a67d95dc96d?utm_campaign=1052&utm_source=git)** | California | On Site | Jun 05 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6a05f0b0a88ea73abf7f52bf?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 05 |
+| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/69ea1cf6dc35f7132c4a877f?utm_campaign=1052&utm_source=git)** | California  | On Site | Jun 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Kitchener-Waterloo Offices](https://jobright.ai/jobs/info/6a1f456580491567811687eb?utm_campaign=1052&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Jun 05 |
 | **[United States Cold Storage, Inc.](http://www.uscold.com/)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6a22dc9dd46c0f7996083c1f?utm_campaign=1052&utm_source=git)** | Camden, New Jersey, United States | On Site | Jun 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Ottawa](https://jobright.ai/jobs/info/6a1f45ea8049156781168849?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jun 05 |
 | **[Incline P&C Group](https://inclinepc.com)** | **[Intern, Accounting and Finance](https://jobright.ai/jobs/info/6a22de0214de9460dc8436e8?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Jun 05 |
 | **[First Analysis](http://www.firstanalysis.com)** | **[Investment banking intern / venture capital intern fall 2026](https://jobright.ai/jobs/info/6a2381c414de9460dc8449be?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jun 05 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[FP&A Intern (North Carolina)](https://jobright.ai/jobs/info/69eb25dcdc35f7132c4adfd1?utm_campaign=1052&utm_source=git)** | Beulaville, NC | On Site | Jun 05 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a06167abc4184089f24aea0?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Jun 05 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/6a1bc35f6b135014dbc902a1?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 05 |
 | **[ALC Corporation](https://www.appletonlathing.com/)** | **[Intern - Business & Accounting](https://jobright.ai/jobs/info/6a22e388d46c0f7996083edc?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Jun 05 |
 | **[Honest Health](https://honesthealth.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a065705320bff2205eabd04?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 05 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69674b52f25a38006695aead?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ce77df891d7b11cfcc8c3c?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | On Site | Jun 05 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a020eccfa1aa73213d965c0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
-| **[Omnicom](https://www.omc.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/6a22bc2cdedf78312c7aa901?utm_campaign=1052&utm_source=git)** | New York | On Site | Jun 05 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a22bc2ddedf78312c7aa902?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jun 05 |
+| **[Omnicom](https://www.omc.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/6a22bc2ddedf78312c7aa902?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jun 05 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a22bc2cdedf78312c7aa901?utm_campaign=1052&utm_source=git)** | New York | On Site | Jun 05 |
 | **[Swiss Finance](https://www.swissfinance.com/)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69e60bfe7820c036924cdfc8?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 05 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Fall 2026, Conshohocken, PA](https://jobright.ai/jobs/info/6a22c5b914de9460dc8430ee?utm_campaign=1052&utm_source=git)** | Conshohocken - Conshohocken, PA 19428 | Hybrid | Jun 05 |
 | ↳ | **[Intern, External Audit - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a22c5b7dedf78312c7aab06?utm_campaign=1052&utm_source=git)** | Cranberry Township - Cranberry Twp, PA 16066 | Hybrid | Jun 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Overland AI](https://www.overland.ai)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a2234367c30cc2cc516dcac?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jun 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Kitchener-Waterloo Offices](https://jobright.ai/jobs/info/6a1f5216b61b2c65b37b1496?utm_campaign=1052&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Jun 04 |
 | ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f63c5dce5db1256d154ca?utm_campaign=1052&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jun 04 |
-| ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) Winnipeg](https://jobright.ai/jobs/info/6a1f58a809442629a68599a7?utm_campaign=1052&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Jun 04 |
-| ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f42c8dce5db1256d13c7e?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 04 |
-| ↳ | **[Co-op or Intern, Tax Transformation (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a1f5883b61b2c65b37b18c1?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a24729ddedf78312c7ae933?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 06 |
 | **[Downtown San Diego Partnership](http://www.downtownsandiego.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a21c0814bdf8a5a96bd7ccf?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Jun 06 |
 | **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jun 06 |
-| **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Summer 2026 / Orange County Area)](https://jobright.ai/jobs/info/6a248d5814de9460dc846d8a?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Jun 06 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 06 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 06 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Real Assets Sustainability - Investment Management - Off-Cycle Intern](https://jobright.ai/jobs/info/6a0757bb939a5f01db94e83b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 06 |
@@ -131,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: Financial Analyst – Rochester MN](https://jobright.ai/jobs/info/6a23ba5114de9460dc84543f?utm_campaign=1052&utm_source=git)** | Rochester, MN | Hybrid | Jun 05 |
 | **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/69eab1d67820c036924ef30d?utm_campaign=1052&utm_source=git)** | California, United States | On Site | Jun 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) London](https://jobright.ai/jobs/info/6a1f644c09442629a685a6ca?utm_campaign=1052&utm_source=git)** | London, Ontario, Canada | Hybrid | Jun 05 |
-| **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a1c78f49111f771d1a14f9b?utm_campaign=1052&utm_source=git)** | California | On Site | Jun 05 |
+| **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a0ce1e7963f7a67d95dc96d?utm_campaign=1052&utm_source=git)** | California | On Site | Jun 05 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/69ea1cf6dc35f7132c4a877f?utm_campaign=1052&utm_source=git)** | California  | On Site | Jun 05 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6a05f0b0a88ea73abf7f52bf?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Tax Transformation (Fall 2026) Kitchener-Waterloo Offices](https://jobright.ai/jobs/info/6a1f456580491567811687eb?utm_campaign=1052&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Jun 05 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69674b52f25a38006695aead?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ce77df891d7b11cfcc8c3c?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | On Site | Jun 05 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a020eccfa1aa73213d965c0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
-| **[Omnicom](https://www.omc.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/6a22bc2cdedf78312c7aa901?utm_campaign=1052&utm_source=git)** | New York | On Site | Jun 05 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a22bc2ddedf78312c7aa902?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jun 05 |
+| **[Omnicom](https://www.omc.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/6a22bc2ddedf78312c7aa902?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jun 05 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a22bc2cdedf78312c7aa901?utm_campaign=1052&utm_source=git)** | New York | On Site | Jun 05 |
 | **[Swiss Finance](https://www.swissfinance.com/)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69e60bfe7820c036924cdfc8?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 05 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Fall 2026, Conshohocken, PA](https://jobright.ai/jobs/info/6a22c5b914de9460dc8430ee?utm_campaign=1052&utm_source=git)** | Conshohocken - Conshohocken, PA 19428 | Hybrid | Jun 05 |
 | ↳ | **[Intern, External Audit - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a22c5b7dedf78312c7aab06?utm_campaign=1052&utm_source=git)** | Cranberry Township - Cranberry Twp, PA 16066 | Hybrid | Jun 05 |
 | **[Lambda](https://lambda.ai)** | **[Capital Markets & Corporate Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a05f96d7c753c287f6fd952?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jun 05 |
+| **[Legends Global](http://legends.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a06165f6c07461fe171c2ca?utm_campaign=1052&utm_source=git)** | Norwalk, CT | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

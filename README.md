@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | Jun 08 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jun 08 |
+| **[Custom Air Products & Services, Inc.](http://customairproducts.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a26bcc14ec8d737d6dfb999?utm_campaign=1052&utm_source=git)** | MAIN, Houston, TX, US | On Site | Jun 08 |
+| **[JF Petroleum Group](https://www.jfpetrogroup.com/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/6a20ee1e3a5f0145f4c179a2?utm_campaign=1052&utm_source=git)** | Morrisville,NC,US | On Site | Jun 08 |
+| **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jun 08 |
+| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | Jun 08 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Mergers and Acquisitions (M&A)](https://jobright.ai/jobs/info/6a0aefd1963f7a67d95caa75?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Jun 08 |
 | **[Jobster](https://www.jobster.com)** | **[M&A intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a46ab3e2012412ee471e?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Sally Finance Intern](https://jobright.ai/jobs/info/69b475185697383741394ce7?utm_campaign=1052&utm_source=git)** | Plano, TX | Hybrid | Jun 08 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a2684956d665572632dfab7?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 08 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Fall 2026 - Business Planning Student Internship](https://jobright.ai/jobs/info/6a265801dedf78312c7b1c79?utm_campaign=1052&utm_source=git)** | Tampa, Flor, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 - Business Planning Student Internship](https://jobright.ai/jobs/info/6a264c9e14de9460dc849861?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 07 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 07 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 07 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 07 |
 | **[TownSq](https://www.townsq.com.br/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6a2643ef14de9460dc84965a?utm_campaign=1052&utm_source=git)** | 737 Bishop Street Suite 3100, Honolulu, HI96813 | On Site | Jun 07 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2026 Full-time Audit Internship](https://jobright.ai/jobs/info/69c1a21e75f7ff1cd80fee60?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jun 07 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/69b388c9ae2a534885eaf3f7?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Jun 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Analysis](http://www.firstanalysis.com)** | **[Investment banking intern / venture capital intern fall 2026](https://jobright.ai/jobs/info/6a2381c414de9460dc8449be?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jun 05 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[FP&A Intern (North Carolina)](https://jobright.ai/jobs/info/69eb25dcdc35f7132c4adfd1?utm_campaign=1052&utm_source=git)** | Beulaville, NC | On Site | Jun 05 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a06167abc4184089f24aea0?utm_campaign=1052&utm_source=git)** | Lake Mary, FL | On Site | Jun 05 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/6a1bc35f6b135014dbc902a1?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 05 |
-| **[ALC Corporation](https://www.appletonlathing.com/)** | **[Intern - Business & Accounting](https://jobright.ai/jobs/info/6a22e388d46c0f7996083edc?utm_campaign=1052&utm_source=git)** | Neenah, WI | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

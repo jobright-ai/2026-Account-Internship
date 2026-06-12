@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cronus Capital Management LLC](https://www.cronusam.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a2c7ef0a1d15e3c552fc306?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Jun 12 |
+| **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc8beb4d73cb6231d0c?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 12 |
+| **[CRYSTORAMA LIGHTING](https://www.crystorama.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2c7be17cd40a338fae6bd4?utm_campaign=1052&utm_source=git)** | Westbury, NY | On Site | Jun 12 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Budget and Management Services Graduate Intern](https://jobright.ai/jobs/info/6a2c7ab8a1d15e3c552fc25c?utm_campaign=1052&utm_source=git)** | 101 City Hall Plaza, Durham, NC | Hybrid | Jun 12 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Internal Audit](https://jobright.ai/jobs/info/6a2c75f2fc0644749054a1e9?utm_campaign=1052&utm_source=git)** | MVW Headquarters, US | Hybrid | Jun 12 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Intern](https://jobright.ai/jobs/info/6a2c74a6c260bb1b8ae168bf?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jun 12 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Intern](https://jobright.ai/jobs/info/6a2c7272a1d15e3c552fbdcb?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Jun 12 |
@@ -119,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Finance Intern (Supplier Partnerships)](https://jobright.ai/jobs/info/6a2bc897d3ec94183f4ba550?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Capital Finance (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8383f691a293d0b8f8a?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a2bb2e80ad4053b108ccaba?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 12 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a2bb2902cde2824469c703a?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 12 |
 | **[Baird](https://bairdcareers.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a2b681c2cde2824469c67cf?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jun 11 |
 | **[Juniper Square](https://www.junipersquare.com)** | **[Associate, Fund Administration (Interns)](https://jobright.ai/jobs/info/6a2b4e0e9bf7365df089d44b?utm_campaign=1052&utm_source=git)** | USA | Remote | Jun 11 |
 | **[TruAmerica Multifamily](https://www.truamerica.com/)** | **[Asset Management Analyst, Intern (Miami, FL)](https://jobright.ai/jobs/info/6a2b5aff2cde2824469c6517?utm_campaign=1052&utm_source=git)** | Miami, FL 33130, USA | On Site | Jun 11 |
@@ -135,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Financial Systems Analyst](https://jobright.ai/jobs/info/6a2b15cb9bf7365df089c3f7?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | Hybrid | Jun 11 |
 | **[Ottimate](https://ottimate.com)** | **[Finance Internship](https://jobright.ai/jobs/info/6a2b21bfd3ec8317fe1474d4?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Accounting and Advisory Services Intern](https://jobright.ai/jobs/info/6a2b204c2cde2824469c54d6?utm_campaign=1052&utm_source=git)** | Syracuse, NY 13202, USA | On Site | Jun 11 |
-| **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc8beb4d73cb6231d0c?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Resort Lifestyle Communities](http://rlcommunities.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2acbf40ad4053b108c8bdd?utm_campaign=1052&utm_source=git)** | Resort Lifestyle Communities, 7101 S. 82nd Street, Lincoln, NE | On Site | Jun 11 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Financial Management Department - Financial Management Intern](https://jobright.ai/jobs/info/6a1885f1c2a87d6cd3df2039?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 11 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/6a2b0dc1d3ec8317fe146e11?utm_campaign=1052&utm_source=git)** | Richmond Hill, Ontario, Canada | Remote | Jun 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thales](http://www.thalesgroup.com)** | **[Inventory clerk Intern](https://jobright.ai/jobs/info/6a2ae5939bf7365df089afbd?utm_campaign=1052&utm_source=git)** | Johannesburg, CA | On Site | Jun 11 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Supply Chain (8-month)](https://jobright.ai/jobs/info/6a2ae3dbd3ec8317fe145a92?utm_campaign=1052&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 11 |
 | **[O'Melveny & Myers LLP](http://www.omm.com)** | **[Billing Clerk](https://jobright.ai/jobs/info/6a0e145fbeb4d73cb622e945?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jun 11 |
-| **[Northwest Bank](https://www.northwest.bank)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2ad0269bf7365df089a843?utm_campaign=1052&utm_source=git)** | Columbus, OH, US | On Site | Jun 11 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Internship, Retail, Seed Accounting](https://jobright.ai/jobs/info/6a2ad71f9bf7365df089a9f8?utm_campaign=1052&utm_source=git)** | Loveland, CO | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

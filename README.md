@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Skyhigh Security](https://www.skyhighsecurity.com/en-us)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2bb5c23f691a293d0b8f5f?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jun 12 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Capital Finance (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8383f691a293d0b8f8a?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a2bb2e80ad4053b108ccaba?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 12 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a2bb2902cde2824469c703a?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 12 |
 | **[Microwave Power Products (MPP)](www.mppinc.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2748c8ca77fd3096d2695f?utm_campaign=1052&utm_source=git)** | 811 Hansen Way, Palo Alto, CA94304 | On Site | Jun 11 |
@@ -100,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Northwest Bank](https://www.northwest.bank)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2ad0269bf7365df089a843?utm_campaign=1052&utm_source=git)** | Columbus, OH, US | On Site | Jun 11 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Internship, Retail, Seed Accounting](https://jobright.ai/jobs/info/6a2ad71f9bf7365df089a9f8?utm_campaign=1052&utm_source=git)** | Loveland, CO | On Site | Jun 11 |
 | **[Corient](https://corient.com)** | **[Tax Intern: Summer/Fall 2026](https://jobright.ai/jobs/info/6a0e7a6612f8b43cf3977ced?utm_campaign=1052&utm_source=git)** | US-NY-Midtown-101 Park Ave-3100, US | On Site | Jun 11 |
-| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de501818a24cd84dea2a?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
+| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a15a865128680351d962dca?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a06fe181f7fa33581c98a49?utm_campaign=1052&utm_source=git)** | Puget Sound | On Site | Jun 11 |
-| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a15a865128680351d962dca?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
+| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de501818a24cd84dea2a?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Finance FP&A - Intern](https://jobright.ai/jobs/info/6a2ac4802cde2824469c2f4c?utm_campaign=1052&utm_source=git)** | US - DE - Wilmington (Headquarters), US | On Site | Jun 11 |
 | **[Paschal Air, Plumbing & Electric](https://gopaschal.com)** | **[Part Time Accounting Intern](https://jobright.ai/jobs/info/6a2ac4051de59e0682a85caa?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Jun 11 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Finance FP&A - Intern](https://jobright.ai/jobs/info/6a2ac011c07d4b6ae1c46f19?utm_campaign=1052&utm_source=git)** | New Castle County, DE | On Site | Jun 11 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Winter 2027 Internship - Rochester, MN](https://jobright.ai/jobs/info/6a29d75dd3ec8317fe140df7?utm_campaign=1052&utm_source=git)** | Rochester, MN | Hybrid | Jun 10 |
 | **[GreatWater 360 Auto Care](https://greatwater360autocare.com/)** | **[Finance & Corporate Development Intern](https://jobright.ai/jobs/info/6a29d243c07d4b6ae1c431fb?utm_campaign=1052&utm_source=git)** | Grand Rapids,MI,US | On Site | Jun 10 |
 | **[Karman Space & Defense](https://karman-sd.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a283ebb883c0d3be6540aa9?utm_campaign=1052&utm_source=git)** | Huntington Beach, CA, US | On Site | Jun 10 |
-| **[Cisco](http://www.cisco.com)** | **[Finance Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6a29c795c07d4b6ae1c42c4b?utm_campaign=1052&utm_source=git)** | New York, New York, US | On Site | Jun 10 |
-| ↳ | **[Finance Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6a29c795c07d4b6ae1c42c4a?utm_campaign=1052&utm_source=git)** | RTP, North Carolina, US | On Site | Jun 10 |
+| **[Cisco](http://www.cisco.com)** | **[Finance Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6a29c795c07d4b6ae1c42c4a?utm_campaign=1052&utm_source=git)** | RTP, North Carolina, US | On Site | Jun 10 |
+| ↳ | **[Finance Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6a29c795c07d4b6ae1c42c4b?utm_campaign=1052&utm_source=git)** | New York, New York, US | On Site | Jun 10 |
 | **[Framatome North America](www.framatome.com/en)** | **[Finance Intern (Accounts Payable)](https://jobright.ai/jobs/info/6a29c6c2d3ec8317fe140570?utm_campaign=1052&utm_source=git)** | Lynchburg, VA | On Site | Jun 10 |
 | **[Ascend](https://ascendtogether.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69d4061454f00230c6d2d663?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 10 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a299aa51de59e0682a80526?utm_campaign=1052&utm_source=git)** | Boca Raton, FL, US | On Site | Jun 10 |

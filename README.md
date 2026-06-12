@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a2c09fcf1751b183c8166cf?utm_campaign=1052&utm_source=git)** | 2117 Building - Olmsted County Campus, MN | On Site | Jun 12 |
+| **[Cone Health](http://www.conehealth.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a2c0846fc06447490547dff?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Jun 12 |
+| **[Mountain America Credit Union](https://www.macu.com/)** | **[Post-Graduate Internal Audit Intern (6 Month Duration)](https://jobright.ai/jobs/info/6a0f931f83d714428982196d?utm_campaign=1052&utm_source=git)** | Sandy, UT | On Site | Jun 12 |
+| ↳ | **[IT Internal Audit Intern - Post-Graduate (6 Month Duration)](https://jobright.ai/jobs/info/6a0f932912f8b43cf398067b?utm_campaign=1052&utm_source=git)** | Sandy, UT | On Site | Jun 12 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Tax Winter Intern](https://jobright.ai/jobs/info/6a210d474bdf8a5a96bd45e0?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Finance Rotation Program - Business Unit Finance Intern](https://jobright.ai/jobs/info/6a2bf570a1d15e3c552f97c1?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Summer Internship – Accounting & Payroll (Amarillo TX Complex)](https://jobright.ai/jobs/info/6a0f3dee9f654b3359ce3bed?utm_campaign=1052&utm_source=git)** | Amarillo, TX | On Site | Jun 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBIZ](https://kaconsults.cbiz.com)** | **[Audit Intern / Spring 2027](https://jobright.ai/jobs/info/6a29e5221de59e0682a8243b?utm_campaign=1052&utm_source=git)** | Mayfield, OH | On Site | Jun 10 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/6a29e254c07d4b6ae1c437c1?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Jun 10 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a29e020c07d4b6ae1c43719?utm_campaign=1052&utm_source=git)** | Lubbock, TX, USA | Remote | Jun 10 |
-| **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College - Accounting Analyst](https://jobright.ai/jobs/info/6a29d869c07d4b6ae1c43478?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
-| **[Cisco](http://www.cisco.com)** | **[Finance Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6a29dd010c4972328e7e649d?utm_campaign=1052&utm_source=git)** | Triangle, NC | Hybrid | Jun 10 |
-| **[Vanguard Soap](https://www.vanguardsoap.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a29db99c07d4b6ae1c435c5?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Jun 10 |
-| **[Menzies Aviation](http://menziesaviation.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2a2b67495d985b99427650?utm_campaign=1052&utm_source=git)** | Airport Heights, TX | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

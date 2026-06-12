@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d6ae06706f771673bad255?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jun 12 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d9031f90bd6ae23d1ccf?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jun 12 |
 | ↳ | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3e3701f90bd6ae23d26db?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | ↳ | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3e39a343eef4fb0a9ec2d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 12 |
@@ -107,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Northwest Bank](https://www.northwest.bank)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2ad0269bf7365df089a843?utm_campaign=1052&utm_source=git)** | Columbus, OH, US | On Site | Jun 11 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Internship, Retail, Seed Accounting](https://jobright.ai/jobs/info/6a2ad71f9bf7365df089a9f8?utm_campaign=1052&utm_source=git)** | Loveland, CO | On Site | Jun 11 |
 | **[Corient](https://corient.com)** | **[Tax Intern: Summer/Fall 2026](https://jobright.ai/jobs/info/6a0e7a6612f8b43cf3977ced?utm_campaign=1052&utm_source=git)** | US-NY-Midtown-101 Park Ave-3100, US | On Site | Jun 11 |
-| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a06fe181f7fa33581c98a49?utm_campaign=1052&utm_source=git)** | Puget Sound | On Site | Jun 11 |
+| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de501818a24cd84dea2a?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a15a865128680351d962dca?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
-| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de501818a24cd84dea2a?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
+| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a06fe181f7fa33581c98a49?utm_campaign=1052&utm_source=git)** | Puget Sound | On Site | Jun 11 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Finance FP&A - Intern](https://jobright.ai/jobs/info/6a2ac4802cde2824469c2f4c?utm_campaign=1052&utm_source=git)** | US - DE - Wilmington (Headquarters), US | On Site | Jun 11 |
 | **[Paschal Air, Plumbing & Electric](https://gopaschal.com)** | **[Part Time Accounting Intern](https://jobright.ai/jobs/info/6a2ac4051de59e0682a85caa?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Jun 11 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Finance FP&A - Intern](https://jobright.ai/jobs/info/6a2ac011c07d4b6ae1c46f19?utm_campaign=1052&utm_source=git)** | New Castle County, DE | On Site | Jun 11 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[First Guaranty Bank](https://www.fgb.net/)** | **[Credit Intern](https://jobright.ai/jobs/info/6a29cb66c07d4b6ae1c42ed2?utm_campaign=1052&utm_source=git)** | Hammond, Louisiana, United States | On Site | Jun 10 |
 | **[City of Grand Prairie](https://www.gptx.org/Home)** | **[Graduate Intern - Budget](https://jobright.ai/jobs/info/6a2b5639d3ec8317fe14856c?utm_campaign=1052&utm_source=git)** | Grand Prairie, TX | On Site | Jun 10 |
 | **[CLA (CliftonLarsonAllen)](http://www.tdfarrell.com)** | **[Investment Banking Intern - Summer 2027 - Seattle, WA](https://jobright.ai/jobs/info/6a2a67199bf7365df0899002?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jun 10 |
-| **[Sonesta International Hotels](http://www.sonesta.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2a2885d3ec8317fe1422f4?utm_campaign=1052&utm_source=git)** | New York City, New York, United States | On Site | Jun 10 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a2a2885d3ec8317fe1422f9?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Jun 10 |
+| **[Sonesta International Hotels](http://www.sonesta.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2a2885d3ec8317fe1422f9?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Jun 10 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a2a2885d3ec8317fe1422f4?utm_campaign=1052&utm_source=git)** | New York City, New York, United States | On Site | Jun 10 |
 | **[Menzies Aviation LATAM](http://www.menziesaviation.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2976601de59e0682a7f439?utm_campaign=1052&utm_source=git)** | DFW Airport, Texas, United States | On Site | Jun 10 |
 | **[OPCO Skilled Management](https://www.opcoca.com)** | **[Accounting Intern (Remote)](https://jobright.ai/jobs/info/6a2a2cd00c4972328e7e7578?utm_campaign=1052&utm_source=git)** | Lubbock, TX | Remote | Jun 10 |
 | **[Life Enriching Communities](https://lec.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2998f6495d985b9942479e?utm_campaign=1052&utm_source=git)** | Loveland, OH | On Site | Jun 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a299aa51de59e0682a80526?utm_campaign=1052&utm_source=git)** | Boca Raton, FL, US | On Site | Jun 10 |
 | **[University of Michigan](https://regents.umich.edu)** | **[ACCOUNTANT INTERNSHIP (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6a29c500495d985b99425a8d?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | Jun 10 |
 | **[Héroux-Devtek](http://www.herouxdevtek.com/)** | **[Intern - Internal Audit and Corporate Governance - Fall 2026](https://jobright.ai/jobs/info/6a29daa8d3ec8317fe140f4c?utm_campaign=1052&utm_source=git)** | Longueuil, Quebec, Canada | Hybrid | Jun 10 |
-| **[Framatome](http://www.framatome.com)** | **[Finance Intern (Accounts Payable)](https://jobright.ai/jobs/info/6a29b4efc07d4b6ae1c4258e?utm_campaign=1052&utm_source=git)** | Lynchburg, VA, US | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

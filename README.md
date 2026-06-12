@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://clinton.nm.com)** | **[Financial Planning and Sales Intern](https://jobright.ai/jobs/info/6a2c0e67fc06447490547fa8?utm_campaign=1052&utm_source=git)** | West Chester, OH | On Site | Jun 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a2c09fcf1751b183c8166cf?utm_campaign=1052&utm_source=git)** | 2117 Building - Olmsted County Campus, MN | On Site | Jun 12 |
 | **[Cone Health](http://www.conehealth.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a2c0846fc06447490547dff?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Jun 12 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Post-Graduate Internal Audit Intern (6 Month Duration)](https://jobright.ai/jobs/info/6a0f931f83d714428982196d?utm_campaign=1052&utm_source=git)** | Sandy, UT | On Site | Jun 12 |
@@ -124,9 +125,9 @@ For a complete list, click the following sortable link below:
 | **[Nutrien](https://www.nutrien.com/)** | **[Internship, Retail, Seed Accounting](https://jobright.ai/jobs/info/6a2ad71f9bf7365df089a9f8?utm_campaign=1052&utm_source=git)** | Loveland, CO | On Site | Jun 11 |
 | **[Corient](https://corient.com)** | **[Tax Intern: Summer/Fall 2026](https://jobright.ai/jobs/info/6a0e9a1080bf0430c762dd9a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 11 |
 | ↳ | **[Tax Intern: Summer/Fall 2026](https://jobright.ai/jobs/info/6a0e7a6612f8b43cf3977ced?utm_campaign=1052&utm_source=git)** | US-NY-Midtown-101 Park Ave-3100, US | On Site | Jun 11 |
-| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a15a865128680351d962dca?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
+| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de501818a24cd84dea2a?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
+| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a15a865128680351d962dca?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a06fe181f7fa33581c98a49?utm_campaign=1052&utm_source=git)** | Puget Sound | On Site | Jun 11 |
-| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de501818a24cd84dea2a?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jun 11 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Finance FP&A - Intern](https://jobright.ai/jobs/info/6a2ac4802cde2824469c2f4c?utm_campaign=1052&utm_source=git)** | US - DE - Wilmington (Headquarters), US | On Site | Jun 11 |
 | **[Paschal Air, Plumbing & Electric](https://gopaschal.com)** | **[Part Time Accounting Intern](https://jobright.ai/jobs/info/6a2ac4051de59e0682a85caa?utm_campaign=1052&utm_source=git)** | Springdale, AR | On Site | Jun 11 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Finance FP&A - Intern](https://jobright.ai/jobs/info/6a2ac011c07d4b6ae1c46f19?utm_campaign=1052&utm_source=git)** | New Castle County, DE | On Site | Jun 11 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Financial Analyst Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a2a31972cde2824469c0c6a?utm_campaign=1052&utm_source=git)** | Farmington Hills, MI, US, 48335 | On Site | Jun 10 |
 | **[Roche](http://www.roche.com)** | **[2026 Fall Intern - Value Pricing & Reimbursement Division](https://jobright.ai/jobs/info/6a2a2a08d3ec8317fe14266f?utm_campaign=1052&utm_source=git)** | Mississauga, CA | Hybrid | Jun 10 |
 | **[First Guaranty Bank](https://www.fgb.net/)** | **[Credit Intern](https://jobright.ai/jobs/info/6a29cb66c07d4b6ae1c42ed2?utm_campaign=1052&utm_source=git)** | Hammond, Louisiana, United States | On Site | Jun 10 |
-| **[City of Grand Prairie](https://www.gptx.org/Home)** | **[Graduate Intern - Budget](https://jobright.ai/jobs/info/6a2b5639d3ec8317fe14856c?utm_campaign=1052&utm_source=git)** | Grand Prairie, TX | On Site | Jun 10 |
 | **[CLA (CliftonLarsonAllen)](http://www.tdfarrell.com)** | **[Investment Banking Intern - Summer 2027 - Seattle, WA](https://jobright.ai/jobs/info/6a2a67199bf7365df0899002?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jun 10 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2a2885d3ec8317fe1422f4?utm_campaign=1052&utm_source=git)** | New York City, New York, United States | On Site | Jun 10 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a2a2885d3ec8317fe1422f9?utm_campaign=1052&utm_source=git)** | New York, New York, United States of America | On Site | Jun 10 |

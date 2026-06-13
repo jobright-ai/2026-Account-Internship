@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cronus Capital Management LLC](https://www.cronusam.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6a2c7ef0a1d15e3c552fc306?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Jun 12 |
+| **[Valor Health](https://www.valorhealth.org)** | **[ACCOUNTING INTERN](https://jobright.ai/jobs/info/6a2c6fe4f1751b183c8187fc?utm_campaign=1052&utm_source=git)** | EMMETT, ID 83617 | On Site | Jun 12 |
+| **[Texas Capital](http://www.texascapitalbank.com)** | **[2027 Summer Analyst (Internship)](https://jobright.ai/jobs/info/6a2c82e5fc0644749054a579?utm_campaign=1052&utm_source=git)** | Texas Capital Center, US | On Site | Jun 12 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc8beb4d73cb6231d0c?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 12 |
 | **[CRYSTORAMA LIGHTING](https://www.crystorama.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2c7be17cd40a338fae6bd4?utm_campaign=1052&utm_source=git)** | Westbury, NY | On Site | Jun 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Budget and Management Services Graduate Intern](https://jobright.ai/jobs/info/6a2c7ab8a1d15e3c552fc25c?utm_campaign=1052&utm_source=git)** | 101 City Hall Plaza, Durham, NC | Hybrid | Jun 12 |
@@ -66,10 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Intern](https://jobright.ai/jobs/info/6a2c7272a1d15e3c552fbdcb?utm_campaign=1052&utm_source=git)** | Chesapeake, VA | On Site | Jun 12 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Resort Ops Finance](https://jobright.ai/jobs/info/6a2c71567cd40a338fae670d?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Jun 12 |
 | ↳ | **[Corporate Intern - Internal Audit](https://jobright.ai/jobs/info/6a2c713cf1751b183c818889?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Jun 12 |
-| **[Valor Health](https://www.valorhealth.org)** | **[ACCOUNTING INTERN](https://jobright.ai/jobs/info/6a2c6fe4f1751b183c8187fc?utm_campaign=1052&utm_source=git)** | EMMETT, ID 83617 | On Site | Jun 12 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a2c6cf9fc06447490549def?utm_campaign=1052&utm_source=git)** | Beachwood, OH, United States | On Site | Jun 12 |
 | **[University of Michigan](https://regents.umich.edu)** | **[ACCOUNTANT INTERNSHIP (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6a29c500495d985b99425a8d?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | Jun 12 |
-| **[GLENDIVE MEDICAL CENTER](https://www.gmc.org)** | **[Accounting / Finance Internship](https://jobright.ai/jobs/info/6a2c69d6f1751b183c81860f?utm_campaign=1052&utm_source=git)** | Glendive, MT | On Site | Jun 12 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Intern](https://jobright.ai/jobs/info/6a2c646dfc06447490549a57?utm_campaign=1052&utm_source=git)** | Chesapeake, Virginia, United States | On Site | Jun 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a2c646afc06447490549a55?utm_campaign=1052&utm_source=git)** | 500 Volvo Parkway, Chesapeake, Virginia, 23320 | On Site | Jun 12 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Internal Controller Intern](https://jobright.ai/jobs/info/6a2c60f3f1751b183c81835a?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jun 12 |
@@ -85,12 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/699ed43994ef206f184dd451?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 12 |
 | ↳ | **[Audit Accounting Intern - Baton Rouge, LA](https://jobright.ai/jobs/info/699e43eace78e77b4fe35efc?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Jun 12 |
 | **[TL Squared LLP](https://www.tlsqd.com/)** | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c3523f1751b183c81749c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
-| ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817499?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 12 |
 | ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817498?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 12 |
+| ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817499?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 12 |
 | **[DigitalOcean](http://www.digitalocean.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6a2c33befc06447490548a95?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Jun 12 |
 | **[Prysmian](https://www.prysmian.com)** | **[Accounts Payable Internship](https://jobright.ai/jobs/info/6a0f11c9619335383fb28e9c?utm_campaign=1052&utm_source=git)** | Vaughan, Canada | On Site | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/69f231c0ecbc8c2f73209218?utm_campaign=1052&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | Jun 12 |
-| **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a2134d24bdf8a5a96bd5094?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 12 |
+| **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a0ea3fb83d714428981a56f?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 12 |
 | **[GZA GeoEnvironmental, Inc.](http://www.gza.com)** | **[Finance Intern/ Temporary Role](https://jobright.ai/jobs/info/6a2c27d1a1d15e3c552fa49c?utm_campaign=1052&utm_source=git)** | Norwood, MA | Hybrid | Jun 12 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Finance Intercompany](https://jobright.ai/jobs/info/6a0f13ed80bf0430c7630b44?utm_campaign=1052&utm_source=git)** | USA - Iselin, Wood Ave | On Site | Jun 12 |
 | **[GZA GeoEnvironmental, Inc.](http://www.gza.com)** | **[Finance Intern/ Temporary Role](https://jobright.ai/jobs/info/6a2c1c90d3ec94183f4bb477?utm_campaign=1052&utm_source=git)** | Norwood, Massachusetts, United States | Hybrid | Jun 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Thales](http://www.thalesgroup.com)** | **[Inventory clerk Intern](https://jobright.ai/jobs/info/6a2ae5939bf7365df089afbd?utm_campaign=1052&utm_source=git)** | Johannesburg, CA | On Site | Jun 11 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Supply Chain (8-month)](https://jobright.ai/jobs/info/6a2ae3dbd3ec8317fe145a92?utm_campaign=1052&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 11 |
 | **[O'Melveny & Myers LLP](http://www.omm.com)** | **[Billing Clerk](https://jobright.ai/jobs/info/6a0e145fbeb4d73cb622e945?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jun 11 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2ad0269bf7365df089a843?utm_campaign=1052&utm_source=git)** | Columbus, OH, US | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/699ed43994ef206f184dd451?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 12 |
 | ↳ | **[Audit Accounting Intern - Baton Rouge, LA](https://jobright.ai/jobs/info/699e43eace78e77b4fe35efc?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Jun 12 |
 | **[TL Squared LLP](https://www.tlsqd.com/)** | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c3523f1751b183c81749c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
-| ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817499?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 12 |
 | ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817498?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 12 |
+| ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817499?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 12 |
 | **[DigitalOcean](http://www.digitalocean.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6a2c33befc06447490548a95?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Jun 12 |
 | **[Prysmian](https://www.prysmian.com)** | **[Accounts Payable Internship](https://jobright.ai/jobs/info/6a0f11c9619335383fb28e9c?utm_campaign=1052&utm_source=git)** | Vaughan, Canada | On Site | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/69f231c0ecbc8c2f73209218?utm_campaign=1052&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | Jun 12 |
@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[GZA GeoEnvironmental, Inc.](http://www.gza.com)** | **[Finance Intern/ Temporary Role](https://jobright.ai/jobs/info/6a2c1c90d3ec94183f4bb477?utm_campaign=1052&utm_source=git)** | Norwood, Massachusetts, United States | Hybrid | Jun 12 |
 | **[Green Bay Packaging](https://gbp.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2c1b93f1751b183c816ceb?utm_campaign=1052&utm_source=git)** | Green Bay, WI 54302, USA | On Site | Jun 12 |
 | **[Alluvionic Inc.](https://alluvionic.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2c1795c260bb1b8ae1474e?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Jun 12 |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Audit Summer Intern](https://jobright.ai/jobs/info/6a2cdaf4f1751b183c819ffc?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jun 12 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Financial Planning and Sales Intern](https://jobright.ai/jobs/info/6a2c0e67fc06447490547fa8?utm_campaign=1052&utm_source=git)** | West Chester, OH | On Site | Jun 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a2c09fcf1751b183c8166cf?utm_campaign=1052&utm_source=git)** | 2117 Building - Olmsted County Campus, MN | On Site | Jun 12 |
 | **[Cone Health](http://www.conehealth.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a2c0846fc06447490547dff?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Jun 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Campbell Scientific](http://www.campbellsci.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2b03540ad4053b108ca2fd?utm_campaign=1052&utm_source=git)** | 815 W 1800 N, Logan, UT | On Site | Jun 11 |
 | **[TMX Group](http://www.tmx.com)** | **[Controllership Intern](https://jobright.ai/jobs/info/6a2af8b89bf7365df089b731?utm_campaign=1052&utm_source=git)** | Toronto - 100 Adelaide St W, CA | Hybrid | Jun 11 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Graduate Intern - Budget](https://jobright.ai/jobs/info/6a2afee09bf7365df089ba5b?utm_campaign=1052&utm_source=git)** | City Hall, 300 West Main Street, Grand Prairie, TX | On Site | Jun 11 |
-| **[Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates](http://www.skadden.com)** | **[Firm Tax Intern](https://jobright.ai/jobs/info/69d5a788891d7b11cfd03677?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

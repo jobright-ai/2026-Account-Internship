@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Tax Winter Intern](https://jobright.ai/jobs/info/6a2a55862cde2824469c1645?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 13 |
 | **[Topel Forman LLC](http://topelforman.com)** | **[Winter 2027 Audit Internship](https://jobright.ai/jobs/info/6a17e6d454962c1bb4b05752?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jun 13 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Fall 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/6a28f0927061b51a3a5f8b5d?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jun 13 |
-| **[Alteryx](https://alteryx.com)** | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10ae20619335383fb342bd?utm_campaign=1052&utm_source=git)** | Irvine, California, US | On Site | Jun 13 |
-| ↳ | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10ae21619335383fb342c0?utm_campaign=1052&utm_source=git)** | US - Remote, US | Remote | Jun 13 |
+| **[Alteryx](https://alteryx.com)** | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10ae21619335383fb342c0?utm_campaign=1052&utm_source=git)** | US - Remote, US | Remote | Jun 13 |
+| ↳ | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10ae20619335383fb342bd?utm_campaign=1052&utm_source=git)** | Irvine, California, US | On Site | Jun 13 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Global Tax](https://jobright.ai/jobs/info/6a2d0f7ff1751b183c81a5be?utm_campaign=1052&utm_source=git)** | MVW Headquarters, US | On Site | Jun 13 |
 | ↳ | **[Corporate Intern - Resort Ops Finance](https://jobright.ai/jobs/info/6a2d0f79d3ec94183f4bedb0?utm_campaign=1052&utm_source=git)** | Marriott's Grand Chateau, US | On Site | Jun 13 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Finance and Budgeting Intern: Supporting the Budget, Financial Management and Reporting Section of United Nations Mine Action Service (UNMAS) Job ID : 278301](https://jobright.ai/jobs/info/6a2d0f09fc0644749054bbbc?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jun 13 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Accounting Intern- Fall 2026](https://jobright.ai/jobs/info/6a2b40511de59e0682a88d39?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 11 |
 | **[CAE](http://www.cae.de)** | **[C-FIN-201 Tax Intern – Tax Technology & AI Enablement-EN](https://jobright.ai/jobs/info/6a2b3fba9bf7365df089d18c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 11 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Summer 2027 - Cost Accounting](https://jobright.ai/jobs/info/6a2b066c0ad4053b108ca478?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, US | On Site | Jun 11 |
-| **[CBIZ](https://kaconsults.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/6a2b373ec07d4b6ae1c49d85?utm_campaign=1052&utm_source=git)** | Mayfield, OH | On Site | Jun 11 |
+| **[CBIZ](https://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/6a2b373ec07d4b6ae1c49d85?utm_campaign=1052&utm_source=git)** | Mayfield, OH | On Site | Jun 11 |
 | **[KEATING](http://keatinginc.com)** | **[Wealth Management Internship](https://jobright.ai/jobs/info/6a2b34692cde2824469c5ac8?utm_campaign=1052&utm_source=git)** | Manhattan, KS | On Site | Jun 11 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Supply Chain (8-month)](https://jobright.ai/jobs/info/6a2b27cfd3ec8317fe14773b?utm_campaign=1052&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 11 |
 | **[Baird](https://bairdcareers.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a2b2693c07d4b6ae1c4992e?utm_campaign=1052&utm_source=git)** | WI-Milwaukee, US | On Site | Jun 11 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Financial Systems Analyst](https://jobright.ai/jobs/info/6a2b15cb9bf7365df089c3f7?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | Hybrid | Jun 11 |
 | **[Ottimate](https://ottimate.com)** | **[Finance Internship](https://jobright.ai/jobs/info/6a2b21bfd3ec8317fe1474d4?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Accounting and Advisory Services Intern](https://jobright.ai/jobs/info/6a2b204c2cde2824469c54d6?utm_campaign=1052&utm_source=git)** | Syracuse, NY 13202, USA | On Site | Jun 11 |
-| **[Resort Lifestyle Communities](http://rlcommunities.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2acbf40ad4053b108c8bdd?utm_campaign=1052&utm_source=git)** | Resort Lifestyle Communities, 7101 S. 82nd Street, Lincoln, NE | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

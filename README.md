@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MCI USA](https://www.wearemci.com/en-us)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2db6d8c260bb1b8ae1932a?utm_campaign=1052&utm_source=git)** | Washington, United States | Remote | Jun 13 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a2db024fc0644749054c9a7?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 13 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a2db024f1751b183c81b392?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Jun 13 |
 | **[Citi](https://www.citi.com)** | **[Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027](https://jobright.ai/jobs/info/694ab4c43019f50a4fe5ca0d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1e49f97a42dc9c17f83?utm_campaign=1052&utm_source=git)** | Chino, CA, US | On Site | Jun 13 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b0982a1?utm_campaign=1052&utm_source=git)** | US-CA-Chino | On Site | Jun 13 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b0982a1?utm_campaign=1052&utm_source=git)** | US-CA-Chino | On Site | Jun 13 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1e49f97a42dc9c17f83?utm_campaign=1052&utm_source=git)** | Chino, CA, US | On Site | Jun 13 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Jun 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Sales and Use Intern - Summer 2027](https://jobright.ai/jobs/info/6a2d8159fc0644749054c5a8?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jun 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Operational Finance](https://jobright.ai/jobs/info/6a1f77c9dce5db1256d15b5b?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Jun 13 |
@@ -69,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Fall 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/6a28f0927061b51a3a5f8b5d?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jun 13 |
 | ↳ | **[Tax Intern - Spring 2027 (Houston, TX)](https://jobright.ai/jobs/info/6a10ec719f654b3359cee914?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/6a2d4d23fc0644749054c13d?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Jun 13 |
-| **[Alteryx](https://alteryx.com)** | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10ae20619335383fb342bd?utm_campaign=1052&utm_source=git)** | Irvine, California, US | On Site | Jun 13 |
-| ↳ | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10ae21619335383fb342c0?utm_campaign=1052&utm_source=git)** | US - Remote, US | Remote | Jun 13 |
+| **[Alteryx](https://alteryx.com)** | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10ae21619335383fb342c0?utm_campaign=1052&utm_source=git)** | US - Remote, US | Remote | Jun 13 |
+| ↳ | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10ae20619335383fb342bd?utm_campaign=1052&utm_source=git)** | Irvine, California, US | On Site | Jun 13 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Global Tax](https://jobright.ai/jobs/info/6a2d0f7ff1751b183c81a5be?utm_campaign=1052&utm_source=git)** | MVW Headquarters, US | On Site | Jun 13 |
 | ↳ | **[Corporate Intern - Resort Ops Finance](https://jobright.ai/jobs/info/6a2d0f79d3ec94183f4bedb0?utm_campaign=1052&utm_source=git)** | Marriott's Grand Chateau, US | On Site | Jun 13 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Finance and Budgeting Intern: Supporting the Budget, Financial Management and Reporting Section of United Nations Mine Action Service (UNMAS) Job ID : 278301](https://jobright.ai/jobs/info/6a2d0f09fc0644749054bbbc?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jun 13 |
@@ -111,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/699ed43994ef206f184dd451?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 12 |
 | ↳ | **[Audit Accounting Intern - Baton Rouge, LA](https://jobright.ai/jobs/info/699e43eace78e77b4fe35efc?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Jun 12 |
 | **[TL Squared LLP](https://www.tlsqd.com/)** | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c3523f1751b183c81749c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
-| ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817499?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 12 |
 | ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817498?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 12 |
+| ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817499?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 12 |
 | **[DigitalOcean](http://www.digitalocean.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6a2c33befc06447490548a95?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Jun 12 |
 | **[Prysmian](https://www.prysmian.com)** | **[Accounts Payable Internship](https://jobright.ai/jobs/info/6a0f11c9619335383fb28e9c?utm_campaign=1052&utm_source=git)** | Vaughan, Canada | On Site | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/69f231c0ecbc8c2f73209218?utm_campaign=1052&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | Jun 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Juniper Square](https://www.junipersquare.com)** | **[Associate, Fund Administration (Interns)](https://jobright.ai/jobs/info/6a2b4e0e9bf7365df089d44b?utm_campaign=1052&utm_source=git)** | USA | Remote | Jun 11 |
 | **[TruAmerica Multifamily](https://www.truamerica.com/)** | **[Asset Management Analyst, Intern (Miami, FL)](https://jobright.ai/jobs/info/6a2b5aff2cde2824469c6517?utm_campaign=1052&utm_source=git)** | Miami, FL 33130, USA | On Site | Jun 11 |
 | **[CAE](http://www.cae.de)** | **[C-FIN-201 Tax Intern – Tax Technology & AI Enablement](https://jobright.ai/jobs/info/6a2b5a381de59e0682a8937b?utm_campaign=1052&utm_source=git)** | Montreal (St. Laurent), CA | Hybrid | Jun 11 |
-| **[County of Riverside](https://rivco.org)** | **[Child Support Services Department - Unpaid Student Internship](https://jobright.ai/jobs/info/6a2b4c9d2cde2824469c6119?utm_campaign=1052&utm_source=git)** | Riverside County, CA | On Site | Jun 11 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Accounting Intern- Fall 2026](https://jobright.ai/jobs/info/6a2b40511de59e0682a88d39?utm_campaign=1052&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 11 |
-| **[CAE](http://www.cae.de)** | **[C-FIN-201 Tax Intern – Tax Technology & AI Enablement-EN](https://jobright.ai/jobs/info/6a2b3fba9bf7365df089d18c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

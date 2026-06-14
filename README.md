@@ -68,12 +68,13 @@ For a complete list, click the following sortable link below:
 | **[Seaboard Overseas and Trading Group](https://www.seaboardoverseas.com)** | **[Accounting Systems Intern](https://jobright.ai/jobs/info/69fb987486d5cd46527d6b90?utm_campaign=1052&utm_source=git)** | Merriam, KS, 66202, United States | On Site | Jun 14 |
 | **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a2e7c4fd3ec94183f4c0dcf?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Jun 14 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Financial Systems Analyst](https://jobright.ai/jobs/info/6a2b15cb9bf7365df089c3f7?utm_campaign=1052&utm_source=git)** | Columbia, MO (Headquarters) | Hybrid | Jun 14 |
+| **[Alteryx](https://alteryx.com)** | **[Revenue Operations (Insights & Analytics) Intern](https://jobright.ai/jobs/info/6a10f2e383d71442898294ee?utm_campaign=1052&utm_source=git)** | Irvine, CA | On Site | Jun 13 |
 | **[Northside Hospital](http://www.northside.com)** | **[Revenue Integrity, Intern](https://jobright.ai/jobs/info/6a2dc5baa1d15e3c552febf4?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jun 13 |
 | **[PNC](http://www.sterlingfi.com/)** | **[Graduate Intern, Economic Scenario Design, Chief Investment Office (CIO) (Non-Campus)](https://jobright.ai/jobs/info/6a2dbbb5fc0644749054cbc2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[MCI USA](https://www.wearemci.com/en-us)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2db6d8c260bb1b8ae1932a?utm_campaign=1052&utm_source=git)** | Washington, United States | Remote | Jun 13 |
 | **[Citi](https://www.citi.com)** | **[Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027](https://jobright.ai/jobs/info/694ab4c43019f50a4fe5ca0d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b0982a1?utm_campaign=1052&utm_source=git)** | US-CA-Chino | On Site | Jun 13 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1e49f97a42dc9c17f83?utm_campaign=1052&utm_source=git)** | Chino, CA, US | On Site | Jun 13 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1e49f97a42dc9c17f83?utm_campaign=1052&utm_source=git)** | Chino, CA, US | On Site | Jun 13 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b0982a1?utm_campaign=1052&utm_source=git)** | US-CA-Chino | On Site | Jun 13 |
 | **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10fa9083d7144289829af2?utm_campaign=1052&utm_source=git)** | Centennial, CO | Hybrid | Jun 13 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a10a015619335383fb33dd7?utm_campaign=1052&utm_source=git)** | US-CO-Denver, Colorado (Panorama Arrow Building), US | Hybrid | Jun 13 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Jun 13 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Services for the UnderServed](https://www.sus.org)** | **[Intern](https://jobright.ai/jobs/info/6a2c74a6c260bb1b8ae168bf?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jun 12 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance IT](https://jobright.ai/jobs/info/6a2c5ac3d3ec94183f4bc82f?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jun 12 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Portfolio Management, Real Estate Investments (September – December 2026)](https://jobright.ai/jobs/info/6a2ca87f7cd40a338fae75d9?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 12 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 12 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 12 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 12 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 12 |
 | **[Valor Health](https://www.valorhealth.org)** | **[ACCOUNTING INTERN](https://jobright.ai/jobs/info/6a2c6fe4f1751b183c8187fc?utm_campaign=1052&utm_source=git)** | EMMETT, ID 83617 | On Site | Jun 12 |
 | **[Texas Capital](http://www.texascapitalbank.com)** | **[2027 Summer Analyst (Internship)](https://jobright.ai/jobs/info/6a2c82e5fc0644749054a579?utm_campaign=1052&utm_source=git)** | Texas Capital Center, US | On Site | Jun 12 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc8beb4d73cb6231d0c?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 12 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/699ed43994ef206f184dd451?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 12 |
 | ↳ | **[Audit Accounting Intern - Baton Rouge, LA](https://jobright.ai/jobs/info/699e43eace78e77b4fe35efc?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Jun 12 |
 | **[TL Squared LLP](https://www.tlsqd.com/)** | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c3523f1751b183c81749c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
-| ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817498?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 12 |
 | ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817499?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA | Hybrid | Jun 12 |
+| ↳ | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a2c351ef1751b183c817498?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 12 |
 | **[DigitalOcean](http://www.digitalocean.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6a2c33befc06447490548a95?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Jun 12 |
 | **[Prysmian](https://www.prysmian.com)** | **[Accounts Payable Internship](https://jobright.ai/jobs/info/6a0f11c9619335383fb28e9c?utm_campaign=1052&utm_source=git)** | Vaughan, Canada | On Site | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/69f231c0ecbc8c2f73209218?utm_campaign=1052&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | Jun 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3e3701f90bd6ae23d26db?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | ↳ | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3e39a343eef4fb0a9ec2d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | ↳ | **[Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a28e8b62d6c332ee52e8bae?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jun 12 |
-| ↳ | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d917c78b9e4518958238?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

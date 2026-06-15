@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Michaels Organization](https://tmo.com)** | **[Intern - Capital Markets](https://jobright.ai/jobs/info/6a303b1b093df201d07b043a?utm_campaign=1052&utm_source=git)** | Camden, NJ | On Site | Jun 15 |
+| **[Skana Aluminum Co.](https://www.skanaaluminum.com)** | **[INTERNSHIP-Accounting Assistant](https://jobright.ai/jobs/info/6a3037a4093df201d07b0322?utm_campaign=1052&utm_source=git)** | Manitowoc, WI, US | On Site | Jun 15 |
+| **[Continental](http://www.benecke-kaliko.com)** | **[Intern - Tire Property Management / Finance, Year-Round](https://jobright.ai/jobs/info/6a303410524fd5657fe0f880?utm_campaign=1052&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Jun 15 |
+| **[RETIREMENT & ESTATE PLANNING SERVICES, INC.](https://www.repsplan.com)** | **[Paid Administrative Finance Internship-Charlotte Area](https://jobright.ai/jobs/info/6a30333b89f8f147d37341b5?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Jun 15 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Business Finance Intern](https://jobright.ai/jobs/info/6a2c4d5ca1d15e3c552fb199?utm_campaign=1052&utm_source=git)** | Fresno, CA | On Site | Jun 15 |
+| **[Crowe](https://www.crowe.com/)** | **[Audit High School Intern - September 2026](https://jobright.ai/jobs/info/6a30327f89f8f147d373416e?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Jun 15 |
+| **[Dentons](http://www.dentons.com)** | **[Intern, Accounting & Finance](https://jobright.ai/jobs/info/6a3031dd524fd5657fe0f769?utm_campaign=1052&utm_source=git)** | Chicago | On Site | Jun 15 |
 | **[Cashably](https://cashably.com)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/6a303094524fd5657fe0f68c?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jun 15 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 15 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 15 |
@@ -133,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a2c6cf9fc06447490549def?utm_campaign=1052&utm_source=git)** | Beachwood, OH, United States | On Site | Jun 12 |
 | **[University of Michigan](https://regents.umich.edu)** | **[ACCOUNTANT INTERNSHIP (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6a29c500495d985b99425a8d?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | Jun 12 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Internal Controller Intern](https://jobright.ai/jobs/info/6a2c60f3f1751b183c81835a?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jun 12 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Business Finance Intern](https://jobright.ai/jobs/info/6a2c4d5ca1d15e3c552fb199?utm_campaign=1052&utm_source=git)** | Fresno, CA | On Site | Jun 12 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/699d08b1e0bddb6acacc2507?utm_campaign=1052&utm_source=git)** | Peace River, Alberta, Canada | On Site | Jun 12 |
 | **[DigitalOcean](http://www.digitalocean.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6a2c4b79d3ec94183f4bc2d4?utm_campaign=1052&utm_source=git)** | San Francisco | Remote | Jun 12 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Digitization Audit Intern](https://jobright.ai/jobs/info/6a2c9f67d3ec94183f4bdcc3?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jun 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a0ea3fb83d714428981a56f?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 12 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Finance Intercompany](https://jobright.ai/jobs/info/6a0f13ed80bf0430c7630b44?utm_campaign=1052&utm_source=git)** | USA - Iselin, Wood Ave | On Site | Jun 12 |
 | **[Green Bay Packaging](https://gbp.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2c1b93f1751b183c816ceb?utm_campaign=1052&utm_source=git)** | Green Bay, WI 54302, USA | On Site | Jun 12 |
-| **[Alluvionic Inc.](https://alluvionic.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2c1795c260bb1b8ae1474e?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Jun 12 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Financial Planning and Sales Intern](https://jobright.ai/jobs/info/6a2c0e67fc06447490547fa8?utm_campaign=1052&utm_source=git)** | West Chester, OH | On Site | Jun 12 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a2c09fcf1751b183c8166cf?utm_campaign=1052&utm_source=git)** | 2117 Building - Olmsted County Campus, MN | On Site | Jun 12 |
-| **[Cone Health](http://www.conehealth.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a2c0846fc06447490547dff?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Jun 12 |
-| **[Mountain America Credit Union](https://www.macu.com/)** | **[Post-Graduate Internal Audit Intern (6 Month Duration)](https://jobright.ai/jobs/info/6a0f931f83d714428982196d?utm_campaign=1052&utm_source=git)** | Sandy, UT | On Site | Jun 12 |
-| ↳ | **[IT Internal Audit Intern - Post-Graduate (6 Month Duration)](https://jobright.ai/jobs/info/6a0f932912f8b43cf398067b?utm_campaign=1052&utm_source=git)** | Sandy, UT | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

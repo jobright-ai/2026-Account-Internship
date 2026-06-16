@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TruAmerica Multifamily](https://www.truamerica.com/)** | **[Acquisitions Analyst, Intern (Dallas, TX)](https://jobright.ai/jobs/info/6a30c04beace377055eb7857?utm_campaign=1052&utm_source=git)** | Dallas, TX 75204, USA | On Site | Jun 15 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[SLG Intern](https://jobright.ai/jobs/info/6a30a300afabbe533fb8bf95?utm_campaign=1052&utm_source=git)** | Seal Beach, CA, US | On Site | Jun 15 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Finance Internship](https://jobright.ai/jobs/info/6a309c2aafabbe533fb8be1c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jun 15 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[SLG Intern](https://jobright.ai/jobs/info/6a30946aafabbe533fb8bc35?utm_campaign=1052&utm_source=git)** | Seal Beach, CA | On Site | Jun 15 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Business Finance Intern](https://jobright.ai/jobs/info/6a2c4d5ca1d15e3c552fb199?utm_campaign=1052&utm_source=git)** | Fresno, CA | On Site | Jun 15 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit High School Intern - September 2026](https://jobright.ai/jobs/info/6a30327f89f8f147d373416e?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Jun 15 |
 | **[Dentons](http://www.dentons.com)** | **[Intern, Accounting & Finance](https://jobright.ai/jobs/info/6a3031dd524fd5657fe0f769?utm_campaign=1052&utm_source=git)** | Chicago | On Site | Jun 15 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 15 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 15 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 15 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 15 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Accounting Internship, Year-Round](https://jobright.ai/jobs/info/6a3024daeace377055eb4967?utm_campaign=1052&utm_source=git)** | Milwaukee, WI Corporate, US | Hybrid | Jun 15 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Intern](https://jobright.ai/jobs/info/6a300c2eeace377055eb4214?utm_campaign=1052&utm_source=git)** | Fort Worth, TX | On Site | Jun 15 |
 | **[Crowe](https://www.crowe.com/)** | **[Audit High School Intern - September 2026](https://jobright.ai/jobs/info/6a3007edafabbe533fb889fe?utm_campaign=1052&utm_source=git)** | South Bend IN USA, US | On Site | Jun 15 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.sterlingfi.com/)** | **[Graduate Intern, Economic Scenario Design, Chief Investment Office (CIO) (Non-Campus)](https://jobright.ai/jobs/info/6a2dbbb5fc0644749054cbc2?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[MCI USA](https://www.wearemci.com/en-us)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2db6d8c260bb1b8ae1932a?utm_campaign=1052&utm_source=git)** | Washington, United States | Remote | Jun 13 |
 | **[Citi](https://www.citi.com)** | **[Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027](https://jobright.ai/jobs/info/694ab4c43019f50a4fe5ca0d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 13 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b0982a1?utm_campaign=1052&utm_source=git)** | US-CA-Chino | On Site | Jun 13 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1e49f97a42dc9c17f83?utm_campaign=1052&utm_source=git)** | Chino, CA, US | On Site | Jun 13 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1e49f97a42dc9c17f83?utm_campaign=1052&utm_source=git)** | Chino, CA, US | On Site | Jun 13 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b0982a1?utm_campaign=1052&utm_source=git)** | US-CA-Chino | On Site | Jun 13 |
 | **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10fa9083d7144289829af2?utm_campaign=1052&utm_source=git)** | Centennial, CO | Hybrid | Jun 13 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a10a015619335383fb33dd7?utm_campaign=1052&utm_source=git)** | US-CO-Denver, Colorado (Panorama Arrow Building), US | Hybrid | Jun 13 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Jun 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Intern - Internal Audit](https://jobright.ai/jobs/info/6a2c713cf1751b183c818889?utm_campaign=1052&utm_source=git)** | Orlando, FL | Hybrid | Jun 12 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a2c6cf9fc06447490549def?utm_campaign=1052&utm_source=git)** | Beachwood, OH, United States | On Site | Jun 12 |
 | **[University of Michigan](https://regents.umich.edu)** | **[ACCOUNTANT INTERNSHIP (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6a29c500495d985b99425a8d?utm_campaign=1052&utm_source=git)** | Flint, MI | On Site | Jun 12 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Internal Controller Intern](https://jobright.ai/jobs/info/6a2c60f3f1751b183c81835a?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

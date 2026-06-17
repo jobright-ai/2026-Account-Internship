@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SkillBridge Intern, Tax](https://jobright.ai/jobs/info/6a321c67e7b7d514a3bd6e1d?utm_campaign=1052&utm_source=git)** | Chattanooga, TN | On Site | Jun 16 |
 | **[Junonia Partners](https://www.junoniapartners.com)** | **[Intern - Outsourced CFO for Hedge Funds, Private Equity, & Venture Capital Funds](https://jobright.ai/jobs/info/6a321c5435e80310003aab1e?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Jun 16 |
 | **[Northside Hospital](http://www.northside.com)** | **[Revenue Integrity, Intern](https://jobright.ai/jobs/info/6a2dc5baa1d15e3c552febf4?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jun 16 |
+| **[BMW Group](https://www.bmwgroup-werke.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/6a32899e649fdf16292eda0f?utm_campaign=1052&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jun 16 |
 | **[HUB International](https://www.hubinternational.com)** | **[Summer Intern, Retirement and Private Wealth](https://jobright.ai/jobs/info/6a31dde05958816970017512?utm_campaign=1052&utm_source=git)** | Rockville, MD, US | Hybrid | Jun 16 |
 | **[MaxCyte, Inc.](http://www.maxcyte.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3149270ff23769fdb1d39e?utm_campaign=1052&utm_source=git)** | Rockville,MD,US | On Site | Jun 16 |
 | **[Nokia Federal Solutions Inc](https://www.fenixgroup.io/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a31815535e80310003a76fb?utm_campaign=1052&utm_source=git)** | USA | On Site | Jun 16 |
@@ -123,11 +124,11 @@ For a complete list, click the following sortable link below:
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern Finance and Collections](https://jobright.ai/jobs/info/6a3193f72ee3ac1b4beefbd8?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, CA | On Site | Jun 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Accounting](https://jobright.ai/jobs/info/6a3193105958816970015778?utm_campaign=1052&utm_source=git)** | DALLAS, Texas, United States | On Site | Jun 16 |
 | **[Grupo Tigre](https://www.tigre.com.br/)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a3191bb5958816970015673?utm_campaign=1052&utm_source=git)** | Aguadilla, Puerto Rico | On Site | Jun 16 |
-| **[The Lighthouse Group](https://lighthousehq.org)** | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a3190c15958816970015571?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 16 |
-| ↳ | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a3190c15958816970015570?utm_campaign=1052&utm_source=git)** | Eureka, CA | Hybrid | Jun 16 |
+| **[The Lighthouse Group](https://lighthousehq.org)** | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a3190c15958816970015570?utm_campaign=1052&utm_source=git)** | Eureka, CA | Hybrid | Jun 16 |
+| ↳ | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a3190c15958816970015571?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/695d98d4fbd62a0a65664bea?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jun 16 |
-| **[Weaver](http://www.weaver.com)** | **[Audit Intern - Public Sector](https://jobright.ai/jobs/info/6a317b65e7b7d514a3bd39fd?utm_campaign=1052&utm_source=git)** | The Woodlands, Texas, United States | On Site | Jun 16 |
-| ↳ | **[Audit Intern - Public Sector](https://jobright.ai/jobs/info/6a317b59e7b7d514a3bd39f9?utm_campaign=1052&utm_source=git)** | HOUSTON, Texas, United States | On Site | Jun 16 |
+| **[Weaver](http://www.weaver.com)** | **[Audit Intern - Public Sector](https://jobright.ai/jobs/info/6a317b59e7b7d514a3bd39f9?utm_campaign=1052&utm_source=git)** | HOUSTON, Texas, United States | On Site | Jun 16 |
+| ↳ | **[Audit Intern - Public Sector](https://jobright.ai/jobs/info/6a317b65e7b7d514a3bd39fd?utm_campaign=1052&utm_source=git)** | The Woodlands, Texas, United States | On Site | Jun 16 |
 | **[Schneider Electric](https://www.se.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a317c64c477a5075f48d324?utm_campaign=1052&utm_source=git)** | El Paso,Texas,United States | On Site | Jun 16 |
 | **[South Carolina Education Lottery](http://sceducationlottery.com)** | **[Finance/Operations Intern](https://jobright.ai/jobs/info/6a3183695958816970015105?utm_campaign=1052&utm_source=git)** | Columbia, SC, US | On Site | Jun 16 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Finance Intern, Chartwells Higher Ed / Quinnipiac University](https://jobright.ai/jobs/info/6a31812b0ff23769fdb1e59b?utm_campaign=1052&utm_source=git)** | 275 Mt. Carmel Ave, Hamden, CT, 06518, US | On Site | Jun 16 |
@@ -135,12 +136,12 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance &amp; Accounting - FSC](https://jobright.ai/jobs/info/6a317a862ee3ac1b4beef0b7?utm_campaign=1052&utm_source=git)** | USA OTSEGO MI FLUID SYSTEM CON | On Site | Jun 16 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31722c35e80310003a6faa?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, US | On Site | Jun 16 |
 | ↳ | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31722b35e80310003a6fa7?utm_campaign=1052&utm_source=git)** | Pittston, PA, US | On Site | Jun 16 |
-| ↳ | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31722b35e80310003a6fa6?utm_campaign=1052&utm_source=git)** | Lancaster, PA, US | On Site | Jun 16 |
 | ↳ | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31722b35e80310003a6fa8?utm_campaign=1052&utm_source=git)** | Lehigh Valley, PA, US | On Site | Jun 16 |
+| ↳ | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31722b35e80310003a6fa6?utm_campaign=1052&utm_source=git)** | Lancaster, PA, US | On Site | Jun 16 |
 | ↳ | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31722135e80310003a6fa3?utm_campaign=1052&utm_source=git)** | USA PA Lehigh Valley, US | On Site | Jun 16 |
-| **[GTT](https://www.gtt.net/us-en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a3159b12ee3ac1b4beee3a7?utm_campaign=1052&utm_source=git)** | Remote, Virginia, United States | Remote | Jun 16 |
+| **[GTT](https://www.gtt.net/us-en/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a3159992ee3ac1b4beee393?utm_campaign=1052&utm_source=git)** | US Virginia Remote, US | Remote | Jun 16 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a3159b02ee3ac1b4beee3a6?utm_campaign=1052&utm_source=git)** | Remote, Texas, United States | Remote | Jun 16 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a3159992ee3ac1b4beee393?utm_campaign=1052&utm_source=git)** | US Virginia Remote, US | Remote | Jun 16 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a3159b12ee3ac1b4beee3a7?utm_campaign=1052&utm_source=git)** | Remote, Virginia, United States | Remote | Jun 16 |
 | **[Goldstein Tax Advisors](https://www.goldsteintaxadvisors.com)** | **[Tax Intern / 2026-2027 School Year](https://jobright.ai/jobs/info/6a316d9e2ee3ac1b4beee9bb?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Jun 16 |
 | **[MetLife](https://guidion.com)** | **[Derivatives Accounting & Reporting Intern / Apply Now](https://jobright.ai/jobs/info/6a316359e7b7d514a3bd32f5?utm_campaign=1052&utm_source=git)** | Tampa, Florida | Hybrid | Jun 16 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Tax Internship (Plano)](https://jobright.ai/jobs/info/6a315f742ee3ac1b4beee5ae?utm_campaign=1052&utm_source=git)** | Plano, Texas | On Site | Jun 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sage Credit Union](https://www.mypcfcu.org/)** | **[Accounting Specialist Intern](https://jobright.ai/jobs/info/6a3145f1c477a5075f48c297?utm_campaign=1052&utm_source=git)** | Lakeport Business Center - Klamath Falls, OR 97601 | On Site | Jun 16 |
 | **[Koch](https://www.kochinc.com)** | **[Spring 2027 Tax Internship (Plano)](https://jobright.ai/jobs/info/6a31430935e80310003a601e?utm_campaign=1052&utm_source=git)** | Plano, Texas | On Site | Jun 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[OSD Back Office Intern](https://jobright.ai/jobs/info/6a3130bb35e80310003a5642?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jun 16 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[IT Audit Intern (Remote - Fall 2026)](https://jobright.ai/jobs/info/6a31267b0ff23769fdb1c47e?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[Finance & Accounting Analyst Intern](https://jobright.ai/jobs/info/6a31e9c8e7b7d514a3bd6387?utm_campaign=1052&utm_source=git)** | El Segundo, CA | Hybrid | Jun 16 |
+| **[Vervantis Inc.](https://www.vervantis.com)** | **[Sustainability Reporting Intern](https://jobright.ai/jobs/info/6a31e8d935e80310003aa04e?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Jun 16 |
+| **[Hamilton Company](http://hamiltoncompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a31e58435e80310003a9ec2?utm_campaign=1052&utm_source=git)** | Reno, NV | On Site | Jun 16 |
+| **[KSM (Katz, Sapper & Miller)](http://www.ksmcpa.com)** | **[Tax Intern - Transaction Advisory (Fall 2026)](https://jobright.ai/jobs/info/6a31e2cbe7b7d514a3bd60e4?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 16 |
+| **[HUB International](https://www.hubinternational.com)** | **[Summer Intern, Retirement and Private Wealth](https://jobright.ai/jobs/info/6a31dde05958816970017512?utm_campaign=1052&utm_source=git)** | Rockville, MD, US | Hybrid | Jun 16 |
+| **[Michael Foods](http://michaelfoods.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a31b8c9c477a5075f48ee44?utm_campaign=1052&utm_source=git)** | Hopkins,Minnesota,United States | On Site | Jun 16 |
 | **[Medpace](http://www.medpace.com)** | **[Finance & Accounting Internship Program - Spring 2026](https://jobright.ai/jobs/info/6a31d600c477a5075f48f8c3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jun 16 |
 | **[Hamilton](http://hamiltongroup.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a31d54f5958816970017331?utm_campaign=1052&utm_source=git)** | Reno, NV, US | On Site | Jun 16 |
 | **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a31d414c477a5075f48f822?utm_campaign=1052&utm_source=git)** | Hopkins,Minnesota,United States | On Site | Jun 16 |
@@ -67,9 +73,8 @@ For a complete list, click the following sortable link below:
 | **[8th Avenue Food & Provisions](https://www.8ave.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a31c9120ff23769fdb2070d?utm_campaign=1052&utm_source=git)** | Hopkins,Minnesota,United States | On Site | Jun 16 |
 | **[Finomenon™️ Investments](www.finomenon.us)** | **[Equity Research Intern](https://jobright.ai/jobs/info/6a31c0b7c477a5075f48f146?utm_campaign=1052&utm_source=git)** | Greater Seattle Area | Hybrid | Jun 16 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Finance System Project Support (International Student)](https://jobright.ai/jobs/info/6a31b8f735e80310003a901c?utm_campaign=1052&utm_source=git)** | 1 Mercedes Benz Drive | On Site | Jun 16 |
-| ↳ | **[Internship in Finance System Project Support (International Student)](https://jobright.ai/jobs/info/6a31b8f135e80310003a9018?utm_campaign=1052&utm_source=git)** | Vance, Alabama, United States of America | On Site | Jun 16 |
 | ↳ | **[Internship in Finance System Project Support (International Student)](https://jobright.ai/jobs/info/6a31b8f135e80310003a9017?utm_campaign=1052&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | Jun 16 |
-| **[Michael Foods](http://michaelfoods.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a31b8c9c477a5075f48ee44?utm_campaign=1052&utm_source=git)** | Hopkins,Minnesota,United States | On Site | Jun 16 |
+| ↳ | **[Internship in Finance System Project Support (International Student)](https://jobright.ai/jobs/info/6a31b8f135e80310003a9018?utm_campaign=1052&utm_source=git)** | Vance, Alabama, United States of America | On Site | Jun 16 |
 | **[Amsted Rail](http://www.amstedrail.com/)** | **[Plant Accounting Intern](https://jobright.ai/jobs/info/6a31b63659588169700167e2?utm_campaign=1052&utm_source=git)** | Keokuk, Iowa, United States | On Site | Jun 16 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31b5da35e80310003a8de3?utm_campaign=1052&utm_source=git)** | Pittston, PA | On Site | Jun 16 |
 | ↳ | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/6a31b5b6595881697001677c?utm_campaign=1052&utm_source=git)** | Pittston, PA | On Site | Jun 16 |
@@ -103,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern Finance and Collections](https://jobright.ai/jobs/info/6a3193f72ee3ac1b4beefbd8?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, CA | On Site | Jun 16 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Accounting](https://jobright.ai/jobs/info/6a3193105958816970015778?utm_campaign=1052&utm_source=git)** | DALLAS, Texas, United States | On Site | Jun 16 |
 | **[Grupo Tigre](https://www.tigre.com.br/)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a3191bb5958816970015673?utm_campaign=1052&utm_source=git)** | Aguadilla, Puerto Rico | On Site | Jun 16 |
-| **[The Lighthouse Group](https://lighthousehq.org)** | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a3190c15958816970015570?utm_campaign=1052&utm_source=git)** | Eureka, CA | Hybrid | Jun 16 |
-| ↳ | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a3190c15958816970015571?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 16 |
+| **[The Lighthouse Group](https://lighthousehq.org)** | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a3190c15958816970015571?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 16 |
+| ↳ | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a3190c15958816970015570?utm_campaign=1052&utm_source=git)** | Eureka, CA | Hybrid | Jun 16 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/695d98d4fbd62a0a65664bea?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jun 16 |
 | **[Weaver](http://www.weaver.com)** | **[Audit Intern - Public Sector](https://jobright.ai/jobs/info/6a317b65e7b7d514a3bd39fd?utm_campaign=1052&utm_source=git)** | The Woodlands, Texas, United States | On Site | Jun 16 |
 | ↳ | **[Audit Intern - Public Sector](https://jobright.ai/jobs/info/6a317b59e7b7d514a3bd39f9?utm_campaign=1052&utm_source=git)** | HOUSTON, Texas, United States | On Site | Jun 16 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[South Carolina Education Lottery](http://sceducationlottery.com)** | **[Finance/Operations Intern](https://jobright.ai/jobs/info/6a3183695958816970015105?utm_campaign=1052&utm_source=git)** | Columbia, SC, US | On Site | Jun 16 |
 | **[Nokia Federal Solutions Inc](https://www.fenixgroup.io/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a31815535e80310003a76fb?utm_campaign=1052&utm_source=git)** | USA | On Site | Jun 16 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Finance Intern, Chartwells Higher Ed / Quinnipiac University](https://jobright.ai/jobs/info/6a31812b0ff23769fdb1e59b?utm_campaign=1052&utm_source=git)** | 275 Mt. Carmel Ave, Hamden, CT, 06518, US | On Site | Jun 16 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 16 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 16 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 16 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 16 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Finance Intern, Chartwells Higher Ed / Quinnipiac University](https://jobright.ai/jobs/info/6a317d5035e80310003a751d?utm_campaign=1052&utm_source=git)** | Hamden, CT, US | On Site | Jun 16 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance &amp; Accounting - FSC](https://jobright.ai/jobs/info/6a317a862ee3ac1b4beef0b7?utm_campaign=1052&utm_source=git)** | USA OTSEGO MI FLUID SYSTEM CON | On Site | Jun 16 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31722c35e80310003a6faa?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, US | On Site | Jun 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring or Summer 2027 Tax Internship (Plano)](https://jobright.ai/jobs/info/6a30d03fafabbe533fb8c73b?utm_campaign=1052&utm_source=git)** | Plano, Texas | On Site | Jun 15 |
 | ↳ | **[Summer 2027 Finance Analyst Internship](https://jobright.ai/jobs/info/6a30d03dafabbe533fb8c73a?utm_campaign=1052&utm_source=git)** | Wichita, Kansas | On Site | Jun 15 |
 | ↳ | **[Summer 2027 Accounting Analyst Internship](https://jobright.ai/jobs/info/6a30d03c093df201d07b2bc9?utm_campaign=1052&utm_source=git)** | Wichita, Kansas | On Site | Jun 15 |
-| **[TruAmerica Multifamily](https://www.truamerica.com/)** | **[Acquisitions Analyst, Intern (Dallas, TX)](https://jobright.ai/jobs/info/6a30c04beace377055eb7857?utm_campaign=1052&utm_source=git)** | Dallas, TX 75204, USA | On Site | Jun 15 |
-| **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[SLG Intern](https://jobright.ai/jobs/info/6a30a300afabbe533fb8bf95?utm_campaign=1052&utm_source=git)** | Seal Beach, CA, US | On Site | Jun 15 |
-| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Finance Internship](https://jobright.ai/jobs/info/6a309c2aafabbe533fb8be1c?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jun 15 |
-| **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[SLG Intern](https://jobright.ai/jobs/info/6a30946aafabbe533fb8bc35?utm_campaign=1052&utm_source=git)** | Seal Beach, CA | On Site | Jun 15 |
-| **[Northmarq](http://www.northmarq.com)** | **[Internship Pipeline](https://jobright.ai/jobs/info/6a30944443732c05812e3150?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

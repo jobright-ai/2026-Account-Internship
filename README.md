@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6a107ecb9f654b3359cec206?utm_campaign=1052&utm_source=git)** | Troy, MI, US | On Site | Jun 19 |
+| ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/6a18a0056243320e8d1664a0?utm_campaign=1052&utm_source=git)** | Winchester, KY, US | On Site | Jun 19 |
+| **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/6a3565d27f3fdd180d4cd4e7?utm_campaign=1052&utm_source=git)** | Miami-FTL Area | On Site | Jun 19 |
+| **[Caplugs](http://www.caplugs.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3560731232144fb1562e99?utm_campaign=1052&utm_source=git)** | Buffalo, NY | On Site | Jun 19 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Fall 2026](https://jobright.ai/jobs/info/69fb8c3f38179b6f1ae7939b?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jun 19 |
 | **[Access | Information Management](https://www.accesscorp.com/)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/6a3559fd29c90c607e4e1e20?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Synergy Wealth Solutions](https://www.synergywealthsolutions.com)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/6a355823ce501060b5cf3e16?utm_campaign=1052&utm_source=git)** | Chesterfield, MO | On Site | Jun 19 |
@@ -129,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Fiscal Intern](https://jobright.ai/jobs/info/6a3425327f3fdd180d4c8fe8?utm_campaign=1052&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jun 18 |
 | **[Oklahoma Chiller Corporation](https://www.okchiller.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3423b27f3fdd180d4c8f47?utm_campaign=1052&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Jun 18 |
 | **[Inspira Health](https://www.inspirahealthnetwork.org/)** | **[Accounting Intern- Finance, Part-Time Temporary, Mullica Hill](https://jobright.ai/jobs/info/6a341b8ece501060b5cef66a?utm_campaign=1052&utm_source=git)** | 163 Bridgeton Pike, Mullica Hill, NJ, 08062, US | On Site | Jun 18 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jun 18 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jun 18 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Budget Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fc41433431b1292b9b5d6a?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/6a3415bef6b55d12c791ac61?utm_campaign=1052&utm_source=git)** | South Portland, ME, US | On Site | Jun 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/6a3414de649fdf16292f3d72?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leggett & Platt](http://www.leggett.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/69fb2d4b87a4820e6da861c4?utm_campaign=1052&utm_source=git)** | Carthage, MO | On Site | Jun 18 |
 | **[Lambda](https://lambda.ai)** | **[Accounting AI Intern - Summer 2026](https://jobright.ai/jobs/info/6a176889f45c6530ce9ac40b?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Jun 18 |
 | **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[Operational Finance Intern](https://jobright.ai/jobs/info/69fb3da387a4820e6da869c2?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Jun 18 |
-| **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship 26' - Digital Finance](https://jobright.ai/jobs/info/6a33dac6649fdf16292f2ea7?utm_campaign=1052&utm_source=git)** | AIR Office, NL | On Site | Jun 18 |
-| **[KWC CPAs](https://www.kwccpa.com/)** | **[Tax Season Intern](https://jobright.ai/jobs/info/6a1798ebf45c6530ce9ae12b?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Jun 18 |
-| **[Kech Development](http://www.kechdevelopment.com/)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a33ebcb29c90c607e4dc755?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jun 18 |
-| **[Amrize](https://www.amrize.com)** | **[Job Cost Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a1d7061b51a3a5f2ebf?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA, T2B 0R5 | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

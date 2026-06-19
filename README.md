@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Birnie Bus Service, Inc](https://www.jointeambirnie.com/)** | **[Finance Summer Intern – Fixed Asset & Leasing](https://jobright.ai/jobs/info/6a35b49f7f3fdd180d4ce8f7?utm_campaign=1052&utm_source=git)** | Belmar, NJ | On Site | Jun 19 |
 | **[Amrize](https://www.amrize.com)** | **[Job Cost Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a1d7061b51a3a5f2ebf?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA, T2B 0R5 | On Site | Jun 19 |
 | ↳ | **[Job Cost Intern](https://jobright.ai/jobs/info/6a1625dadc845f4be5bdcfb3?utm_campaign=1052&utm_source=git)** | Rocky View, AB, CA, T1X 0K1 | On Site | Jun 19 |
 | **[Aerospike](http://www.aerospike.com)** | **[Finance Intern  (Summer 2026)](https://jobright.ai/jobs/info/6a35a1cb649fdf16292f9d1e?utm_campaign=1052&utm_source=git)** | Mountain View, CA | Hybrid | Jun 19 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Votaw Precision Technologies](www.votaw.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a35730029c90c607e4e243e?utm_campaign=1052&utm_source=git)** | Santa Fe Springs,CA,US | Hybrid | Jun 19 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 19 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 19 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6a107ecb9f654b3359cec206?utm_campaign=1052&utm_source=git)** | Troy, MI, US | On Site | Jun 19 |
-| ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/6a18a0056243320e8d1664a0?utm_campaign=1052&utm_source=git)** | Winchester, KY, US | On Site | Jun 19 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6a18a0056243320e8d1664a0?utm_campaign=1052&utm_source=git)** | Winchester, KY, US | On Site | Jun 19 |
+| ↳ | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6a107ecb9f654b3359cec206?utm_campaign=1052&utm_source=git)** | Troy, MI, US | On Site | Jun 19 |
 | **[Florida Financial Advisors](https://www.floridafa.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/6a3565d27f3fdd180d4cd4e7?utm_campaign=1052&utm_source=git)** | Miami-FTL Area | On Site | Jun 19 |
 | **[KEATING](http://keatinginc.com)** | **[Wealth Management Internship](https://jobright.ai/jobs/info/6a2b34692cde2824469c5ac8?utm_campaign=1052&utm_source=git)** | Manhattan, KS | On Site | Jun 19 |
 | **[Caplugs](http://www.caplugs.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3560731232144fb1562e99?utm_campaign=1052&utm_source=git)** | Buffalo, NY | On Site | Jun 19 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Fiscal Intern](https://jobright.ai/jobs/info/6a3425327f3fdd180d4c8fe8?utm_campaign=1052&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jun 18 |
 | **[Oklahoma Chiller Corporation](https://www.okchiller.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3423b27f3fdd180d4c8f47?utm_campaign=1052&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Jun 18 |
 | **[Inspira Health](https://www.inspirahealthnetwork.org/)** | **[Accounting Intern- Finance, Part-Time Temporary, Mullica Hill](https://jobright.ai/jobs/info/6a341b8ece501060b5cef66a?utm_campaign=1052&utm_source=git)** | 163 Bridgeton Pike, Mullica Hill, NJ, 08062, US | On Site | Jun 18 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jun 18 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jun 18 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Budget Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fc41433431b1292b9b5d6a?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/6a3415bef6b55d12c791ac61?utm_campaign=1052&utm_source=git)** | South Portland, ME, US | On Site | Jun 18 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/6a3414de649fdf16292f3d72?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Franklin Templeton](https://www.franklinresources.com)** | **[Undergrad Intern – FT Investment Solutions: Asset Allocation Research](https://jobright.ai/jobs/info/6a3413951232144fb155e013?utm_campaign=1052&utm_source=git)** | NY1MFL22FT, US | On Site | Jun 18 |
 | **[Commonwealth of Massachusetts](http://www.mass.gov)** | **[Budget and Procurement Analyst Intern](https://jobright.ai/jobs/info/6a340e50f6b55d12c791aa45?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | Jun 18 |
 | **[Equinix](http://www.equinix.com)** | **[SkillBridge Opportunity: Specialist Accountant & Program Manager – xScale AI Data Center](https://jobright.ai/jobs/info/6a340e1d29c90c607e4dd06f?utm_campaign=1052&utm_source=git)** | Tampa, US | Hybrid | Jun 18 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/6a340c36f6b55d12c791a9c9?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

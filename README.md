@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 19 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 19 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a360417ce501060b5cf62cb?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jun 19 |
 | **[Health First](https://hf.org/)** | **[Actuarial Intern - Actuarial and Underwriting](https://jobright.ai/jobs/info/6a359346f6b55d12c792083c?utm_campaign=1052&utm_source=git)** | Rockledge, Florida, United States | On Site | Jun 19 |
 | **[Aprio](https://www.aprio.com/)** | **[Aprio Spring 2027 Tax Internship Application - Washington DC Metro](https://jobright.ai/jobs/info/6a35e0f0f6b55d12c7921a68?utm_campaign=1052&utm_source=git)** | Rockville, MD | Hybrid | Jun 19 |
 | **[Aerospike](http://www.aerospike.com)** | **[Finance Intern  (Summer 2026)](https://jobright.ai/jobs/info/6a35e0cbce501060b5cf5d74?utm_campaign=1052&utm_source=git)** | Mountain View, CA | Hybrid | Jun 19 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Collateral Management](https://jobright.ai/jobs/info/6a3589207f3fdd180d4cddf9?utm_campaign=1052&utm_source=git)** | Toronto - 16 York St, CA | Hybrid | Jun 19 |
 | **[LightBox](https://www.lightboxre.com/)** | **[Finance & Accounting - Intern](https://jobright.ai/jobs/info/6a31d1b435e80310003a99d8?utm_campaign=1052&utm_source=git)** | Shelton, CT 06484, USA | On Site | Jun 19 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 19 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 19 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Summer 2027 / Fort Wayne](https://jobright.ai/jobs/info/6a35c674ce501060b5cf56c9?utm_campaign=1052&utm_source=git)** | Fort Wayne, IN | On Site | Jun 19 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a35c33929c90c607e4e35d2?utm_campaign=1052&utm_source=git)** | Sault Ste Marie, MI | On Site | Jun 19 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Credit Strategy](https://jobright.ai/jobs/info/6a358b501232144fb1563a08?utm_campaign=1052&utm_source=git)** | Toronto, Canada | On Site | Jun 19 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[KIPP Capital Region Public Schools](http://www.kippcapital.org)** | **[Finance Intern](https://jobright.ai/jobs/info/6a3476c47f3fdd180d4caab6?utm_campaign=1052&utm_source=git)** | Troy, New York, United States | On Site | Jun 18 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Fund Financial Reporting Department](https://jobright.ai/jobs/info/6a346b6ece501060b5cf1258?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Jun 18 |
 | **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jun 18 |
-| **[China CITIC Bank International Limited](http://www.cncbinternational.com)** | **[Intern, Financial Management](https://jobright.ai/jobs/info/6a34aed829c90c607e4e025a?utm_campaign=1052&utm_source=git)** | New York, US | On Site | Jun 18 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0833916186f46859886645?utm_campaign=1052&utm_source=git)** | Alexandria, VA, US | On Site | Jun 18 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a0688486c07461fe17210dc?utm_campaign=1052&utm_source=git)** | Alexandria, VA | On Site | Jun 18 |
 | **[Hudl](http://www.hudl.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a346bd5ce501060b5cf12bc?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | Hybrid | Jun 18 |
@@ -136,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern - Latham, NY (On-Site)](https://jobright.ai/jobs/info/6a34437af6b55d12c791bd8c?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Jun 18 |
 | **[PwC](http://pwc.com)** | **[Chicago - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a344058ce501060b5cf038b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jun 18 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a343e82649fdf16292f4daa?utm_campaign=1052&utm_source=git)** | Racine, WI | On Site | Jun 18 |
-| **[PwC](http://pwc.com)** | **[Washington DC - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b937f6b55d12c791dcee?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jun 18 |
-| ↳ | **[Boston - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b933ce501060b5cf23d6?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jun 18 |
+| **[PwC](http://pwc.com)** | **[Boston - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b933ce501060b5cf23d6?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jun 18 |
+| ↳ | **[Washington DC - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b937f6b55d12c791dcee?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Jun 18 |
 | ↳ | **[New York - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b93a649fdf16292f6efd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | ↳ | **[St. Louis - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b92e29c90c607e4e03ea?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | Jun 18 |
 | ↳ | **[Silicon Valley - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b92e649fdf16292f6ef2?utm_campaign=1052&utm_source=git)** | Silicon Valley, CA | On Site | Jun 18 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Fiscal Intern](https://jobright.ai/jobs/info/6a3425327f3fdd180d4c8fe8?utm_campaign=1052&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jun 18 |
 | **[Oklahoma Chiller Corporation](https://www.okchiller.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3423b27f3fdd180d4c8f47?utm_campaign=1052&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Jun 18 |
 | **[Inspira Health](https://www.inspirahealthnetwork.org/)** | **[Accounting Intern- Finance, Part-Time Temporary, Mullica Hill](https://jobright.ai/jobs/info/6a341b8ece501060b5cef66a?utm_campaign=1052&utm_source=git)** | 163 Bridgeton Pike, Mullica Hill, NJ, 08062, US | On Site | Jun 18 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jun 18 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jun 18 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Budget Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fc41433431b1292b9b5d6a?utm_campaign=1052&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

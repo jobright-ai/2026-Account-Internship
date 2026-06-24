@@ -49,6 +49,11 @@ For a complete list, click the following sortable link below:
 </a>
 </div>
 
+
+### Canada-specific companion resource
+
+For students looking specifically for Canadian accounting and finance internships/co-ops, Hanzilla Jobs maintains a free daily-updated Canada student jobs board with finance, business, internship/co-op, new-grad, junior, and entry-level roles: [Hanzilla Jobs — Finance & Accounting](https://jobs.hanzilla.co/finance/).
+
 ---
 ## Daily Job List  🌐 🧭 🏆
 

@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Support Services](https://jobright.ai/jobs/info/6a3d89b94d047136e09340db?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jun 25 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Support Services](https://jobright.ai/jobs/info/6a3d9629882f121f56a383d7?utm_campaign=1052&utm_source=git)** | 6230 East Stassney Lane, Austin, TX 78744 | On Site | Jun 25 |
+| ↳ | **[Finance/Accounting Intern: Support Services](https://jobright.ai/jobs/info/6a3d89b94d047136e09340db?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jun 25 |
 | **[LightPath Technologies](http://www.lightpath.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a31ed872ee3ac1b4bef1cd9?utm_campaign=1052&utm_source=git)** | G5 Infrared LLC - Hudson, NH 03051 | On Site | Jun 25 |
 | **[Convergint](http://www.convergint.com)** | **[Intern - Corporate Real Estate](https://jobright.ai/jobs/info/6a3d595778237a036d5e0cb7?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 25 |
 | **[Vanguard Soap](https://www.vanguardsoap.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a3d81024d047136e0933e67?utm_campaign=1052&utm_source=git)** | Memphis, TN | Hybrid | Jun 25 |
@@ -65,11 +66,11 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Financial Analyst I Intern](https://jobright.ai/jobs/info/6a34346fce501060b5ceff3b?utm_campaign=1052&utm_source=git)** | San Jose, San Jose, CRI | On Site | Jun 25 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a3c979e4d047136e093141b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 25 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c839?utm_campaign=1052&utm_source=git)** | Michigan - Lansing (Rehmann Office) | On Site | Jun 25 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/6a3415bef6b55d12c791ac61?utm_campaign=1052&utm_source=git)** | South Portland, ME, US | On Site | Jun 25 |
-| ↳ | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/6a3d4c298bfad862bc99c586?utm_campaign=1052&utm_source=git)** | La Crosse,Wisconsin,United States | On Site | Jun 25 |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/6a3d4c298bfad862bc99c586?utm_campaign=1052&utm_source=git)** | La Crosse,Wisconsin,United States | On Site | Jun 25 |
+| ↳ | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/6a3415bef6b55d12c791ac61?utm_campaign=1052&utm_source=git)** | South Portland, ME, US | On Site | Jun 25 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Accounting Intern - September 2026 (4-Month Term)](https://jobright.ai/jobs/info/6a3d6916882f121f56a3745d?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | On Site | Jun 25 |
-| **[The Bonadio Group](https://www.bonadio.com/)** | **[Upstate New York Spring 2027 & Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a3d672778237a036d5e1157?utm_campaign=1052&utm_source=git)** | East Aurora, NY, US | On Site | Jun 25 |
-| ↳ | **[Upstate New York Spring 2027 & Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a3d672778237a036d5e1158?utm_campaign=1052&utm_source=git)** | Rochester, NY, US | On Site | Jun 25 |
+| **[The Bonadio Group](https://www.bonadio.com/)** | **[Upstate New York Spring 2027 & Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a3d672778237a036d5e1158?utm_campaign=1052&utm_source=git)** | Rochester, NY, US | On Site | Jun 25 |
+| ↳ | **[Upstate New York Spring 2027 & Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a3d672778237a036d5e1157?utm_campaign=1052&utm_source=git)** | East Aurora, NY, US | On Site | Jun 25 |
 | ↳ | **[Upstate New York Spring 2027 & Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a3d672678237a036d5e1156?utm_campaign=1052&utm_source=git)** | Syracuse, NY, US | On Site | Jun 25 |
 | ↳ | **[Upstate New York Spring 2027 & Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a3d672678237a036d5e1155?utm_campaign=1052&utm_source=git)** | Buffalo, NY, US | On Site | Jun 25 |
 | ↳ | **[Upstate New York Spring 2027 & Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a3d672578237a036d5e1154?utm_campaign=1052&utm_source=git)** | Albany, NY, US | On Site | Jun 25 |
@@ -96,14 +97,14 @@ For a complete list, click the following sortable link below:
 | **[LexLoo](https://www.linkedin.com/company/119464117)** | **[Accounting/Finance Intern - Summer 2026](https://jobright.ai/jobs/info/6a3c81b2982bb239f812fde2?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Jun 24 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Accounting & Finance](https://jobright.ai/jobs/info/6a3c2322982bb239f812e7fa?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Jun 24 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a2f77a8b9f4dd0b4d51c661?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jun 24 |
-| ↳ | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a309a40eace377055eb71ed?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | On Site | Jun 24 |
-| ↳ | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a2f7822eace377055eb2dcc?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Jun 24 |
-| ↳ | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a2ef090d3ec94183f4c160a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | On Site | Jun 24 |
-| ↳ | **[Finance Intern-Fall 2026 (Indianapolis)](https://jobright.ai/jobs/info/6a2f49797cd40a338faeb2cf?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Jun 24 |
-| ↳ | **[Finance Intern-Spring 2027 (Indianapolis)](https://jobright.ai/jobs/info/6a2eb914d3ec94183f4c1255?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Jun 24 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a31255e5958816970012d96?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | Jun 24 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3d8564882f121f56a37dfd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a3d85564d047136e0933fbd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Finance Intern-Fall 2026 (Indianapolis)](https://jobright.ai/jobs/info/6a2f49797cd40a338faeb2cf?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Jun 24 |
+| ↳ | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a2f7822eace377055eb2dcc?utm_campaign=1052&utm_source=git)** | Lexington, KY | On Site | Jun 24 |
+| ↳ | **[Finance Intern / Fall 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a309a40eace377055eb71ed?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | On Site | Jun 24 |
+| ↳ | **[Finance Intern-Spring 2027 (Indianapolis)](https://jobright.ai/jobs/info/6a2eb914d3ec94183f4c1255?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, US | On Site | Jun 24 |
+| ↳ | **[Finance Intern / Spring 2027 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a2ef090d3ec94183f4c160a?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | On Site | Jun 24 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a3d85564d047136e0933fbd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a3d8564882f121f56a37dfd?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[DiMercurio Advisors](https://www.dimercurioadvisors.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a3c75cc4d047136e0930e61?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jun 24 |
 | **[MaloneBailey, LLP](http://malonebailey.com)** | **[Audit Intern - Spring 2028 (Houston - Start Date: January 2028)](https://jobright.ai/jobs/info/6a3d7bf7d261407de9800b43?utm_campaign=1052&utm_source=git)** | Houston, TX | Hybrid | Jun 24 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[MAR Audit Intern](https://jobright.ai/jobs/info/6a3c6ddbd261407de97fda97?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | Hybrid | Jun 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acowale](https://acowale.com)** | **[CA Intern \- Accounting Systems & ERP Reports](https://jobright.ai/jobs/info/6a3b7d881232144fb1572b72?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 23 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a31b5da35e80310003a8de3?utm_campaign=1052&utm_source=git)** | Pittston, PA | On Site | Jun 23 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Intern, Investments](https://jobright.ai/jobs/info/6a3b48101232144fb1572253?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
-| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Internal Audit Intern - Fall 2026](https://jobright.ai/jobs/info/6a3b583edbedbf5680c73730?utm_campaign=1052&utm_source=git)** | Wake County, NC | Hybrid | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

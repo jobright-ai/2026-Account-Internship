@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/6a4012a73bfa967791ebfe29?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
+| **[Fluo](www.fluomoney.com)** | **[Credit Underwriting Intern](https://jobright.ai/jobs/info/6a401c0d16b1493953283091?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Hybrid | Jun 27 |
+| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Structured Power Trading Intern](https://jobright.ai/jobs/info/6a35de0c7f3fdd180d4cee41?utm_campaign=1052&utm_source=git)** | Houston, United States | On Site | Jun 27 |
 | **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a0ce1e7963f7a67d95dc96d?utm_campaign=1052&utm_source=git)** | California | On Site | Jun 27 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6a05f0b0a88ea73abf7f52bf?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 27 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/69ea1cf6dc35f7132c4a877f?utm_campaign=1052&utm_source=git)** | California  | On Site | Jun 27 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[PP&Co](http://ppandco.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a3f1346ce7cce40b3422f0b?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a3f1345ce7cce40b3422f09?utm_campaign=1052&utm_source=git)** | Santa Cruz, CA | On Site | Jun 26 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a3f120578237a036d5e66cd?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 26 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 26 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jun 26 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jun 26 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a3eff7c78237a036d5e63f8?utm_campaign=1052&utm_source=git)** | Tallahassee, FL, USA | On Site | Jun 26 |
 | **[KiddeFenwal](https://www.kidde-fenwal.com/)** | **[Finance Operations Intern](https://jobright.ai/jobs/info/6a3efe2178237a036d5e639d?utm_campaign=1052&utm_source=git)** | Ashland, MA, US | On Site | Jun 26 |
 | **[PeakMade Real Estate](https://peakmade.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3eaf3f882f121f56a3af8c?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jun 26 |
@@ -126,7 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Real Estate Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a20e4c64bdf8a5a96bd39f0?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Jun 26 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2f794a093df201d07ade1c?utm_campaign=1052&utm_source=git)** | Portsmouth, NH | On Site | Jun 26 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a16048d554b0e12c05887b2?utm_campaign=1052&utm_source=git)** | Media, PA | On Site | Jun 26 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e78?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c77abc8f63abac779c5?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6a21501bca8f0b365d7a5c2e?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | Hybrid | Jun 26 |
 | **[Hammond Power Solutions](https://www.hammondpowersolutions.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a04b01ebc4184089f23dce1?utm_campaign=1052&utm_source=git)** | Baraboo, WI | Hybrid | Jun 26 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b1?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Tax](https://jobright.ai/jobs/info/6a3dbbc5122f340d29cf1e4c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 25 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af3873749500645093bad2?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | On Site | Jun 25 |
 | **[DuPont](http://www.dupont.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a3dad4378237a036d5e271e?utm_campaign=1052&utm_source=git)** | Wilmington, DE | On Site | Jun 25 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern / Summer 2026 / Cincinnati/Kentucky](https://jobright.ai/jobs/info/6a2f77f7afabbe533fb8762a?utm_campaign=1052&utm_source=git)** | Louisville, KY | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

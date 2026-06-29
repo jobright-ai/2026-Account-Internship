@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a1dcb693e538a28c204be68?utm_campaign=1052&utm_source=git)** | Schaumburg, US | On Site | Jun 28 |
 | ↳ | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a1dcb6a3e538a28c204be69?utm_campaign=1052&utm_source=git)** | Flint, US | On Site | Jun 28 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/6a40faa59dd7f954cafe87e5?utm_campaign=1052&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 28 |
-| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0538?utm_campaign=1052&utm_source=git)** | US-CA-Irvine | On Site | Jun 28 |
-| ↳ | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0539?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | Jun 28 |
+| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0539?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | Jun 28 |
+| ↳ | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0538?utm_campaign=1052&utm_source=git)** | US-CA-Irvine | On Site | Jun 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/6a13d3ad9f654b3359cf788d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Fall 2027 (Bradenton, FL)](https://jobright.ai/jobs/info/68ed5bfa81fdd1626d39ba77?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Jun 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Minneapolis)](https://jobright.ai/jobs/info/6a32f69b649fdf16292efd2f?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 28 |
@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Fluo](www.fluomoney.com)** | **[Credit Underwriting Intern](https://jobright.ai/jobs/info/6a401c0d16b1493953283091?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | Hybrid | Jun 27 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Structured Power Trading Intern](https://jobright.ai/jobs/info/6a35de0c7f3fdd180d4cee41?utm_campaign=1052&utm_source=git)** | Houston, United States | On Site | Jun 27 |
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Transformation Internship](https://jobright.ai/jobs/info/69ebb855dc35f7132c4b2ba3?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Jun 27 |
-| **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a1c78f49111f771d1a14f9b?utm_campaign=1052&utm_source=git)** | California | On Site | Jun 27 |
-| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6a05f0b0a88ea73abf7f52bf?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 27 |
+| **[The Exploration Company](https://exploration.space)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a05f0b0a88ea73abf7f52bf?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 27 |
+| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6a0ce1e7963f7a67d95dc96d?utm_campaign=1052&utm_source=git)** | California | On Site | Jun 27 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/69ea1cf6dc35f7132c4a877f?utm_campaign=1052&utm_source=git)** | California  | On Site | Jun 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/68cd5bbb1ad6b16f028987e3?utm_campaign=1052&utm_source=git)** | Lincoln, NE | On Site | Jun 27 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6a0636aaa88ea73abf7f9390?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Jun 27 |
@@ -124,7 +124,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a3f120578237a036d5e66cd?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a3eff7c78237a036d5e63f8?utm_campaign=1052&utm_source=git)** | Tallahassee, FL, USA | On Site | Jun 26 |
 | **[KiddeFenwal](https://www.kidde-fenwal.com/)** | **[Finance Operations Intern](https://jobright.ai/jobs/info/6a3efe2178237a036d5e639d?utm_campaign=1052&utm_source=git)** | Ashland, MA, US | On Site | Jun 26 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a3ef5324d047136e09385e6?utm_campaign=1052&utm_source=git)** | High Point, NC, US | On Site | Jun 26 |
 | **[Texas Hearing Institute](https://www.texashearing.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3eeaead261407de98051fd?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 26 |
 | **[Enable Injections, Inc.](https://enableinjections.com)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a3ee69978237a036d5e5e0d?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | On Site | Jun 26 |
 | **[Swiss Re](http://www.swissre.com)** | **[P&C Actuarial Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3ee5ec882f121f56a3bdda?utm_campaign=1052&utm_source=git)** | Toronto, ON, CA | On Site | Jun 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](https://www.suny.edu)** | **[Senior Fiscal Analyst](https://jobright.ai/jobs/info/69da02da5356a60f40fdf377?utm_campaign=1052&utm_source=git)** | Albany, NY | On Site | Jun 26 |
 | **[Santander Private Banking International](http://pb-santander.com)** | **[Intern - Travel](https://jobright.ai/jobs/info/6a3e6f5ad261407de98031b3?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jun 26 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a16049edc845f4be5bdba44?utm_campaign=1052&utm_source=git)** | Charlottesville, VA | On Site | Jun 26 |
+| ↳ | **[Real Estate Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a20e4c64bdf8a5a96bd39f0?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

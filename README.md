@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Champion Tray](http://sctray.com)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a42d5cf6faf7560609682ce?utm_campaign=1052&utm_source=git)** | Chattanooga, TN, US | On Site | Jun 29 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a3c979e4d047136e093141b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Intern - Corporate Internal Auditor](https://jobright.ai/jobs/info/6a42c7fd1cc9cc2b12fecce1?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 29 |
 | **[Uplinq](https://uplinq.com)** | **[Tax Prep Intern](https://jobright.ai/jobs/info/6a42b9e26a9c2774b3fa7170?utm_campaign=1052&utm_source=git)** | Remote (United States) | Remote | Jun 29 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[AXA](https://axa.mx)** | **[Finance Intern](https://jobright.ai/jobs/info/6a428a1eff87fd527f9849f4?utm_campaign=1052&utm_source=git)** | Chicago, United States | Hybrid | Jun 29 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a426808adab21425e9fd786?utm_campaign=1052&utm_source=git)** | Goddard, KS | On Site | Jun 29 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Tax Preparer Intern or Entry Level Tax Preparer](https://jobright.ai/jobs/info/6a424d896faf756060966896?utm_campaign=1052&utm_source=git)** | Monroe, MI | On Site | Jun 29 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a1dcb6a3e538a28c204be69?utm_campaign=1052&utm_source=git)** | Flint, US | On Site | Jun 29 |
-| ↳ | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a1dcb693e538a28c204be68?utm_campaign=1052&utm_source=git)** | Schaumburg, US | On Site | Jun 29 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a1dcb693e538a28c204be68?utm_campaign=1052&utm_source=git)** | Schaumburg, US | On Site | Jun 29 |
+| ↳ | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a1dcb6a3e538a28c204be69?utm_campaign=1052&utm_source=git)** | Flint, US | On Site | Jun 29 |
 | **[Crestpoint Real Estate Investments Ltd](https://crestpoint.cclgroup.com/)** | **[Intern Analyst, Real Estate](https://jobright.ai/jobs/info/6a424347adab21425e9fd30f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 29 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Equity Volatility Quant Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a42427c557b3862f15e0a88?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Jun 29 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Accountant Assistant Intern](https://jobright.ai/jobs/info/6a1a35e8547e292ae1397a23?utm_campaign=1052&utm_source=git)** | Brea, California, United States | On Site | Jun 29 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a31435435e80310003a606a?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 27 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship- Project Finance Portfolio Management](https://jobright.ai/jobs/info/6a05afddf3d6cc51d638a8b7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2028 (Indianapolis, IN)](https://jobright.ai/jobs/info/6977d48688e2b47213bbcc0c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jun 27 |
-| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/6a3415bef6b55d12c791ac61?utm_campaign=1052&utm_source=git)** | South Portland, ME, US | On Site | Jun 27 |
-| ↳ | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/6a3d4c298bfad862bc99c586?utm_campaign=1052&utm_source=git)** | La Crosse,Wisconsin,United States | On Site | Jun 27 |
+| **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/6a3d4c298bfad862bc99c586?utm_campaign=1052&utm_source=git)** | La Crosse,Wisconsin,United States | On Site | Jun 27 |
+| ↳ | **[Accounting Internship- Spring 2027](https://jobright.ai/jobs/info/6a3415bef6b55d12c791ac61?utm_campaign=1052&utm_source=git)** | South Portland, ME, US | On Site | Jun 27 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a2a9548f140066e77187?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jun 27 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a229da96624e500cad09b92?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 27 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Fall 2026 (Gainesville, FL)](https://jobright.ai/jobs/info/6a3142590ff23769fdb1cf6c?utm_campaign=1052&utm_source=git)** | Gainesville, FL | On Site | Jun 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c839?utm_campaign=1052&utm_source=git)** | Michigan - Lansing (Rehmann Office) | On Site | Jun 26 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Finance](https://jobright.ai/jobs/info/69b0679174950064509695e8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af3e22dfaeda6ff5975feb?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Jun 26 |
-| **[Zipline](https://www.zipline.com/)** | **[Financial Analyst Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3eb2a74d047136e09374dd?utm_campaign=1052&utm_source=git)** | South San Francisco, CA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

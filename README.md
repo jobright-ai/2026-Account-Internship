@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Finomenon™️ Investments](www.finomenon.us)** | **[Equity Research Intern](https://jobright.ai/jobs/info/6a41acc63bfa967791ec125f?utm_campaign=1052&utm_source=git)** | Greater Seattle Area | Hybrid | Jun 28 |
 | **[Multnomah County](https://multco.us)** | **[Assessment & Taxation Technician 2 / Tax Accounting](https://jobright.ai/jobs/info/6a4174479dd7f954cafe8d69?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Jun 28 |
 | **[VASCOR Logistics](http://vascorlogistics.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3e90cc4d047136e0936a99?utm_campaign=1052&utm_source=git)** | Georgetown HQ - GEORGETOWN, KY 40324 | Hybrid | Jun 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Market Accounting Master's Intern](https://jobright.ai/jobs/info/6a416c5216b14939532841b2?utm_campaign=1052&utm_source=git)** | California-Oakland-Ordway | On Site | Jun 28 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Spring 2027)](https://jobright.ai/jobs/info/69d5d563cfdc6132f94663c2?utm_campaign=1052&utm_source=git)** | Findlay, OH | On Site | Jun 27 |
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ce77df891d7b11cfcc8c3c?utm_campaign=1052&utm_source=git)** | Conshohocken, PA | On Site | Jun 27 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/6a1bc35f6b135014dbc902a1?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
-| **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/6a2213cd4bdf8a5a96bda226?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
-| ↳ | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/69eee56b16b2612c2a127cd5?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
+| **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/69eee56b16b2612c2a127cd5?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
+| ↳ | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/6a2213cd4bdf8a5a96bda226?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
 | **[Lambda](https://lambda.ai)** | **[Capital Markets & Corporate Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a05f96d7c753c287f6fd952?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jun 27 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a31435435e80310003a606a?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA | Hybrid | Jun 27 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship- Project Finance Portfolio Management](https://jobright.ai/jobs/info/6a05afddf3d6cc51d638a8b7?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 27 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Real Estate Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a20e4c64bdf8a5a96bd39f0?utm_campaign=1052&utm_source=git)** | Arlington, VA | On Site | Jun 26 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a2f794a093df201d07ade1c?utm_campaign=1052&utm_source=git)** | Portsmouth, NH | On Site | Jun 26 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a16048d554b0e12c05887b2?utm_campaign=1052&utm_source=git)** | Media, PA | On Site | Jun 26 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a185c77abc8f63abac779c5?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a063a467c753c287f700e78?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6a21501bca8f0b365d7a5c2e?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | Hybrid | Jun 26 |
 | **[Hammond Power Solutions](https://www.hammondpowersolutions.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a04b01ebc4184089f23dce1?utm_campaign=1052&utm_source=git)** | Baraboo, WI | Hybrid | Jun 26 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a0850fd939a5f01db95876f?utm_campaign=1052&utm_source=git)** | US-NY-New York | On Site | Jun 26 |
 | ↳ | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b1?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
 | **[Wells Fargo](http://financial.wellsfargo.com)** | **[2027 Global Payments & Liquidity Internship - Early Careers](https://jobright.ai/jobs/info/6a3e4c19122f340d29cf2f76?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Jun 26 |
-| ↳ | **[2027 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a3e4bed78237a036d5e3b1c?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

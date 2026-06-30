@@ -59,31 +59,31 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[National Bank of Canada](http://www.nbc.ca/)** | **[Intern Accounting and Internal Audit](https://jobright.ai/jobs/info/6a43a1b9d820f8296e35ccb2?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 30 |
 | ↳ | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6a43a13bd820f8296e35cc9f?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 30 |
-| **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/6a439da4592109606e5a8355?utm_campaign=1052&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 30 |
-| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c3fa1bbea1d9a7a0c1b?utm_campaign=1052&utm_source=git)** | Burlington VT USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c4ea1bbea1d9a7a0c2c?utm_campaign=1052&utm_source=git)** | South Bend IN USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f298d0badca5763afb598?utm_campaign=1052&utm_source=git)** | Fort Lauderdale FL USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c14a1bbea1d9a7a0be0?utm_campaign=1052&utm_source=git)** | Fort Wayne IN USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c56a112b402660df4f9?utm_campaign=1052&utm_source=git)** | Houston TX USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c43a1bbea1d9a7a0c21?utm_campaign=1052&utm_source=git)** | Dallas TX USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f29d30badca5763afb5d6?utm_campaign=1052&utm_source=git)** | Boston MA USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c79a112b402660df524?utm_campaign=1052&utm_source=git)** | Washington DC USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c5ba112b402660df4ff?utm_campaign=1052&utm_source=git)** | Atlanta GA USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a320badca5763afb624?utm_campaign=1052&utm_source=git)** | Grand Rapids MI USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2cb5a112b402660df566?utm_campaign=1052&utm_source=git)** | Denver CO USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f29870badca5763afb58d?utm_campaign=1052&utm_source=git)** | Nashville TN USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f29870badca5763afb58f?utm_campaign=1052&utm_source=git)** | Tampa FL USA | On Site | Jun 30 |
+| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f8f9e7ebc25398eb569af?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jun 30 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f298d0badca5763afb598?utm_campaign=1052&utm_source=git)** | Fort Lauderdale FL USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2cb5a112b402660df566?utm_campaign=1052&utm_source=git)** | Denver CO USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c6fa1bbea1d9a7a0c53?utm_campaign=1052&utm_source=git)** | Austin TX USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c14a1bbea1d9a7a0be0?utm_campaign=1052&utm_source=git)** | Fort Wayne IN USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c5fa112b402660df50b?utm_campaign=1052&utm_source=git)** | Hartford CT USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f29820badca5763afb585?utm_campaign=1052&utm_source=git)** | Lexington KY USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f29870badca5763afb58f?utm_campaign=1052&utm_source=git)** | Tampa FL USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3a0badca5763afb62a?utm_campaign=1052&utm_source=git)** | Columbus OH USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a320badca5763afb624?utm_campaign=1052&utm_source=git)** | Grand Rapids MI USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c5ba112b402660df4ff?utm_campaign=1052&utm_source=git)** | Atlanta GA USA | On Site | Jun 30 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c6ba112b402660df516?utm_campaign=1052&utm_source=git)** | Indianapolis IN USA | On Site | Jun 30 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a470badca5763afb637?utm_campaign=1052&utm_source=git)** | New York NY USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c6fa1bbea1d9a7a0c53?utm_campaign=1052&utm_source=git)** | Austin TX USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3a0badca5763afb62a?utm_campaign=1052&utm_source=git)** | Columbus OH USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c43a1bbea1d9a7a0c21?utm_campaign=1052&utm_source=git)** | Dallas TX USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f29d30badca5763afb5d6?utm_campaign=1052&utm_source=git)** | Boston MA USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c3fa1bbea1d9a7a0c1b?utm_campaign=1052&utm_source=git)** | Burlington VT USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c4ea1bbea1d9a7a0c2c?utm_campaign=1052&utm_source=git)** | South Bend IN USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c79a112b402660df524?utm_campaign=1052&utm_source=git)** | Washington DC USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c35a1bbea1d9a7a0c0e?utm_campaign=1052&utm_source=git)** | Livingston NJ USA | On Site | Jun 30 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c25a1bbea1d9a7a0bfb?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace IL USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f29820badca5763afb585?utm_campaign=1052&utm_source=git)** | Lexington KY USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c56a112b402660df4f9?utm_campaign=1052&utm_source=git)** | Houston TX USA | On Site | Jun 30 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f29870badca5763afb58d?utm_campaign=1052&utm_source=git)** | Nashville TN USA | On Site | Jun 30 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c5ea112b402660df508?utm_campaign=1052&utm_source=git)** | Cleveland OH USA | On Site | Jun 30 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c2aa1bbea1d9a7a0bff?utm_campaign=1052&utm_source=git)** | Louisville KY USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c35a1bbea1d9a7a0c0e?utm_campaign=1052&utm_source=git)** | Livingston NJ USA | On Site | Jun 30 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2c5fa112b402660df50b?utm_campaign=1052&utm_source=git)** | Hartford CT USA | On Site | Jun 30 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Intern, Investments (Fall 2026)](https://jobright.ai/jobs/info/6a3bed46d261407de97fb9c4?utm_campaign=1052&utm_source=git)** | Toronto, ON, CA | Hybrid | Jun 30 |
 | **[NBBJ Design](http://nbbj.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a3c5601d261407de97fd6c4?utm_campaign=1052&utm_source=git)** | Seattle, Washington | On Site | Jun 30 |
 | **[RBC](https://www.rbc.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a436656b0f2553559ed0333?utm_campaign=1052&utm_source=git)** | Boulder, Colorado, United States of America | On Site | Jun 29 |
@@ -147,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68d2f54217554c2d9eeec0dd?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Jun 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Spring 2027)](https://jobright.ai/jobs/info/695f3557a112b402660dfa2d?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jun 28 |
 | **[Seaboard Overseas and Trading Group](https://www.seaboardoverseas.com)** | **[Accounting Systems Intern](https://jobright.ai/jobs/info/69fb987486d5cd46527d6b90?utm_campaign=1052&utm_source=git)** | Merriam, KS, 66202, United States | On Site | Jun 28 |
-| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0538?utm_campaign=1052&utm_source=git)** | US-CA-Irvine | On Site | Jun 28 |
-| ↳ | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0539?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | Jun 28 |
+| **[Rivian](http://www.rivian.com)** | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0539?utm_campaign=1052&utm_source=git)** | Irvine, CA, US | On Site | Jun 28 |
+| ↳ | **[Business and Administrative Intern - Product Development Finance](https://jobright.ai/jobs/info/6a10c42169bd827926af0538?utm_campaign=1052&utm_source=git)** | US-CA-Irvine | On Site | Jun 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/6a13d3ad9f654b3359cf788d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Fall 2027 (Bradenton, FL)](https://jobright.ai/jobs/info/68ed5bfa81fdd1626d39ba77?utm_campaign=1052&utm_source=git)** | Bradenton, FL | On Site | Jun 28 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Anchorage)](https://jobright.ai/jobs/info/69d047b2cfdc6132f943a4af?utm_campaign=1052&utm_source=git)** | Anchorage, AK | Hybrid | Jun 28 |

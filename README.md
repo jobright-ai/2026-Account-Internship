@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atherton & Associates, LLP. Tax, Assurance & Consulting](https://athertoncpas.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a464e8c0dd56c76cc2f7e83?utm_campaign=1052&utm_source=git)** | Modesto,CA,US | On Site | Jul 02 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Financial Engineer](https://jobright.ai/jobs/info/6a28cf08fd37e62bb47ab42a?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[SNY](https://www.sny.tv/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a463c710dd56c76cc2f78f2?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jul 02 |
 | **[UHY-US](https://uhy-us.com/)** | **[2027 TRC Fall Internship - St. Louis, Kansas City, or Nashville](https://jobright.ai/jobs/info/6a4637750dd56c76cc2f76d4?utm_campaign=1052&utm_source=git)** | St. Louis Maplewood, MO, US | On Site | Jul 02 |
@@ -67,12 +68,12 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6a4630a23dbab558e29a5292?utm_campaign=1052&utm_source=git)** | Indianapolis, Indiana, USA | On Site | Jul 02 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Property & Inland Marine Underwriting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a462e1107627158752a0e1d?utm_campaign=1052&utm_source=git)** | Richardson, TX (USA), US | On Site | Jul 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Investment Analyst Intern](https://jobright.ai/jobs/info/6a462a7307627158752a0ab1?utm_campaign=1052&utm_source=git)** | Key Bank Tower, US | Hybrid | Jul 02 |
-| **[Crowe](https://www.crowe.com)** | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a289149fd37e62bb47a9f8a?utm_campaign=1052&utm_source=git)** | Columbus OH USA, US | On Site | Jul 02 |
-| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a289149fd37e62bb47a9f8d?utm_campaign=1052&utm_source=git)** | Sacramento CA USA, US | On Site | Jul 02 |
-| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a289149fd37e62bb47a9f8c?utm_campaign=1052&utm_source=git)** | Los Angeles CA USA, US | On Site | Jul 02 |
-| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a28914cfd37e62bb47a9f90?utm_campaign=1052&utm_source=git)** | Atlanta GA USA, US | On Site | Jul 02 |
-| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a28914cfd37e62bb47a9f8f?utm_campaign=1052&utm_source=git)** | Denver CO USA, US | On Site | Jul 02 |
+| **[Crowe](https://www.crowe.com)** | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a289149fd37e62bb47a9f8c?utm_campaign=1052&utm_source=git)** | Los Angeles CA USA, US | On Site | Jul 02 |
 | ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a289149fd37e62bb47a9f8b?utm_campaign=1052&utm_source=git)** | Chicago IL USA, US | On Site | Jul 02 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a289149fd37e62bb47a9f8a?utm_campaign=1052&utm_source=git)** | Columbus OH USA, US | On Site | Jul 02 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a28914cfd37e62bb47a9f8f?utm_campaign=1052&utm_source=git)** | Denver CO USA, US | On Site | Jul 02 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a289149fd37e62bb47a9f8d?utm_campaign=1052&utm_source=git)** | Sacramento CA USA, US | On Site | Jul 02 |
+| ↳ | **[Tax Intern Winter 2027](https://jobright.ai/jobs/info/6a28914cfd37e62bb47a9f90?utm_campaign=1052&utm_source=git)** | Atlanta GA USA, US | On Site | Jul 02 |
 | **[Enable Injections, Inc.](https://enableinjections.com)** | **[Accounting Intern - Fall 2026 Job Details / Enable Injections Inc.](https://jobright.ai/jobs/info/6a46274c971cd25b06f8c253?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | On Site | Jul 02 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Accounting Intern (Spring 2027)](https://jobright.ai/jobs/info/6a4625a9971cd25b06f8c151?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jul 02 |
 | ↳ | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a462580971cd25b06f8c112?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jul 02 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Finance Intern - Fall 2026](https://jobright.ai/jobs/info/6a2049f5338c01230511816f?utm_campaign=1052&utm_source=git)** | USA, NC, Cary, US | Hybrid | Jul 01 |
 | **[Medpace](http://www.medpace.com)** | **[Site Payments Intern- Fall 2026](https://jobright.ai/jobs/info/6a459d68971cd25b06f89638?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/6a3d4c298bfad862bc99c586?utm_campaign=1052&utm_source=git)** | La Crosse,Wisconsin,United States | On Site | Jul 01 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 01 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 01 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 01 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 01 |
 | **[UHY-US](https://uhy-us.com/)** | **[2027 TRC Fall Internship - St. Louis, Kansas City, or Nashville](https://jobright.ai/jobs/info/6a4590a948d2f00f2a86dfa1?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Jul 01 |
 | **[Davidson Kempner Capital Management](https://www.davidsonkempner.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a458fd3c2d11a6a46669937?utm_campaign=1052&utm_source=git)** | New York | On Site | Jul 01 |
 | **[Market Street Partners (now Smith + Howard)](https://marketstreet.partners/)** | **[SkillBridge Intern, Tax](https://jobright.ai/jobs/info/6a321c67e7b7d514a3bd6e1d?utm_campaign=1052&utm_source=git)** | Chattanooga, TN | On Site | Jul 01 |
@@ -109,9 +110,9 @@ For a complete list, click the following sortable link below:
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a0cdff4963f7a67d95dc6ff?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 01 |
 | ↳ | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a1f73c7c5277c00c6486a90?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 01 |
 | **[Benco Dental](https://www.benco.com/)** | **[Tax Intern (Fall 2026)](https://jobright.ai/jobs/info/6a453cb30dd56c76cc2f2b6d?utm_campaign=1052&utm_source=git)** | Pittston, PA | On Site | Jul 01 |
-| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/6a206cb9902d19201c7b211f?utm_campaign=1052&utm_source=git)** | Kirkland, Washington, United States | On Site | Jul 01 |
-| ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/6a11436b9f654b3359cf07b1?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jul 01 |
+| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69c9de5c1b5ad0288739d08d?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jul 01 |
 | ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/6a206c9c902d19201c7b20f8?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jul 01 |
+| ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/6a206cb9902d19201c7b211f?utm_campaign=1052&utm_source=git)** | Kirkland, Washington, United States | On Site | Jul 01 |
 | **[Ascend](https://ascendtogether.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a19f783e24ef36525828a70?utm_campaign=1052&utm_source=git)** | Kirkland, Washington, United States | On Site | Jul 01 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a19f76de24ef36525828a60?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jul 01 |
 | **[TPG](http://www.tpg.com)** | **[Responsible Investing, Intern / Fall Research Assistant](https://jobright.ai/jobs/info/6a453a49c2d11a6a46668668?utm_campaign=1052&utm_source=git)** | Remote United States of America | Remote | Jul 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a44183265e80d3c99f2b89e?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Jun 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Strategy and Research Department Macro and Market Research Intern](https://jobright.ai/jobs/info/6a351f1ef6b55d12c791ebb8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[EXL](http://www.exlservice.com)** | **[US Tax Intern](https://jobright.ai/jobs/info/6a4412e70153061b8b3df2e3?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 30 |
-| **[Valnet](https://www.valnetinc.com)** | **[Merger and Acquisitions Intern](https://jobright.ai/jobs/info/6a44101d65e80d3c99f2b69e?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

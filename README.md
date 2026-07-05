@@ -58,12 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[MAR Audit Intern](https://jobright.ai/jobs/info/6a4a936f5d7b097d2df3c4c0?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, US | Hybrid | Jul 05 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a45467f0dd56c76cc2f2de8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | On Site | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/6a34c92e7f3fdd180d4cbbe9?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Jul 05 |
 | **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10fa9083d7144289829af2?utm_campaign=1052&utm_source=git)** | Centennial, CO | Hybrid | Jul 05 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6a10a015619335383fb33dd7?utm_campaign=1052&utm_source=git)** | US-CO-Denver, Colorado (Panorama Arrow Building), US | Hybrid | Jul 05 |
+| **[Citi](https://www.citi.com)** | **[Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027](https://jobright.ai/jobs/info/694ab4c43019f50a4fe5ca0d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 05 |
+| **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10a015619335383fb33dd7?utm_campaign=1052&utm_source=git)** | US-CO-Denver, Colorado (Panorama Arrow Building), US | Hybrid | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Jul 05 |
 | ↳ | **[Audit Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/699ed43994ef206f184dd451?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 05 |
 | **[Lloyd Companies](http://lloydcompanies.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a4a52b25d7b097d2df3c1aa?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Jul 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/69d43981366bb95ba553bbcf?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jul 02 |
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Fiscal Intern](https://jobright.ai/jobs/info/6a3425327f3fdd180d4c8fe8?utm_campaign=1052&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
 | ↳ | **[2026 Fall Appraisal Intern](https://jobright.ai/jobs/info/6a46b40fc2d11a6a466702e5?utm_campaign=1052&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
-| **[Centennial Bank](https://www.my100bank.com/)** | **[Intern - Lending](https://jobright.ai/jobs/info/6a46b2cec2d11a6a46670299?utm_campaign=1052&utm_source=git)** | Fort Myers, Florida, United States | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

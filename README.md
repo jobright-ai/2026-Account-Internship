@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Accounting Intern - Latham, NY](https://jobright.ai/jobs/info/6a4bdd30971cd25b06f98a99?utm_campaign=1052&utm_source=git)** | Latham, NY | On Site | Jul 06 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Analytics Engagement](https://jobright.ai/jobs/info/6a4bd2b94f64ba41dcb5d52d?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 06 |
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Investments – Private Markets – Summer 2027 (May-August)](https://jobright.ai/jobs/info/6a4bba1b4eb370649b27ab3d?utm_campaign=1052&utm_source=git)** | Montreal, Canada | On Site | Jul 06 |
 | **[Travelers](https://upstateinsurance.com)** | **[Finance and Accounting Leadership Development Program Intern](https://jobright.ai/jobs/info/6a4b29a7c2d11a6a466774f8?utm_campaign=1052&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 06 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Accounting (MBA Students)](https://jobright.ai/jobs/info/6a3fe2511afc66714d3c943f?utm_campaign=1052&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Jul 06 |
 | **[Guinn, Vinopal & Zahradka LLP](https://www.gvzllp.com/)** | **[Spring 2027 Tax Internship](https://jobright.ai/jobs/info/6a4b4d3a5d7b097d2df3d0f6?utm_campaign=1052&utm_source=git)** | 811 1st Street, Hudson, WI, USA | On Site | Jul 05 |
 | **[Citadel](https://www.citadel.com)** | **[Trader: Fixed Income & Macro – Intern (US)](https://jobright.ai/jobs/info/6a4b2afb6189f64e437ee6ed?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jul 05 |
-| ↳ | **[Quantitative Trader: Equities Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a4b0ecd4f64ba41dcb5ba97?utm_campaign=1052&utm_source=git)** | New York | On Site | Jul 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Value Advisory](https://jobright.ai/jobs/info/6a0aa624a203b1052e44e54c?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 05 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[MAR Audit Intern](https://jobright.ai/jobs/info/6a4a936f5d7b097d2df3c4c0?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, US | Hybrid | Jul 05 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
@@ -144,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Finance Rotation Program - Business Unit Finance Intern](https://jobright.ai/jobs/info/6a2bf570a1d15e3c552f97c1?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jul 03 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Finance](https://jobright.ai/jobs/info/6a4678b0c2d11a6a4666f254?utm_campaign=1052&utm_source=git)** | Malvern, PA, United States of America | Hybrid | Jul 03 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/6a28fb0040ac8e32932a4abe?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Jul 03 |
-| **[Juniper Square](https://www.junipersquare.com)** | **[Associate, Fund Administration (Interns)](https://jobright.ai/jobs/info/6a2b4e0e9bf7365df089d44b?utm_campaign=1052&utm_source=git)** | USA | Remote | Jul 03 |
 | **[Baird](https://bairdcareers.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a2b681c2cde2824469c67cf?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jul 03 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a43270b78fcb767e2755e96?utm_campaign=1052&utm_source=git)** | Joplin, MO, US | On Site | Jul 03 |
 | **[Biomedical Research Foundation](https://www.brfbd.org)** | **[Finance INTERNSHIP](https://jobright.ai/jobs/info/6a47b715971cd25b06f92939?utm_campaign=1052&utm_source=git)** | Shreveport, LA | On Site | Jul 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a2a47d70c4972328e7e8140?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
 | ↳ | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3e39a343eef4fb0a9ec2d?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | ↳ | **[Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a28e8b62d6c332ee52e8bae?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a4775a84f64ba41dcb56c9b?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

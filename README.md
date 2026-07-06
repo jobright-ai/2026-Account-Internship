@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Finance Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e94f64ba41dcb5ca22?utm_campaign=1052&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Accounting Intern - Latham, NY](https://jobright.ai/jobs/info/6a4b9fbf971cd25b06f97ca6?utm_campaign=1052&utm_source=git)** | Capital District | On Site | Jul 06 |
 | **[CAPREIT](https://www.capreit.ca)** | **[Intern, Investments (Fall 2026)](https://jobright.ai/jobs/info/6a3bed46d261407de97fb9c4?utm_campaign=1052&utm_source=git)** | Toronto, ON, CA | Hybrid | Jul 06 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26075 - Accounting Part-Time Intern](https://jobright.ai/jobs/info/69c7a4fd1818a24cd84d05ae?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 06 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Accounting (MBA Students)](https://jobright.ai/jobs/info/6a3fe2511afc66714d3c943f?utm_campaign=1052&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Jul 06 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Trader: Equities Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a4b0ecd4f64ba41dcb5ba97?utm_campaign=1052&utm_source=git)** | New York | On Site | Jul 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Value Advisory](https://jobright.ai/jobs/info/6a0aa624a203b1052e44e54c?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 05 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[MAR Audit Intern](https://jobright.ai/jobs/info/6a4a936f5d7b097d2df3c4c0?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, US | Hybrid | Jul 05 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a45467f0dd56c76cc2f2de8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | On Site | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/6a34c92e7f3fdd180d4cbbe9?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Jul 05 |
 | **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10fa9083d7144289829af2?utm_campaign=1052&utm_source=git)** | Centennial, CO | Hybrid | Jul 05 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Finance](https://jobright.ai/jobs/info/6a4678b0c2d11a6a4666f254?utm_campaign=1052&utm_source=git)** | Malvern, PA, United States of America | Hybrid | Jul 03 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/6a28fb0040ac8e32932a4abe?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Jul 03 |
 | **[Juniper Square](https://www.junipersquare.com)** | **[Associate, Fund Administration (Interns)](https://jobright.ai/jobs/info/6a2b4e0e9bf7365df089d44b?utm_campaign=1052&utm_source=git)** | USA | Remote | Jul 03 |
+| **[Aman](https://www.aman.com/)** | **[Finance Intern - Aman New York](https://jobright.ai/jobs/info/6a4ba6d84eb370649b27a7f4?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Baird](https://bairdcareers.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a2b681c2cde2824469c67cf?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jul 03 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a43270b78fcb767e2755e96?utm_campaign=1052&utm_source=git)** | Joplin, MO, US | On Site | Jul 03 |
 | **[Biomedical Research Foundation](https://www.brfbd.org)** | **[Finance INTERNSHIP](https://jobright.ai/jobs/info/6a47b715971cd25b06f92939?utm_campaign=1052&utm_source=git)** | Shreveport, LA | On Site | Jul 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a4775a84f64ba41dcb56c9b?utm_campaign=1052&utm_source=git)** | NYC Metro Area | On Site | Jul 03 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 Tax Internship](https://jobright.ai/jobs/info/6a476688c2d11a6a46672313?utm_campaign=1052&utm_source=git)** | USA NY New York City 66 Hudson Blvd E, United States of America | On Site | Jul 03 |
 | **[Emigrant Bank](https://www.emigrant.com)** | **[Intern - Capital Markets](https://jobright.ai/jobs/info/6a3ae756797099171917c40c?utm_campaign=1052&utm_source=git)** | 335 Madison New York, NY 10017 | On Site | Jul 02 |
-| **[CDH](http://cdhcpa.com)** | **[Accounting Intern Bilingual Japanese 会計インターン 日英バイリンガル](https://jobright.ai/jobs/info/6a473ee9971cd25b06f919d8?utm_campaign=1052&utm_source=git)** | Greater Chicago Area, IL | On Site | Jul 02 |
-| **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Corporate Finance (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a4870043dbab558e29acc5a?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 02 |
-| **[HDR](http://www.hdrinc.com)** | **[Infrastructure Finance Intern](https://jobright.ai/jobs/info/6a3f6d504d047136e093957c?utm_campaign=1052&utm_source=git)** | United States-California-Sacramento | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

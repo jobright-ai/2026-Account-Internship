@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly Accounting Intern](https://jobright.ai/jobs/info/6a4c02546189f64e437f0b4a?utm_campaign=1052&utm_source=git)** | 410 East Washington Street, 52240, Iowa City, IA | On Site | Jul 06 |
 | **[RUSHTON](https://rushtonandcompany.com)** | **[2027 Spring Internship - Client Accounting Services (CAS)](https://jobright.ai/jobs/info/6a4bf9636189f64e437f098e?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
 | ↳ | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a4bf943c2d11a6a466797cb?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
 | ↳ | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a4bf93b5d7b097d2df3ef34?utm_campaign=1052&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Jul 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a42894d6c326942b4e8335a?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d6ae06706f771673bad255?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jul 03 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d917c78b9e4518958238?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
-| ↳ | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a2a47d70c4972328e7e8140?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

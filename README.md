@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RUSHTON](https://rushtonandcompany.com)** | **[2027 Spring Audit (Government and Non-Profit) Internship](https://jobright.ai/jobs/info/6a4c1540971cd25b06f998ca?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a4c0c015d7b097d2df3f379?utm_campaign=1052&utm_source=git)** | New York | On Site | Jul 06 |
+| ↳ | **[Trader: Fixed Income & Macro – Intern (US)](https://jobright.ai/jobs/info/6a4c0bffc2d11a6a46679bba?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Jul 06 |
+| **[Accord](https://inaccord.com)** | **[Financial Advisor Intern - Northwestern Mutual](https://jobright.ai/jobs/info/6a4c0a355d7b097d2df3f2c0?utm_campaign=1052&utm_source=git)** | Coralville, IA | On Site | Jul 06 |
+| **[Dempsey Uniform & Linen Supply](http://dempseyuniform.com)** | **[Business Accounting Intern](https://jobright.ai/jobs/info/6a397b02f6b55d12c792848a?utm_campaign=1052&utm_source=git)** | Jessup, PA | On Site | Jul 06 |
+| **[Wingate Living](https://wingateliving.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a4c0a1a5d7b097d2df3f2b1?utm_campaign=1052&utm_source=git)** | Needham, MA | On Site | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly Accounting Intern](https://jobright.ai/jobs/info/6a4c02546189f64e437f0b4a?utm_campaign=1052&utm_source=git)** | 410 East Washington Street, 52240, Iowa City, IA | On Site | Jul 06 |
 | **[RUSHTON](https://rushtonandcompany.com)** | **[2027 Spring Internship - Client Accounting Services (CAS)](https://jobright.ai/jobs/info/6a4bf9636189f64e437f098e?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
 | ↳ | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a4bf943c2d11a6a466797cb?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](https://bairdcareers.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a2b681c2cde2824469c67cf?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jul 03 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a43270b78fcb767e2755e96?utm_campaign=1052&utm_source=git)** | Joplin, MO, US | On Site | Jul 03 |
 | **[Biomedical Research Foundation](https://www.brfbd.org)** | **[Finance INTERNSHIP](https://jobright.ai/jobs/info/6a47b715971cd25b06f92939?utm_campaign=1052&utm_source=git)** | Shreveport, LA | On Site | Jul 03 |
-| **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a3c979e4d047136e093141b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 03 |
-| **[Aprio](https://www.aprio.com/)** | **[Aprio Spring 2027 Tax Internship Application - Washington DC Metro](https://jobright.ai/jobs/info/69f20a6df154d768fbaa4e98?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Jul 03 |
-| **[Meals on Wheels People](https://www.mowp.org/)** | **[Accounting Assistant-Intern](https://jobright.ai/jobs/info/6a35021e1232144fb1561d69?utm_campaign=1052&utm_source=git)** | Central Office - PORTLAND, OR 97219 | On Site | Jul 03 |
-| **[Oracle](https://www.oracle.com/)** | **[M&D Financial Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a42894d6c326942b4e8335a?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 03 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d6ae06706f771673bad255?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jul 03 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d917c78b9e4518958238?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

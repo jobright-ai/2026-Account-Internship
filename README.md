@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris | Oakmark](https://www.harrisassoc.com)** | **[2027 Equity Research Internship](https://jobright.ai/jobs/info/6a4c7ab33122a76a8fd52f82?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 06 |
+| **[Keenfinity Group](https://www.keenfinity-group.com)** | **[Finance Intern – FP&A & Business Analytics](https://jobright.ai/jobs/info/6a394e2506a4fd4b1fab93eb?utm_campaign=1052&utm_source=git)** | Burnsville, MN, United States | Hybrid | Jul 06 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Accounting - Fall 2026](https://jobright.ai/jobs/info/6a4c6da0d27b2c4dda9b4c63?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4c5f3c4f64ba41dcb5f3ec?utm_campaign=1052&utm_source=git)** | Conyers, GA | On Site | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Finance Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e94f64ba41dcb5ca22?utm_campaign=1052&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Accounting Technician - Intern Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a4c4f69971cd25b06f9a451?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | Jul 06 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Maverick Payments](https://www.MaverickPayments.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6a440690b156014e414bb234?utm_campaign=1052&utm_source=git)** | Calabasas, CA | On Site | Jul 06 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Corporate Intern - Pricing](https://jobright.ai/jobs/info/6a44d05edc1f8335cfdeb2e3?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Jul 06 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Treasury Intern](https://jobright.ai/jobs/info/6a4c19914f64ba41dcb5e85c?utm_campaign=1052&utm_source=git)** | Long Beach, CA, US | On Site | Jul 06 |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Corporate Intern - Pricing](https://jobright.ai/jobs/info/6a4634720dd56c76cc2f7662?utm_campaign=1052&utm_source=git)** | Peoria, Illinois, US | On Site | Jul 06 |
 | **[RUSHTON](https://rushtonandcompany.com)** | **[2027 Spring Audit (Government and Non-Profit) Internship](https://jobright.ai/jobs/info/6a4c1540971cd25b06f998ca?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Analytics Engagement](https://jobright.ai/jobs/info/6a4bd2b94f64ba41dcb5d52d?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 06 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a4c0c015d7b097d2df3f379?utm_campaign=1052&utm_source=git)** | New York | On Site | Jul 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAE](http://www.cae.de)** | **[C-FIN-201 Tax Intern – Tax Technology & AI Enablement-EN](https://jobright.ai/jobs/info/6a2b3fba9bf7365df089d18c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 03 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/699cf30581476f6176b57e67?utm_campaign=1052&utm_source=git)** | Grande Prairie, Alberta, Canada | On Site | Jul 03 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a396070f6b55d12c7927862?utm_campaign=1052&utm_source=git)** | LOUISVILLE, KY, US | On Site | Jul 03 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/6a48204ac2d11a6a46673d1c?utm_campaign=1052&utm_source=git)** | Canada | Remote | Jul 03 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a39bc03649fdf1629302afc?utm_campaign=1052&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jul 03 |
-| **[BMW Group](https://www.bmwgroup-werke.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/6a2b0dc1d3ec8317fe146e11?utm_campaign=1052&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jul 03 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/6a47e18ec2d11a6a466732f3?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

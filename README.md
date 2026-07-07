@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bel](https://www.groupe-bel.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a306832eace377055eb63c6?utm_campaign=1052&utm_source=git)** | Nampa, ID, United States | On Site | Jul 07 |
 | **[LS Power](http://lspower.com)** | **[Accounting Intern, PE Accounting](https://jobright.ai/jobs/info/6a3d99298bfad862bc99de83?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 07 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a3edbfbce7cce40b34221ac?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[Elder Hanson & Company, Ltd.](https://www.elderhanson.com/)** | **[Tax Internship - Spring 2027 - CPA Firm](https://jobright.ai/jobs/info/6a4c9cea3122a76a8fd5334b?utm_campaign=1052&utm_source=git)** | Naperville,IL,US | On Site | Jul 06 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26075 - Accounting Part-Time Intern](https://jobright.ai/jobs/info/69c7a4fd1818a24cd84d05ae?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 06 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Accounting (MBA Students)](https://jobright.ai/jobs/info/6a3fe2511afc66714d3c943f?utm_campaign=1052&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Jul 06 |
 | **[Guinn, Vinopal & Zahradka LLP](https://www.gvzllp.com/)** | **[Spring 2027 Tax Internship](https://jobright.ai/jobs/info/6a4b4d3a5d7b097d2df3d0f6?utm_campaign=1052&utm_source=git)** | 811 1st Street, Hudson, WI, USA | On Site | Jul 05 |
-| **[City of Iowa City](https://www.icgov.org)** | **[Hourly Accounting Intern](https://jobright.ai/jobs/info/6a4c3d624eb370649b27cc04?utm_campaign=1052&utm_source=git)** | Iowa City, IA | On Site | Jul 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Value Advisory](https://jobright.ai/jobs/info/6a0aa624a203b1052e44e54c?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 05 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[MAR Audit Intern](https://jobright.ai/jobs/info/6a4a936f5d7b097d2df3c4c0?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, US | Hybrid | Jul 05 |
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Fall 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/6a28f0927061b51a3a5f8b5d?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jul 05 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/6a2d4d23fc0644749054c13d?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Intern - Chattanooga](https://jobright.ai/jobs/info/6a4a1a23971cd25b06f96186?utm_campaign=1052&utm_source=git)** | Chattanooga, TN 37402 | On Site | Jul 05 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/6a428625a5e15b10683793c7?utm_campaign=1052&utm_source=git)** | Burlington, MA | On Site | Jul 05 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a299aa51de59e0682a80526?utm_campaign=1052&utm_source=git)** | Boca Raton, FL, US | On Site | Jul 05 |
 | **[Maxwell Locke & Ritter LLP](https://www.mlrpc.com)** | **[Summer 2027 Transaction Advisory Internship (In-Person)](https://jobright.ai/jobs/info/6a3999b56484fb75f2b32a86?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jul 05 |
 | **[IAC International Automotive India Pvt. Ltd.](https://iacgroup.com/)** | **[Cost Deployment Intern (Continuous Improvement)](https://jobright.ai/jobs/info/6a4b07ea4f64ba41dcb5ba0c?utm_campaign=1052&utm_source=git)** | Arlington, TX | On Site | Jul 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Canada Growth Fund (May – August 2027)](https://jobright.ai/jobs/info/6a480b8c4f64ba41dcb5818c?utm_campaign=1052&utm_source=git)** | Montreal, Canada | On Site | Jul 03 |
 | **[Ardena](http://ardena.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a47fc63f9cbb100d1ab18dc?utm_campaign=1052&utm_source=git)** | 14 Schoolhouse Rd, Somerset, NJ 08873, US | On Site | Jul 03 |
 | **[Prysmian](https://www.prysmian.com)** | **[Accounts Payable Internship](https://jobright.ai/jobs/info/6a0f11c9619335383fb28e9c?utm_campaign=1052&utm_source=git)** | Vaughan, Canada | On Site | Jul 03 |
-| **[CAE](http://www.cae.de)** | **[C-FIN-201 Tax Intern – Tax Technology & AI Enablement-EN](https://jobright.ai/jobs/info/6a2b3fba9bf7365df089d18c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

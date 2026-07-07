@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TYLin](http://www.tylin.com)** | **[Alternative Delivery Project Analytics Intern](https://jobright.ai/jobs/info/6a4d0f860209ea6fd6850ab8?utm_campaign=1052&utm_source=git)** | US | IL | Chicago - 200 South Wacker Drive, United States of America | Remote | Jul 07 |
+| **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Summer 2027 - Philadelphia (Remote) Health](https://jobright.ai/jobs/info/6a4d0f3b99523700cbff4266?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 07 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Jul 07 |
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Wealth Management Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d523778237a036d5e0a46?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 07 |
 | **[People Corporation](https://benefitpartners.peoplecorporation.com)** | **[Co-Op Actuarial Student](https://jobright.ai/jobs/info/6a4d038bd27b2c4dda9b5be0?utm_campaign=1052&utm_source=git)** | Burlington, ON, Canada | Hybrid | Jul 07 |
-| **[The Bancorp](http://www.thebancorp.com)** | **[Audit Intern](https://jobright.ai/jobs/info/6a4cfd1a0209ea6fd6850652?utm_campaign=1052&utm_source=git)** | Wilmington, DE, United States | On Site | Jul 07 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Early Investor Program (Summer 2027)](https://jobright.ai/jobs/info/6a4cf4ddd27b2c4dda9b5996?utm_campaign=1052&utm_source=git)** | Toronto, Canada | On Site | Jul 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 07 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/6a30833389f8f147d3735f66?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ardena Careers](http://idifarma.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a488e715d7b097d2df3a310?utm_campaign=1052&utm_source=git)** | Somerset, NJ | On Site | Jul 03 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Intern Job Details / Schindler Group](https://jobright.ai/jobs/info/6a4857fec2d11a6a466746a4?utm_campaign=1052&utm_source=git)** | Hanover (Plant), PA, US | On Site | Jul 03 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Intern - Corporate Internal Auditor](https://jobright.ai/jobs/info/6a42c7fd1cc9cc2b12fecce1?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jul 03 |
-| **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Summer 2027 - Cost Accounting](https://jobright.ai/jobs/info/6a2b066c0ad4053b108ca478?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, US | On Site | Jul 03 |
-| **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a35c33929c90c607e4e35d2?utm_campaign=1052&utm_source=git)** | Sault Ste Marie, MI | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

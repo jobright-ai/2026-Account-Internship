@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Wealth Management Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d523778237a036d5e0a46?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 07 |
+| **[People Corporation](https://benefitpartners.peoplecorporation.com)** | **[Co-Op Actuarial Student](https://jobright.ai/jobs/info/6a4d038bd27b2c4dda9b5be0?utm_campaign=1052&utm_source=git)** | Burlington, ON, Canada | Hybrid | Jul 07 |
+| **[The Bancorp](http://www.thebancorp.com)** | **[Audit Intern](https://jobright.ai/jobs/info/6a4cfd1a0209ea6fd6850652?utm_campaign=1052&utm_source=git)** | Wilmington, DE, United States | On Site | Jul 07 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Early Investor Program (Summer 2027)](https://jobright.ai/jobs/info/6a4cf4ddd27b2c4dda9b5996?utm_campaign=1052&utm_source=git)** | Toronto, Canada | On Site | Jul 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 07 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/6a30833389f8f147d3735f66?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 07 |
 | **[Bel](https://www.groupe-bel.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a306832eace377055eb63c6?utm_campaign=1052&utm_source=git)** | Nampa, ID, United States | On Site | Jul 07 |
+| **[Lactalis USA](https://www.linkedin.com/company/107499148)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a4d03a299523700cbff3fb5?utm_campaign=1052&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 07 |
 | **[LS Power](http://lspower.com)** | **[Accounting Intern, PE Accounting](https://jobright.ai/jobs/info/6a3d99298bfad862bc99de83?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 07 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a3edbfbce7cce40b34221ac?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[Elder Hanson & Company, Ltd.](https://www.elderhanson.com/)** | **[Tax Internship - Spring 2027 - CPA Firm](https://jobright.ai/jobs/info/6a4c9cea3122a76a8fd5334b?utm_campaign=1052&utm_source=git)** | Naperville,IL,US | On Site | Jul 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Intern - Corporate Internal Auditor](https://jobright.ai/jobs/info/6a42c7fd1cc9cc2b12fecce1?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jul 03 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Summer 2027 - Cost Accounting](https://jobright.ai/jobs/info/6a2b066c0ad4053b108ca478?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, US | On Site | Jul 03 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a35c33929c90c607e4e35d2?utm_campaign=1052&utm_source=git)** | Sault Ste Marie, MI | On Site | Jul 03 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a4552644f64ba41dcb4cfd3?utm_campaign=1052&utm_source=git)** | Huntington, WV, US | On Site | Jul 03 |
-| **[Aerospike](http://www.aerospike.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a48324a3dbab558e29ac703?utm_campaign=1052&utm_source=git)** | Mountain View, CA | Hybrid | Jul 03 |
-| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a34231229c90c607e4dd974?utm_campaign=1052&utm_source=git)** | Joplin, MO | On Site | Jul 03 |
-| **[Koch](https://www.kochinc.com)** | **[Summer 2027 Tax Internship (Plano)](https://jobright.ai/jobs/info/6a2ba9e2d3ec8317fe1491d2?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

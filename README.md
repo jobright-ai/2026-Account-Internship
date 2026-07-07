@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baird](https://bairdcareers.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a4d3c8699523700cbff4e1d?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3a9f1a797099171917ad61?utm_campaign=1052&utm_source=git)** | Salem, MA, United States | On Site | Jul 07 |
 | **[MAHLE](https://www.mahle.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a4d2cb7c643fd23fed3bffe?utm_campaign=1052&utm_source=git)** | Farmington Hills, MI, United States | On Site | Jul 07 |
 | **[Democratic Party of Wisconsin](https://wisdems.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a4d29943122a76a8fd546f2?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Jul 07 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Systems and Process Improvement Intern, Finance](https://jobright.ai/jobs/info/6a4d2329d27b2c4dda9b64bd?utm_campaign=1052&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 07 |
 | **[Franklin Street](http://franklinst.com)** | **[Multifamily Intern](https://jobright.ai/jobs/info/6a4d1e9ed27b2c4dda9b636d?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 07 |
+| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern- Summer 2026](https://jobright.ai/jobs/info/6a31471735e80310003a6350?utm_campaign=1052&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 07 |
 | **[TYLin](http://www.tylin.com)** | **[Alternative Delivery Project Analytics Intern](https://jobright.ai/jobs/info/6a4d0f860209ea6fd6850ab8?utm_campaign=1052&utm_source=git)** | US | IL | Chicago - 200 South Wacker Drive, United States of America | Remote | Jul 07 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Summer 2027 - Philadelphia (Remote) Health](https://jobright.ai/jobs/info/6a4d0f3b99523700cbff4266?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Jul 07 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Guinn, Vinopal & Zahradka LLP](https://www.gvzllp.com/)** | **[Spring 2027 Tax Internship](https://jobright.ai/jobs/info/6a4b4d3a5d7b097d2df3d0f6?utm_campaign=1052&utm_source=git)** | 811 1st Street, Hudson, WI, USA | On Site | Jul 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Value Advisory](https://jobright.ai/jobs/info/6a0aa624a203b1052e44e54c?utm_campaign=1052&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 05 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[MAR Audit Intern](https://jobright.ai/jobs/info/6a4a936f5d7b097d2df3c4c0?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, US | Hybrid | Jul 05 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a45467f0dd56c76cc2f2de8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | On Site | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/6a34c92e7f3fdd180d4cbbe9?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Jul 05 |
 | **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10fa9083d7144289829af2?utm_campaign=1052&utm_source=git)** | Centennial, CO | Hybrid | Jul 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d17e6942c746fa694e32?utm_campaign=1052&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 04 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/6a48b452971cd25b06f9492c?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 04 |
 | ↳ | **[Private Equity Intern](https://jobright.ai/jobs/info/6a48b20af9cbb100d1ab2ed3?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 04 |
-| **[VASCOR Logistics](http://vascorlogistics.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3e90cc4d047136e0936a99?utm_campaign=1052&utm_source=git)** | Georgetown HQ - GEORGETOWN, KY 40324 | Hybrid | Jul 03 |
-| **[The Dutch Group](https://www.thedutchgroup.net)** | **[Summer 2027 Accounting Intern](https://jobright.ai/jobs/info/6a37a861649fdf16292fd64b?utm_campaign=1052&utm_source=git)** | Columbus, MS 39701, USA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

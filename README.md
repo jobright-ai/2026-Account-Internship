@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vibrant Ingredients](http://floridafood.com/)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/6a4ce1fdc643fd23fed3b0da?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 07 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 07 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/6a30833389f8f147d3735f66?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 07 |
 | **[Bel](https://www.groupe-bel.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a306832eace377055eb63c6?utm_campaign=1052&utm_source=git)** | Nampa, ID, United States | On Site | Jul 07 |
 | **[LS Power](http://lspower.com)** | **[Accounting Intern, PE Accounting](https://jobright.ai/jobs/info/6a3d99298bfad862bc99de83?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 07 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a3edbfbce7cce40b34221ac?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aerospike](http://www.aerospike.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a48324a3dbab558e29ac703?utm_campaign=1052&utm_source=git)** | Mountain View, CA | Hybrid | Jul 03 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a34231229c90c607e4dd974?utm_campaign=1052&utm_source=git)** | Joplin, MO | On Site | Jul 03 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Tax Internship (Plano)](https://jobright.ai/jobs/info/6a2ba9e2d3ec8317fe1491d2?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Jul 03 |
-| **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Canada Growth Fund (May – August 2027)](https://jobright.ai/jobs/info/6a480b8c4f64ba41dcb5818c?utm_campaign=1052&utm_source=git)** | Montreal, Canada | On Site | Jul 03 |
-| **[Ardena](http://ardena.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a47fc63f9cbb100d1ab18dc?utm_campaign=1052&utm_source=git)** | 14 Schoolhouse Rd, Somerset, NJ 08873, US | On Site | Jul 03 |
-| **[Prysmian](https://www.prysmian.com)** | **[Accounts Payable Internship](https://jobright.ai/jobs/info/6a0f11c9619335383fb28e9c?utm_campaign=1052&utm_source=git)** | Vaughan, Canada | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

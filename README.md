@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maverick Payments](https://www.MaverickPayments.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6a440690b156014e414bb234?utm_campaign=1052&utm_source=git)** | Calabasas, CA | On Site | Jul 06 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Treasury Intern](https://jobright.ai/jobs/info/6a4c19914f64ba41dcb5e85c?utm_campaign=1052&utm_source=git)** | Long Beach, CA, US | On Site | Jul 06 |
 | **[RUSHTON](https://rushtonandcompany.com)** | **[2027 Spring Audit (Government and Non-Profit) Internship](https://jobright.ai/jobs/info/6a4c1540971cd25b06f998ca?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Analytics Engagement](https://jobright.ai/jobs/info/6a4bd2b94f64ba41dcb5d52d?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Finance](https://jobright.ai/jobs/info/6a4678b0c2d11a6a4666f254?utm_campaign=1052&utm_source=git)** | Malvern, PA, United States of America | Hybrid | Jul 03 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/6a28fb0040ac8e32932a4abe?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Jul 03 |
 | **[Baird](https://bairdcareers.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a2b681c2cde2824469c67cf?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Jul 03 |
-| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a43270b78fcb767e2755e96?utm_campaign=1052&utm_source=git)** | Joplin, MO, US | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/6a4ea5861544d7246c0d3ab9?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 08 |
+| **[Baird](https://bairdcareers.com)** | **[Internship – Equity Research Analyst (Summer 2027)](https://jobright.ai/jobs/info/6a4ea51a9469c0662034c2ad?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 08 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a4e62a415b4965afd582fdf?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Jul 08 |
 | **[Media Works, Ltd.](http://medialtd.com)** | **[Billing Intern](https://jobright.ai/jobs/info/6a4e9f390ea38951a6ff3e90?utm_campaign=1052&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jul 08 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2026 - Accounting Internship - Millsaps College](https://jobright.ai/jobs/info/6a4e9bd49469c0662034c0c2?utm_campaign=1052&utm_source=git)** | Jackson, MS, United States | On Site | Jul 08 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Fall Intern, Dallas](https://jobright.ai/jobs/info/6a4e984715b4965afd583e3d?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 08 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/6a32899e649fdf16292eda0f?utm_campaign=1052&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jul 08 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Public Finance Investment Banking Intern - Hospitality](https://jobright.ai/jobs/info/695d98d4fbd62a0a65664bea?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jul 08 |
 | **[American Golf Corporation](https://www.americangolf.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4e637e15b4965afd58302b?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | On Site | Jul 08 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a4e62a415b4965afd582fdf?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Jul 08 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Assurance Internship - Albuquerque](https://jobright.ai/jobs/info/6a4e61af0ea38951a6ff2de5?utm_campaign=1052&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 08 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Finance & Accounting - FSC](https://jobright.ai/jobs/info/6a31a9e7c477a5075f48e5ea?utm_campaign=1052&utm_source=git)** | Otsego, MI, United States | On Site | Jul 08 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Grad Intern, TV Production Finance - Fall 2026](https://jobright.ai/jobs/info/6a4dbcf935e45603c4bb4a93?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | On Site | Jul 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dempsey Uniform & Linen Supply](http://dempseyuniform.com)** | **[Business Accounting Intern](https://jobright.ai/jobs/info/6a397b02f6b55d12c792848a?utm_campaign=1052&utm_source=git)** | Jessup, PA | On Site | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly Accounting Intern](https://jobright.ai/jobs/info/6a4c02546189f64e437f0b4a?utm_campaign=1052&utm_source=git)** | 410 East Washington Street, 52240, Iowa City, IA | On Site | Jul 06 |
 | **[RUSHTON](https://rushtonandcompany.com)** | **[2027 Spring Internship - Client Accounting Services (CAS)](https://jobright.ai/jobs/info/6a4bf9636189f64e437f098e?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
-| ↳ | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a4bf943c2d11a6a466797cb?utm_campaign=1052&utm_source=git)** | Gainesville, Georgia, United States | On Site | Jul 06 |
-| ↳ | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a4bf93b5d7b097d2df3ef34?utm_campaign=1052&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

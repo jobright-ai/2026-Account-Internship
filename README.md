@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nelnet](https://nelnetinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4d61bbd27b2c4dda9b7542?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 07 |
 | **[DB INSURANCE CO., LTD. (U.S. BRANCH)](http://www.dbinsus.com)** | **[Underwriting Operations Intern](https://jobright.ai/jobs/info/6a4d9de44c6c9f7a619f84db?utm_campaign=1052&utm_source=git)** | Anaheim, CA, United States | On Site | Jul 07 |
 | ↳ | **[Underwriting Operations Intern](https://jobright.ai/jobs/info/6a4d93de35e45603c4bb4513?utm_campaign=1052&utm_source=git)** | Anaheim, CA, United States | On Site | Jul 07 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Campaign Finance Intern (Volunteer)](https://jobright.ai/jobs/info/6a4d90b23122a76a8fd55f88?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 07 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas)](https://jobright.ai/jobs/info/6a4d663c3122a76a8fd5573c?utm_campaign=1052&utm_source=git)** | St. Thomas, VI, United States | On Site | Jul 07 |
 | **[Old Mission](http://oldmissioncapital.com)** | **[Summer Tax/Accounting Intern](https://jobright.ai/jobs/info/6a315887c477a5075f48c72f?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 07 |
 | **[Benco Dental](https://www.benco.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4d637c0209ea6fd6852095?utm_campaign=1052&utm_source=git)** | Pittston, PA, United States | On Site | Jul 07 |
-| **[Nelnet](https://nelnetinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4d61bbd27b2c4dda9b7542?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 07 |
 | **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Intern](https://jobright.ai/jobs/info/6a4d5df035e45603c4bb3910?utm_campaign=1052&utm_source=git)** | Venice, FL, United States | On Site | Jul 07 |
 | **[SECU](https://www.ncsecu.org/)** | **[Intern- Tax Advantaged Solution Part-time Fall 2026](https://jobright.ai/jobs/info/6a4d5d14c643fd23fed3cb06?utm_campaign=1052&utm_source=git)** | Raleigh-Durham-Chapel Hill Area, United States | On Site | Jul 07 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Raleigh, NC)](https://jobright.ai/jobs/info/6a4d5c30d27b2c4dda9b73b0?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 07 |
@@ -140,8 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Capital Blue Cross](https://capbluecross.com)** | **[MAR Audit Intern](https://jobright.ai/jobs/info/6a4a936f5d7b097d2df3c4c0?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, US | Hybrid | Jul 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a45467f0dd56c76cc2f2de8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | On Site | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/6a34c92e7f3fdd180d4cbbe9?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Jul 05 |
-| **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10fa9083d7144289829af2?utm_campaign=1052&utm_source=git)** | Centennial, CO | Hybrid | Jul 05 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Jul 05 |
+| ↳ | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Jul 05 |
 | ↳ | **[Audit Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/699ed43994ef206f184dd451?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 05 |
 | **[Lloyd Companies](http://lloydcompanies.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a4a52b25d7b097d2df3c1aa?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Birmingham, AL](https://jobright.ai/jobs/info/6a4a52694f64ba41dcb5b0f6?utm_campaign=1052&utm_source=git)** | Birmingham, AL 35209 | On Site | Jul 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IAC International Automotive India Pvt. Ltd.](https://iacgroup.com/)** | **[Cost Deployment Intern (Continuous Improvement)](https://jobright.ai/jobs/info/6a4b07ea4f64ba41dcb5ba0c?utm_campaign=1052&utm_source=git)** | Arlington, TX | On Site | Jul 04 |
 | **[Mission US](https://missionunderwriters.com/)** | **[Underwriting Intern (Fall)](https://jobright.ai/jobs/info/6a3552d6649fdf16292f87f9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 04 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern - Elmira, NY (On-Site)](https://jobright.ai/jobs/info/6a4608af3dbab558e29a3627?utm_campaign=1052&utm_source=git)** | Elmira - Elmira, NY 14901 | On Site | Jul 04 |
+| **[Hanscom Federal Credit Union](https://www.hfcu.org)** | **[Insurance Agency Intern](https://jobright.ai/jobs/info/6a31469135e80310003a6335?utm_campaign=1052&utm_source=git)** | Chestertown, Maryland, United States | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

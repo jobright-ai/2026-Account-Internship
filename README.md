@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Grad Intern, TV Production Finance - Fall 2026](https://jobright.ai/jobs/info/6a4dbcf935e45603c4bb4a93?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/6a4330fbb0f2553559ecebdf?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Jul 07 |
 | **[Nelnet](https://nelnetinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4d61bbd27b2c4dda9b7542?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 07 |
 | **[DB INSURANCE CO., LTD. (U.S. BRANCH)](http://www.dbinsus.com)** | **[Underwriting Operations Intern](https://jobright.ai/jobs/info/6a4d9de44c6c9f7a619f84db?utm_campaign=1052&utm_source=git)** | Anaheim, CA, United States | On Site | Jul 07 |
 | ↳ | **[Underwriting Operations Intern](https://jobright.ai/jobs/info/6a4d93de35e45603c4bb4513?utm_campaign=1052&utm_source=git)** | Anaheim, CA, United States | On Site | Jul 07 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[TYLin](http://www.tylin.com)** | **[Alternative Delivery Project Analytics Intern](https://jobright.ai/jobs/info/6a4d0f860209ea6fd6850ab8?utm_campaign=1052&utm_source=git)** | US | IL | Chicago - 200 South Wacker Drive, United States of America | Remote | Jul 07 |
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Summer 2027 - Philadelphia (Remote) Health](https://jobright.ai/jobs/info/6a4d0f3b99523700cbff4266?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/68f9504ecadb2e5a06a63cfe?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Jul 07 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Accounting - Fall 2026](https://jobright.ai/jobs/info/6a4c6da0d27b2c4dda9b4c63?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Wealth Management Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d523778237a036d5e0a46?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 07 |
 | **[People Corporation](https://benefitpartners.peoplecorporation.com)** | **[Co-Op Actuarial Student](https://jobright.ai/jobs/info/6a4d038bd27b2c4dda9b5be0?utm_campaign=1052&utm_source=git)** | Burlington, ON, Canada | Hybrid | Jul 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 07 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Servicon](https://servicon.com/)** | **[Revenue Administrator Intern](https://jobright.ai/jobs/info/6a4c3def6189f64e437f197c?utm_campaign=1052&utm_source=git)** | Culver City, CA, US | On Site | Jul 06 |
 | **[Harris | Oakmark](https://www.harrisassoc.com)** | **[2027 Equity Research Internship](https://jobright.ai/jobs/info/6a4c7ab33122a76a8fd52f82?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 06 |
 | **[Keenfinity Group](https://www.keenfinity-group.com)** | **[Finance Intern – FP&A & Business Analytics](https://jobright.ai/jobs/info/6a394e2506a4fd4b1fab93eb?utm_campaign=1052&utm_source=git)** | Burnsville, MN, United States | Hybrid | Jul 06 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Accounting - Fall 2026](https://jobright.ai/jobs/info/6a4c6da0d27b2c4dda9b4c63?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | On Site | Jul 06 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4c5f3c4f64ba41dcb5f3ec?utm_campaign=1052&utm_source=git)** | Conyers, GA | On Site | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Finance Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e94f64ba41dcb5ca22?utm_campaign=1052&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Accounting Technician - Intern Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a4c4f69971cd25b06f9a451?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | Jul 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maxwell Locke & Ritter LLP](https://www.mlrpc.com)** | **[Summer 2027 Transaction Advisory Internship (In-Person)](https://jobright.ai/jobs/info/6a3999b56484fb75f2b32a86?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jul 05 |
 | **[IAC International Automotive India Pvt. Ltd.](https://iacgroup.com/)** | **[Cost Deployment Intern (Continuous Improvement)](https://jobright.ai/jobs/info/6a4b07ea4f64ba41dcb5ba0c?utm_campaign=1052&utm_source=git)** | Arlington, TX | On Site | Jul 04 |
 | **[Mission US](https://missionunderwriters.com/)** | **[Underwriting Intern (Fall)](https://jobright.ai/jobs/info/6a3552d6649fdf16292f87f9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 04 |
-| **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern - Elmira, NY (On-Site)](https://jobright.ai/jobs/info/6a4608af3dbab558e29a3627?utm_campaign=1052&utm_source=git)** | Elmira - Elmira, NY 14901 | On Site | Jul 04 |
-| **[Hanscom Federal Credit Union](https://www.hfcu.org)** | **[Insurance Agency Intern](https://jobright.ai/jobs/info/6a31469135e80310003a6335?utm_campaign=1052&utm_source=git)** | Chestertown, Maryland, United States | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -59,10 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Grad Intern, TV Production Finance - Fall 2026](https://jobright.ai/jobs/info/6a4dbcf935e45603c4bb4a93?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/6a4330fbb0f2553559ecebdf?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Jul 07 |
+| **[Ardena](http://ardena.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a47fc63f9cbb100d1ab18dc?utm_campaign=1052&utm_source=git)** | 14 Schoolhouse Rd, Somerset, NJ 08873, US | On Site | Jul 07 |
 | **[Nelnet](https://nelnetinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4d61bbd27b2c4dda9b7542?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 07 |
 | **[DB INSURANCE CO., LTD. (U.S. BRANCH)](http://www.dbinsus.com)** | **[Underwriting Operations Intern](https://jobright.ai/jobs/info/6a4d9de44c6c9f7a619f84db?utm_campaign=1052&utm_source=git)** | Anaheim, CA, United States | On Site | Jul 07 |
 | ↳ | **[Underwriting Operations Intern](https://jobright.ai/jobs/info/6a4d93de35e45603c4bb4513?utm_campaign=1052&utm_source=git)** | Anaheim, CA, United States | On Site | Jul 07 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Campaign Finance Intern (Volunteer)](https://jobright.ai/jobs/info/6a4d90b23122a76a8fd55f88?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 07 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Summer 2027 / Jacksonville](https://jobright.ai/jobs/info/6a4dcac10209ea6fd685323f?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 07 |
 | **[ABB](https://global.abb/group/en)** | **[Finance Intern - Fall 2026](https://jobright.ai/jobs/info/6a2049f5338c01230511816f?utm_campaign=1052&utm_source=git)** | USA, NC, Cary, US | Hybrid | Jul 07 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights (GTA Offices) Fall 2026](https://jobright.ai/jobs/info/6a4d6e58d27b2c4dda9b7a5f?utm_campaign=1052&utm_source=git)** | Oakville, Canada | Hybrid | Jul 07 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Greenville, SC](https://jobright.ai/jobs/info/6a4d66413122a76a8fd5573f?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Jul 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/6a428625a5e15b10683793c7?utm_campaign=1052&utm_source=git)** | Burlington, MA | On Site | Jul 05 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a299aa51de59e0682a80526?utm_campaign=1052&utm_source=git)** | Boca Raton, FL, US | On Site | Jul 05 |
 | **[Maxwell Locke & Ritter LLP](https://www.mlrpc.com)** | **[Summer 2027 Transaction Advisory Internship (In-Person)](https://jobright.ai/jobs/info/6a3999b56484fb75f2b32a86?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Jul 05 |
-| **[IAC International Automotive India Pvt. Ltd.](https://iacgroup.com/)** | **[Cost Deployment Intern (Continuous Improvement)](https://jobright.ai/jobs/info/6a4b07ea4f64ba41dcb5ba0c?utm_campaign=1052&utm_source=git)** | Arlington, TX | On Site | Jul 04 |
-| **[Mission US](https://missionunderwriters.com/)** | **[Underwriting Intern (Fall)](https://jobright.ai/jobs/info/6a3552d6649fdf16292f87f9?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

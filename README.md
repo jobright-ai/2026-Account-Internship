@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flaherty Salmin CPAs](https://www.fs-cpa.com/)** | **[Affordable Housing Tax Intern](https://jobright.ai/jobs/info/6a4fd78e397d8d353c28cd91?utm_campaign=1052&utm_source=git)** | Rochester, NY, United States | On Site | Jul 09 |
+| ↳ | **[Affordable Housing Audit Intern](https://jobright.ai/jobs/info/6a4fd777fc327f422fef6bd8?utm_campaign=1052&utm_source=git)** | Rochester, New York, United States | On Site | Jul 09 |
+| **[Cambrex](http://www.cambrex.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a4fa0059469c0662034e46a?utm_campaign=1052&utm_source=git)** | Waltham, MA, United States | On Site | Jul 09 |
+| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Fund Accounting](https://jobright.ai/jobs/info/6a4fcdbe4649561ec08af04f?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 09 |
+| ↳ | **[Intern, Financial Administration](https://jobright.ai/jobs/info/6a4c6562c2d11a6a4667ac84?utm_campaign=1052&utm_source=git)** | Hauppauge, NY, United States | On Site | Jul 09 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Accounting Intern, Temporary Position](https://jobright.ai/jobs/info/6a4fcd0a4649561ec08aefce?utm_campaign=1052&utm_source=git)** | 411 East Chapman Avenue, 92870, Placentia, CA, United States | On Site | Jul 09 |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a4fc8b6397d8d353c28c7d3?utm_campaign=1052&utm_source=git)** | 200 W Old Wilson Bridge Road, Columbus, OH, 43085, US | Hybrid | Jul 09 |
+| **[Cherry Bekaert](https://www.cbh.com)** | **[Spring 2027 Audit Intern - Dallas](https://jobright.ai/jobs/info/6a4fc7cb4649561ec08aee34?utm_campaign=1052&utm_source=git)** | Dallas, United States of America | On Site | Jul 09 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Equity Research Intern - Biotechnology](https://jobright.ai/jobs/info/6932b581764507023d1b01c0?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
 | **[Davenport & Company LLC](http://www.investdavenport.com)** | **[2027 Public Finance Summer Internship](https://jobright.ai/jobs/info/6a4fb4f44649561ec08aea3e?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 09 |
 | **[Bradesco Bank](https://bradescobank.com )** | **[Investment Solutions Internship](https://jobright.ai/jobs/info/6a4fa2d8fc327f422fef5e1a?utm_campaign=1052&utm_source=git)** | Coral Gables, FL, United States | On Site | Jul 09 |
-| **[Cambrex](http://www.cambrex.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a4fa0059469c0662034e46a?utm_campaign=1052&utm_source=git)** | Waltham, MA, United States | On Site | Jul 09 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 09 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 09 |
 | **[Leggett & Platt](http://www.leggett.com)** | **[Corporate Accounting Intern](https://jobright.ai/jobs/info/69fa3824a3d34b4f76f648ac?utm_campaign=1052&utm_source=git)** | Carthage, MO, US | On Site | Jul 09 |
 | ↳ | **[Corporate Accounting Intern Job Details / Leggett & Platt](https://jobright.ai/jobs/info/6a28c4367061b51a3a5f7be8?utm_campaign=1052&utm_source=git)** | Carthage, MO, US | On Site | Jul 09 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Accounting and Advisory Services Intern](https://jobright.ai/jobs/info/6a2b204c2cde2824469c54d6?utm_campaign=1052&utm_source=git)** | Syracuse, NY 13202, USA | On Site | Jul 09 |
@@ -81,14 +88,14 @@ For a complete list, click the following sortable link below:
 | **[Nation's Best Holdings, LLC](https://nationsbest.net/)** | **[Staff Accountant - Intern - Support Center](https://jobright.ai/jobs/info/6a4f0ae40ea38951a6ff5174?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 08 |
 | **[Citadel](https://www.citadel.com)** | **[Trader: Fixed Income & Macro – Intern (US)](https://jobright.ai/jobs/info/6a4c0bffc2d11a6a46679bba?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a3edbfbce7cce40b34221ac?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
-| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern](https://jobright.ai/jobs/info/6a2855027061b51a3a5f4ed6?utm_campaign=1052&utm_source=git)** | Petaluma, US | On Site | Jul 08 |
+| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Southfield](https://jobright.ai/jobs/info/6a0a7e0f8f3e371eb6189038?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Jul 08 |
+| ↳ | **[2027 Staff Accountant Intern](https://jobright.ai/jobs/info/6a2855027061b51a3a5f4ed6?utm_campaign=1052&utm_source=git)** | Petaluma, US | On Site | Jul 08 |
 | ↳ | **[2027 Staff Accountant Intern - Andover](https://jobright.ai/jobs/info/6a0a7e153b54ed42d74e0544?utm_campaign=1052&utm_source=git)** | Andover, MA | On Site | Jul 08 |
-| ↳ | **[2027 Summer Staff Accountant Intern](https://jobright.ai/jobs/info/6a4616404f64ba41dcb4fbb2?utm_campaign=1052&utm_source=git)** | Dover, US | On Site | Jul 08 |
-| ↳ | **[2027 Staff Accountant Intern - Austin](https://jobright.ai/jobs/info/6a0a7e1c6186f468598912a9?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Jul 08 |
-| ↳ | **[2027 Staff Accountant Intern - San Francisco](https://jobright.ai/jobs/info/6a0a7e176186f4685989129f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jul 08 |
-| ↳ | **[2027 Staff Accountant Intern - Southfield](https://jobright.ai/jobs/info/6a0a7e0f8f3e371eb6189038?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Jul 08 |
-| ↳ | **[2027 Staff Accountant Intern - Cleveland](https://jobright.ai/jobs/info/6a0a7e15939a5f01db962ab1?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
 | ↳ | **[2027 Staff Accountant Intern - Boston](https://jobright.ai/jobs/info/6a0a7e0e939a5f01db962aab?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Jul 08 |
+| ↳ | **[2027 Summer Staff Accountant Intern](https://jobright.ai/jobs/info/6a4616404f64ba41dcb4fbb2?utm_campaign=1052&utm_source=git)** | Dover, US | On Site | Jul 08 |
+| ↳ | **[2027 Staff Accountant Intern - San Francisco](https://jobright.ai/jobs/info/6a0a7e176186f4685989129f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Jul 08 |
+| ↳ | **[2027 Staff Accountant Intern - Austin](https://jobright.ai/jobs/info/6a0a7e1c6186f468598912a9?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Jul 08 |
+| ↳ | **[2027 Staff Accountant Intern - Cleveland](https://jobright.ai/jobs/info/6a0a7e15939a5f01db962ab1?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
 | **[Media Works, Ltd.](http://medialtd.com)** | **[Billing Intern](https://jobright.ai/jobs/info/6a4e9f390ea38951a6ff3e90?utm_campaign=1052&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jul 08 |
 | **[ENGIE](http://www.engie.com)** | **[Tax - Transactional Tax Internship](https://jobright.ai/jobs/info/6a4eeee09469c0662034d0e4?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Hybrid | Jul 08 |
 | **[Parkland Corporation](https://www.parkland.ca/)** | **[Accounting Intern - September 2026 (4-Month Term)](https://jobright.ai/jobs/info/6a3d6916882f121f56a3745d?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Tax Winter 2027 / Jacksonville](https://jobright.ai/jobs/info/6a4ddb440209ea6fd6853536?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 07 |
 | ↳ | **[Intern Audit Summer 2027 / Jacksonville](https://jobright.ai/jobs/info/6a4dcac10209ea6fd685323f?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 07 |
 | **[ABB](https://global.abb/group/en)** | **[Finance Intern - Fall 2026](https://jobright.ai/jobs/info/6a2049f5338c01230511816f?utm_campaign=1052&utm_source=git)** | USA, NC, Cary, US | Hybrid | Jul 07 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Financial Reporting & Insights (GTA Offices) Fall 2026](https://jobright.ai/jobs/info/6a4d6e58d27b2c4dda9b7a5f?utm_campaign=1052&utm_source=git)** | Oakville, Canada | Hybrid | Jul 07 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Greenville, SC](https://jobright.ai/jobs/info/6a4d66413122a76a8fd5573f?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Jul 07 |
-| **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas)](https://jobright.ai/jobs/info/6a4d663c3122a76a8fd5573c?utm_campaign=1052&utm_source=git)** | St. Thomas, VI, United States | On Site | Jul 07 |
-| **[Old Mission](http://oldmissioncapital.com)** | **[Summer Tax/Accounting Intern](https://jobright.ai/jobs/info/6a315887c477a5075f48c72f?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 07 |
-| **[ServisFirst Bank](http://www.servisfirstbank.com)** | **[Intern](https://jobright.ai/jobs/info/6a4d5df035e45603c4bb3910?utm_campaign=1052&utm_source=git)** | Venice, FL, United States | On Site | Jul 07 |
-| **[SECU](https://www.ncsecu.org/)** | **[Intern- Tax Advantaged Solution Part-time Fall 2026](https://jobright.ai/jobs/info/6a4d5d14c643fd23fed3cb06?utm_campaign=1052&utm_source=git)** | Raleigh-Durham-Chapel Hill Area, United States | On Site | Jul 07 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Raleigh, NC)](https://jobright.ai/jobs/info/6a4d5c30d27b2c4dda9b73b0?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

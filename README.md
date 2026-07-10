@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Realty Management](http://firstrealtymgt.com)** | **[Financial Analysis/MBA Intern](https://jobright.ai/jobs/info/6a4e6df60ea38951a6ff30e1?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 10 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Actuarial Development Program Intern – Summer 2027](https://jobright.ai/jobs/info/6a513d7b8d7d3e6cf1cc0310?utm_campaign=1052&utm_source=git)** | Richmond, Virginia, United States | Hybrid | Jul 10 |
 | **[PwC](http://pwc.com)** | **[Cincinnati - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a344acece501060b5cf06f3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 10 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a51371d02522b5b722e8726?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 10 |
@@ -64,8 +65,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Accounting Fall Internship](https://jobright.ai/jobs/info/6a51351b78e364789ca59b79?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 10 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51347357513b72e0c64c35?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 10 |
 | **[PwC](http://pwc.com)** | **[Minneapolis - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a351a6b29c90c607e4e124b?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 10 |
+| **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Atlanta)](https://jobright.ai/jobs/info/6a2f7c5a89f8f147d3731e87?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
+| **[PwC](http://pwc.com)** | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a50fd2978e364789ca57bb1?utm_campaign=1052&utm_source=git)** | CO-Denver, United States | On Site | Jul 10 |
 | ↳ | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a32f2f0910b734910712bab?utm_campaign=1052&utm_source=git)** | CO-Denver, US | On Site | Jul 10 |
-| ↳ | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a50fd2978e364789ca57bb1?utm_campaign=1052&utm_source=git)** | CO-Denver, United States | On Site | Jul 10 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 10 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Intern/Aspiring Financial Planner](https://jobright.ai/jobs/info/6a44f31b9b6dfb6da322bcf8?utm_campaign=1052&utm_source=git)** | Columbus, 3600 Olentangy River Rd, US | On Site | Jul 10 |
 | **[TalkingPoints](http://talkingpts.org/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/6a5121a857513b72e0c6435b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 10 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c69742c6dc326e8ec046?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 09 |
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c68342c6dc326e8ec02a?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ, United States | Hybrid | Jul 09 |
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c691f08ee8320766c306?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 09 |
-| ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c66d49f9155aa00075da?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c68a5165966a1161bb38?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 09 |
+| ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c66d49f9155aa00075da?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | **[Aday](http://www.thisisaday.com)** | **[Finance + Operations Intern](https://jobright.ai/jobs/info/6a5071b7fc327f422fef8b0e?utm_campaign=1052&utm_source=git)** | USA, NY | On Site | Jul 09 |
 | **[Northside Hospital](http://www.northside.com)** | **[Revenue Integrity, Intern](https://jobright.ai/jobs/info/6a312f982ee3ac1b4beed14a?utm_campaign=1052&utm_source=git)** | Atlanta,Georgia,United States | On Site | Jul 09 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a503f32fc327f422fef85c8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States of America | On Site | Jul 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flaherty Salmin CPAs](https://www.fs-cpa.com/)** | **[Affordable Housing Tax Intern](https://jobright.ai/jobs/info/6a4fd78e397d8d353c28cd91?utm_campaign=1052&utm_source=git)** | Rochester, NY, United States | On Site | Jul 09 |
 | ↳ | **[Affordable Housing Audit Intern](https://jobright.ai/jobs/info/6a4fd777fc327f422fef6bd8?utm_campaign=1052&utm_source=git)** | Rochester, New York, United States | On Site | Jul 09 |
 | **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Fund Accounting](https://jobright.ai/jobs/info/6a4fcdbe4649561ec08af04f?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 09 |
-| ↳ | **[Intern, Financial Administration](https://jobright.ai/jobs/info/6a4c6562c2d11a6a4667ac84?utm_campaign=1052&utm_source=git)** | Hauppauge, NY, United States | On Site | Jul 09 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Accounting Intern, Temporary Position](https://jobright.ai/jobs/info/6a4fcd0a4649561ec08aefce?utm_campaign=1052&utm_source=git)** | 411 East Chapman Avenue, 92870, Placentia, CA, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

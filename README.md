@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BiggsKofford](https://www.biggskofford.com/)** | **[Tax Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/6a51d47978e364789ca5d7fc?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO, United States | On Site | Jul 10 |
+| **[PCL Construction](http://www.pcl.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a51d08078e364789ca5d402?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 10 |
+| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a51d06557513b72e0c68569?utm_campaign=1052&utm_source=git)** | Kirkland, WA, United States | On Site | Jul 10 |
+| ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a51d03657513b72e0c68524?utm_campaign=1052&utm_source=git)** | Kirkland, WA, United States | On Site | Jul 10 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 Investment Associate Intern](https://jobright.ai/jobs/info/6a51cfd278e364789ca5d2db?utm_campaign=1052&utm_source=git)** | New York City, NY, United States | On Site | Jul 10 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51cea902522b5b722ebce3?utm_campaign=1052&utm_source=git)** | Frederick, MD, United States | On Site | Jul 10 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a51cb5178e364789ca5ce57?utm_campaign=1052&utm_source=git)** | Garden Grove, CA, United States | On Site | Jul 10 |
@@ -70,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c9aa78e364789ca5cce7?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | Remote | Jul 10 |
 | **[The Premiere Group](https://premiere.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a51c4f28d7d3e6cf1cc29cc?utm_campaign=1052&utm_source=git)** | Columbia, MO, United States | On Site | Jul 10 |
+| **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51d7ee02522b5b722ec582?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 10 |
 | **[Pender Ventures](https://www.penderventures.com)** | **[Pender Venture Capital Intern - Fall Term (Sep - Dec 2026)](https://jobright.ai/jobs/info/6a51c9f0bf63b66c7997cb0c?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 10 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/6a51b43e02522b5b722e9e43?utm_campaign=1052&utm_source=git)** | 15 Covington - Covington, LA 70433 | On Site | Jul 10 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a51c65b57513b72e0c67a1e?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jul 10 |
@@ -79,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[PP&Co](http://ppandco.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a3f1346ce7cce40b3422f0b?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Jul 10 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d519bfcdb525785fbce4da?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 10 |
 | **[CSI Support & Development Services](http://www.csi.coop)** | **[Finance & Development Intern](https://jobright.ai/jobs/info/6a51a72f8d7d3e6cf1cc0bc2?utm_campaign=1052&utm_source=git)** | Warren, MI 48093, USA | On Site | Jul 10 |
+| **[CDH](http://cdhcpa.com)** | **[Accounting Intern Bilingual Japanese 会計インターン 日英バイリンガル](https://jobright.ai/jobs/info/6a473ee9971cd25b06f919d8?utm_campaign=1052&utm_source=git)** | Greater Chicago Area, IL, United States | On Site | Jul 10 |
 | **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Austin](https://jobright.ai/jobs/info/6a51b6cf78e364789ca5b6cc?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 10 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a51ba688d7d3e6cf1cc1d99?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Jul 10 |
 | **[Seaboard International Forest Products, LLC](http://www.sifp.com)** | **[Fall 2026 Intern](https://jobright.ai/jobs/info/6a51b3cb78e364789ca5b348?utm_campaign=1052&utm_source=git)** | Nashua, NH, United States | On Site | Jul 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[Operational Finance Intern](https://jobright.ai/jobs/info/69fb3da387a4820e6da869c2?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Jul 10 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Operations](https://jobright.ai/jobs/info/6a46f75a8204a812e98caaa4?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jul 10 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Treasury Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4296e7ff87fd527f984be2?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| **[Autoliv](http://autoliv.com)** | **[Technical Accounting &amp; Controlling Intern](https://jobright.ai/jobs/info/69e4fa83e0cd471b2f122217?utm_campaign=1052&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 10 |
-| **[The McGuire Group Health Care Facilities](https://www.mcguiregroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a50fe798d7d3e6cf1cbdef0?utm_campaign=1052&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 10 |
-| **[Bits in Bio](https://www.bitsinbio.org)** | **[Private Equity Research Intern](https://jobright.ai/jobs/info/6a510303bf63b66c79978137?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/68ccf60477add66568abcadd?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 10 |
-| **[Hudl](http://www.hudl.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/6a346bd5ce501060b5cf12bc?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | Hybrid | Jul 10 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Lawrenceville, GA)](https://jobright.ai/jobs/info/69dfec8314bf245fc7a6eaa8?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

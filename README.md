@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d519bfcdb525785fbce4da?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 10 |
+| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51971402522b5b722e900b?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | Remote | Jul 10 |
+| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51a18bbf63b66c7997a8cb?utm_campaign=1052&utm_source=git)** | New York city, New York, United States | Remote | Jul 10 |
+| **[TransMarket Group](http://www.transmarketgroup.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a5196d957513b72e0c656dc?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 10 |
 | **[Nelnet](https://nelnetinc.com)** | **[Finance Intern - GTM - NBS](https://jobright.ai/jobs/info/6a50fd5c78e364789ca57bea?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 10 |
+| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Risk Technology Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a519aadae4052672fe987e1?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jul 10 |
+| **[Calgary Airports](https://www.yyc.com)** | **[Co-op, Accounting (12 Months Term)](https://jobright.ai/jobs/info/6a5194e402522b5b722e8f27?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jul 10 |
 | **[First Realty Management](http://firstrealtymgt.com)** | **[Financial Analysis/MBA Intern](https://jobright.ai/jobs/info/6a4e6df60ea38951a6ff30e1?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 10 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Actuarial Development Program Intern – Summer 2027](https://jobright.ai/jobs/info/6a513d7b8d7d3e6cf1cc0310?utm_campaign=1052&utm_source=git)** | Richmond, Virginia, United States | Hybrid | Jul 10 |
 | **[PwC](http://pwc.com)** | **[Cincinnati - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a344acece501060b5cf06f3?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 10 |
@@ -67,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51347357513b72e0c64c35?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 10 |
 | **[PwC](http://pwc.com)** | **[Minneapolis - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a351a6b29c90c607e4e124b?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 10 |
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Atlanta)](https://jobright.ai/jobs/info/6a2f7c5a89f8f147d3731e87?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
-| **[PwC](http://pwc.com)** | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a32f2f0910b734910712bab?utm_campaign=1052&utm_source=git)** | CO-Denver, US | On Site | Jul 10 |
-| ↳ | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a50fd2978e364789ca57bb1?utm_campaign=1052&utm_source=git)** | CO-Denver, United States | On Site | Jul 10 |
+| **[PwC](http://pwc.com)** | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a50fd2978e364789ca57bb1?utm_campaign=1052&utm_source=git)** | CO-Denver, United States | On Site | Jul 10 |
+| ↳ | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a32f2f0910b734910712bab?utm_campaign=1052&utm_source=git)** | CO-Denver, US | On Site | Jul 10 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 10 |
 | **[DuPont](http://www.dupont.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a4af1564f64ba41dcb5b8f0?utm_campaign=1052&utm_source=git)** | Wilmington, Delaware, United States of America | On Site | Jul 10 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Intern/Aspiring Financial Planner](https://jobright.ai/jobs/info/6a44f31b9b6dfb6da322bcf8?utm_campaign=1052&utm_source=git)** | Columbus, 3600 Olentangy River Rd, US | On Site | Jul 10 |
@@ -79,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Messer Construction Co.](http://www.messer.com)** | **[Accounting Internship (Fall 2026) - Dayton, OH](https://jobright.ai/jobs/info/6a42a90a6faf7560609677e9?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 10 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/6a511a3dbf63b66c79978dd1?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Ascend](https://ascendtogether.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a511a3a02522b5b722e7735?utm_campaign=1052&utm_source=git)** | Kirkland, WA, United States | On Site | Jul 10 |
+| **[Griffin Hospital](http://www.griffinhealth.org)** | **[Finance Intern](https://jobright.ai/jobs/info/6a509cf95165966a11619884?utm_campaign=1052&utm_source=git)** | Derby, Connecticut, United States | On Site | Jul 10 |
 | **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a5118fabf63b66c79978cdd?utm_campaign=1052&utm_source=git)** | Pineville, LA, United States | On Site | Jul 10 |
 | **[Capstone Financial, LLC](https://capstonefinancialga.com/)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/6a35557ece501060b5cf3d0f?utm_campaign=1052&utm_source=git)** | Overland Park, KS | Hybrid | Jul 10 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Fall 2026](https://jobright.ai/jobs/info/69fb8c3f38179b6f1ae7939b?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jul 10 |
@@ -129,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c6982e2ceb72963b5b57?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 09 |
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c6ad2e2ceb72963b5bb5?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 09 |
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c69742c6dc326e8ec046?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 09 |
-| ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c68342c6dc326e8ec02a?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ, United States | Hybrid | Jul 09 |
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c691f08ee8320766c306?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 09 |
+| ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c68342c6dc326e8ec02a?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ, United States | Hybrid | Jul 09 |
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c66d49f9155aa00075da?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | ↳ | **[Intern IT Audit Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a50c68a5165966a1161bb38?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 09 |
 | **[Aday](http://www.thisisaday.com)** | **[Finance + Operations Intern](https://jobright.ai/jobs/info/6a5071b7fc327f422fef8b0e?utm_campaign=1052&utm_source=git)** | USA, NY | On Site | Jul 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dream](http://www.dream.ca/)** | **[Intern, Corporate Accounting](https://jobright.ai/jobs/info/6a226e764576ad60e9a7a318?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 09 |
 | **[Faraday Future](https://www.ff.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4fe374f57ed168c34172a5?utm_campaign=1052&utm_source=git)** | El Segundo, California, United States | On Site | Jul 09 |
 | **[National Jewish Health](https://www.nationaljewish.org/)** | **[Clinical Research Finance and Grants Management Intern](https://jobright.ai/jobs/info/6a0db131c152ac782447ebff?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jul 09 |
-| **[WH Bass, Inc. General Contractors](http://whbass.com)** | **[Project Accountant Intern](https://jobright.ai/jobs/info/6a509f2fd5d2a327b664c643?utm_campaign=1052&utm_source=git)** | Johns Creek, GA, United States | On Site | Jul 09 |
-| **[Nelnet](https://nelnetinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4d61bbd27b2c4dda9b7542?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 09 |
-| **[Benco Dental](https://www.benco.com/)** | **[Tax Intern (Fall 2026)](https://jobright.ai/jobs/info/6a453cb30dd56c76cc2f2b6d?utm_campaign=1052&utm_source=git)** | Pittston, PA, United States | On Site | Jul 09 |
-| **[First Solar](http://www.firstsolar.com)** | **[Treasury Analyst Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4fd8e89469c0662034f218?utm_campaign=1052&utm_source=git)** | 4300 E. Camelback Road, Phoenix, AZ, 85018, US | On Site | Jul 09 |
-| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a4fc8b6397d8d353c28c7d3?utm_campaign=1052&utm_source=git)** | 200 W Old Wilson Bridge Road, Columbus, OH, 43085, US | Hybrid | Jul 09 |
-| **[EdgeConneX](http://www.edgeconnex.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a406519d528ac2915f968e4?utm_campaign=1052&utm_source=git)** | Herndon, VA, United States | On Site | Jul 09 |
-| **[CF Private Equity](https://www.cfprivateequity.com)** | **[Summer Intern 2027](https://jobright.ai/jobs/info/6a4fe217f57ed168c3417205?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

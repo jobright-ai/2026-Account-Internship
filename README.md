@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Long Island (49596)](https://jobright.ai/jobs/info/69b795ec56973837413cb866?utm_campaign=1052&utm_source=git)** | Jericho, NY, United States | On Site | Jul 11 |
 | **[Zipline](https://www.zipline.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51da1157513b72e0c68f2c?utm_campaign=1052&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 11 |
 | **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a524e3cd007ee02d95f6f54?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA, United States | Hybrid | Jul 11 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[Investment Associate Intern - 2027](https://jobright.ai/jobs/info/6a524a708a74e077472f3edf?utm_campaign=1052&utm_source=git)** | New York City, NY, United States | On Site | Jul 11 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5232c59fbdab22fe13a771?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 11 |
 | **[Crest Industries](http://www.crestoperations.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/6a52316ed007ee02d95f66c2?utm_campaign=1052&utm_source=git)** | Pineville, LA, United States | On Site | Jul 11 |
 | **[Equativ](https://equativ.com)** | **[Treasury and Cash Collection Intern (1 year Internship)](https://jobright.ai/jobs/info/69fd0114b113035a9f8ed8c4?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 11 |
-| **[Amrize](https://www.amrize.com)** | **[Job Cost Intern](https://jobright.ai/jobs/info/6a1625dadc845f4be5bdcfb3?utm_campaign=1052&utm_source=git)** | Rocky View, AB, CA, T1X 0K1 | On Site | Jul 11 |
-| ↳ | **[Job Cost Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a1d7061b51a3a5f2ebf?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA, T2B 0R5 | On Site | Jul 11 |
+| **[Amrize](https://www.amrize.com)** | **[Job Cost Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a1d7061b51a3a5f2ebf?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA, T2B 0R5 | On Site | Jul 11 |
+| ↳ | **[Job Cost Intern](https://jobright.ai/jobs/info/6a1625dadc845f4be5bdcfb3?utm_campaign=1052&utm_source=git)** | Rocky View, AB, CA, T1X 0K1 | On Site | Jul 11 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2027 (Melbourne, FL)](https://jobright.ai/jobs/info/6a521afdd007ee02d95f611a?utm_campaign=1052&utm_source=git)** | Melbourne, FL, United States | On Site | Jul 11 |
 | ↳ | **[Audit Intern - Summer 2027 (Lawrenceville, GA)](https://jobright.ai/jobs/info/69dfec8a5913ad3398146948?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA, United States | On Site | Jul 11 |
 | ↳ | **[Audit Intern - Fall 2027 (Lawrenceville, GA)](https://jobright.ai/jobs/info/69dfec7caba61f141731e48f?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA, United States | On Site | Jul 11 |
@@ -94,9 +95,9 @@ For a complete list, click the following sortable link below:
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51be2c57513b72e0c6717f?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Jul 10 |
 | **[FMI](https://fmicorp.com/)** | **[Investment Banking Analyst Internship / Summer 2027 (CO)](https://jobright.ai/jobs/info/6a51b0f302522b5b722e9a6e?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 10 |
 | ↳ | **[Investment Banking Analyst Internship / Summer 2027 (NC)](https://jobright.ai/jobs/info/6a51b2cc78e364789ca5b1e7?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 10 |
-| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51d9dd02522b5b722ec820?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 10 |
-| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
+| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
+| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51d9dd02522b5b722ec820?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c9aa78e364789ca5cce7?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | Remote | Jul 10 |
 | **[The Premiere Group](https://premiere.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a51c4f28d7d3e6cf1cc29cc?utm_campaign=1052&utm_source=git)** | Columbia, MO, United States | On Site | Jul 10 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51d7ee02522b5b722ec582?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascend](https://ascendtogether.com)** | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6a511a3a02522b5b722e7735?utm_campaign=1052&utm_source=git)** | Kirkland, WA, United States | On Site | Jul 10 |
 | **[Griffin Hospital](http://www.griffinhealth.org)** | **[Finance Intern](https://jobright.ai/jobs/info/6a509cf95165966a11619884?utm_campaign=1052&utm_source=git)** | Derby, Connecticut, United States | On Site | Jul 10 |
 | **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a5118fabf63b66c79978cdd?utm_campaign=1052&utm_source=git)** | Pineville, LA, United States | On Site | Jul 10 |
-| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Intern - Fall 2026](https://jobright.ai/jobs/info/69fb8c3f38179b6f1ae7939b?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a3da52e78237a036d5e2461?utm_campaign=1052&utm_source=git)** | Marina, CA, US | Hybrid | Jul 11 |
 | **[Gabriel, Roeder, Smith & Company](https://www.grsconsulting.com/)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/6a51e6cb78e364789ca5e958?utm_campaign=1052&utm_source=git)** | Southfield, MI, United States | On Site | Jul 10 |
 | **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Accounting Internship - Remote](https://jobright.ai/jobs/info/6a51de858d7d3e6cf1cc40fc?utm_campaign=1052&utm_source=git)** | Pineville, LA, United States | On Site | Jul 10 |
 | **[Aprio](https://www.aprio.com/)** | **[Aprio Spring 2027 Tax Internship Application - Washington DC Metro](https://jobright.ai/jobs/info/6a35e0f0f6b55d12c7921a68?utm_campaign=1052&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 10 |
@@ -110,7 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Risk Technology Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a519aadae4052672fe987e1?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jul 10 |
 | **[Varda Space Industries](http://varda.com)** | **[Financial Analyst Internship - Fall 2026](https://jobright.ai/jobs/info/6a51b31e8d7d3e6cf1cc144e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
 | **[Calgary Airports](https://www.yyc.com)** | **[Co-op, Accounting (12 Months Term)](https://jobright.ai/jobs/info/6a5194e402522b5b722e8f27?utm_campaign=1052&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jul 10 |
-| **[PwC](http://pwc.com)** | **[Pittsburgh - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34376d29c90c607e4de07e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 10 |
+| **[PwC](http://pwc.com)** | **[Chicago - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a344058ce501060b5cf038b?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
+| ↳ | **[Pittsburgh - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34376d29c90c607e4de07e?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 10 |
 | ↳ | **[Houston - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a344944ce501060b5cf068d?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 10 |
 | ↳ | **[Washington DC - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b937f6b55d12c791dcee?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
 | **[First Realty Management](http://firstrealtymgt.com)** | **[Financial Analysis/MBA Intern](https://jobright.ai/jobs/info/6a4e6df60ea38951a6ff30e1?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Spring 2027 Intern, Sales and Use Tax - Plano, TX](https://jobright.ai/jobs/info/68e918770930fe0bc46223e1?utm_campaign=1052&utm_source=git)** | Plano | Hybrid | Jul 10 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a343e82649fdf16292f4daa?utm_campaign=1052&utm_source=git)** | Racine, WI, United States | On Site | Jul 10 |
 | **[AMSC](http://www.amsc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e8b1a24b0fa35a70767f69?utm_campaign=1052&utm_source=git)** | Ayer, MA, US | On Site | Jul 10 |
-| **[ORIX Corporation USA](http://www.orix.com)** | **[Internal Audit Intern (Starting September 2026)](https://jobright.ai/jobs/info/6a1886d6c2a87d6cd3df2210?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 10 |
-| ↳ | **[Internal Audit Intern (Starting September 2026)](https://jobright.ai/jobs/info/6a2b5c580ad4053b108cc043?utm_campaign=1052&utm_source=git)** | Dallas, TX, US | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

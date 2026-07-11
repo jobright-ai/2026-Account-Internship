@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern](https://jobright.ai/jobs/info/6a5110f08d7d3e6cf1cbe94e?utm_campaign=1052&utm_source=git)** | Cleveland, United States | On Site | Jul 11 |
+| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Fundamental Equities Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e8657122f340d29cf36ff?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Jul 11 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/6a528eeee726ec56126a39b1?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 11 |
 | **[Cabinetworks Group](http://www.cabinetworksgroup.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69fa6fb5db88714bcdfc2f11?utm_campaign=1052&utm_source=git)** | US - Michigan - Livonia, US | On Site | Jul 11 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 11 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[FMI](https://fmicorp.com/)** | **[Investment Banking Analyst Internship / Summer 2027 (CO)](https://jobright.ai/jobs/info/6a51b0f302522b5b722e9a6e?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 10 |
 | ↳ | **[Investment Banking Analyst Internship / Summer 2027 (NC)](https://jobright.ai/jobs/info/6a51b2cc78e364789ca5b1e7?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 10 |
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51d9dd02522b5b722ec820?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 10 |
-| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
+| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c9aa78e364789ca5cce7?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | Remote | Jul 10 |
 | **[The Premiere Group](https://premiere.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a51c4f28d7d3e6cf1cc29cc?utm_campaign=1052&utm_source=git)** | Columbia, MO, United States | On Site | Jul 10 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51d7ee02522b5b722ec582?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a32f2f0910b734910712bab?utm_campaign=1052&utm_source=git)** | CO-Denver, US | On Site | Jul 10 |
 | ↳ | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a50fd2978e364789ca57bb1?utm_campaign=1052&utm_source=git)** | CO-Denver, United States | On Site | Jul 10 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 10 |
-| **[DuPont](http://www.dupont.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a4af1564f64ba41dcb5b8f0?utm_campaign=1052&utm_source=git)** | Wilmington, Delaware, United States of America | On Site | Jul 10 |
-| **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Intern/Aspiring Financial Planner](https://jobright.ai/jobs/info/6a44f31b9b6dfb6da322bcf8?utm_campaign=1052&utm_source=git)** | Columbus, 3600 Olentangy River Rd, US | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[Accounting / Finance Intern](https://jobright.ai/jobs/info/6a52d490d007ee02d95f93cf?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
 | **[Four Hands](https://fourhands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6210?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
 | **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/6a52ca379fbdab22fe13d18d?utm_campaign=1052&utm_source=git)** | Kirkland, WA, United States | On Site | Jul 11 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a52c39cd007ee02d95f8e51?utm_campaign=1052&utm_source=git)** | Bronx, NY, United States | On Site | Jul 11 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51be2c57513b72e0c6717f?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Jul 10 |
 | **[FMI](https://fmicorp.com/)** | **[Investment Banking Analyst Internship / Summer 2027 (CO)](https://jobright.ai/jobs/info/6a51b0f302522b5b722e9a6e?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 10 |
 | ↳ | **[Investment Banking Analyst Internship / Summer 2027 (NC)](https://jobright.ai/jobs/info/6a51b2cc78e364789ca5b1e7?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 10 |
-| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
-| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
+| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
+| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51d9dd02522b5b722ec820?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c9aa78e364789ca5cce7?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | Remote | Jul 10 |
 | **[The Premiere Group](https://premiere.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a51c4f28d7d3e6cf1cc29cc?utm_campaign=1052&utm_source=git)** | Columbia, MO, United States | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Accounting Fall Internship](https://jobright.ai/jobs/info/6a51351b78e364789ca59b79?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 10 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51347357513b72e0c64c35?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 10 |
 | **[PwC](http://pwc.com)** | **[Minneapolis - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a351a6b29c90c607e4e124b?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 10 |
-| ↳ | **[Philadelphia - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34ebea649fdf16292f78e3?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

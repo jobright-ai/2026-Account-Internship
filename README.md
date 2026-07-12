@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Hands](https://fourhands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6210?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
+| **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/6a52ca379fbdab22fe13d18d?utm_campaign=1052&utm_source=git)** | Kirkland, WA, United States | On Site | Jul 11 |
+| **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a52c39cd007ee02d95f8e51?utm_campaign=1052&utm_source=git)** | Bronx, NY, United States | On Site | Jul 11 |
 | **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern](https://jobright.ai/jobs/info/6a5110f08d7d3e6cf1cbe94e?utm_campaign=1052&utm_source=git)** | Cleveland, United States | On Site | Jul 11 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Fundamental Equities Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e8657122f340d29cf36ff?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Jul 11 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/6a528eeee726ec56126a39b1?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 11 |
@@ -68,7 +71,8 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Settlements Analyst Intern - Fall Recruitment MD/DC/VA (Remote)](https://jobright.ai/jobs/info/6a52725d8576ec69c014bfb9?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | Remote | Jul 11 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / White Plains (49593)](https://jobright.ai/jobs/info/697166f451f726477183b1e4?utm_campaign=1052&utm_source=git)** | White Plains, NY, United States | On Site | Jul 11 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[NORF Companies - Real Estate Development MBA Intern](https://jobright.ai/jobs/info/6a526b189fbdab22fe13b6ed?utm_campaign=1052&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 11 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Long Island (49596)](https://jobright.ai/jobs/info/69b795ec56973837413cb866?utm_campaign=1052&utm_source=git)** | Jericho, NY, United States | On Site | Jul 11 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Long Island (49577)](https://jobright.ai/jobs/info/6a198d49c2a87d6cd3df977c?utm_campaign=1052&utm_source=git)** | Melville, NY | On Site | Jul 11 |
+| ↳ | **[Winter Internship 2027 / Tax Intern / Long Island (49596)](https://jobright.ai/jobs/info/69b795ec56973837413cb866?utm_campaign=1052&utm_source=git)** | Jericho, NY, United States | On Site | Jul 11 |
 | **[Zipline](https://www.zipline.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51da1157513b72e0c68f2c?utm_campaign=1052&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 11 |
 | **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a524e3cd007ee02d95f6f54?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA, United States | Hybrid | Jul 11 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[Investment Associate Intern - 2027](https://jobright.ai/jobs/info/6a524a708a74e077472f3edf?utm_campaign=1052&utm_source=git)** | New York City, NY, United States | On Site | Jul 11 |
@@ -77,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5232c59fbdab22fe13a771?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 11 |
 | **[Crest Industries](http://www.crestoperations.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/6a52316ed007ee02d95f66c2?utm_campaign=1052&utm_source=git)** | Pineville, LA, United States | On Site | Jul 11 |
 | **[Equativ](https://equativ.com)** | **[Treasury and Cash Collection Intern (1 year Internship)](https://jobright.ai/jobs/info/69fd0114b113035a9f8ed8c4?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 11 |
-| **[Amrize](https://www.amrize.com)** | **[Job Cost Intern](https://jobright.ai/jobs/info/6a1625dadc845f4be5bdcfb3?utm_campaign=1052&utm_source=git)** | Rocky View, AB, CA, T1X 0K1 | On Site | Jul 11 |
-| ↳ | **[Job Cost Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a1d7061b51a3a5f2ebf?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA, T2B 0R5 | On Site | Jul 11 |
+| **[Amrize](https://www.amrize.com)** | **[Job Cost Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a1d7061b51a3a5f2ebf?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA, T2B 0R5 | On Site | Jul 11 |
+| ↳ | **[Job Cost Intern](https://jobright.ai/jobs/info/6a1625dadc845f4be5bdcfb3?utm_campaign=1052&utm_source=git)** | Rocky View, AB, CA, T1X 0K1 | On Site | Jul 11 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2027 (Melbourne, FL)](https://jobright.ai/jobs/info/6a521afdd007ee02d95f611a?utm_campaign=1052&utm_source=git)** | Melbourne, FL, United States | On Site | Jul 11 |
 | ↳ | **[Audit Intern - Summer 2027 (Lawrenceville, GA)](https://jobright.ai/jobs/info/69dfec8a5913ad3398146948?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA, United States | On Site | Jul 11 |
 | ↳ | **[Audit Intern - Fall 2027 (Lawrenceville, GA)](https://jobright.ai/jobs/info/69dfec7caba61f141731e48f?utm_campaign=1052&utm_source=git)** | Lawrenceville, GA, United States | On Site | Jul 11 |
@@ -106,9 +110,9 @@ For a complete list, click the following sortable link below:
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51be2c57513b72e0c6717f?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Jul 10 |
 | **[FMI](https://fmicorp.com/)** | **[Investment Banking Analyst Internship / Summer 2027 (CO)](https://jobright.ai/jobs/info/6a51b0f302522b5b722e9a6e?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 10 |
 | ↳ | **[Investment Banking Analyst Internship / Summer 2027 (NC)](https://jobright.ai/jobs/info/6a51b2cc78e364789ca5b1e7?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 10 |
-| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
+| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
+| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51d9dd02522b5b722ec820?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 10 |
-| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c9aa78e364789ca5cce7?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | Remote | Jul 10 |
 | **[The Premiere Group](https://premiere.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a51c4f28d7d3e6cf1cc29cc?utm_campaign=1052&utm_source=git)** | Columbia, MO, United States | On Site | Jul 10 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51d7ee02522b5b722ec582?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51347357513b72e0c64c35?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 10 |
 | **[PwC](http://pwc.com)** | **[Minneapolis - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a351a6b29c90c607e4e124b?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 10 |
 | ↳ | **[Philadelphia - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34ebea649fdf16292f78e3?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 10 |
-| **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Atlanta)](https://jobright.ai/jobs/info/6a2f7c5a89f8f147d3731e87?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
-| **[PwC](http://pwc.com)** | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a32f2f0910b734910712bab?utm_campaign=1052&utm_source=git)** | CO-Denver, US | On Site | Jul 10 |
-| ↳ | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a50fd2978e364789ca57bb1?utm_campaign=1052&utm_source=git)** | CO-Denver, United States | On Site | Jul 10 |
-| **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

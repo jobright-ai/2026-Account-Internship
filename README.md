@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Framatome North America](www.framatome.com/en)** | **[Finance Intern (Accounts Payable)](https://jobright.ai/jobs/info/6a533eeed007ee02d95faca8?utm_campaign=1052&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 12 |
+| **[Servicon](https://servicon.com/)** | **[Revenue Administrator Intern](https://jobright.ai/jobs/info/6a533ab2e726ec56126a62d0?utm_campaign=1052&utm_source=git)** | Culver City, CA, United States | On Site | Jul 11 |
+| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Cleveland](https://jobright.ai/jobs/info/6a5337c88576ec69c014f0f5?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 11 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a53375b8576ec69c014f0cc?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 11 |
 | **[LvlUp Ventures](https://www.lvlup.vc/)** | **[Venture Capital (VC) Intern](https://jobright.ai/jobs/info/6a531685d007ee02d95fa342?utm_campaign=1052&utm_source=git)** | Miami-FTL Area | Hybrid | Jul 11 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Audit Intern](https://jobright.ai/jobs/info/6a5301bf8a74e077472f6ef0?utm_campaign=1052&utm_source=git)** | Syracuse, NY 13202, USA | On Site | Jul 11 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a52f8128ef95364ead90858?utm_campaign=1052&utm_source=git)** | Davison, MI, United States | On Site | Jul 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51971402522b5b722e900b?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51a18bbf63b66c7997a8cb?utm_campaign=1052&utm_source=git)** | New York city, New York, United States | Remote | Jul 10 |
 | **[TransMarket Group](http://www.transmarketgroup.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a5196d957513b72e0c656dc?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 10 |
-| **[SECU](https://www.ncsecu.org/)** | **[Intern- Tax Advantaged Solution Part-time Fall 2026](https://jobright.ai/jobs/info/6a4d5d14c643fd23fed3cb06?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Jul 10 |
-| **[Nelnet](https://nelnetinc.com)** | **[Finance Intern - GTM - NBS](https://jobright.ai/jobs/info/6a50fd5c78e364789ca57bea?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 10 |
-| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Risk Technology Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a519aadae4052672fe987e1?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jul 10 |
-| **[Varda Space Industries](http://varda.com)** | **[Financial Analyst Internship - Fall 2026](https://jobright.ai/jobs/info/6a51b31e8d7d3e6cf1cc144e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

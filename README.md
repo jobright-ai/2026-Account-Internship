@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a54287cc8eb0843027aef0d?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 12 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 12 |
 | **[Aerotech, Inc.](http://www.aerotech.com/Default.aspx)** | **[FINANCE & OPERATIONS ASSOCIATE INTERNSHIP AT KST](https://jobright.ai/jobs/info/6a5410bb8ef95364ead9447b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 12 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: Financial Analyst – Rochester MN](https://jobright.ai/jobs/info/6a51cdc757513b72e0c6826a?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | On Site | Jul 12 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 12 |
 | ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 12 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5232c59fbdab22fe13a771?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 12 |
-| ↳ | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a0703cf24dcb03739f1de7a?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 12 |
+| ↳ | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1dafa8e24ef365258390af?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 12 |
 | **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/6a53b9718ef95364ead93123?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Jul 12 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Healthcare Advisory Intern (49584)](https://jobright.ai/jobs/info/6a2a6c922cde2824469c1bab?utm_campaign=1052&utm_source=git)** | Beachwood, OH, United States | On Site | Jul 12 |
 | **[Northmarq](http://www.northmarq.com)** | **[Internship Pipeline](https://jobright.ai/jobs/info/6a53b05c8576ec69c0150999?utm_campaign=1052&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 Investment Associate Intern](https://jobright.ai/jobs/info/6a51cfd278e364789ca5d2db?utm_campaign=1052&utm_source=git)** | New York City, NY, United States | On Site | Jul 10 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51cea902522b5b722ebce3?utm_campaign=1052&utm_source=git)** | Frederick, MD, United States | On Site | Jul 10 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a51cb5178e364789ca5ce57?utm_campaign=1052&utm_source=git)** | Garden Grove, CA, United States | On Site | Jul 10 |
-| **[PCL Construction](http://www.pcl.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a51c8aa57513b72e0c67cfe?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

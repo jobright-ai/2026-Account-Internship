@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a559f3613cd7d29d5e32f51?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Macroeconomic Work Intern](https://jobright.ai/jobs/info/6a559c7e78611229b823d4fa?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
 | ↳ | **[WBG Pioneer - World Bank Treasury Intern](https://jobright.ai/jobs/info/6a559afa7ab5da6d2628f395?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
 | ↳ | **[WBG Pioneer - Macroeconomic Modeling and Fiscal Analytics Intern](https://jobright.ai/jobs/info/6a559a9178d1443bd1e80ffb?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
@@ -126,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/69e60cd53aa0c47964391c31?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Jul 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA, United States | On Site | Jul 13 |
 | **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 13 |
-| ↳ | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69c706a91b5ad028873895ae?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 13 |
+| ↳ | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 13 |
 | **[LightPath Technologies](http://www.lightpath.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a31ed872ee3ac1b4bef1cd9?utm_campaign=1052&utm_source=git)** | G5 Infrared LLC - Hudson, NH 03051 | On Site | Jul 13 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/699085420f6f7e7a2cecf9e9?utm_campaign=1052&utm_source=git)** | Minth North America, Inc., Wixom, MI, US | On Site | Jul 13 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a54e1ad31f2d15a8d813cfc?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/6a086887403fc339507edddd?utm_campaign=1052&utm_source=git)** | 2620 S. 55th Street, Tempe, AZ, 85282, US | On Site | Jul 13 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/6a54cd6981744f383a313402?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Advantax, Inc.](http://www.advantax.com/)** | **[Property Tax Intern](https://jobright.ai/jobs/info/6a38c87af6b55d12c7925e5a?utm_campaign=1052&utm_source=git)** | Elgin, IL, US | On Site | Jul 13 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d519bfcdb525785fbce4da?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 13 |
-| ↳ | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/6a528eeee726ec56126a39b1?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 13 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/6a528eeee726ec56126a39b1?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 13 |
+| ↳ | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d519bfcdb525785fbce4da?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 13 |
 | **[Kirsch CPA Group](https://www.kirschcpa.com)** | **[2027 Summer Accounting / Tax Internship](https://jobright.ai/jobs/info/6a54c3887aaba06019d05097?utm_campaign=1052&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/6a54c2cef7e23d26a08feb05?utm_campaign=1052&utm_source=git)** | Braintree, MA, United States | On Site | Jul 13 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/6a28fb2140ac8e32932a4ac5?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Philadelphia (49589)](https://jobright.ai/jobs/info/69a6851dd706a731db387360?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | On Site | Jul 12 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 12 |
 | ↳ | **[Winter Internship 2027 / Audit Intern / San Diego (49581)](https://jobright.ai/jobs/info/6a299cc20c4972328e7e4a22?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Jul 12 |
-| **[Aerotech, Inc.](http://www.aerotech.com/Default.aspx)** | **[FINANCE & OPERATIONS ASSOCIATE INTERNSHIP AT KST](https://jobright.ai/jobs/info/6a5410bb8ef95364ead9447b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

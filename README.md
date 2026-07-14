@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a55beaeef22935f2e3f68c1?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jul 13 |
+| **[Alluvionic Inc.](https://alluvionic.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a55beaa05c65f7c8f4c7067?utm_campaign=1052&utm_source=git)** | Melbourne, FL, United States | On Site | Jul 13 |
+| **[Picus Capital](http://www.picuscap.com)** | **[Off-cycle Internship - Investment Analyst/Associate(m/f/d)](https://jobright.ai/jobs/info/6a55bd1f2ce8bf79a13a04e0?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
+| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a55bc6bfdf4fa71202b45d7?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 13 |
+| **[Baker Newman Noyes](http://bnncpa.com)** | **[2027 Internship](https://jobright.ai/jobs/info/6a55ba92ec54dd532d812c41?utm_campaign=1052&utm_source=git)** | Manchester, NH, United States | On Site | Jul 13 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 - Investment Associate Intern](https://jobright.ai/jobs/info/6a55b1f314f1040fa611a93e?utm_campaign=1052&utm_source=git)** | New York City, United States | On Site | Jul 13 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a55b12fef22935f2e3f5c6d?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | On Site | Jul 13 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Fundamental Equities Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e8657122f340d29cf36ff?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jul 13 |
@@ -130,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a54f2214119652ff386253b?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Jul 13 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/69e60cd53aa0c47964391c31?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Jul 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA, United States | On Site | Jul 13 |
-| **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69c706a91b5ad028873895ae?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 13 |
+| **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 13 |
 | ↳ | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 13 |
 | **[LightPath Technologies](http://www.lightpath.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a31ed872ee3ac1b4bef1cd9?utm_campaign=1052&utm_source=git)** | G5 Infrared LLC - Hudson, NH 03051 | On Site | Jul 13 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/699085420f6f7e7a2cecf9e9?utm_campaign=1052&utm_source=git)** | Minth North America, Inc., Wixom, MI, US | On Site | Jul 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascend](https://ascendtogether.com)** | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/6a54a078c8eb0843027b07ec?utm_campaign=1052&utm_source=git)** | Kirkland, WA, United States | On Site | Jul 13 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/6a546dd58ef95364ead958e2?utm_campaign=1052&utm_source=git)** | Houma, LA, United States | On Site | Jul 12 |
 | **[EEPB](https://www.eepb.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/6a546cd7d007ee02d95fec33?utm_campaign=1052&utm_source=git)** | HOUSTON, TX 77092 | On Site | Jul 12 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a546cc98576ec69c015320c?utm_campaign=1052&utm_source=git)** | HOUSTON, TX 77092, United States | On Site | Jul 12 |
-| **[M&T Bank](http://www.mtb.com)** | **[2027 Corporate Summer Internship Program- Accounting](https://jobright.ai/jobs/info/6a5464bfc8eb0843027afbde?utm_campaign=1052&utm_source=git)** | Buffalo, NY, United States | Hybrid | Jul 12 |
-| ↳ | **[2027 Corporate Summer Internship Program- Commercial Banking](https://jobright.ai/jobs/info/6a5464ade726ec56126aa13e?utm_campaign=1052&utm_source=git)** | Buffalo, NY, United States | Hybrid | Jul 12 |
-| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - San Francisco](https://jobright.ai/jobs/info/6a54511fe726ec56126a9dbf?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
-| **[Baker Newman Noyes](http://bnncpa.com)** | **[2027 Internship](https://jobright.ai/jobs/info/6a544a0d8ef95364ead950a1?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

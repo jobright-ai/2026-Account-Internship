@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes Dennig](http://barnesdennig.com)** | **[Tax  Internship / January-April (Winter) 2027 - Indianapolis, IN](https://jobright.ai/jobs/info/6a55d509ec54dd532d814798?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
+| **[LAZ Parking](https://www.lazparking.com)** | **[Internship, Accounting - Hartford, CT](https://jobright.ai/jobs/info/6a435fdae09ecb4959644583?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | On Site | Jul 13 |
 | **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a55d463ec54dd532d814698?utm_campaign=1052&utm_source=git)** | Westlake Village, CA, United States | Hybrid | Jul 13 |
 | **[3CDC](https://www.3cdc.org)** | **[Accounting Intern - Spring 2027](https://jobright.ai/jobs/info/6a55d225ec54dd532d814280?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 13 |
 | **[Interstate Business Solutions, LLC](https://cleanerhighways.com)** | **[Intern - Fall 2026 (Noblesville IN)](https://jobright.ai/jobs/info/6a55d03e05c65f7c8f4c81f1?utm_campaign=1052&utm_source=git)** | Noblesville, IN 46060, United States | On Site | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a54f2214119652ff386253b?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Jul 13 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/69e60cd53aa0c47964391c31?utm_campaign=1052&utm_source=git)** | Wixom, MI | On Site | Jul 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA, United States | On Site | Jul 13 |
-| **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 13 |
-| ↳ | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a57e6de9f1f56462cf6732a?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
+| **[High Point Federal Credit Union](https://www.highpointfcu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a57e0299838a11e5d835597?utm_campaign=1052&utm_source=git)** | Olean, NY, United States | On Site | Jul 15 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a57dfb58f51964c04045585?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 15 |
+| **[Gorton's](https://gortons.com/)** | **[Finance Co-op -Intern](https://jobright.ai/jobs/info/6a57d9f09838a11e5d83529a?utm_campaign=1052&utm_source=git)** | Gloucester, MA, United States | Hybrid | Jul 15 |
 | **[Stein's Garden & Home](http://www.shopsteins.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a57d80c9838a11e5d83517a?utm_campaign=1052&utm_source=git)** | Home Office Stein's Garden & Home, 5400 S 27th St., Milwaukee, Wisconsin, United States of America | On Site | Jul 15 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Bradenton, FL](https://jobright.ai/jobs/info/6a57d63321f64463ad35c6a2?utm_campaign=1052&utm_source=git)** | 07 Bradenton - Bradenton, FL 34205, United States | On Site | Jul 15 |
 | **[Hawkins Delafield & Wood LLP](http://hawkins.com)** | **[Internship, Financial Analyst at a Law Firm](https://jobright.ai/jobs/info/6a57d4a6efb06a45240dd8fa?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 15 |
@@ -119,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Bancroft](https://www.bancroft.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a565f8d10c4d945d8649160?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Jul 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Tax Intern - Fall/Spring Semester](https://jobright.ai/jobs/info/6a569c56f7517b519ad56d5f?utm_campaign=1052&utm_source=git)** | Mayfield Heights, OH, United States | On Site | Jul 14 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a56d4df53b3962b910b2d09?utm_campaign=1052&utm_source=git)** | Lakewood, CA, United States | On Site | Jul 14 |
+| **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Internal Auditor](https://jobright.ai/jobs/info/6a57d8a072fe7a7b98dcb3d6?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Jul 14 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/6a56d85821f64463ad357349?utm_campaign=1052&utm_source=git)** | Houma, LA 70360, United States | On Site | Jul 14 |
 | **[Bonduelle Americas](https://bonduelleamericas.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a56bf8153b3962b910b27d4?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 14 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Providence (49591)](https://jobright.ai/jobs/info/6a56bcba21f64463ad356b72?utm_campaign=1052&utm_source=git)** | Providence, RI 02903, United States | On Site | Jul 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Internship 2027 (Denver)](https://jobright.ai/jobs/info/6a51b0dbbf63b66c7997afbc?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jul 14 |
 | **[Baker Newman Noyes](http://bnncpa.com)** | **[2027 Internship](https://jobright.ai/jobs/info/6a5660d953b3962b910afb5d?utm_campaign=1052&utm_source=git)** | Woburn, MA, United States | On Site | Jul 14 |
 | **[BiggsKofford](https://www.biggskofford.com/)** | **[Tax Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/6a51d47978e364789ca5d7fc?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO, United States | On Site | Jul 14 |
-| ↳ | **[Tax Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/69ca49a0e565c26a7003caef?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO | On Site | Jul 14 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Actuarial Corporate Intern - 2nd Year](https://jobright.ai/jobs/info/6a5657c2efb06a45240d5251?utm_campaign=1052&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 14 |
-| **[TPG](http://www.tpg.com)** | **[Responsible Investing, Intern / Fall Research Assistant](https://jobright.ai/jobs/info/6a453a49c2d11a6a46668668?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 14 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/6a565624f7517b519ad54fe1?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 14 |
-| **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6a56528d53b3962b910af6e7?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/6a56d85821f64463ad357349?utm_campaign=1052&utm_source=git)** | Houma, LA 70360, United States | On Site | Jul 14 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a56d4df53b3962b910b2d09?utm_campaign=1052&utm_source=git)** | Lakewood, CA, United States | On Site | Jul 14 |
 | **[Bonduelle Americas](https://bonduelleamericas.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a56bf8153b3962b910b27d4?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 14 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Providence (49591)](https://jobright.ai/jobs/info/6a56bcba21f64463ad356b72?utm_campaign=1052&utm_source=git)** | Providence, RI 02903, United States | On Site | Jul 14 |
@@ -108,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6a5645cfefb06a45240d4a2e?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 14 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Operations Intern - Fall 2026](https://jobright.ai/jobs/info/6a0eede0619335383fb28385?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Jul 14 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a56446ae9b77f668bd6228c?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 14 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56425c21f64463ad3533d2?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, USA | On Site | Jul 14 |
-| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a564297e9b77f668bd6213d?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, United States | On Site | Jul 14 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a564297e9b77f668bd6213d?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, United States | On Site | Jul 14 |
 | ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56427053b3962b910aee7a?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | Jul 14 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56425c21f64463ad3533d2?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, USA | On Site | Jul 14 |
 | ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c1efb06a45240d487d?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, United States | On Site | Jul 14 |
 | ↳ | **[Audit Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c053b3962b910aeea8?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 14 |
 | ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642ab10c4d945d864850b?utm_campaign=1052&utm_source=git)** | Dallas, TX 75254, United States | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Hotel Lodging Tax Intern (4739-02)](https://jobright.ai/jobs/info/6a55d009fdf4fa71202b5a89?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 13 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a55cff2ec54dd532d813de9?utm_campaign=1052&utm_source=git)** | Media, PA, United States | On Site | Jul 13 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern - Latham, NY (On-Site)](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e9?utm_campaign=1052&utm_source=git)** | Latham, NY 12110, United States | On Site | Jul 13 |
-| **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Tax Intern](https://jobright.ai/jobs/info/6a55cfb1ec54dd532d813d2a?utm_campaign=1052&utm_source=git)** | Schenectady, NY, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

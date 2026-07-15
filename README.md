@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a56d4df53b3962b910b2d09?utm_campaign=1052&utm_source=git)** | Lakewood, CA, United States | On Site | Jul 14 |
 | **[Bonduelle Americas](https://bonduelleamericas.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a56bf8153b3962b910b27d4?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 14 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Providence (49591)](https://jobright.ai/jobs/info/6a56bcba21f64463ad356b72?utm_campaign=1052&utm_source=git)** | Providence, RI 02903, United States | On Site | Jul 14 |
 | **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[Valuation Intern - Winter 2027 - Oakbrook Terrace, IL](https://jobright.ai/jobs/info/6a568286e9b77f668bd63da3?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Jul 14 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a56b07110c4d945d864b506?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | ↳ | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a56b06810c4d945d864b504?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Retail, Rebate Accounting](https://jobright.ai/jobs/info/6a56a369e9b77f668bd64d6c?utm_campaign=1052&utm_source=git)** | Loveland, CO, United States | On Site | Jul 14 |
-| **[YFK Office Lease](https://www.yfkofficelease.com/)** | **[Intern Analyst - Commercial Real Estate](https://jobright.ai/jobs/info/6a56a67621f64463ad3561c7?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jul 14 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a56a63910c4d945d864b26f?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[Elevate Financial Planning and Wealth Management](elevatefpwm.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a56a476f7517b519ad573c8?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL, United States | Hybrid | Jul 14 |
 | **[North Horizon Holdings Inc.](https://northhorizon.com)** | **[Junior Accountant, Intern/Coop (Accounts Payable)](https://jobright.ai/jobs/info/6a4344da501d340b4a82ef52?utm_campaign=1052&utm_source=git)** | North York, ON, Canada | On Site | Jul 14 |
@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Affordable Equity Partners, Inc.](https://aepartners.com/)** | **[Summer Intern of Real Estate Asset Management](https://jobright.ai/jobs/info/6a569e2921f64463ad355c9e?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 14 |
 | **[PACCAR](http://www.paccar.com/)** | **[Accounting Intern 1](https://jobright.ai/jobs/info/6a569c8553b3962b910b158a?utm_campaign=1052&utm_source=git)** | Chillicothe, OH, United States | On Site | Jul 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Tax Intern - Fall/Spring Semester](https://jobright.ai/jobs/info/6a569c56f7517b519ad56d5f?utm_campaign=1052&utm_source=git)** | Mayfield Heights, OH, United States | On Site | Jul 14 |
+| **[Tri-Arrows Aluminum, Inc.](https://triaa.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a56d34fe9b77f668bd65e71?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Jul 14 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a569ac753b3962b910b145c?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/6a56659e10c4d945d86494d4?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 14 |
 | **[Héroux-Devtek](http://www.herouxdevtek.com/)** | **[Stagiaire Finance - Automne 2026](https://jobright.ai/jobs/info/6a46920e8204a812e98c8ee1?utm_campaign=1052&utm_source=git)** | Longueuil, Quebec, Canada | On Site | Jul 14 |
@@ -107,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Collections Intern](https://jobright.ai/jobs/info/6a5645cfefb06a45240d4a2e?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 14 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Operations Intern - Fall 2026](https://jobright.ai/jobs/info/6a0eede0619335383fb28385?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Jul 14 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a56446ae9b77f668bd6228c?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 14 |
-| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56427053b3962b910aee7a?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | Jul 14 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56425c21f64463ad3533d2?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, USA | On Site | Jul 14 |
+| **[Bennett Thrasher](http://www.btcpa.net/)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56425c21f64463ad3533d2?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, USA | On Site | Jul 14 |
 | ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a564297e9b77f668bd6213d?utm_campaign=1052&utm_source=git)** | Atlanta, GA 30339, United States | On Site | Jul 14 |
+| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a56427053b3962b910aee7a?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, USA | On Site | Jul 14 |
 | ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c1efb06a45240d487d?utm_campaign=1052&utm_source=git)** | Denver, CO 80202, United States | On Site | Jul 14 |
 | ↳ | **[Audit Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642c053b3962b910aeea8?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 14 |
 | ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5642ab10c4d945d864850b?utm_campaign=1052&utm_source=git)** | Dallas, TX 75254, United States | On Site | Jul 14 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Arista Networks](http://www.arista.com)** | **[Internal Audit Intern – Accounting & Finance](https://jobright.ai/jobs/info/6a5619e2e9b77f668bd616d8?utm_campaign=1052&utm_source=git)** | OR, United States | Remote | Jul 14 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Florham Park (49597)](https://jobright.ai/jobs/info/6a5612bce9b77f668bd61518?utm_campaign=1052&utm_source=git)** | Florham Park, NJ 07932, United States | Hybrid | Jul 14 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e5c7cce0cd471b2f122b94?utm_campaign=1052&utm_source=git)** | Springfield, OH, United States | On Site | Jul 14 |
-| **[tms](https://themarketingstore.com)** | **[Procurement Analyst Intern](https://jobright.ai/jobs/info/6a55f84a21f64463ad3513ab?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| ↳ | **[Procurement Analyst Intern](https://jobright.ai/jobs/info/6a1def063e538a28c204d1d1?utm_campaign=1052&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jul 14 |
+| **[tms](https://themarketingstore.com)** | **[Procurement Analyst Intern](https://jobright.ai/jobs/info/6a1def063e538a28c204d1d1?utm_campaign=1052&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jul 14 |
+| ↳ | **[Procurement Analyst Intern](https://jobright.ai/jobs/info/6a55f84a21f64463ad3513ab?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a39bc03649fdf1629302afc?utm_campaign=1052&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Jul 14 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Actuarial Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53ce47c8eb0843027adce1?utm_campaign=1052&utm_source=git)** | Toronto-40 CA, Canada | Hybrid | Jul 14 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/698dbe77f64d441a164fed31?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a55cff2ec54dd532d813de9?utm_campaign=1052&utm_source=git)** | Media, PA, United States | On Site | Jul 13 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern - Latham, NY (On-Site)](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e9?utm_campaign=1052&utm_source=git)** | Latham, NY 12110, United States | On Site | Jul 13 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Tax Intern](https://jobright.ai/jobs/info/6a55cfb1ec54dd532d813d2a?utm_campaign=1052&utm_source=git)** | Schenectady, NY, United States | On Site | Jul 13 |
-| **[AutoPayPlus](https://www.usequityadvantage.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a432fa1cbf92c7bcd36e67c?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

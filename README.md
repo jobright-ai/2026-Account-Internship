@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CECO Environmental Corporation](https://www.cecoenviro.com)** | **[Finance and Accounting Analyst Intern](https://jobright.ai/jobs/info/6a57fc6f68d16a30e241103f?utm_campaign=1052&utm_source=git)** | Addison, TX, United States | On Site | Jul 15 |
+| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Winter Intern - Financial Reporting and Consolidations Job Details / Kinross Gold Corporation](https://jobright.ai/jobs/info/6a57f49d68d16a30e2410d82?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 15 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, Purchasing - Fall 2026](https://jobright.ai/jobs/info/6a57f1dd8f51964c04045e3a?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 15 |
 | **[Flowline Fittings](www.flowlinefittings.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a57f18668d16a30e2410b76?utm_campaign=1052&utm_source=git)** | NEW CASTLE, PA 16101, United States | On Site | Jul 15 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Florham Park (49592)](https://jobright.ai/jobs/info/6a57f1728f51964c04045db1?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | Hybrid | Jul 15 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Trader: Equity Quantitative Research – Intern (US)](https://jobright.ai/jobs/info/6a57ea348f51964c04045941?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a57e9219838a11e5d835859?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 15 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Data Analytics Audit Intern](https://jobright.ai/jobs/info/6a57e6de9f1f56462cf6732a?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
-| **[High Point Federal Credit Union](https://www.highpointfcu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a57e0299838a11e5d835597?utm_campaign=1052&utm_source=git)** | Olean, NY, United States | On Site | Jul 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a57dfb58f51964c04045585?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 15 |
 | **[Gorton's](https://gortons.com/)** | **[Finance Co-op -Intern](https://jobright.ai/jobs/info/6a57d9f09838a11e5d83529a?utm_campaign=1052&utm_source=git)** | Gloucester, MA, United States | Hybrid | Jul 15 |
 | **[Stein's Garden & Home](http://www.shopsteins.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a57d80c9838a11e5d83517a?utm_campaign=1052&utm_source=git)** | Home Office Stein's Garden & Home, 5400 S 27th St., Milwaukee, Wisconsin, United States of America | On Site | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Accounting/Finance (Fall 2026)](https://jobright.ai/jobs/info/6a56882c21f64463ad355401?utm_campaign=1052&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 14 |
 | **[Maverix Private Equity](https://www.maverixpe.com)** | **[Private Equity Intern - Summer 2027](https://jobright.ai/jobs/info/6a5682b5f7517b519ad56334?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 14 |
 | **[Walker & Armstrong LLP](https://www.wa-cpas.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/6a3ea8b4ce7cce40b3421292?utm_campaign=1052&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 14 |
-| **[Marten Transport](http://marten.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a567ca821f64463ad354d16?utm_campaign=1052&utm_source=git)** | Mondovi, WI, United States | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

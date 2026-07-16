@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baratz & Associates, P.A.](https://www.baratzcpa.com/)** | **[Busy Season Tax Intern, Ft. Washington, PA - 2027](https://jobright.ai/jobs/info/6a5842d98f51964c040476f5?utm_campaign=1052&utm_source=git)** | Ft. Washington, PA | On Site | Jul 15 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 15 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Assurance Intern (January 2027)](https://jobright.ai/jobs/info/6a58204068d16a30e2411d29?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jul 15 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Winter Intern - Financial Reporting and Consolidations](https://jobright.ai/jobs/info/6a582ce18f51964c040473ab?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 15 |
 | **[CECO Environmental Corporation](https://www.cecoenviro.com)** | **[Finance and Accounting Analyst Intern](https://jobright.ai/jobs/info/6a57fc6f68d16a30e241103f?utm_campaign=1052&utm_source=git)** | Addison, TX, United States | On Site | Jul 15 |
@@ -69,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Payment Integrity Intern (Remote)](https://jobright.ai/jobs/info/6a581d0a3330ca6f993c34d2?utm_campaign=1052&utm_source=git)** | Columbia, MD, United States | Remote | Jul 15 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a569ac753b3962b910b145c?utm_campaign=1052&utm_source=git)** | Headquarters, United States of America | Remote | Jul 15 |
 | **[Acres](https://www.acres.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5830799838a11e5d837498?utm_campaign=1052&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 15 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/6a528eeee726ec56126a39b1?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 15 |
-| ↳ | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d519bfcdb525785fbce4da?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 15 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d519bfcdb525785fbce4da?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 15 |
+| ↳ | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/6a528eeee726ec56126a39b1?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a57dcbf9838a11e5d835395?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 15 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Public Financial Management (PFM) Intern](https://jobright.ai/jobs/info/6a58050368d16a30e24112cf?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a58048e68d16a30e2411266?utm_campaign=1052&utm_source=git)** | Westlake Village, CA, United States | Hybrid | Jul 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[Valuation Intern - Winter 2027 - Atlanta, GA](https://jobright.ai/jobs/info/6a56826bf7517b519ad562d4?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jul 14 |
 | ↳ | **[Valuation Intern - Winter 2027 - Chicago, IL (Loop)](https://jobright.ai/jobs/info/6a568273f7517b519ad562e1?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 14 |
 | ↳ | **[M&A Intern - Summer 2027 - Chicago, IL (Loop)](https://jobright.ai/jobs/info/6a569eb721f64463ad355d37?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| ↳ | **[Valuation Intern - Summer 2027 - Oakbrook Terrace, IL](https://jobright.ai/jobs/info/6a569e8de9b77f668bd649d7?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace, Illinois, United States | On Site | Jul 14 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a56b07110c4d945d864b506?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

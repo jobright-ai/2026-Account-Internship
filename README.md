@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a46295f971cd25b06f8c43a?utm_campaign=1052&utm_source=git)** | Florida - Deerfield Beach, US | Hybrid | Jul 16 |
+| **[Info Resume Edge](https://www.inforesumeedge.com/)** | **[Finance Intern, United States](https://jobright.ai/jobs/info/6a58ae163ac7627fe9ffa295?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | On Site | Jul 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2027 (Stamford)](https://jobright.ai/jobs/info/6a16f4461430333075ccbabd?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | Hybrid | Jul 16 |
 | **[Lockwood™](http://thelockwoodgrp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a55b12fef22935f2e3f5c6d?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Jul 16 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a5890f09838a11e5d839250?utm_campaign=1052&utm_source=git)** | Monrovia, CA, United States | Hybrid | Jul 16 |
@@ -82,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[DRW](http://drw.com/)** | **[Quantitative Trading Analyst Intern](https://jobright.ai/jobs/info/6a54f9d3268af95237be86b9?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 15 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Assurance Intern (January 2027)](https://jobright.ai/jobs/info/6a58204068d16a30e2411d29?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Jul 15 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Winter Intern - Financial Reporting and Consolidations](https://jobright.ai/jobs/info/6a582ce18f51964c040473ab?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 15 |
-| **[CECO Environmental Corporation](https://www.cecoenviro.com)** | **[Finance and Accounting Analyst Intern](https://jobright.ai/jobs/info/6a57fc6f68d16a30e241103f?utm_campaign=1052&utm_source=git)** | Addison, TX, United States | On Site | Jul 15 |
+| **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Finance and Accounting Analyst Intern](https://jobright.ai/jobs/info/6a57fc6f68d16a30e241103f?utm_campaign=1052&utm_source=git)** | Addison, TX, United States | On Site | Jul 15 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Investment Analytics Engagement](https://jobright.ai/jobs/info/6a4bd2b94f64ba41dcb5d52d?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jul 15 |
 | **[PCL Construction](http://www.pcl.com)** | **[Accounting Intern Job Details / PCL Construction](https://jobright.ai/jobs/info/6a582b843330ca6f993c3964?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 15 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/6a5273ece726ec56126a3275?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 15 |
@@ -94,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Acres](https://www.acres.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5830799838a11e5d837498?utm_campaign=1052&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 15 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/6a528eeee726ec56126a39b1?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 15 |
 | ↳ | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d519bfcdb525785fbce4da?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 15 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a57dfb58f51964c04045585?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 15 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a57dcbf9838a11e5d835395?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 15 |
 | **[West77 Partners](https://west77partners.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5851ce9838a11e5d837729?utm_campaign=1052&utm_source=git)** | Lehi, UT, United States | On Site | Jul 15 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Public Financial Management (PFM) Intern](https://jobright.ai/jobs/info/6a58050368d16a30e24112cf?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a58048e68d16a30e2411266?utm_campaign=1052&utm_source=git)** | Westlake Village, CA, United States | Hybrid | Jul 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a574ad3f7517b519ad59c30?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA, United States | Hybrid | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Finance Volunteer/Intern](https://jobright.ai/jobs/info/6a5747a810c4d945d864d9a5?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[POOL: RedTire Program Finance Analyst Student Intern](https://jobright.ai/jobs/info/6a57792ae9b77f668bd6812f?utm_campaign=1052&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 15 |
-| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a57290af7517b519ad594c0?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Jul 14 |
-| **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6a571b0610c4d945d864d048?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

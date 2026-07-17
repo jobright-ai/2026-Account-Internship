@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Melanson](https://www.melansoncpas.com)** | **[Intern - Commercial Tax](https://jobright.ai/jobs/info/6a59d2654da96a42cfd92a51?utm_campaign=1052&utm_source=git)** | Merrimack, NH 03054, United States | On Site | Jul 16 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Financial Planning Internship Program](https://jobright.ai/jobs/info/6a59c7fd63a8f619507c39d7?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Jul 16 |
 | ↳ | **[Financial Planning Internship](https://jobright.ai/jobs/info/6a59c7e14da96a42cfd927dd?utm_campaign=1052&utm_source=git)** | Springfield, IL, United States | On Site | Jul 16 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Accounting/Finance Intern Fall 2026 (PA or KY)](https://jobright.ai/jobs/info/6a59b99bc8e3a473cb8a8366?utm_campaign=1052&utm_source=git)** | Louisville, KY | Hybrid | Jul 16 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a592b2463a8f619507c0ba7?utm_campaign=1052&utm_source=git)** | Middletown, RI, United States | On Site | Jul 16 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a592a18856af468ab002388?utm_campaign=1052&utm_source=git)** | Bonita Springs, FL, United States | On Site | Jul 16 |
 | **[HCJ CPAs & Advisors](https://www.hcjcpa.com/)** | **[Accounting Intern - Audit, Tax, CAS](https://jobright.ai/jobs/info/6a5927224da96a42cfd8f738?utm_campaign=1052&utm_source=git)** | Little Rock - Little Rock, AR 72212 | On Site | Jul 16 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c839?utm_campaign=1052&utm_source=git)** | Michigan - Lansing (Rehmann Office) | On Site | Jul 16 |
-| ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/6a5341389fbdab22fe13ed16?utm_campaign=1052&utm_source=git)** | Michigan - Troy (Rehmann Office), United States of America | On Site | Jul 16 |
+| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/6a5341389fbdab22fe13ed16?utm_campaign=1052&utm_source=git)** | Michigan - Troy (Rehmann Office), United States of America | On Site | Jul 16 |
+| ↳ | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af4436749500645093c839?utm_campaign=1052&utm_source=git)** | Michigan - Lansing (Rehmann Office) | On Site | Jul 16 |
 | **[NuScale Power](http://www.nuscalepower.com)** | **[Internship (Internal Audit)](https://jobright.ai/jobs/info/6a591db03ac7627fe9ffd5bf?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 16 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[Campus 2027 Investment Associate Intern](https://jobright.ai/jobs/info/6a50e226a0690e7973481982?utm_campaign=1052&utm_source=git)** | New York City, NY, United States | On Site | Jul 16 |
 | **[CECO Environmental Corporation](https://www.cecoenviro.com/)** | **[Finance and Accounting Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a5913ef856af468ab001afa?utm_campaign=1052&utm_source=git)** | Addison, TX, United States | On Site | Jul 16 |
@@ -129,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a034fa5bc4184089f2311a4?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Jul 16 |
 | **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Audit Internship](https://jobright.ai/jobs/info/6a58d62a856af468ab0000e3?utm_campaign=1052&utm_source=git)** | Flushing, NY (Headquarters) | On Site | Jul 16 |
 | **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Andover](https://jobright.ai/jobs/info/6a58d269686b4755d1e0c79b?utm_campaign=1052&utm_source=git)** | Andover, MA, United States | On Site | Jul 16 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Birmingham, AL](https://jobright.ai/jobs/info/6a4a52694f64ba41dcb5b0f6?utm_campaign=1052&utm_source=git)** | Birmingham, AL 35209 | On Site | Jul 16 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Birmingham, AL](https://jobright.ai/jobs/info/6a37c15ece501060b5cf8d05?utm_campaign=1052&utm_source=git)** | Birmingham, AL 35209 | On Site | Jul 16 |
 | ↳ | **[Accounting Intern - Birmingham, AL](https://jobright.ai/jobs/info/699e7d57ce78e77b4fe3d5ed?utm_campaign=1052&utm_source=git)** | 05 Birmingham - Birmingham, AL 35209 | On Site | Jul 16 |
 | ↳ | **[Accounting Intern - Albany, GA](https://jobright.ai/jobs/info/6a57a0b1efb06a45240db854?utm_campaign=1052&utm_source=git)** | 01 Albany - Albany, GA 31721 | On Site | Jul 16 |
 | **[Scotiabank](https://www.scotiagam.com)** | **[GBM - Investment Banking Internship/Co-op - Winter 2027](https://jobright.ai/jobs/info/6a546a55d007ee02d95feb25?utm_campaign=1052&utm_source=git)** | Toronto, ON, CA | On Site | Jul 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a5846568f51964c0404776a?utm_campaign=1052&utm_source=git)** | Naples, FL, United States | On Site | Jul 15 |
 | **[Baratz & Associates, P.A.](https://www.baratzcpa.com/)** | **[Busy Season Tax Intern, Ft. Washington, PA - 2027](https://jobright.ai/jobs/info/6a5842d98f51964c040476f5?utm_campaign=1052&utm_source=git)** | Ft. Washington, PA | On Site | Jul 15 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 15 |
-| **[Baratz & Associates, P.A.](https://www.baratzcpa.com/)** | **[Busy Season Tax Intern, Marlton, NJ - 2027](https://jobright.ai/jobs/info/6a585dab72fe7a7b98dcde52?utm_campaign=1052&utm_source=git)** | Marlton, NJ, United States | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

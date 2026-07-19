@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Intern - Chattanooga](https://jobright.ai/jobs/info/6a5cab03c8e3a473cb8b2c14?utm_campaign=1052&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 19 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a52d6fa8ef95364ead900da?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, United States of America | Hybrid | Jul 19 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/6a13d3ad9f654b3359cf788d?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Jul 19 |
 | ↳ | **[Assurance Intern - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69eb41554b0fa35a70779f46?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | Hybrid | Jul 19 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/6a5a921a63a8f619507c7b27?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 17 |
 | **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[Global Accounts Pricing Intern (Fall: Now >through Nov 2026)](https://jobright.ai/jobs/info/6a5a90a7856af468ab009340?utm_campaign=1052&utm_source=git)** | Morrisville, NC, United States | Hybrid | Jul 17 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Finance intern](https://jobright.ai/jobs/info/6a5a8bbcc8e3a473cb8ac42c?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
-| **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/6a5a762fc8e3a473cb8abd1b?utm_campaign=1052&utm_source=git)** | Coral Springs, FL, United States | On Site | Jul 17 |
-| ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/6a51c3f202522b5b722eb250?utm_campaign=1052&utm_source=git)** | Dublin, OH, United States | On Site | Jul 17 |
+| **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/6a51c3f202522b5b722eb250?utm_campaign=1052&utm_source=git)** | Dublin, OH, United States | On Site | Jul 17 |
+| ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/6a5a762fc8e3a473cb8abd1b?utm_campaign=1052&utm_source=git)** | Coral Springs, FL, United States | On Site | Jul 17 |
 | **[Bancroft](https://www.bancroft.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a565f8d10c4d945d8649160?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ, United States | Hybrid | Jul 17 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Finance Intern, Chartwells Higher Ed / Michigan Technological University](https://jobright.ai/jobs/info/6a5a7c3f4da96a42cfd963ce?utm_campaign=1052&utm_source=git)** | 1400 Townsend Drive, Houghton, MI, 49931, US | On Site | Jul 17 |
 | **[Synergy Wealth Solutions](https://www.synergywealthsolutions.com)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/6a355823ce501060b5cf3e16?utm_campaign=1052&utm_source=git)** | Chesterfield, MO, United States | On Site | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[COGIR Real Estate](https://www.cogir.net)** | **[Junior AP Advisor Intern- Contract](https://jobright.ai/jobs/info/6a5a66d463a8f619507c6c58?utm_campaign=1052&utm_source=git)** | Mississauga, ON, Canada | On Site | Jul 17 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, Financial Operations & Business Analytics - Fall 2026/Winter 2027](https://jobright.ai/jobs/info/6a57aa80f7517b519ad5bb64?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 17 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Finance Intern - Fall Semester](https://jobright.ai/jobs/info/6a5a74af856af468ab00899e?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 17 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/6a5341389fbdab22fe13ed16?utm_campaign=1052&utm_source=git)** | Michigan - Troy (Rehmann Office), United States of America | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

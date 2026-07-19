@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Raleigh, NC](https://jobright.ai/jobs/info/6a291e0740ac8e32932a5567?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 19 |
 | **[Stevans & Associates, PLLC](https://www.stevanscpa.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5cf17bc8e3a473cb8b343c?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 19 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Spring 2027)](https://jobright.ai/jobs/info/69d5c339706f771673ba63b4?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Jul 19 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Fall 2026, Conshohocken, PA](https://jobright.ai/jobs/info/6a5ce36b63a8f619507ce497?utm_campaign=1052&utm_source=git)** | Conshohocken, PA 19428, United States | Hybrid | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meaden & Moore](http://meadenmoore.com)** | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/6a5a92aa856af468ab00946d?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 17 |
 | ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/6a5a92434da96a42cfd96ace?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 | ↳ | **[Forensic Accounting Intern](https://jobright.ai/jobs/info/6a5a921a63a8f619507c7b27?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 17 |
-| **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[Global Accounts Pricing Intern (Fall: Now >through Nov 2026)](https://jobright.ai/jobs/info/6a5a90a7856af468ab009340?utm_campaign=1052&utm_source=git)** | Morrisville, NC, United States | Hybrid | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

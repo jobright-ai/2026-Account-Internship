@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a5d3009856af468ab010660?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 19 |
+| **[KFA](https://kollerfabry.com/)** | **[Private Equity Analyst Internship](https://jobright.ai/jobs/info/6a5d2e924da96a42cfd9de88?utm_campaign=1052&utm_source=git)** | St Louis, MO, United States | Hybrid | Jul 19 |
+| **[Arc Hospice & Palliative Care](https://www.arcturushc.com)** | **[Finance Intern (Paid)](https://jobright.ai/jobs/info/6a5a465563a8f619507c6133?utm_campaign=1052&utm_source=git)** | 100 Challenger Road, Ridgefield Park, NJ 07660 | On Site | Jul 19 |
 | **[Shift Technology](http://www.shift-technology.com/)** | **[Finance Intern / Work co-op](https://jobright.ai/jobs/info/6a5a4bff856af468ab007c4c?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 19 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Birmingham, AL](https://jobright.ai/jobs/info/6a5d1d6d856af468ab0103b7?utm_campaign=1052&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 19 |
 | ↳ | **[Accounting Intern - Raleigh, NC](https://jobright.ai/jobs/info/6a291e0740ac8e32932a5567?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 19 |
@@ -84,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Baker Newman Noyes](http://bnncpa.com)** | **[2027 Internship](https://jobright.ai/jobs/info/6a5c16c4c8e3a473cb8b16ca?utm_campaign=1052&utm_source=git)** | Portland, ME, United States | On Site | Jul 18 |
 | **[Unbridled](https://www.unbridled.com/)** | **[Intern, Giftd](https://jobright.ai/jobs/info/6a5956653ac7627fe9ffec34?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Jul 18 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/6a5bef5a686b4755d1e1aa98?utm_campaign=1052&utm_source=git)** | South Portland, ME, United States | On Site | Jul 18 |
+| **[PP&Co](http://ppandco.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a3f120578237a036d5e66cd?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Long Island (49577)](https://jobright.ai/jobs/info/6a5bca6263a8f619507cc016?utm_campaign=1052&utm_source=git)** | Jericho, NY, United States | Hybrid | Jul 18 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Structured Power Trading Intern](https://jobright.ai/jobs/info/6a35de0c7f3fdd180d4cee41?utm_campaign=1052&utm_source=git)** | Houston, United States | On Site | Jul 18 |
 | **[Corgan](http://www.corgan.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5bc3bfc8e3a473cb8b0c85?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maverik, Inc.](https://maverik.com/)** | **[Finance Intern - Fall Semester](https://jobright.ai/jobs/info/6a5ad328686b4755d1e166ad?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 17 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Real Estate Investments Intern (New York, NY)](https://jobright.ai/jobs/info/6a5568652084cd792b478693?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6a5a95793ac7627fe9004efc?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 17 |
-| ↳ | **[Audit Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6a5a955d686b4755d1e16150?utm_campaign=1052&utm_source=git)** | Springfield, OH, United States | On Site | Jul 17 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[Finance Intern, Chartwells Higher Ed / Michigan Technological University](https://jobright.ai/jobs/info/6a5a955963a8f619507c7d69?utm_campaign=1052&utm_source=git)** | Houghton, MI, United States | On Site | Jul 17 |
-| **[RubinBrown LLP](http://rubinbrown.com)** | **[Winter/Spring 2028 Tax Intern](https://jobright.ai/jobs/info/6a5a9482686b4755d1e160b6?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[Winter/Spring 2028 Assurance Intern](https://jobright.ai/jobs/info/6a5a94514da96a42cfd96c85?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L'OCCITANE Group (B Corp)](http://www.loccitane.com)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5e46e9050c423c792ee1f0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 20 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Summer 2027 (Grand Rapids, MI)](https://jobright.ai/jobs/info/6a5e4669270e3033b045cc0f?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Jul 20 |
+| **[Building Ontario Fund](https://buildingonfund.ca)** | **[Indigenous Opportunities Financing Program (IOFP) Intern](https://jobright.ai/jobs/info/6a5e3e4bf29acc1a11746470?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 20 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Corporate Staff Accountant](https://jobright.ai/jobs/info/6a5e389d050c423c792edd6a?utm_campaign=1052&utm_source=git)** | Topeka, KS, United States | Hybrid | Jul 20 |
+| **[Chevron](http://www.chevron.com)** | **[2026-2027 Supply & Trading TAMU TRIP Program Intern](https://jobright.ai/jobs/info/6a5e3595f3674a0545d27979?utm_campaign=1052&utm_source=git)** | Houston 1400 Smith Street, United States of America | On Site | Jul 20 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 20 |
+| **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Audit Services Intern](https://jobright.ai/jobs/info/6a5e3012270e3033b045c41c?utm_campaign=1052&utm_source=git)** | Springfield, MO, United States | On Site | Jul 20 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[IT Internal Audit Intern - Post-Graduate (6 Month Duration)](https://jobright.ai/jobs/info/6a5e2d97050c423c792ed8e2?utm_campaign=1052&utm_source=git)** | Sandy, UT, United States | On Site | Jul 20 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/6a5e2c99050c423c792ed896?utm_campaign=1052&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 20 |
 | ↳ | **[Fall Accounting Intern](https://jobright.ai/jobs/info/6a4bb9ca6189f64e437ef837?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Jul 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Accounting Intern - Columbia, SC](https://jobright.ai/jobs/info/6a5b598e686b4755d1e19664?utm_campaign=1052&utm_source=git)** | 06 Columbia - Columbia, SC 29201 | On Site | Jul 18 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a229da96624e500cad09b92?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 18 |
 | **[Davidson Kempner Capital Management](https://www.davidsonkempner.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a458fd3c2d11a6a46669937?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 18 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a513c56bf63b66c7997a114?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, United States of America | On Site | Jul 18 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2028 (Indianapolis, IN)](https://jobright.ai/jobs/info/6977d48688e2b47213bbcc0c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 18 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[Internship- Project Finance Portfolio Management](https://jobright.ai/jobs/info/6a05afddf3d6cc51d638a8b7?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 18 |
-| **[HDR](https://taplow.fi)** | **[Infrastructure Finance Intern](https://jobright.ai/jobs/info/6a3f6d504d047136e093957c?utm_campaign=1052&utm_source=git)** | United States-California-Sacramento | On Site | Jul 18 |
-| **[Roche](http://www.roche.com)** | **[2026 Intern - Finance](https://jobright.ai/jobs/info/6a5b29edc8e3a473cb8af54d?utm_campaign=1052&utm_source=git)** | Mississauga, Canada | Hybrid | Jul 18 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a2a9548f140066e77187?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 18 |
-| **[Arbella Insurance Group](http://arbella.com)** | **[Claim Intern - 2026 Fall Semester](https://jobright.ai/jobs/info/6a3ea042882f121f56a3a991?utm_campaign=1052&utm_source=git)** | 1100 Crown Colony Drive, Quincy, MA 02169, United States of America | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

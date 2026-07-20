@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TownSq](https://www.townsq.com.br/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6a5dbf5c63a8f619507d07fc?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 19 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6a5daff379547a520df5ecbf?utm_campaign=1052&utm_source=git)** | Columbia, MO - Corporate Office, United States of America | On Site | Jul 19 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Accounting Intern - Harrisburg, PA (Fall 2026)](https://jobright.ai/jobs/info/6a5daefe79547a520df5ecb2?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, United States | On Site | Jul 19 |
 | **[Aramark UK](aramark.co.uk)** | **[Accounting Intern- LSU Job Details / Aramark](https://jobright.ai/jobs/info/6a4313d2ff87fd527f98682a?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 19 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a2a9548f140066e77187?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 18 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[Claim Intern - 2026 Fall Semester](https://jobright.ai/jobs/info/6a3ea042882f121f56a3a991?utm_campaign=1052&utm_source=git)** | 1100 Crown Colony Drive, Quincy, MA 02169, United States of America | On Site | Jul 18 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a16049edc845f4be5bdba44?utm_campaign=1052&utm_source=git)** | Charlottesville, VA | On Site | Jul 18 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/6a57afe2f7517b519ad5c31f?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
-| ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a7eed04c69566c73ef06?utm_campaign=1052&utm_source=git)** | 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Jul 18 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a7eed04c69566c73ef06?utm_campaign=1052&utm_source=git)** | 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Jul 18 |
+| ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/6a57afe2f7517b519ad5c31f?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
 | **[People, Technology & Processes, LLC](http://www.ptp-llc.com)** | **[Finance Intern (Part time)](https://jobright.ai/jobs/info/6a5b35254da96a42cfd99a21?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 18 |
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a51bcd9ae4052672fe99f6e?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 18 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Savannah, GA](https://jobright.ai/jobs/info/6a4036639dd7f954cafe7dde?utm_campaign=1052&utm_source=git)** | Savannah, GA, United States | On Site | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seidel Schroeder](http://ssccpa.com)** | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a5b069b686b4755d1e18089?utm_campaign=1052&utm_source=git)** | Brenham, TX 77833, USA | On Site | Jul 17 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Tax Intern](https://jobright.ai/jobs/info/6a5b0697686b4755d1e18085?utm_campaign=1052&utm_source=git)** | Syracuse, NY 13202, USA | On Site | Jul 17 |
 | **[Melanson](https://www.melansoncpas.com)** | **[Intern - Commercial Tax](https://jobright.ai/jobs/info/6a5b068c4da96a42cfd98cbe?utm_campaign=1052&utm_source=git)** | Greenfield, MA 01301, USA | On Site | Jul 17 |
-| **[Barnes Dennig](http://barnesdennig.com)** | **[Audit  Internship / January-April (Winter) 2027 - Dayton, OH](https://jobright.ai/jobs/info/6a5b063563a8f619507c9b70?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seidel Schroeder](http://ssccpa.com)** | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a5d561d3ac7627fe900c412?utm_campaign=1052&utm_source=git)** | Brenham, TX 77833, USA | On Site | Jul 19 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a5d3009856af468ab010660?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 19 |
 | **[KFA](https://kollerfabry.com/)** | **[Private Equity Analyst Internship](https://jobright.ai/jobs/info/6a5d2e924da96a42cfd9de88?utm_campaign=1052&utm_source=git)** | St Louis, MO, United States | Hybrid | Jul 19 |
 | **[Arc Hospice & Palliative Care](https://www.arcturushc.com)** | **[Finance Intern (Paid)](https://jobright.ai/jobs/info/6a5a465563a8f619507c6133?utm_campaign=1052&utm_source=git)** | 100 Challenger Road, Ridgefield Park, NJ 07660 | On Site | Jul 19 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Arbella Insurance Group](http://arbella.com)** | **[Claim Intern - 2026 Fall Semester](https://jobright.ai/jobs/info/6a3ea042882f121f56a3a991?utm_campaign=1052&utm_source=git)** | 1100 Crown Colony Drive, Quincy, MA 02169, United States of America | On Site | Jul 18 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Indirect Tax (Fall 2026) GTA Offices](https://jobright.ai/jobs/info/6a552dd44119652ff3863f21?utm_campaign=1052&utm_source=git)** | Oakville, Canada | Hybrid | Jul 18 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Accounting Intern - Fall 2026](https://jobright.ai/jobs/info/6a16049edc845f4be5bdba44?utm_campaign=1052&utm_source=git)** | Charlottesville, VA | On Site | Jul 18 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a7eed04c69566c73ef06?utm_campaign=1052&utm_source=git)** | 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Jul 18 |
-| ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/6a57afe2f7517b519ad5c31f?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/6a57afe2f7517b519ad5c31f?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 18 |
+| ↳ | **[Tax Intern, Business Incentives Group - Summer 2027 (Atlanta)](https://jobright.ai/jobs/info/69b1a7eed04c69566c73ef06?utm_campaign=1052&utm_source=git)** | 1180 Peachtree St NE, Atlanta, GA, 30309, US | On Site | Jul 18 |
 | **[People, Technology & Processes, LLC](http://www.ptp-llc.com)** | **[Finance Intern (Part time)](https://jobright.ai/jobs/info/6a5b35254da96a42cfd99a21?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 18 |
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[Accounting DoD Skillbridge Intern](https://jobright.ai/jobs/info/6a51bcd9ae4052672fe99f6e?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 18 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Savannah, GA](https://jobright.ai/jobs/info/6a4036639dd7f954cafe7dde?utm_campaign=1052&utm_source=git)** | Savannah, GA, United States | On Site | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maverik, Inc.](https://maverik.com/)** | **[Finance Intern - Fall Semester](https://jobright.ai/jobs/info/6a5ad328686b4755d1e166ad?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 17 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Real Estate Investments Intern (New York, NY)](https://jobright.ai/jobs/info/6a5568652084cd792b478693?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6a5a95793ac7627fe9004efc?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 17 |
-| ↳ | **[Audit Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6a5a955d686b4755d1e16150?utm_campaign=1052&utm_source=git)** | Springfield, OH, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

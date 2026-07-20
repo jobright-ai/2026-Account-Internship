@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conrad LLP](http://www.conradllp.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/6a5d6b29c8e3a473cb8b428c?utm_campaign=1052&utm_source=git)** | Lake Forest, CA, United States | Hybrid | Jul 19 |
 | **[Seidel Schroeder](http://ssccpa.com)** | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a5d561d3ac7627fe900c412?utm_campaign=1052&utm_source=git)** | Brenham, TX 77833, USA | On Site | Jul 19 |
 | **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a5d3009856af468ab010660?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 19 |
 | **[KFA](https://kollerfabry.com/)** | **[Private Equity Analyst Internship](https://jobright.ai/jobs/info/6a5d2e924da96a42cfd9de88?utm_campaign=1052&utm_source=git)** | St Louis, MO, United States | Hybrid | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Telesat](https://www.telesat.com)** | **[Accounts Payable Administrator Intern](https://jobright.ai/jobs/info/6a5a8b454da96a42cfd9677b?utm_campaign=1052&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jul 17 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Finance Intern - Fall Semester](https://jobright.ai/jobs/info/6a5ad328686b4755d1e166ad?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 17 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Real Estate Investments Intern (New York, NY)](https://jobright.ai/jobs/info/6a5568652084cd792b478693?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6a5a95793ac7627fe9004efc?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a51c65b57513b72e0c67a1e?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 21 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Real Assets Sustainability - Investment Management - Off-Cycle Intern](https://jobright.ai/jobs/info/6a45d9c04f64ba41dcb4e691?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Junonia Partners](https://www.junoniapartners.com)** | **[Intern - Outsourced CFO for Hedge Funds, Private Equity, & Venture Capital Funds](https://jobright.ai/jobs/info/6a321c5435e80310003aab1e?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 21 |
 | **[Davenport & Company LLC](http://www.investdavenport.com)** | **[2027 Asset Management / Research Summer Internship](https://jobright.ai/jobs/info/6a5f87aa33ef5c58b4ffe7b6?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 21 |
 | **[Meadows Urquhart](https://www.muacllp.com/)** | **[2027 Summer Accounting Internship](https://jobright.ai/jobs/info/6a5f8793f68dd368023e716f?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 21 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Noble Reporting](https://noblestudios.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5f7bf2193b511309678b97?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Jul 21 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5232c59fbdab22fe13a771?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 21 |
 | **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a04908bf3d6cc51d6380850?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 21 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a56df37efb06a45240d892f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale FL USA, United States of America | On Site | Jul 21 |
 | ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Jul 21 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a56df37efb06a45240d892f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale FL USA, United States of America | On Site | Jul 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Accounting Internship: Summer 2027](https://jobright.ai/jobs/info/6a42642c557b3862f15e0ed8?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jul 21 |
 | ↳ | **[Tax Internship: Summer 2027](https://jobright.ai/jobs/info/6a5a0f4a856af468ab006b5d?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 21 |
 | **[HCVT](http://www.hcvt.com)** | **[M&A Advisory Internship - Summer 2027](https://jobright.ai/jobs/info/6a55611f268af95237beb541?utm_campaign=1052&utm_source=git)** | Pasadena, CA, United States | Hybrid | Jul 21 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[The Dutch Group](https://www.thedutchgroup.net)** | **[Fall 2026 Accounting Intern](https://jobright.ai/jobs/info/6a5efbe8470d4126fdeac96c?utm_campaign=1052&utm_source=git)** | Columbus, MS 39701, USA | On Site | Jul 20 |
 | **[Accurent](https://Accurent.org)** | **[Investment Banking Analyst - Summer FULL TIME Off Cycle Internship](https://jobright.ai/jobs/info/6a5ef95a27bf767ea68f939a?utm_campaign=1052&utm_source=git)** | 150 E 69th St, New York, NY 10021, USA | Remote | Jul 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[Finance Intern (Full-Time)](https://jobright.ai/jobs/info/6a5ef8b6d32b0656b39f6725?utm_campaign=1052&utm_source=git)** | Piscataway, NJ, United States | On Site | Jul 20 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a51c65b57513b72e0c67a1e?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 20 |
 | **[Barnes Dennig](http://barnesdennig.com)** | **[Tax  Internship / January-April (Winter) 2027 - Cincinnati, OH](https://jobright.ai/jobs/info/6a5edeb9f3674a0545d2b36f?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 20 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/6a55cce4ec54dd532d813ae5?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Jul 20 |
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5ec3dd050c423c792f11c2?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L'OCCITANE Group (B Corp)](http://www.loccitane.com)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5e488df3674a0545d27f63?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 20 |
 | ↳ | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5e46e9050c423c792ee1f0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 20 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Summer 2027 (Grand Rapids, MI)](https://jobright.ai/jobs/info/6a5e4669270e3033b045cc0f?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Jul 20 |
-| **[Building Ontario Fund](https://buildingonfund.ca)** | **[Indigenous Opportunities Financing Program (IOFP) Intern](https://jobright.ai/jobs/info/6a5e3e4bf29acc1a11746470?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

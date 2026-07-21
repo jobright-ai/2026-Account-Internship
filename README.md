@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Whataburger](http://www.whataburger.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5fa5e6193b511309679bcc?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | Hybrid | Jul 21 |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer: Finance](https://jobright.ai/jobs/info/6a59e99563a8f619507c4111?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
+| **[Democratic Party of Wisconsin](https://wisdems.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a4d29943122a76a8fd546f2?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Jul 21 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a5fba1f193b51130967a48f?utm_campaign=1052&utm_source=git)** | Brantford, ON, Canada | On Site | Jul 21 |
+| **[EQ Bank](http://www.eqbank.ca)** | **[Intern, Securitization & Indigenous Initiatives](https://jobright.ai/jobs/info/6a5fb84733ef5c58b4fffa20?utm_campaign=1052&utm_source=git)** | Saskatoon | Hybrid | Jul 21 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a5fa39a8c7fd835513ba13a?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | On Site | Jul 21 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a5fa383193b511309679a8f?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | On Site | Jul 21 |
 | **[Corient](https://corient.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9999b0f20036bc631bec?utm_campaign=1052&utm_source=git)** | Shaker Heights, OH, United States | Hybrid | Jul 21 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a436656b0f2553559ed0333?utm_campaign=1052&utm_source=git)** | Boulder, CO, United States | On Site | Jul 21 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Accounting and Auditing Year-Round Student Intern](https://jobright.ai/jobs/info/6a5e6c5a27bf767ea68f6a87?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina, United States of America | On Site | Jul 21 |
 | **[TownSq](https://www.townsq.com.br/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6a5dbf5c63a8f619507d07fc?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 21 |
-| **[CW](http://www.cwcapital.com)** | **[Asset Management and Valuations Internship (Fall 2026)](https://jobright.ai/jobs/info/6a5f563b33ef5c58b4ffd812?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 21 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a5f531df68dd368023e5f30?utm_campaign=1052&utm_source=git)** | Kingsport, TN, United States | On Site | Jul 21 |
 | **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/6a5f52148c7fd835513b852b?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 21 |
 | **[Kirsch CPA Group](https://www.kirschcpa.com)** | **[2028 Summer Accounting / Tax Internship](https://jobright.ai/jobs/info/6a584b1768d16a30e2412696?utm_campaign=1052&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 21 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Union Park Capital](http://www.union-park.com/)** | **[Union Park Capital Internship (Winter/Spring 2025)](https://jobright.ai/jobs/info/6a5eb852f29acc1a11749330?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 20 |
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Finance Rotation Program - Accounting Intern](https://jobright.ai/jobs/info/6a57b149e9b77f668bd6a059?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
 | ↳ | **[2027 Amazon Finance Rotation Program - Accounting Intern](https://jobright.ai/jobs/info/6a1daf07e24ef3652583904c?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
-| ↳ | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a58ca5263a8f619507be44e?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
 | ↳ | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a1b60592b206f3955eb8f8d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
+| ↳ | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a58ca5263a8f619507be44e?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
 | ↳ | **[2027 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6a55b37afdf4fa71202b3c02?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
 | ↳ | **[2027 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6a1daeefc2a87d6cd3e0ccd5?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Accounting Intern](https://jobright.ai/jobs/info/6a5e73d1f29acc1a11747a9e?utm_campaign=1052&utm_source=git)** | Central NJ (Redbank/Asbury) | On Site | Jul 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www3.gehealthcare.no/)** | **[Financial Management Program Internship](https://jobright.ai/jobs/info/6a5e1909f29acc1a1174582d?utm_campaign=1052&utm_source=git)** | IL03-01-Chicago-500 W Monroe St, United States of America | Hybrid | Jul 20 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5e71d227bf767ea68f6d1c?utm_campaign=1052&utm_source=git)** | Frisco, TX, United States | On Site | Jul 20 |
 | ↳ | **[Audit & Assurance Intern - Spring 2028](https://jobright.ai/jobs/info/6a5e71d1f29acc1a117479fa?utm_campaign=1052&utm_source=git)** | Frisco, TX, United States | On Site | Jul 20 |
-| ↳ | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/6a590f523ac7627fe9ffd1cb?utm_campaign=1052&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 20 |
-| ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5e71a2f29acc1a117479eb?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

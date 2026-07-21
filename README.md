@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5232c59fbdab22fe13a771?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 21 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Accounting Internship: Summer 2027](https://jobright.ai/jobs/info/6a42642c557b3862f15e0ed8?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jul 21 |
+| ↳ | **[Tax Internship: Summer 2027](https://jobright.ai/jobs/info/6a5a0f4a856af468ab006b5d?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 21 |
+| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a56df37efb06a45240d892f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale FL USA, United States of America | On Site | Jul 21 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Jul 21 |
 | **[HCVT](http://www.hcvt.com)** | **[M&A Advisory Internship - Summer 2027](https://jobright.ai/jobs/info/6a55611f268af95237beb541?utm_campaign=1052&utm_source=git)** | Pasadena, CA, United States | Hybrid | Jul 21 |
 | ↳ | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a58752b68d16a30e2413268?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Jul 21 |
 | **[DRW](http://drw.com/)** | **[Venture Capital Analyst Intern](https://jobright.ai/jobs/info/6a54f4e62084cd792b4753cd?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
@@ -80,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[Union Park Capital](http://www.union-park.com/)** | **[Union Park Capital Internship (Winter/Spring 2025)](https://jobright.ai/jobs/info/6a5eb852f29acc1a11749330?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 20 |
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Finance Rotation Program - Accounting Intern](https://jobright.ai/jobs/info/6a1daf07e24ef3652583904c?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
 | ↳ | **[2027 Amazon Finance Rotation Program - Accounting Intern](https://jobright.ai/jobs/info/6a57b149e9b77f668bd6a059?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
-| ↳ | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a1b60592b206f3955eb8f8d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
 | ↳ | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a58ca5263a8f619507be44e?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
-| ↳ | **[2027 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6a1daeefc2a87d6cd3e0ccd5?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
+| ↳ | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a1b60592b206f3955eb8f8d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
 | ↳ | **[2027 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6a55b37afdf4fa71202b3c02?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
+| ↳ | **[2027 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6a1daeefc2a87d6cd3e0ccd5?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Accounting and Auditing Year-Round Student Intern](https://jobright.ai/jobs/info/6a5e6c5a27bf767ea68f6a87?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina, United States of America | On Site | Jul 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Accounting Intern](https://jobright.ai/jobs/info/6a5e73d1f29acc1a11747a9e?utm_campaign=1052&utm_source=git)** | Central NJ (Redbank/Asbury) | On Site | Jul 20 |
 | **[University Partners](http://www.universitypartners.com)** | **[Analyst, Investments & Asset Management Intern - Summer 2027](https://jobright.ai/jobs/info/6a5e8f78f29acc1a117486ef?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 20 |
@@ -95,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Westervelt Ecological Services](https://www.wesmitigation.com/)** | **[Shared Services Intern](https://jobright.ai/jobs/info/6a5e886e270e3033b045e870?utm_campaign=1052&utm_source=git)** | Headquarters, Tuscaloosa, AL, US | On Site | Jul 20 |
 | **[Metropolis Technologies](http://www.metropolis.io)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5e861a050c423c792efc3a?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jul 20 |
 | **[HUB International](https://www.hubinternational.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a5e501a27bf767ea68f5ebb?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 20 |
-| **[CW](http://www.cwcapital.com)** | **[Asset Management and Valuations Internship (Fall 2026)](https://jobright.ai/jobs/info/6a5e8550270e3033b045e5dd?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 20 |
 | **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2027 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/6a5e6ec2270e3033b045de27?utm_campaign=1052&utm_source=git)** | Alexandria,Virginia,United States | Hybrid | Jul 20 |
 | ↳ | **[Summer 2027 Internship Program - Accounting Internship](https://jobright.ai/jobs/info/6a5e487127bf767ea68f5ae1?utm_campaign=1052&utm_source=git)** | Alexandria,Virginia,United States | Hybrid | Jul 20 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5e80dc27bf767ea68f715a?utm_campaign=1052&utm_source=git)** | Clinton Township, MI, United States | On Site | Jul 20 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Stevans & Associates, PLLC](https://www.stevanscpa.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5d9496c8e3a473cb8b4957?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 19 |
 | **[Spot Freight](https://spotinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5a4eb53ac7627fe90034a6?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 19 |
 | **[Bancroft](https://www.bancroft.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5d883d4da96a42cfd9eafb?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ, US | On Site | Jul 19 |
-| **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Pricing Intern (51473)](https://jobright.ai/jobs/info/6a5d72d5856af468ab011053?utm_campaign=1052&utm_source=git)** | Cary, IL, United States | Hybrid | Jul 19 |
 | **[Conrad LLP](http://www.conradllp.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/6a5d6b29c8e3a473cb8b428c?utm_campaign=1052&utm_source=git)** | Lake Forest, CA, United States | Hybrid | Jul 19 |
-| **[Seidel Schroeder](http://ssccpa.com)** | **[2027 Spring Tax Internship](https://jobright.ai/jobs/info/6a5d561d3ac7627fe900c412?utm_campaign=1052&utm_source=git)** | Brenham, TX 77833, USA | On Site | Jul 19 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Intern - Fall 2027 (Bradenton, FL)](https://jobright.ai/jobs/info/68ed5bfa81fdd1626d39ba77?utm_campaign=1052&utm_source=git)** | Bradenton, FL, United States | On Site | Jul 19 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a5d3009856af468ab010660?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

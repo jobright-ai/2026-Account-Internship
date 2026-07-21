@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CW](http://www.cwcapital.com)** | **[Asset Management and Valuations Internship (Fall 2026)](https://jobright.ai/jobs/info/6a5f563b33ef5c58b4ffd812?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 21 |
+| **[BAE Systems](http://www.baesystems.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a5f531df68dd368023e5f30?utm_campaign=1052&utm_source=git)** | Kingsport, TN, United States | On Site | Jul 21 |
+| **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/6a5f52148c7fd835513b852b?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 21 |
+| **[Kirsch CPA Group](https://www.kirschcpa.com)** | **[2028 Summer Accounting / Tax Internship](https://jobright.ai/jobs/info/6a584b1768d16a30e2412696?utm_campaign=1052&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 21 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5232c59fbdab22fe13a771?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Accounting Internship: Summer 2027](https://jobright.ai/jobs/info/6a42642c557b3862f15e0ed8?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jul 21 |
 | ↳ | **[Tax Internship: Summer 2027](https://jobright.ai/jobs/info/6a5a0f4a856af468ab006b5d?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 21 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Equity Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a51c65b57513b72e0c67a1e?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 20 |
 | **[Barnes Dennig](http://barnesdennig.com)** | **[Tax  Internship / January-April (Winter) 2027 - Cincinnati, OH](https://jobright.ai/jobs/info/6a5edeb9f3674a0545d2b36f?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 20 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/6a55cce4ec54dd532d813ae5?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Jul 20 |
-| **[CW](http://www.cwcapital.com)** | **[Surveillance Intern](https://jobright.ai/jobs/info/6a5ed917270e3033b045ff09?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 20 |
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5ec3dd050c423c792f11c2?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 20 |
 | **[BSI Financial Services](https://www.bsifinancial.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a5ec3b927bf767ea68f8a1b?utm_campaign=1052&utm_source=git)** | Irving, TX, United States | On Site | Jul 20 |
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Finance](https://jobright.ai/jobs/info/6a5ec29467b2850e77df2fd1?utm_campaign=1052&utm_source=git)** | Kohler, WI, United States | On Site | Jul 20 |
@@ -87,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Amazon Finance Rotation Program - Accounting Intern](https://jobright.ai/jobs/info/6a57b149e9b77f668bd6a059?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
 | ↳ | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a58ca5263a8f619507be44e?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
 | ↳ | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a1b60592b206f3955eb8f8d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
-| ↳ | **[2027 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6a55b37afdf4fa71202b3c02?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
 | ↳ | **[2027 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6a1daeefc2a87d6cd3e0ccd5?utm_campaign=1052&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 20 |
+| ↳ | **[2027 Amazon Operations Finance Rotational Program Summer Internship](https://jobright.ai/jobs/info/6a55b37afdf4fa71202b3c02?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 20 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Accounting and Auditing Year-Round Student Intern](https://jobright.ai/jobs/info/6a5e6c5a27bf767ea68f6a87?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina, United States of America | On Site | Jul 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Accounting Intern](https://jobright.ai/jobs/info/6a5e73d1f29acc1a11747a9e?utm_campaign=1052&utm_source=git)** | Central NJ (Redbank/Asbury) | On Site | Jul 20 |
 | **[University Partners](http://www.universitypartners.com)** | **[Analyst, Investments & Asset Management Intern - Summer 2027](https://jobright.ai/jobs/info/6a5e8f78f29acc1a117486ef?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 20 |
@@ -107,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Corporate Staff Accountant](https://jobright.ai/jobs/info/6a5e389d050c423c792edd6a?utm_campaign=1052&utm_source=git)** | Topeka, KS, United States | Hybrid | Jul 20 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Finance Intern](https://jobright.ai/jobs/info/6a5e5dad050c423c792eebf3?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Jul 20 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Accounting Assistant Intern - Corporate](https://jobright.ai/jobs/info/6a42ac0a6a9c2774b3fa6e12?utm_campaign=1052&utm_source=git)** | Tippecanoe County, IN, United States | On Site | Jul 20 |
-| **[GE HealthCare](https://www.gehealthcare.fi)** | **[Financial Management Program Internship](https://jobright.ai/jobs/info/6a5e1909f29acc1a1174582d?utm_campaign=1052&utm_source=git)** | IL03-01-Chicago-500 W Monroe St, United States of America | Hybrid | Jul 20 |
+| **[GE HealthCare](http://www3.gehealthcare.no/)** | **[Financial Management Program Internship](https://jobright.ai/jobs/info/6a5e1909f29acc1a1174582d?utm_campaign=1052&utm_source=git)** | IL03-01-Chicago-500 W Monroe St, United States of America | Hybrid | Jul 20 |
 | **[CCK Strategies](http://www.cckcpa.com)** | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5e71d227bf767ea68f6d1c?utm_campaign=1052&utm_source=git)** | Frisco, TX, United States | On Site | Jul 20 |
 | ↳ | **[Audit & Assurance Intern - Spring 2028](https://jobright.ai/jobs/info/6a5e71d1f29acc1a117479fa?utm_campaign=1052&utm_source=git)** | Frisco, TX, United States | On Site | Jul 20 |
 | ↳ | **[Tax Intern - Spring 2028](https://jobright.ai/jobs/info/6a5e71a2f29acc1a117479eb?utm_campaign=1052&utm_source=git)** | Tulsa, OK | On Site | Jul 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a5d9e9f79547a520df5e1cc?utm_campaign=1052&utm_source=git)** | Pasadena, CA, United States | Hybrid | Jul 19 |
 | **[Sonar](http://sonar.com)** | **[Purchase to Pay Intern (Paid Internship)](https://jobright.ai/jobs/info/6a5d9e59686b4755d1e1e1e4?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 19 |
 | **[Stevans & Associates, PLLC](https://www.stevanscpa.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5d9496c8e3a473cb8b4957?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 19 |
-| **[Spot Freight](https://spotinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5a4eb53ac7627fe90034a6?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 19 |
-| **[Bancroft](https://www.bancroft.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5d883d4da96a42cfd9eafb?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ, US | On Site | Jul 19 |
-| **[Conrad LLP](http://www.conradllp.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/6a5d6b29c8e3a473cb8b428c?utm_campaign=1052&utm_source=git)** | Lake Forest, CA, United States | Hybrid | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

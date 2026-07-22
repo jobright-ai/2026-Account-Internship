@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Finance Intern (Full-Time)](https://jobright.ai/jobs/info/6a5ef8b6d32b0656b39f6725?utm_campaign=1052&utm_source=git)** | Piscataway, NJ, United States | On Site | Jul 21 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/6a4330fbb0f2553559ecebdf?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Jul 21 |
+| **[NorthBay Health](https://www.northbay.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a602fc9b0f20036bc63510c?utm_campaign=1052&utm_source=git)** | Fairfield, CA, United States | On Site | Jul 21 |
+| **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/6a53b9718ef95364ead93123?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Jul 21 |
+| **[Matic](https://matic.com)** | **[Accounting Intern (Part-Time)](https://jobright.ai/jobs/info/6a5648d6f7517b519ad54a3d?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 21 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/6a60178ff68dd368023ea66d?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States of America | On Site | Jul 21 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Risk Analyst Intern](https://jobright.ai/jobs/info/6a6034c3129b652e9cd2811d?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 21 |
-| **[NorthBay Health](https://www.northbay.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a602fc9b0f20036bc63510c?utm_campaign=1052&utm_source=git)** | Fairfield, CA, United States | On Site | Jul 21 |
 | **[First Guaranty Bank](https://www.fgb.net/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6a5fe709f68dd368023e9767?utm_campaign=1052&utm_source=git)** | Hammond, LA, United States | On Site | Jul 21 |
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Wealth Management Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d523778237a036d5e0a46?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 21 |
 | **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - ATL](https://jobright.ai/jobs/info/6a5fe6d8193b51130967b765?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 21 |
 | ↳ | **[Aprio 2027 Internship Application - Spring Audit - TN](https://jobright.ai/jobs/info/6a5fe472b0f20036bc633d17?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 21 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Commodities Trading Summer Analyst Internship Program (Summer 2027 Internship)](https://jobright.ai/jobs/info/6a601c90b0f20036bc634d6e?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Economic Enterprise Unit Intern](https://jobright.ai/jobs/info/6a6018a1f68dd368023ea69c?utm_campaign=1052&utm_source=git)** | Coral Gables, FL, United States | Remote | Jul 21 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51347357513b72e0c64c35?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 21 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a60137f6e0c3c7c7d3daa7e?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Jul 21 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/6a6012586e0c3c7c7d3daa1d?utm_campaign=1052&utm_source=git)** | Braintree, MA, United States | Hybrid | Jul 21 |
@@ -118,13 +121,12 @@ For a complete list, click the following sortable link below:
 | **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f14489f462172a5a7d5721?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jul 21 |
 | **[Berkshire Hathaway Homestate Companies - Workers Compensation Division](https://www.bhhc.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6a5fa39a8c7fd835513ba13a?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | On Site | Jul 21 |
 | **[Corient](https://corient.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9999b0f20036bc631bec?utm_campaign=1052&utm_source=git)** | Shaker Heights, OH, United States | Hybrid | Jul 21 |
-| **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/6a53b9718ef95364ead93123?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Jul 21 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Real Assets Sustainability - Investment Management - Off-Cycle Intern](https://jobright.ai/jobs/info/6a45d9c04f64ba41dcb4e691?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Rocket Internet SE](https://www.rocket-internet.com/)** | **[M&A and Investments Intern (US)](https://jobright.ai/jobs/info/6a52e41ae726ec56126a4f0e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Remote | Jul 21 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a7bb0f20036bc631ca1?utm_campaign=1052&utm_source=git)** | Bay City, MI, United States | On Site | Jul 21 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a57f68dd368023e76dd?utm_campaign=1052&utm_source=git)** | Marquette, MI, United States | On Site | Jul 21 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a468c7fd835513b9d77?utm_campaign=1052&utm_source=git)** | Okemos, MI, United States | On Site | Jul 21 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a46b0f20036bc631c5a?utm_campaign=1052&utm_source=git)** | Saginaw, MI, United States | On Site | Jul 21 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a468c7fd835513b9d77?utm_campaign=1052&utm_source=git)** | Okemos, MI, United States | On Site | Jul 21 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a45b0f20036bc631c59?utm_campaign=1052&utm_source=git)** | Traverse City, MI, United States | On Site | Jul 21 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a438c7fd835513b9d75?utm_campaign=1052&utm_source=git)** | Mount Pleasant, MI, United States | On Site | Jul 21 |
 | **[Noble Studios](https://noblestudios.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5e8ed3050c423c792f01cc?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Segal](https://www.segalco.com)** | **[Actuarial Co-op/Intern](https://jobright.ai/jobs/info/6a5f52148c7fd835513b852b?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 21 |
 | **[Kirsch CPA Group](https://www.kirschcpa.com)** | **[2028 Summer Accounting / Tax Internship](https://jobright.ai/jobs/info/6a584b1768d16a30e2412696?utm_campaign=1052&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 21 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a52e509d007ee02d95f97f1?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, United States of America | Hybrid | Jul 21 |
-| **[Noble Reporting](https://noblestudios.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5f7bf2193b511309678b97?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Jul 21 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a52d6fa8ef95364ead900da?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, United States of America | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

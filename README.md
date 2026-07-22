@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/6a084e1da203b1052e442f75?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Jul 22 |
-| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Jul 22 |
-| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a56df37efb06a45240d892f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale FL USA, United States of America | On Site | Jul 22 |
+| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a56df37efb06a45240d892f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale FL USA, United States of America | On Site | Jul 22 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Jul 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a56b06810c4d945d864b504?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a58048e68d16a30e2411266?utm_campaign=1052&utm_source=git)** | Westlake Village, CA, United States | Hybrid | Jul 22 |
 | ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/6a607ba92a30b8563787419e?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 22 |
@@ -100,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Accounting Intern (Part time)](https://jobright.ai/jobs/info/6a5ff7fa6e0c3c7c7d3da425?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 21 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Semester Intern, Underwriting](https://jobright.ai/jobs/info/6a5fdaa48c7fd835513bb84e?utm_campaign=1052&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 21 |
 | **[Amentum](https://www.amentum.com/)** | **[Business Analyst Internship - NISSC - COS](https://jobright.ai/jobs/info/6a5ff231193b51130967bac0?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO, United States | On Site | Jul 21 |
-| **[CBIZ](https://kaconsults.cbiz.com)** | **[Risk Advisory Intern / Summer 2027 / BP](https://jobright.ai/jobs/info/6a5fec4fb0f20036bc633ee9?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
+| **[CBIZ](https://www.cbiz.com)** | **[Risk Advisory Intern / Summer 2027 / BP](https://jobright.ai/jobs/info/6a5fec4fb0f20036bc633ee9?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
 | ↳ | **[Risk Advisory Intern / Summer 2027 / BP](https://jobright.ai/jobs/info/6a5fec4633ef5c58b4000eb6?utm_campaign=1052&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 21 |
 | ↳ | **[Risk Advisory Intern / Summer 2027 / BP](https://jobright.ai/jobs/info/6a5fec45f68dd368023e987c?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 21 |
 | ↳ | **[Risk Advisory Intern / Summer 2027 / BP](https://jobright.ai/jobs/info/6a5fec4db0f20036bc633ee8?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 21 |

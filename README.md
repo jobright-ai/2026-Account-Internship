@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/6a60178ff68dd368023ea66d?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States of America | On Site | Jul 21 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Risk Analyst Intern](https://jobright.ai/jobs/info/6a6034c3129b652e9cd2811d?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 21 |
 | **[NorthBay Health](https://www.northbay.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a602fc9b0f20036bc63510c?utm_campaign=1052&utm_source=git)** | Fairfield, CA, United States | On Site | Jul 21 |
 | **[First Guaranty Bank](https://www.fgb.net/)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6a5fe709f68dd368023e9767?utm_campaign=1052&utm_source=git)** | Hammond, LA, United States | On Site | Jul 21 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Commodities Trading Summer Analyst Internship Program (Summer 2027 Internship)](https://jobright.ai/jobs/info/6a601c90b0f20036bc634d6e?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Economic Enterprise Unit Intern](https://jobright.ai/jobs/info/6a6018a1f68dd368023ea69c?utm_campaign=1052&utm_source=git)** | Coral Gables, FL, United States | Remote | Jul 21 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Finance](https://jobright.ai/jobs/info/6a51347357513b72e0c64c35?utm_campaign=1052&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 21 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Finance/GBIS Return Internship](https://jobright.ai/jobs/info/6a60178ff68dd368023ea66d?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States of America | On Site | Jul 21 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a60137f6e0c3c7c7d3daa7e?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Jul 21 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/6a6012586e0c3c7c7d3daa1d?utm_campaign=1052&utm_source=git)** | Braintree, MA, United States | Hybrid | Jul 21 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a600d44193b51130967c2ba?utm_campaign=1052&utm_source=git)** | Long Beach, CA, United States | Hybrid | Jul 21 |
@@ -83,6 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Advisory Intern / Summer 2027 / BP](https://jobright.ai/jobs/info/6a5fec558c7fd835513bbec3?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 21 |
 | **[Shimmick Corporation](http://www.shimmick.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a53f7438ef95364ead93f2b?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | On Site | Jul 21 |
 | **[PwC](http://pwc.com)** | **[Houston - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a5fecb9b0f20036bc633f00?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 21 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/6a5fbe8eb0f20036bc632d9c?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Jul 21 |
 | **[Acme Fresh Market](http://acmestores.com)** | **[ACCOUNTING INTERN](https://jobright.ai/jobs/info/6a5fe37bf68dd368023e9680?utm_campaign=1052&utm_source=git)** | Akron, OH, United States | On Site | Jul 21 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/6a5bef5a686b4755d1e1aa98?utm_campaign=1052&utm_source=git)** | South Portland, ME, United States | On Site | Jul 21 |
 | **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Winter 2027 Administrative Accounting Internship](https://jobright.ai/jobs/info/6a5fdec06e0c3c7c7d3d9a7e?utm_campaign=1052&utm_source=git)** | Westlake, OH, United States | On Site | Jul 21 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a3a9f1a797099171917ad61?utm_campaign=1052&utm_source=git)** | Salem, MA, United States | On Site | Jul 21 |
 | **[Swiss Re](http://www.swissre.com)** | **[Actuarial Intern (Fall 2026)](https://jobright.ai/jobs/info/6a276d614ec8d737d6dffb05?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 21 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Miami (49595)](https://jobright.ai/jobs/info/6a5854290304e26a7e7e5487?utm_campaign=1052&utm_source=git)** | Coral Gables, FL, United States | On Site | Jul 21 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/6a5fbe8eb0f20036bc632d9c?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Jul 21 |
 | **[EEPB](https://www.eepb.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/6a546cc98576ec69c015320c?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer: Finance](https://jobright.ai/jobs/info/6a59e99563a8f619507c4111?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[Democratic Party of Wisconsin](https://wisdems.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a4d29943122a76a8fd546f2?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Jul 21 |

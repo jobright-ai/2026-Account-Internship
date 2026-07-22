@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/6a084e1da203b1052e442f75?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Jul 22 |
+| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/695f2a3b0badca5763afb62d?utm_campaign=1052&utm_source=git)** | Chicago IL USA | On Site | Jul 22 |
+| ↳ | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a56df37efb06a45240d892f?utm_campaign=1052&utm_source=git)** | Fort Lauderdale FL USA, United States of America | On Site | Jul 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a56b06810c4d945d864b504?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a58048e68d16a30e2411266?utm_campaign=1052&utm_source=git)** | Westlake Village, CA, United States | Hybrid | Jul 22 |
 | ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/6a607ba92a30b8563787419e?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Accounting Internship - In Person](https://jobright.ai/jobs/info/6a5f87926e0c3c7c7d3d769d?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 21 |
 | **[Brixey & Meyer](https://www.brixeyandmeyer.com)** | **[Tax 2027 Busy Season Internship](https://jobright.ai/jobs/info/6a5f87538c7fd835513b9704?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 21 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/6a5273ece726ec56126a3275?utm_campaign=1052&utm_source=git)** | Woodmere, OH, United States | Hybrid | Jul 21 |
-| ↳ | **[Winter Internship 2027 / Audit Intern / Florham Park (49597)](https://jobright.ai/jobs/info/6a5612bce9b77f668bd61518?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Jul 21 |
-| **[Shift Technology](http://www.shift-technology.com/)** | **[Finance Intern / Work co-op](https://jobright.ai/jobs/info/6a5a4bff856af468ab007c4c?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 21 |
-| **[Kline Hill Partners](http://klinehill.com/)** | **[Winter 2027 Intern](https://jobright.ai/jobs/info/6a5f84f833ef5c58b4ffe5e4?utm_campaign=1052&utm_source=git)** | Greenwich, CT, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

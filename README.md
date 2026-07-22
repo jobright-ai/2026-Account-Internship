@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Credit Risk Management Department - Risk Analytics Model Intern](https://jobright.ai/jobs/info/6a56b06810c4d945d864b504?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
+| **[HCVT](http://www.hcvt.com)** | **[Audit Internship - Winter 2027](https://jobright.ai/jobs/info/6a58048e68d16a30e2411266?utm_campaign=1052&utm_source=git)** | Westlake Village, CA, United States | Hybrid | Jul 22 |
+| ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/6a607ba92a30b8563787419e?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 22 |
+| **[Citadel](https://www.citadel.com)** | **[Trader: Fixed Income & Macro – Intern (US)](https://jobright.ai/jobs/info/6a607b3471c79e639619b684?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
+| **[Spot Freight](https://spotinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5a4eb53ac7627fe90034a6?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 22 |
 | **[CERTEX USA](https://www.certex.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a5fdd436e0c3c7c7d3d99cc?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
 | **[Red Moon Marketing](https://www.redmoonmkt.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5fc0eaf68dd368023e881e?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 22 |
 | **[EdgeConneX](http://www.edgeconnex.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a406519d528ac2915f968e4?utm_campaign=1052&utm_source=git)** | Herndon, VA, United States | On Site | Jul 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Internship 2027 / Audit Intern / Florham Park (49597)](https://jobright.ai/jobs/info/6a5612bce9b77f668bd61518?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Jul 21 |
 | **[Shift Technology](http://www.shift-technology.com/)** | **[Finance Intern / Work co-op](https://jobright.ai/jobs/info/6a5a4bff856af468ab007c4c?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 21 |
 | **[Kline Hill Partners](http://klinehill.com/)** | **[Winter 2027 Intern](https://jobright.ai/jobs/info/6a5f84f833ef5c58b4ffe5e4?utm_campaign=1052&utm_source=git)** | Greenwich, CT, United States | On Site | Jul 21 |
-| **[Baker Newman Noyes](http://bnncpa.com)** | **[2027 Internship](https://jobright.ai/jobs/info/6a5f7e8533ef5c58b4ffe2dd?utm_campaign=1052&utm_source=git)** | Portsmouth, NH, United States | On Site | Jul 21 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Procurement Intern - ATG/MSG](https://jobright.ai/jobs/info/6a5f7d718c7fd835513b92bc?utm_campaign=1052&utm_source=git)** | Arizona City, AZ, United States | On Site | Jul 21 |
-| **[Catholic Charities of the Diocese of Albany](http://www.ccrcda.org)** | **[Finance Intern](https://jobright.ai/jobs/info/6a5f78438c7fd835513b9183?utm_campaign=1052&utm_source=git)** | Colonie, NY, United States | On Site | Jul 21 |
-| **[Aprio](https://www.aprio.com/)** | **[Aprio Spring 2027 Tax Internship Application - Washington DC Metro](https://jobright.ai/jobs/info/6a35e0f0f6b55d12c7921a68?utm_campaign=1052&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 21 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

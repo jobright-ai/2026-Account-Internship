@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](https://taplow.fi)** | **[Infrastructure Finance Intern](https://jobright.ai/jobs/info/6a606bdc2a30b85637873ff2?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 22 |
+| **[HCVT](http://www.hcvt.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a5d9e9f79547a520df5e1cc?utm_campaign=1052&utm_source=git)** | Pasadena, CA, United States | Hybrid | Jul 21 |
+| **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5e80dc27bf767ea68f715a?utm_campaign=1052&utm_source=git)** | Clinton Township, MI, United States | On Site | Jul 21 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a592a18856af468ab002388?utm_campaign=1052&utm_source=git)** | Bonita Springs, FL, United States | On Site | Jul 21 |
 | **[T5 Data Centers](http://www.t5datacenters.com)** | **[2026 Procurement Intern](https://jobright.ai/jobs/info/6a60553371c79e639619afe2?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 21 |
 | **[Valero](http://www.valero.com)** | **[Accounting Intern (On-Going)](https://jobright.ai/jobs/info/6a604e5671c79e639619ae67?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 21 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Infrastructure Finance Intern Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a604ddda4b66100689cacbf?utm_campaign=1052&utm_source=git)** | College Station, TX, United States | On Site | Jul 21 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket Internet SE](https://www.rocket-internet.com/)** | **[M&A and Investments Intern (US)](https://jobright.ai/jobs/info/6a52e41ae726ec56126a4f0e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Remote | Jul 21 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a7bb0f20036bc631ca1?utm_campaign=1052&utm_source=git)** | Bay City, MI, United States | On Site | Jul 21 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a57f68dd368023e76dd?utm_campaign=1052&utm_source=git)** | Marquette, MI, United States | On Site | Jul 21 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a46b0f20036bc631c5a?utm_campaign=1052&utm_source=git)** | Saginaw, MI, United States | On Site | Jul 21 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a468c7fd835513b9d77?utm_campaign=1052&utm_source=git)** | Okemos, MI, United States | On Site | Jul 21 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a46b0f20036bc631c5a?utm_campaign=1052&utm_source=git)** | Saginaw, MI, United States | On Site | Jul 21 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a45b0f20036bc631c59?utm_campaign=1052&utm_source=git)** | Traverse City, MI, United States | On Site | Jul 21 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6a5f9a438c7fd835513b9d75?utm_campaign=1052&utm_source=git)** | Mount Pleasant, MI, United States | On Site | Jul 21 |
 | **[Noble Studios](https://noblestudios.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5e8ed3050c423c792f01cc?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Jul 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SFW Partners, LLC](https://sfwpartnersllc.com/)** | **[Busy Season Intern](https://jobright.ai/jobs/info/6a5f64f46e0c3c7c7d3d6ab3?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | On Site | Jul 21 |
 | **[Zipline](https://www.zipline.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51da1157513b72e0c68f2c?utm_campaign=1052&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 21 |
 | **[BlackEdge Capital](http://www.blackedge.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a5f61cf33ef5c58b4ffdaf4?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
-| **[RBC](https://www.rbc.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a436656b0f2553559ed0333?utm_campaign=1052&utm_source=git)** | Boulder, CO, United States | On Site | Jul 21 |
-| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Accounting and Auditing Year-Round Student Intern](https://jobright.ai/jobs/info/6a5e6c5a27bf767ea68f6a87?utm_campaign=1052&utm_source=git)** | Columbia, South Carolina, United States of America | On Site | Jul 21 |
-| **[TownSq](https://www.townsq.com.br/)** | **[Accounting Clerk Intern](https://jobright.ai/jobs/info/6a5dbf5c63a8f619507d07fc?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 21 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a5f531df68dd368023e5f30?utm_campaign=1052&utm_source=git)** | Kingsport, TN, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

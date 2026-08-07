@@ -50,6 +50,12 @@ For a complete list, click the following sortable link below:
 </div>
 
 ---
+
+## Canada-focused student finance roles
+
+Students looking specifically for Canadian accounting, finance, co-op, new-grad, junior, and entry-level roles can also use [Hanzilla Jobs — Finance & Accounting](https://jobs.hanzilla.co/finance/), a free daily-updated Canadian student/recent-grad jobs board with direct company-career-page links.
+
+---
 ## Daily Job List  🌐 🧭 🏆
 
 

@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DiMercurio Advisors](https://www.dimercurioadvisors.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6aa5b129930bff471a29f8ca?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Sep 12 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a918c659864261ccd29d666?utm_campaign=1052&utm_source=git)** | Edison, NJ, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a876a0bcde3717f9e9b204a?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a95afd93843db0159906870?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a95afdbf28891320e85d3b7?utm_campaign=1052&utm_source=git)** | Birmingham, Alabama, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a8bc4c3cde3717f9e9baf4c?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a95afd5f28891320e85d3a8?utm_campaign=1052&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a96695169b865490a631d7f?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a88751be8b6601d12906c4d?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6aa4feee2ed333b4ea5c4d69?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a85e4ca74e02153f14591b2?utm_campaign=1052&utm_source=git)** | Dallas, Texas, United States | On Site | Sep 12 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a966948b22f636c81412634?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Sep 12 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a91fe3d8e59685453378adf?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a8bc4c3cde3717f9e9baf4c?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 12 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a9501251e67aa542830d77d?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a95afdbf28891320e85d3b7?utm_campaign=1052&utm_source=git)** | Birmingham, Alabama, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a876a0bcde3717f9e9b204a?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a96695169b865490a631d7f?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6aa4feee2ed333b4ea5c4d69?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a88751be8b6601d12906c4d?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a95afd5f28891320e85d3a8?utm_campaign=1052&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a95afd93843db0159906870?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2028](https://jobright.ai/jobs/info/6a85e4ca74e02153f14591b2?utm_campaign=1052&utm_source=git)** | Dallas, Texas, United States | On Site | Sep 12 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6a91fe3d8e59685453378adf?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Sep 12 |
 | **[Withum](http://www.withum.com)** | **[Audit Spring Internship 2027](https://jobright.ai/jobs/info/6a8293691081a745e970aeb8?utm_campaign=1052&utm_source=git)** | Princeton, NJ, United States | On Site | Sep 12 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – Global Wealth Management, Private Client Group Analyst, US](https://jobright.ai/jobs/info/6a894b884afae74a0834e796?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | On Site | Sep 12 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Fundamental Equities](https://jobright.ai/jobs/info/6aa43d4a422289703bd65c71?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Sep 12 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Accounting Co-op - Summer 2027](https://jobright.ai/jobs/info/6a88a2c24afae74a0834cb8e?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 12 |
 | **[IBM](http://www.ibm.com)** | **[Intern Finance Specialist (SAP) – 2027](https://jobright.ai/jobs/info/6a9e2d402c964816f65ebd71?utm_campaign=1052&utm_source=git)** | Baton Rouge, Louisiana, United States | Hybrid | Sep 12 |
 | **[Dean Dorton](http://deandorton.com)** | **[2027 Summer Forensics & Valuation Services Intern](https://jobright.ai/jobs/info/6a887de6d34f700f87fc8d6e?utm_campaign=1052&utm_source=git)** | Fort Wright, KY, United States | On Site | Sep 12 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Paid Intern - Summer 2027 (Auditing Department)](https://jobright.ai/jobs/info/6aa454fb422289703bd66311?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Sep 12 |
-| ↳ | **[Paid Intern- IT Audit (Church Auditing Dept.)](https://jobright.ai/jobs/info/6aa4a1511d92e2d05d1158d2?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Sep 12 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Paid Intern- IT Audit (Church Auditing Dept.)](https://jobright.ai/jobs/info/6aa4a1511d92e2d05d1158d2?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Sep 12 |
+| ↳ | **[Paid Intern - Summer 2027 (Auditing Department)](https://jobright.ai/jobs/info/6aa454fb422289703bd66311?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Sep 12 |
 | **[UPMC](https://www.upmc.com/)** | **[2027 Summer Associate - Finance Internship](https://jobright.ai/jobs/info/6a88b630680f314a29d3d68f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 12 |
 | **[MNP](http://www.mnp.ca)** | **[Co-op Accountant (January-April 2027)](https://jobright.ai/jobs/info/6a88912725fc4e7ae3db1223?utm_campaign=1052&utm_source=git)** | Oshawa, ON, Canada | On Site | Sep 12 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, CPA Program (January – August 2027)](https://jobright.ai/jobs/info/6a8878acd34f700f87fc8b17?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 12 |
@@ -95,9 +96,10 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern – RCM Accounts Receivable Support](https://jobright.ai/jobs/info/6aa49249f7baf881567cf354?utm_campaign=1052&utm_source=git)** | Burlington, NC, United States | Hybrid | Sep 12 |
 | ↳ | **[Intern - Finance Excellence](https://jobright.ai/jobs/info/6aa4a8d01d92e2d05d115a4f?utm_campaign=1052&utm_source=git)** | Durham, NC, United States | Hybrid | Sep 12 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2027 Corebridge Financial Summer Internship Program - Actuary](https://jobright.ai/jobs/info/6a9a002b1388387060591efa?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Sep 12 |
+| **[Compeer Financial](https://compeer.com/)** | **[Intern Tax and Accounting](https://jobright.ai/jobs/info/6a805289e2030208f27740e3?utm_campaign=1052&utm_source=git)** | Fond du Lac, WI, United States | On Site | Sep 12 |
 | **[Synergy Wealth Solutions](https://www.synergywealthsolutions.com)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/6a3558221232144fb1562c77?utm_campaign=1052&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 12 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a8420df0b610f7a3d0e40ae?utm_campaign=1052&utm_source=git)** | Greenville, TX, United States | On Site | Sep 12 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6aa3bcb55c11cce360365ffb?utm_campaign=1052&utm_source=git)** | Rochester, NY, United States | On Site | Sep 12 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6aa470ed422289703bd669e4?utm_campaign=1052&utm_source=git)** | Rochester, NY, United States | On Site | Sep 12 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6aa3bea74238ea18d430de3c?utm_campaign=1052&utm_source=git)** | Lynchburg, VA, United States | On Site | Sep 12 |
 | ↳ | **[Technical Training Intern](https://jobright.ai/jobs/info/6aa3f426422289703bd6453b?utm_campaign=1052&utm_source=git)** | Rochester, NY, United States | On Site | Sep 12 |
 | **[American Equity](http://www.american-equity.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a888c4b4afae74a0834c480?utm_campaign=1052&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 12 |
@@ -122,9 +124,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - NGL Pipeline Accounting](https://jobright.ai/jobs/info/6aa5850fa77a53f5a1571474?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Sep 11 |
 | **[Withum](http://www.withum.com)** | **[Tax Chicago Spring Interns 2027](https://jobright.ai/jobs/info/6aa548a7654b2a9424cf3b2a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Sep 11 |
 | **[TRG](https://trg.agency)** | **[Accounting Intern (2026 Fall) (Part-time)](https://jobright.ai/jobs/info/6aa4dd34654b2a9424cf19ff?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Sep 11 |
-| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX)](https://jobright.ai/jobs/info/6aa59a5942411952ff9a9381?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Sep 11 |
-| ↳ | **[2027 Global Finance & Business Management- Corporate Controllers Track (DE) - Summer Analyst](https://jobright.ai/jobs/info/6aa58a33930bff471a29f0e2?utm_campaign=1052&utm_source=git)** | Newark, DE, United States | On Site | Sep 11 |
-| ↳ | **[2027 Global Finance & Business Management - Summer Analyst (New York Metro)](https://jobright.ai/jobs/info/6aa5262b42411952ff9a7579?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 11 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Global Finance & Business Management - Summer Analyst (New York Metro)](https://jobright.ai/jobs/info/6aa5262b42411952ff9a7579?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 11 |
+| ↳ | **[2027 Global Finance & Business Management - Summer Analyst (OH, IL, DE, TX)](https://jobright.ai/jobs/info/6aa59a5942411952ff9a9381?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Sep 11 |
+| ↳ | **[2027 Global Finance & Business Management- Corporate Controllers Track (DE) - Summer Analyst](https://jobright.ai/jobs/info/6aa5ad6f654b2a9424cf50a7?utm_campaign=1052&utm_source=git)** | Newark, DE, United States | On Site | Sep 11 |
 | **[Yeo & Yeo CPAs & Advisors](http://yeoandyeo.com)** | **[Business Valuation Intern (January 2027)](https://jobright.ai/jobs/info/6aa467b2c1928370a285dd5f?utm_campaign=1052&utm_source=git)** | Troy, MI, United States | On Site | Sep 11 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Finance / Treasury  2026](https://jobright.ai/jobs/info/6aa5655d930bff471a29e87f?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Sep 11 |
 | ↳ | **[Intern - Finance / Treasury  2027](https://jobright.ai/jobs/info/6aa517eea77a53f5a156f8b7?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Sep 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Finance / Reporting](https://jobright.ai/jobs/info/6aa50a0d654b2a9424cf2628?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Sep 11 |
 | **[Ibotta](https://home.ibotta.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6aa52dd8654b2a9424cf32fd?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 11 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Investments - Fixed Income](https://jobright.ai/jobs/info/6a9048642e254e06fb9efebd?utm_campaign=1052&utm_source=git)** | Richardson, TX, United States | Hybrid | Sep 11 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2027 Treasury Risk Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/6aa496e71d92e2d05d11565c?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 11 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Tax Co-Op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a60d194193c4d692385f917?utm_campaign=1052&utm_source=git)** | Plymouth, MN, United States | Hybrid | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

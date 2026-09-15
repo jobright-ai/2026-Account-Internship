@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wipfli](http://www.wipfli.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6aa92fdceff87f571fc98805?utm_campaign=1052&utm_source=git)** | Wausau, WI, United States | On Site | Sep 15 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/Intern Financial Analyst](https://jobright.ai/jobs/info/6aa92f3e10b1cd4f41604c5a?utm_campaign=1052&utm_source=git)** | Ottawa, ON, Canada | Remote | Sep 15 |
+| **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Investment Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa92bfc09ae03adcacdc1a6?utm_campaign=1052&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 15 |
+| **[DESRI](https://www.desri.com)** | **[Investment/Strategy Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8ca545581f2d7bfdfe4e90?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2027: MBA Strategic Finance Intern](https://jobright.ai/jobs/info/6aa82774654b2a9424cfb0b0?utm_campaign=1052&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 15 |
 | **[Prosperity Partners](https://www.prosperityllc.com)** | **[M&A Transaction Advisory Intern](https://jobright.ai/jobs/info/6a8c891625fc4e7ae3db8f31?utm_campaign=1052&utm_source=git)** | Vienna, VA, United States | On Site | Sep 15 |
-| **[CHS Inc.](https://chsinc.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6aa809153a9f0a4fe6f16c95?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Sep 15 |
-| ↳ | **[Finance Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aa8c814eff87f571fc97bc2?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Sep 15 |
+| **[CHS Inc.](https://chsinc.com)** | **[Finance Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aa8c814eff87f571fc97bc2?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Sep 15 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6aa809153a9f0a4fe6f16c95?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Sep 15 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6aa808e93a9f0a4fe6f16c7e?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Sep 15 |
 | ↳ | **[Accounting Intern Job Details / CHS, Inc.](https://jobright.ai/jobs/info/6aa8c8106d0edc2d91b07a2a?utm_campaign=1052&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Sep 15 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Internal Accounting Intern](https://jobright.ai/jobs/info/6a8cb3891d96e6541c8c2950?utm_campaign=1052&utm_source=git)** | Southfield, MI, United States | On Site | Sep 15 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6aa4c4c442411952ff9a5732?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Sep 15 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6aa46ff2422289703bd669cb?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 15 |
+| ↳ | **[Audit Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6aa4c4c442411952ff9a5732?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Sep 15 |
 | ↳ | **[Audit Intern – Peak Season 2027 (January - June)](https://jobright.ai/jobs/info/6aa4913d422289703bd67115?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Sep 15 |
-| ↳ | **[Audit Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6aa46ff2422289703bd669cb?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 15 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 International Tax Services Intern](https://jobright.ai/jobs/info/6a8c47a11d96e6541c8bfd9d?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 15 |
 | ↳ | **[2028 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6a8c6ac8581f2d7bfdfe3683?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Sep 15 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[Regina Office - CPA Opportunities in Audit - Intern/Co-op - Winter 2027/2028 Start](https://jobright.ai/jobs/info/6a8c634c1d96e6541c8c06b9?utm_campaign=1052&utm_source=git)** | Regina, SK, Canada | On Site | Sep 15 |
@@ -75,15 +80,15 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Risk Management Graduate Intern – Quantitative Summer 2027](https://jobright.ai/jobs/info/6a8c57c6d34f700f87fcfdf1?utm_campaign=1052&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Accounting Internship 2027](https://jobright.ai/jobs/info/6a9e3b6527c94c3d5a1cb9f8?utm_campaign=1052&utm_source=git)** | Des Moines, IA, United States | Remote | Sep 15 |
 | **[Nationwide](https://www.nationwide.com)** | **[2027 Controllership Winter/Spring Co-op](https://jobright.ai/jobs/info/6a8c824b1d96e6541c8c1462?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Remote | Sep 15 |
-| **[Freddie Mac](https://www.freddiemac.com/)** | **[Internal Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a8ccb0f1d96e6541c8c2ff0?utm_campaign=1052&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
+| **[Freddie Mac](https://www.freddiemac.com/)** | **[Internal Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6a9f427368f82b403673c879?utm_campaign=1052&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
 | **[RTX](http://rtx.com/)** | **[Raytheon Finance Intern  (Summer 2027)](https://jobright.ai/jobs/info/6aa8ce4c10b1cd4f41604167?utm_campaign=1052&utm_source=git)** | Goleta, CA, United States | Hybrid | Sep 15 |
 | ↳ | **[Raytheon Finance  Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa8bb5feff87f571fc977e8?utm_campaign=1052&utm_source=git)** | Tucson, AZ, United States | Hybrid | Sep 15 |
 | ↳ | **[Raytheon Finance Intern  (Summer 2027)](https://jobright.ai/jobs/info/6aa8bc43eff87f571fc97865?utm_campaign=1052&utm_source=git)** | McKinney, TX, United States | Hybrid | Sep 15 |
 | ↳ | **[Raytheon Finance Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa8bb3ceff87f571fc977c8?utm_campaign=1052&utm_source=git)** | Tewksbury, MA, United States | Hybrid | Sep 15 |
 | ↳ | **[Finance Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa8bcf3eff87f571fc978d0?utm_campaign=1052&utm_source=git)** | El Segundo, CA, United States | Hybrid | Sep 15 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Controllership Internship](https://jobright.ai/jobs/info/6a8c9514cde3717f9e9be0e7?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Sep 15 |
-| **[Freddie Mac](https://www.freddiemac.com/)** | **[Capital Markets Intern - Summer 2027](https://jobright.ai/jobs/info/6a8cc9ee581f2d7bfdfe5b95?utm_campaign=1052&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
-| ↳ | **[Capital Markets Intern - Summer 2027](https://jobright.ai/jobs/info/6a9f4276f6ea002358297acc?utm_campaign=1052&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
+| **[Freddie Mac](https://www.freddiemac.com/)** | **[Capital Markets Intern - Summer 2027](https://jobright.ai/jobs/info/6a9f4276f6ea002358297acc?utm_campaign=1052&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
+| ↳ | **[Capital Markets Intern - Summer 2027](https://jobright.ai/jobs/info/6a8cc9ee581f2d7bfdfe5b95?utm_campaign=1052&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - 8 Month Co-Op Winter 2027](https://jobright.ai/jobs/info/6a8ebb3cf841e649a718f094?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 15 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Accounting and Finance Intern- Summer 2027](https://jobright.ai/jobs/info/6a8c900d2f736c304f2a67e9?utm_campaign=1052&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
 | **[Nationwide](https://www.nationwide.com)** | **[2027 Corporate Tax Winter-Spring Internship](https://jobright.ai/jobs/info/6a8c95031d96e6541c8c1c97?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Remote | Sep 15 |
@@ -132,29 +137,24 @@ For a complete list, click the following sortable link below:
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a907c7a8ffa38557e6cd278?utm_campaign=1052&utm_source=git)** | Fall River, MA, United States | On Site | Sep 14 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Corporate Audit Analyst Program - 2027](https://jobright.ai/jobs/info/6aa900736d0edc2d91b080ee?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 14 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Finance/Treasury Intern (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a8686e74afae74a08344fb5?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 14 |
-| **[Mariner](http://www.marinerwealthadvisors.com)** | **[Intern, Financial Planning - Tigard, OR](https://jobright.ai/jobs/info/6aa87378a77a53f5a1579867?utm_campaign=1052&utm_source=git)** | McMinnville, OR, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Brookfield, WI](https://jobright.ai/jobs/info/6a8c8efc25fc4e7ae3db9157?utm_campaign=1052&utm_source=git)** | Brookfield, WI, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Oakbrook Terrace, IL](https://jobright.ai/jobs/info/6aa871053a9f0a4fe6f19568?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Columbus, OH](https://jobright.ai/jobs/info/6a956763afd6d85adbfad80b?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Brentwood, MO](https://jobright.ai/jobs/info/6aa87397a77a53f5a1579875?utm_campaign=1052&utm_source=git)** | Brentwood, MO, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6a8c8efcd34f700f87fd143b?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning- Tulsa, OK](https://jobright.ai/jobs/info/6a95c3b9f28891320e85dbd6?utm_campaign=1052&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Cincinnati](https://jobright.ai/jobs/info/6a9563ad1e895f12946679cf?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Greenville, SC](https://jobright.ai/jobs/info/6a7f7e2ce51a1e18a2413314?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6aa89ee2654b2a9424cfd913?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Bloomington, MN](https://jobright.ai/jobs/info/6a96ed51b22f636c814148c9?utm_campaign=1052&utm_source=git)** | Bloomington, MN, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Novi, MI](https://jobright.ai/jobs/info/6a9564d01e895f12946679f0?utm_campaign=1052&utm_source=git)** | Novi, MI, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6a8c8ef92f736c304f2a676c?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Los Altos, CA](https://jobright.ai/jobs/info/6a7f68b6e2030208f276dd9c?utm_campaign=1052&utm_source=git)** | Los Altos, CA, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6a95c16bf28891320e85da24?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Walnut Creek, CA](https://jobright.ai/jobs/info/6a7f679619ce4e6e9d93798f?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA, United States | On Site | Sep 14 |
+| **[Mariner](http://www.marinerwealthadvisors.com)** | **[Intern, Financial Planning - Los Altos, CA](https://jobright.ai/jobs/info/6a7f68b6e2030208f276dd9c?utm_campaign=1052&utm_source=git)** | Los Altos, CA, United States | On Site | Sep 14 |
 | ↳ | **[Intern, Financial Planning - Overland Park, KS](https://jobright.ai/jobs/info/6aa873ab654b2a9424cfce62?utm_campaign=1052&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 14 |
 | ↳ | **[Intern, Financial Planning - San Diego, CA](https://jobright.ai/jobs/info/6aa83462930bff471a2a5c3f?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Tigard, OR](https://jobright.ai/jobs/info/6aa87163a77a53f5a15797c5?utm_campaign=1052&utm_source=git)** | Tigard, OR, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6a95c16bf28891320e85da24?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Brookfield, WI](https://jobright.ai/jobs/info/6a8c8efc25fc4e7ae3db9157?utm_campaign=1052&utm_source=git)** | Brookfield, WI, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6a8c8ef92f736c304f2a676c?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6a8c8efcd34f700f87fd143b?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Brentwood, MO](https://jobright.ai/jobs/info/6aa87397a77a53f5a1579875?utm_campaign=1052&utm_source=git)** | Brentwood, MO, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Cincinnati](https://jobright.ai/jobs/info/6a9563ad1e895f12946679cf?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Pittsburgh, PA](https://jobright.ai/jobs/info/6a956763afd6d85adbfad80a?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Louisville, KY](https://jobright.ai/jobs/info/6a95660001d0e621745867a5?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Oakbrook Terrace, IL](https://jobright.ai/jobs/info/6aa871053a9f0a4fe6f19568?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning- Sarasota, FL](https://jobright.ai/jobs/info/6a95c6154c22023a07935add?utm_campaign=1052&utm_source=git)** | Sarasota, FL, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Columbus, OH](https://jobright.ai/jobs/info/6a956763afd6d85adbfad80b?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning- Tulsa, OK](https://jobright.ai/jobs/info/6a95c3b9f28891320e85dbd6?utm_campaign=1052&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Novi, MI](https://jobright.ai/jobs/info/6a9564d01e895f12946679f0?utm_campaign=1052&utm_source=git)** | Novi, MI, United States | On Site | Sep 14 |
 | ↳ | **[Intern, Financial Planning - Highlands Ranch, CO](https://jobright.ai/jobs/info/6aa873a582e82a31997c6060?utm_campaign=1052&utm_source=git)** | Highlands Ranch, CO, United States | On Site | Sep 14 |
 | ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6aa89ee22ed333b4ea5d0397?utm_campaign=1052&utm_source=git)** | Plano, TX, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Louisville, KY](https://jobright.ai/jobs/info/6a95660001d0e621745867a5?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning- Sarasota, FL](https://jobright.ai/jobs/info/6a95c6154c22023a07935add?utm_campaign=1052&utm_source=git)** | Sarasota, FL, United States | On Site | Sep 14 |
-| ↳ | **[Intern, Financial Planning - Pittsburgh, PA](https://jobright.ai/jobs/info/6a956763afd6d85adbfad80a?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 14 |
 | ↳ | **[Intern, Financial Planning](https://jobright.ai/jobs/info/6aa89ee33a9f0a4fe6f1a0db?utm_campaign=1052&utm_source=git)** | Rockland, MA, United States | On Site | Sep 14 |
+| ↳ | **[Intern, Financial Planning - Tigard, OR](https://jobright.ai/jobs/info/6aa87378a77a53f5a1579867?utm_campaign=1052&utm_source=git)** | McMinnville, OR, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

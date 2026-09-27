@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (IT Internal Audit) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ab8a35439fd8792cb73ffc0?utm_campaign=1052&utm_source=git)** | Erie, PA, United States | On Site | Sep 26 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Assurance Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa1f5d2dbc0e60e37e1472d?utm_campaign=1052&utm_source=git)** | California, United States | Hybrid | Sep 26 |
 | **[Baker Hughes](https://www.bakerhughes.com/)** | **[Intern/Co-op - Finance- Spring 2027 Opportunities](https://jobright.ai/jobs/info/6aad48c10ebc8fb2313e8964?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Sep 26 |
 | **[Herald and Associates](http://www.heraldassociates.com)** | **[Finance & Analytics Intern - FP&A & Job Costing.](https://jobright.ai/jobs/info/6ab864cbd7fde2c08ec8cb38?utm_campaign=1052&utm_source=git)** | Worcester, MA, United States | On Site | Sep 26 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6ab8a57581e327c4bf2051e6?utm_campaign=1052&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Service Wire Company](http://servicewire.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6ab72e24d7fde2c08ec8b332?utm_campaign=1052&utm_source=git)** | Culloden, West Virginia, United States | On Site | Sep 26 |
 | **[American Express](https://www.americanexpress.com/en-in/)** | **[Campus Graduate Masters Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Charlotte, NC](https://jobright.ai/jobs/info/6a9673a5b22f636c81412af9?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Sep 26 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Summer 2027 Internship - Bethesda, MD](https://jobright.ai/jobs/info/6ab83da539fd8792cb73efc8?utm_campaign=1052&utm_source=git)** | Bethesda, MD, United States | Hybrid | Sep 26 |
@@ -74,46 +76,44 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Winter 2028 Internship – Long Island, New York](https://jobright.ai/jobs/info/6ab83a5281e327c4bf204175?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Sep 26 |
 | ↳ | **[Audit Winter 2028 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6ab83a2181e327c4bf204174?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2028 Internship - Austin, TX](https://jobright.ai/jobs/info/6ab83a1d81e327c4bf204172?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Winter 2028 Internship - Chicago, IL](https://jobright.ai/jobs/info/6ab83a1c81e327c4bf204171?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Winter 2028 Internship - Austin, TX](https://jobright.ai/jobs/info/6ab83a1c3a2ec87116e26d94?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2027 Internship - Bethesda, MD](https://jobright.ai/jobs/info/6ab83a1c81e327c4bf20416f?utm_campaign=1052&utm_source=git)** | Bethesda, MD, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Winter 2028 Internship - Austin, TX](https://jobright.ai/jobs/info/6ab83a1c3a2ec87116e26d94?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Winter 2028 Internship - Chicago, IL](https://jobright.ai/jobs/info/6ab83a1c81e327c4bf204171?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2028 Internship - Dallas, TX](https://jobright.ai/jobs/info/6ab83a1b39fd8792cb73ef94?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Winter 2028 Internship – New York City, NY](https://jobright.ai/jobs/info/6ab83a1a39fd8792cb73ef93?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Winter 2028 Internship - Chicago, IL](https://jobright.ai/jobs/info/6ab83a1a81e327c4bf20416d?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Summer 2027 Internship - Baltimore, MD](https://jobright.ai/jobs/info/6ab83a1a62bb1fbd451dec32?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Summer 2027 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/6ab83a1ad7fde2c08ec8c6d2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Winter 2027 Internship - Houston, TX](https://jobright.ai/jobs/info/6ab83a1a39fd8792cb73ef92?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Winter 2028 Internship – Long Island, NY](https://jobright.ai/jobs/info/6ab83a1a62bb1fbd451dec33?utm_campaign=1052&utm_source=git)** | Long Island, New York, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2028 Internship – Parsippany, New Jersey](https://jobright.ai/jobs/info/6ab83a1a81e327c4bf20416c?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Winter 2028 Internship – New York City, NY](https://jobright.ai/jobs/info/6ab83a1a39fd8792cb73ef93?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Summer 2027 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/6ab83a1ad7fde2c08ec8c6d2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 26 |
+| ↳ | **[Tax Winter 2028 Internship - Chicago, IL](https://jobright.ai/jobs/info/6ab83a1a81e327c4bf20416d?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 26 |
+| ↳ | **[Tax Winter 2027 Internship - Houston, TX](https://jobright.ai/jobs/info/6ab83a1a39fd8792cb73ef92?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6ab83a1ad7fde2c08ec8c6d1?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Winter 2028 Internship – Long Island, NY](https://jobright.ai/jobs/info/6ab83a1a62bb1fbd451dec33?utm_campaign=1052&utm_source=git)** | Long Island, New York, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Winter 2028 Internship – Hartford, CT](https://jobright.ai/jobs/info/6ab83a19d7fde2c08ec8c6d0?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2027 Internship - Denver, CO](https://jobright.ai/jobs/info/6ab83a19ba1c25652c612e99?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 26 |
 | ↳ | **[Audit Winter 2027 Internship - Rochester, MN](https://jobright.ai/jobs/info/6ab83a1981e327c4bf20416b?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Winter 2028 Internship - Bethesda, MD](https://jobright.ai/jobs/info/6ab83a1939fd8792cb73ef91?utm_campaign=1052&utm_source=git)** | Bethesda, MD, United States | Hybrid | Sep 26 |
 | ↳ | **[Audit Summer 2027 Internship - Baltimore, MD](https://jobright.ai/jobs/info/6ab83a1981e327c4bf20416a?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2028 Internship - Tysons Corner, VA](https://jobright.ai/jobs/info/6ab83a19d7fde2c08ec8c6cf?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Winter 2028 Internship – Hartford, CT](https://jobright.ai/jobs/info/6ab83a19d7fde2c08ec8c6d0?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Winter 2028 Internship - Bethesda, MD](https://jobright.ai/jobs/info/6ab83a1939fd8792cb73ef91?utm_campaign=1052&utm_source=git)** | Bethesda, MD, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2028 Internship - Rochester, MN](https://jobright.ai/jobs/info/6ab83a183a2ec87116e26d90?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Winter 2028 Internship – Holmdel, New Jersey](https://jobright.ai/jobs/info/6ab83a1862bb1fbd451dec2f?utm_campaign=1052&utm_source=git)** | Holmdel, NJ, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2028 Internship – New York City, New York](https://jobright.ai/jobs/info/6ab83a183a2ec87116e26d91?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Winter 2028 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6ab83a18d7fde2c08ec8c6cd?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Summer 2027 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/6ab83a1881e327c4bf204169?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Summer 2028 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/6ab83a173a2ec87116e26d8e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Summer 2027 Internship - Sacramento, CA](https://jobright.ai/jobs/info/6ab83a173a2ec87116e26d8f?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Summer 2028 Internship - San Diego, CA](https://jobright.ai/jobs/info/6ab83a1781e327c4bf204168?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Summer 2027 Internship - San Diego, CA](https://jobright.ai/jobs/info/6ab83a1762bb1fbd451dec2e?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Sep 26 |
+| ↳ | **[Tax Winter 2028 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6ab83a18d7fde2c08ec8c6cd?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 26 |
+| ↳ | **[Tax Winter 2028 Internship – Holmdel, New Jersey](https://jobright.ai/jobs/info/6ab83a1862bb1fbd451dec2f?utm_campaign=1052&utm_source=git)** | Holmdel, NJ, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Winter 2028 Internship - Bethesda, MD](https://jobright.ai/jobs/info/6ab83a1762bb1fbd451dec2d?utm_campaign=1052&utm_source=git)** | Bethesda, MD, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Summer 2027 Internship - San Diego, CA](https://jobright.ai/jobs/info/6ab83a17ba1c25652c612e98?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Sep 26 |
+| ↳ | **[Tax Summer 2028 Internship - San Diego, CA](https://jobright.ai/jobs/info/6ab83a1781e327c4bf204168?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Summer 2027 Internship - San Diego, CA](https://jobright.ai/jobs/info/6ab83a1762bb1fbd451dec2e?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Sep 26 |
+| ↳ | **[Tax Summer 2028 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/6ab83a173a2ec87116e26d8e?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Summer 2027 Internship - Sacramento, CA](https://jobright.ai/jobs/info/6ab83a173a2ec87116e26d8f?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 26 |
 | ↳ | **[Audit Winter 2028 Internship - Rochester, MN](https://jobright.ai/jobs/info/6ab83a1639fd8792cb73ef8f?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Summer 2027 Internship - Richmond, VA](https://jobright.ai/jobs/info/6ab83a16ba1c25652c612e97?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | Hybrid | Sep 26 |
 | ↳ | **[Audit Winter 2028 Internship - Denver, CO](https://jobright.ai/jobs/info/6ab83a1639fd8792cb73ef90?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 26 |
 | ↳ | **[Tax Summer 2027 Internship - Charlotte, NC](https://jobright.ai/jobs/info/6ab839a162bb1fbd451dec2a?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 26 |
-| ↳ | **[Audit Winter 2028 Internship – Parsippany, NJ](https://jobright.ai/jobs/info/6ab839a039fd8792cb73ef8e?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Winter 2028 Internship - Denver, CO](https://jobright.ai/jobs/info/6ab839a0d7fde2c08ec8c6cb?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 26 |
 | ↳ | **[Audit Summer 2027 Internship - San Francisco, CA](https://jobright.ai/jobs/info/6ab839a03a2ec87116e26d8c?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 26 |
+| ↳ | **[Tax Winter 2028 Internship - Denver, CO](https://jobright.ai/jobs/info/6ab839a0d7fde2c08ec8c6cb?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 26 |
+| ↳ | **[Audit Winter 2028 Internship – Parsippany, NJ](https://jobright.ai/jobs/info/6ab839a039fd8792cb73ef8e?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Sep 26 |
 | ↳ | **[Audit Winter 2028 Internship – Holmdel, NJ](https://jobright.ai/jobs/info/6ab8396ad7fde2c08ec8c6ca?utm_campaign=1052&utm_source=git)** | Holmdel, NJ, United States | Hybrid | Sep 26 |
 | ↳ | **[Audit Winter 2027 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/6aab0c1bc85610f4a48433c5?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Winter 2027 Internship - Charlotte, NC](https://jobright.ai/jobs/info/6ab1a418f9692ca98b04ae73?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 26 |
-| ↳ | **[Tax Summer 2027 Internship - Houston, TX](https://jobright.ai/jobs/info/6ab1a41bd43eb922ca0c046c?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 26 |
 | **[USAA](https://www.usaa.com)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/6ab7146cd7fde2c08ec8a9e5?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 26 |
 | **[PwC](http://pwc.com)** | **[Deals - Capital Markets & Accounting Advisory Services (CMAAS) Intern - Winter 2028](https://jobright.ai/jobs/info/6ab8272439fd8792cb73eebb?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Sep 26 |
 | ↳ | **[Deals - Capital Markets & Accounting Advisory Services (CMAAS) Intern - Winter 2028](https://jobright.ai/jobs/info/6ab8271f39fd8792cb73eeb9?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Sep 26 |
@@ -125,17 +125,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deals - Capital Markets & Accounting Advisory Services (CMAAS) Intern - Winter 2028](https://jobright.ai/jobs/info/6ab816f23a2ec87116e26b75?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 26 |
 | ↳ | **[Deals - Capital Markets & Accounting Advisory Services (CMAAS) Intern - Winter 2028](https://jobright.ai/jobs/info/6ab8142cba1c25652c612c75?utm_campaign=1052&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 26 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/6a9b4bb32cdc5958f53ebf41?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 26 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/6a9afa4990a313642c657d13?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Sep 26 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/6a9aebed1388387060594a75?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Sep 26 |
 | ↳ | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/6a9b28e690a313642c658d3f?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
 | **[PwC](http://pwc.com)** | **[Deals - Capital Markets & Accounting Advisory Services (CMAAS) Intern - Winter 2028](https://jobright.ai/jobs/info/6ab811d7d7fde2c08ec8c444?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 26 |
 | **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[Accounting Intern, Markham (6 month Intern/Co-Op, Immediate Hire)](https://jobright.ai/jobs/info/6ab8103cba1c25652c612c1e?utm_campaign=1052&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 26 |
 | **[PwC](http://pwc.com)** | **[Deals - Capital Markets & Accounting Advisory Services (CMAAS) Intern - Winter 2028](https://jobright.ai/jobs/info/6ab80fb5d7fde2c08ec8c42c?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/6a9b1309fe45b8490f606bc0?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 26 |
 | ↳ | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a9b1307d5ff1f3f1c39d893?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 26 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Intern - Summer 2027](https://jobright.ai/jobs/info/6a99e87c8a8b765bc55f6431?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Sep 26 |
-| ↳ | **[International Tax Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1eca90a313642c658a8d?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 26 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b2a70d5ff1f3f1c39de8a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Sep 26 |
-| ↳ | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b20011388387060596b77?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[International Tax Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1eca90a313642c658a8d?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 26 |
+| ↳ | **[International Tax Intern - Summer 2027](https://jobright.ai/jobs/info/6a99e87c8a8b765bc55f6431?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Sep 26 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b28cb9c24314c35f98037?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
+| ↳ | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b2a70d5ff1f3f1c39de8a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Sep 26 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[HPL Underwriting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b0c86fe45b8490f606973?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Sep 26 |
 | ↳ | **[TRI M&A Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b0c85d5ff1f3f1c39d610?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Sep 26 |
 | **[MNP](http://www.mnp.ca)** | **[Accountant, Assurance and Accounting (Summer or Fall 2027)](https://jobright.ai/jobs/info/6aa0208ea2266b538d22e515?utm_campaign=1052&utm_source=git)** | Montréal, QC, Canada | On Site | Sep 26 |

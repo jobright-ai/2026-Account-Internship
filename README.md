@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[George J. Igel & Co., Inc.](https://www.buildwithigel.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6aa4dfc542411952ff9a5e8a?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Oct 01 |
+| **[Solenis](http://solenis.com/)** | **[Intern](https://jobright.ai/jobs/info/6abe044a064da25272dffa46?utm_campaign=1052&utm_source=git)** | Ontario, Canada | Remote | Oct 01 |
+| **[First National Bank of Bastrop](https://www.fnbbastrop.bank/)** | **[Community Banking Intern Program (Summer 2027)](https://jobright.ai/jobs/info/6abd7147064da25272dfd9bb?utm_campaign=1052&utm_source=git)** | Bastrop, TX, United States | On Site | Oct 01 |
 | **[NetJets](https://www.netjets.com/)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/6abdea2f4ac55253f5d5f222?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 30 |
 | **[HQ Capital](http://hqcapital.com/en/)** | **[Private Equity Investment Team Summer 2027 Internship](https://jobright.ai/jobs/info/6abe00f0372c01f6cd72272a?utm_campaign=1052&utm_source=git)** | Miami, New Mexico, United States | On Site | Sep 30 |
 | **[OMERS](http://www.omers.com)** | **[Student, Canadian Tax Accountant (Summer 2027, 12 Months)](https://jobright.ai/jobs/info/6abd95f3d9621c5b2838d1de?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 30 |
@@ -85,41 +88,40 @@ For a complete list, click the following sortable link below:
 | **[The Gerken Companies](https://www.gerkencompanies.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6abdb8118ff3fb9b3bc71ede?utm_campaign=1052&utm_source=git)** | Maumee, OH, United States | On Site | Sep 30 |
 | **[Wichita Public Schools - USD259](https://www.usd259.org)** | **[Financial Services Intern (2026-2027 School Year)](https://jobright.ai/jobs/info/6a99384a50bfe8474621f2d9?utm_campaign=1052&utm_source=git)** | Wichita, Kansas, United States | On Site | Sep 30 |
 | **[Shure](http://www.shure.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a9962d9ad752e2ad54ff435?utm_campaign=1052&utm_source=git)** | Niles, IL, United States | Remote | Sep 30 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6abdf8a9d9621c5b2838e25a?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Sep 30 |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Credit Analyst](https://jobright.ai/jobs/info/6abdf8ad372c01f6cd722646?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Sep 30 |
 | ↳ | **[Intern - Wealth Management Research](https://jobright.ai/jobs/info/6abdf8b34ac55253f5d5f55a?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Sep 30 |
-| ↳ | **[Intern - Credit Analyst](https://jobright.ai/jobs/info/6abdf8ad372c01f6cd722646?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Sep 30 |
+| ↳ | **[Intern - Accounting](https://jobright.ai/jobs/info/6abdf8a9d9621c5b2838e25a?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Sep 30 |
 | ↳ | **[Intern - Loan Services](https://jobright.ai/jobs/info/6abdf8b10e027c0f3b397978?utm_campaign=1052&utm_source=git)** | Metairie, LA, United States | On Site | Sep 30 |
 | ↳ | **[Intern - Franchise Finance](https://jobright.ai/jobs/info/6abdf8af064da25272dff8f9?utm_campaign=1052&utm_source=git)** | Farmers Branch, TX, United States | On Site | Sep 30 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc58c5fbb3359bcc7d16f0?utm_campaign=1052&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf8a5b23c6fb2b81a43ad?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc2d7392b2612ef0f8d88a?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc2d94b23c6fb2b81a5b88?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc2d8692b2612ef0f8d891?utm_campaign=1052&utm_source=git)** | King of Prussia, PA, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abdaaef372c01f6cd7219ca?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abdaaef064da25272dfec1f?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf84292b2612ef0f8c000?utm_campaign=1052&utm_source=git)** | Plano, TX, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf43fd6acfd3dd29faf09?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf3ef92b2612ef0f8bd1b?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc5054bf15c0ae501384a5?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf461b23c6fb2b81a40b3?utm_campaign=1052&utm_source=git)** | Oakland, CA, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf875a9a644f9656894af?utm_campaign=1052&utm_source=git)** | Glendale, Arizona, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc2d923217d1d13329db7a?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc58c5187b1378d873daaa?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf3f5b23c6fb2b81a407d?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | On Site | Sep 30 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf867a9a644f9656894a9?utm_campaign=1052&utm_source=git)** | Oakland, CA, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc505273339662c77237d5?utm_campaign=1052&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 30 |
 | ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abdab284ac55253f5d5e8d8?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | Hybrid | Sep 30 |
-| ↳ | **[Summer 2027 Intern, Transfer Pricing](https://jobright.ai/jobs/info/6abc2d62d6acfd3dd29fca10?utm_campaign=1052&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf84292b2612ef0f8c000?utm_campaign=1052&utm_source=git)** | Plano, TX, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abdaaef064da25272dfec1f?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf875a9a644f9656894af?utm_campaign=1052&utm_source=git)** | Glendale, Arizona, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf8a5b23c6fb2b81a43ad?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc50542668e0eab35c1a7f?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc1f21d6acfd3dd29fc2be?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc1eff92b2612ef0f8d0d0?utm_campaign=1052&utm_source=git)** | King of Prussia, PA, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc2d923217d1d13329db7a?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf8287119e56191cea6e3?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf8353217d1d13329c37b?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abbf3ef92b2612ef0f8bd1b?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abdaaef8ff3fb9b3bc71c0a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc31f6a9a644f96568ae12?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Real Property Tax](https://jobright.ai/jobs/info/6abc5054bf15c0ae501384a5?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 30 |
 | ↳ | **[Summer 2027 Intern, Transfer Pricing](https://jobright.ai/jobs/info/6abdaaf48ff3fb9b3bc71c0d?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 30 |
-| ↳ | **[Summer 2027 Intern, State Income/Franchise Tax](https://jobright.ai/jobs/info/6abc5055bf15c0ae501384a6?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, Transfer Pricing](https://jobright.ai/jobs/info/6abc32097119e56191cec0ad?utm_campaign=1052&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 30 |
+| ↳ | **[Summer 2027 Intern, State Income/Franchise Tax](https://jobright.ai/jobs/info/6abc5054187b1378d873d963?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Sep 30 |
 | ↳ | **[Summer 2027 Intern, Transaction Tax Compliance](https://jobright.ai/jobs/info/6abdaaee064da25272dfec1e?utm_campaign=1052&utm_source=git)** | Downers Grove, IL, United States | Hybrid | Sep 30 |
-| ↳ | **[Summer 2027 Intern, State Income/Franchise Tax](https://jobright.ai/jobs/info/6abc58d7bf15c0ae501385de?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Sep 30 |
 | ↳ | **[Summer 2027 Intern, State Income/Franchise Tax](https://jobright.ai/jobs/info/6abdaaf00e027c0f3b396ce6?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 30 |
+| ↳ | **[Summer 2027 Intern, State Income/Franchise Tax](https://jobright.ai/jobs/info/6abc5055bf15c0ae501384a6?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Sep 30 |
 | **[Nodak Insurance Company](https://nodakins.com/)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a988c6ddd171c7285792e1a?utm_campaign=1052&utm_source=git)** | Fargo, North Dakota, United States | On Site | Sep 30 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Actuary Internship](https://jobright.ai/jobs/info/6abdc96f0e027c0f3b3972bf?utm_campaign=1052&utm_source=git)** | Naperville, IL, United States | Hybrid | Sep 30 |
 | **[Airbus](https://us.airbus.com)** | **[2027 Summer Internship - Operations Analyst](https://jobright.ai/jobs/info/6aa868c83a9f0a4fe6f19288?utm_campaign=1052&utm_source=git)** | Kinston, NC, United States | On Site | Sep 30 |
 | **[Smurfit Westrock](https://www.smurfitwestrock.com/)** | **[Finance Internship, Summer 2027](https://jobright.ai/jobs/info/6aa3c871626f9945308b32aa?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Winter 2027 - Denver, CO & Salt Lake City, UT](https://jobright.ai/jobs/info/6abd87064ac55253f5d5df9d?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Sep 30 |
 | **[Paylocity](http://www.paylocity.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6abda52d372c01f6cd7218f6?utm_campaign=1052&utm_source=git)** | Schaumburg, IL, United States | On Site | Sep 30 |
-| **[Solenis](http://solenis.com/)** | **[Intern](https://jobright.ai/jobs/info/6abe044a064da25272dffa46?utm_campaign=1052&utm_source=git)** | Ontario, Canada | Remote | Sep 30 |
 | **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a9835c7def18223c854dfe8?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Sep 30 |
 | **[PwC](http://pwc.com)** | **[Detroit - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://jobright.ai/jobs/info/6abd56e18ff3fb9b3bc70180?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Sep 30 |
 | ↳ | **[Indianapolis - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://jobright.ai/jobs/info/6abd5785d9621c5b2838bada?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Technology (IT) Audit Intern – Internal Audit](https://jobright.ai/jobs/info/6abd78f84ac55253f5d5d9c9?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 30 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Finance Intern (2027)](https://jobright.ai/jobs/info/6a91b5d78e59685453377103?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 30 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/6abd5c868ff3fb9b3bc70367?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Sep 30 |
-| **[Greater New York Insurance Companies](https://www.gny.com/)** | **[Actuarial Intern (Competitor Analysis) - Summer 2027](https://jobright.ai/jobs/info/6aaae5bb40807b73bd3929ba?utm_campaign=1052&utm_source=git)** | New York, New York, United States | Hybrid | Sep 30 |
-| **[LCG Advisors](https://lcgadvisors.com/)** | **[Finance Intern - Spring 2026](https://jobright.ai/jobs/info/6abd74014ac55253f5d5d79a?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

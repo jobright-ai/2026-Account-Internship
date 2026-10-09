@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Doeren Mayhew](http://doeren.com)** | **[2027 Spring Internship](https://jobright.ai/jobs/info/6a909d39a19886486676222a?utm_campaign=1052&utm_source=git)** | Duluth, GA, United States | On Site | Oct 08 |
-| ↳ | **[2027 Spring Internship](https://jobright.ai/jobs/info/6a909d3e8ffa38557e6cdea8?utm_campaign=1052&utm_source=git)** | Alpharetta, GA, United States | On Site | Oct 08 |
+| **[Lazard](http://www.lazard.com)** | **[Lazard: Houston Power, Energy & Infrastructure - 2027 Summer Associate](https://jobright.ai/jobs/info/6ac87393fcdafb60c6a48764?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 08 |
+| **[RWE](https://www.rwe.com)** | **[Intern, Investment & Valuation, Summer 2027 Job Details / RWE](https://jobright.ai/jobs/info/6ac87143d4a5a0370740e5fb?utm_campaign=1052&utm_source=git)** | White Plains, NY, United States | On Site | Oct 08 |
+| **[Independent Bank](https://www.independentbank.com)** | **[Commercial Credit Intern (Grand Rapids) - Summer 2027](https://jobright.ai/jobs/info/6ac86fc86355f8776ff15142?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 08 |
+| ↳ | **[Commercial Credit Intern (Lansing) - Summer 2027](https://jobright.ai/jobs/info/6ac86fb46355f8776ff1513e?utm_campaign=1052&utm_source=git)** | East Lansing, MI, United States | On Site | Oct 08 |
+| ↳ | **[Commercial Credit Intern (Troy) - Summer 2027](https://jobright.ai/jobs/info/6ac86fadfe8f33a85d4ffdf3?utm_campaign=1052&utm_source=git)** | Troy, MI, United States | On Site | Oct 08 |
+| ↳ | **[Internal Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6ac86fa4fcdafb60c6a48700?utm_campaign=1052&utm_source=git)** | Bay City, MI, United States | On Site | Oct 08 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Accounting Internship Summer 2027 - Jacksonville FL](https://jobright.ai/jobs/info/6ab5c36bb3db59402d0fee2e?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 08 |
+| **[Doeren Mayhew](http://doeren.com)** | **[2027 Spring Internship](https://jobright.ai/jobs/info/6a909d3e8ffa38557e6cdea8?utm_campaign=1052&utm_source=git)** | Alpharetta, GA, United States | On Site | Oct 08 |
+| ↳ | **[2027 Spring Internship](https://jobright.ai/jobs/info/6a909d39a19886486676222a?utm_campaign=1052&utm_source=git)** | Duluth, GA, United States | On Site | Oct 08 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Purchasing (International Intern)](https://jobright.ai/jobs/info/6ab5c05d4873fd3fd852bb55?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Oct 08 |
 | ↳ | **[Internship in Central Controlling (International Student)](https://jobright.ai/jobs/info/6ab5c054d85922de20ce33f4?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Oct 08 |
 | ↳ | **[Internship as Finance Specialist (International Student)](https://jobright.ai/jobs/info/6ab5c05db3db59402d0feda3?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Oct 08 |
@@ -92,23 +99,23 @@ For a complete list, click the following sortable link below:
 | **[Messer Construction Co.](http://www.messer.com)** | **[Risk Analyst Co-Op - Cincinnati, OH (Spring 2027)](https://jobright.ai/jobs/info/6ac7cfa1fe8f33a85d4fd4d1?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 08 |
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Procurement](https://jobright.ai/jobs/info/6ac8132a44d6e65604a05f4a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
 | **[BMO](http://www.bmo.com)** | **[Analyst, Capital Markets Treasury - Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6ac7d21cfcdafb60c6a45fce?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 08 |
-| **[Cerity Partners](https://ceritypartners.com)** | **[Summer 2027 Wealth Management Internship](https://jobright.ai/jobs/info/6abaa5ee7220f52e62ae772f?utm_campaign=1052&utm_source=git)** | Bowling Green, KY, United States | On Site | Oct 08 |
-| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6abd7635d9621c5b2838c568?utm_campaign=1052&utm_source=git)** | Saratoga Springs, NY, United States | On Site | Oct 08 |
+| **[Cerity Partners](https://ceritypartners.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6aa37b35e38fb65a7df53619?utm_campaign=1052&utm_source=git)** | Saratoga Springs, NY, United States | On Site | Oct 08 |
+| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a9ae1d690a313642c656810?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | Hybrid | Oct 08 |
 | ↳ | **[Wealth Management Internship](https://jobright.ai/jobs/info/6a8f97f12e254e06fb9edccf?utm_campaign=1052&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 08 |
 | ↳ | **[Wealth Management Internship](https://jobright.ai/jobs/info/6ab2cd40326574570a003355?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Oct 08 |
 | ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6ab2f17878c69ff506c415b3?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 08 |
-| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a9ae1d690a313642c656810?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | Hybrid | Oct 08 |
+| ↳ | **[Summer 2027 Wealth Management Internship](https://jobright.ai/jobs/info/6abaa5ee7220f52e62ae772f?utm_campaign=1052&utm_source=git)** | Bowling Green, KY, United States | On Site | Oct 08 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2027 Wealth Management Intern - Palm Beach Gardens, FL](https://jobright.ai/jobs/info/6ac80e690e573df8adc75e9d?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - Annapolis, MD](https://jobright.ai/jobs/info/6ac80dfb51a1b3e4219f0241?utm_campaign=1052&utm_source=git)** | Annapolis, MD, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - Seattle, WA](https://jobright.ai/jobs/info/6ac80de8a444ac5d36f87678?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - Beachwood, OH](https://jobright.ai/jobs/info/6ac80de5a444ac5d36f87676?utm_campaign=1052&utm_source=git)** | Beachwood, OH, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - New York, NY](https://jobright.ai/jobs/info/6ac80de451a1b3e4219f0234?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - Reston, VA](https://jobright.ai/jobs/info/6ac80de3a444ac5d36f87674?utm_campaign=1052&utm_source=git)** | Reston, VA, United States | On Site | Oct 08 |
-| ↳ | **[2027 Wealth Management Intern - West Hartford, CT](https://jobright.ai/jobs/info/6ac80de2fe8f33a85d4feccd?utm_campaign=1052&utm_source=git)** | West Hartford, CT, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - Fulton, MD](https://jobright.ai/jobs/info/6ac80de2a444ac5d36f87673?utm_campaign=1052&utm_source=git)** | Fulton, MD, United States | On Site | Oct 08 |
-| ↳ | **[2027 Wealth Management Intern - San Rafael, CA](https://jobright.ai/jobs/info/6ac80de00e573df8adc75e4d?utm_campaign=1052&utm_source=git)** | San Rafael, CA, United States | On Site | Oct 08 |
+| ↳ | **[2027 Wealth Management Intern - West Hartford, CT](https://jobright.ai/jobs/info/6ac80de2fe8f33a85d4feccd?utm_campaign=1052&utm_source=git)** | West Hartford, CT, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - Potomac, MD](https://jobright.ai/jobs/info/6ac80de0a444ac5d36f87671?utm_campaign=1052&utm_source=git)** | Potomac, MD, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - Madison, WI](https://jobright.ai/jobs/info/6ac80de0fcdafb60c6a47602?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Oct 08 |
+| ↳ | **[2027 Wealth Management Intern - San Rafael, CA](https://jobright.ai/jobs/info/6ac80de00e573df8adc75e4d?utm_campaign=1052&utm_source=git)** | San Rafael, CA, United States | On Site | Oct 08 |
 | ↳ | **[2027 Wealth Management Intern - Melville, NY](https://jobright.ai/jobs/info/6ac80ddf0e573df8adc75e4b?utm_campaign=1052&utm_source=git)** | Melville, NY, United States | On Site | Oct 08 |
 | **[RTX](http://rtx.com/)** | **[Finance Intern (Fall 2026)](https://jobright.ai/jobs/info/6ac7fec8a444ac5d36f8701e?utm_campaign=1052&utm_source=git)** | Tucson, AZ, United States | On Site | Oct 08 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Accounting Assistant Intern - Finance](https://jobright.ai/jobs/info/6ac80b8851a1b3e4219f01b9?utm_campaign=1052&utm_source=git)** | Kingsville, TX, United States | On Site | Oct 08 |
@@ -118,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fund Accounting Internship](https://jobright.ai/jobs/info/6aa3c4794238ea18d430e0f8?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
 | ↳ | **[Fund Accounting Internship](https://jobright.ai/jobs/info/6aa37bb66b9ea4538f928bb8?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 08 |
 | ↳ | **[Fund Accounting Internship](https://jobright.ai/jobs/info/6aa38f75626f9945308b187d?utm_campaign=1052&utm_source=git)** | Seattle, Washington, United States | On Site | Oct 08 |
-| ↳ | **[Fund Accounting Internship](https://jobright.ai/jobs/info/6aa3c2044233a2201a2b366c?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Oct 08 |
 | ↳ | **[Fund Accounting Internship](https://jobright.ai/jobs/info/6aa380d8626f9945308b1117?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Oct 08 |
+| ↳ | **[Fund Accounting Internship](https://jobright.ai/jobs/info/6aa3c2044233a2201a2b366c?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Oct 08 |
 | ↳ | **[Fund Accounting Internship](https://jobright.ai/jobs/info/6aa3bea6c5a856ac7e33b617?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Oct 08 |
 | ↳ | **[Fund Accounting Internship](https://jobright.ai/jobs/info/6aa3bd8a626f9945308b2cc7?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 08 |
 | **[RTX](http://rtx.com/)** | **[Finance Intern (Fall 2026)](https://jobright.ai/jobs/info/6ac801dafe8f33a85d4fe8af?utm_campaign=1052&utm_source=git)** | Tucson, AZ, United States | On Site | Oct 08 |
@@ -135,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Encova Insurance](https://www.encova.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6ac7ee4344d6e65604a0525c?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 08 |
 | **[Waldron Private Wealth](http://www.waldronprivatewealth.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6ac8011dfe8f33a85d4fe82d?utm_campaign=1052&utm_source=git)** | Wayne, Pennsylvania, United States | On Site | Oct 08 |
 | **[Vontier](https://www.vontier.com)** | **[Internal Audit & Accounting Intern-Raleigh, NC](https://jobright.ai/jobs/info/6ac7ffff44d6e65604a058c7?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 08 |
-| **[PBMares, LLP](http://pbmares.com)** | **[Accounting Summer Internship 2027](https://jobright.ai/jobs/info/6ac7c1e7fcdafb60c6a458a5?utm_campaign=1052&utm_source=git)** | Fredericksburg, VA, United States | On Site | Oct 08 |
-| ↳ | **[Accounting Summer Internship 2027](https://jobright.ai/jobs/info/6ac7c1df0e573df8adc73ff7?utm_campaign=1052&utm_source=git)** | Morehead City, NC, United States | On Site | Oct 08 |
+| **[PBMares, LLP](http://pbmares.com)** | **[Accounting Summer Internship 2027](https://jobright.ai/jobs/info/6ac7c1df0e573df8adc73ff7?utm_campaign=1052&utm_source=git)** | Morehead City, NC, United States | On Site | Oct 08 |
+| ↳ | **[Accounting Summer Internship 2027](https://jobright.ai/jobs/info/6ac7c1e7fcdafb60c6a458a5?utm_campaign=1052&utm_source=git)** | Fredericksburg, VA, United States | On Site | Oct 08 |
 | **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - Portland](https://jobright.ai/jobs/info/6aa3cc044233a2201a2b3c4b?utm_campaign=1052&utm_source=git)** | Lake Oswego, OR, United States | Hybrid | Oct 08 |
 | ↳ | **[Aprio Spring 2027 Audit Internship Application - San Antonio](https://jobright.ai/jobs/info/6aa3c6db4238ea18d430e251?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | Hybrid | Oct 08 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6aa3affb959a10d7230d33de?utm_campaign=1052&utm_source=git)** | Rockville, MD, United States | Hybrid | Oct 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Management Internship](https://jobright.ai/jobs/info/6ac7ca300e573df8adc7438a?utm_campaign=1052&utm_source=git)** | Media, PA, United States | On Site | Oct 08 |
 | ↳ | **[Internal Audit Internship](https://jobright.ai/jobs/info/6ac7ca4b44d6e65604a043a3?utm_campaign=1052&utm_source=git)** | Media, PA, United States | On Site | Oct 08 |
 | **[American Water](http://amwater.com)** | **[Finance Intern - Acquisition Modeling](https://jobright.ai/jobs/info/6ac7f6b9fcdafb60c6a46ce9?utm_campaign=1052&utm_source=git)** | Camden, NJ, United States | Hybrid | Oct 08 |
-| ↳ | **[Finance Intern - Acquisition Modeling](https://jobright.ai/jobs/info/6ac7f62b51a1b3e4219ef8e8?utm_campaign=1052&utm_source=git)** | Belleville, IL, United States | Hybrid | Oct 08 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern - Summer 2027](https://jobright.ai/jobs/info/6ac7dadffcdafb60c6a46401?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 08 |
-| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2027 Summer Internship: Wealth Management](https://jobright.ai/jobs/info/6ac7eb43fe8f33a85d4fe03c?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
-| ↳ | **[Wintrust 2027 Summer Internship: Commercial Banking (Denver)](https://jobright.ai/jobs/info/6ac7eb49a444ac5d36f869e2?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Oct 08 |
-| ↳ | **[Wintrust 2027 Summer Internship: Commercial Banking (Michigan)](https://jobright.ai/jobs/info/6ac7eb400e573df8adc7515a?utm_campaign=1052&utm_source=git)** | Holland, MI, United States | On Site | Oct 08 |
-| ↳ | **[Wintrust 2027 Summer Internship: Finance/Accounting](https://jobright.ai/jobs/info/6ac7eb4644d6e65604a05168?utm_campaign=1052&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 08 |
-| ↳ | **[Wintrust 2027 Summer Internship: Commercial Banking](https://jobright.ai/jobs/info/6ac7eb6ffe8f33a85d4fe055?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

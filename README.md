@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/6a91f38ec12c90443efc8ef9?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Remote | Oct 11 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/6a91bce58e5968545337767f?utm_campaign=1052&utm_source=git)** | Charleston, SC, United States | Remote | Oct 11 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/6a91f3849864261ccd29fbcd?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | Remote | Oct 11 |
+| **[Gallagher, Flynn & Company, LLP](http://gfc.com)** | **[UVM GSB Tax Co-op - 2027](https://jobright.ai/jobs/info/6a91932f9864261ccd29d85c?utm_campaign=1052&utm_source=git)** | South Burlington, VT, United States | On Site | Oct 11 |
+| **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/6a91bce58e5968545337767f?utm_campaign=1052&utm_source=git)** | Charleston, SC, United States | Remote | Oct 11 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/6a91f3198e596854533787a3?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Remote | Oct 11 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/6a91f389d18f75674827ae07?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | Remote | Oct 11 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/6a91f38ec12c90443efc8ef9?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Remote | Oct 11 |
+| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/6a91f3849864261ccd29fbcd?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | Remote | Oct 11 |
+| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/6a987bd1dd171c7285792797?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
+| ↳ | **[Summer 2027 Wealth Management Internship](https://jobright.ai/jobs/info/6a91c65ad18f75674827a252?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
 | **[Glen-Gery](http://www.glengery.com/)** | **[Staff Accountant, Operations (Paid Internship)](https://jobright.ai/jobs/info/6a91dfc83603630099194f76?utm_campaign=1052&utm_source=git)** | Wyomissing, PA, United States | On Site | Oct 11 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Accounting Internship](https://jobright.ai/jobs/info/6a91b1f9a27a2d3c984894cb?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Winter Quarter 2027](https://jobright.ai/jobs/info/6a7618c37b3417772ade6bc4?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 11 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Intern - Busy Season 2027](https://jobright.ai/jobs/info/6a91a019d18f756748279083?utm_campaign=1052&utm_source=git)** | South Burlington, VT, United States | On Site | Oct 11 |
 | ↳ | **[Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6a91a029a27a2d3c98488f25?utm_campaign=1052&utm_source=git)** | South Burlington, VT, United States | On Site | Oct 11 |
 | **[Castro & Company](https://castroco.com/)** | **[Audit & Advisory Internship/ Externship](https://jobright.ai/jobs/info/6a74bc027b3417772ade1518?utm_campaign=1052&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 11 |
-| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Wealth Management Internship](https://jobright.ai/jobs/info/6a91c65ad18f75674827a252?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/6acb6b71e7a1d9333210ca11?utm_campaign=1052&utm_source=git)** | Canada | Remote | Oct 11 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/6acb6b6f3c831dc4086bd2ca?utm_campaign=1052&utm_source=git)** | Canada | Remote | Oct 11 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Quantitative Trading Intern - Summer 2027](https://jobright.ai/jobs/info/6a7618c24817aa4307046c14?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 11 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26075 - Accounting Part-Time Intern](https://jobright.ai/jobs/info/6a5138ae57513b72e0c64f00?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 11 |
 | **[G3](https://g3translate.com/)** | **[Administrative Intern (December 2026)](https://jobright.ai/jobs/info/6a57ae80a791c6211bf0009a?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 11 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Wealth Management - ScotiaMcLeod Internship/Co-op (Victoria, BC)- Winter 2027 Job Details / Scotiabank](https://jobright.ai/jobs/info/6acb51eae7a1d9333210c780?utm_campaign=1052&utm_source=git)** | Victoria, BC, Canada | On Site | Oct 11 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2028 (Columbus)](https://jobright.ai/jobs/info/6a91c51a3603630099194830?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2028 (Columbus)](https://jobright.ai/jobs/info/6a91d0fb3603630099194bbe?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Oct 11 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Tax Technology Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac94cf3d4a5a03707411bb0?utm_campaign=1052&utm_source=git)** | Franklin, TN, United States | On Site | Oct 11 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6acaf9f8d113c967e3c7861c?utm_campaign=1052&utm_source=git)** | Fargo, ND, United States | On Site | Oct 10 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6acaf03ed113c967e3c78558?utm_campaign=1052&utm_source=git)** | Living energy farm, VA | On Site | Oct 10 |
@@ -137,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Corporate Finance - Summer 2027](https://jobright.ai/jobs/info/6a7639f567a1ad0bc53c952a?utm_campaign=1052&utm_source=git)** | Northfield, IL, United States | Hybrid | Oct 10 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/6a84b0dde459fa3baa860083?utm_campaign=1052&utm_source=git)** | Findlay, OH, United States | On Site | Oct 10 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (2027)](https://jobright.ai/jobs/info/6a74eb2f7b3417772ade25f7?utm_campaign=1052&utm_source=git)** | Kenora, ON, Canada | On Site | Oct 10 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2027 Spring Internship](https://jobright.ai/jobs/info/6aba78857220f52e62ae66ec?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 10 |
-| ↳ | **[2027 Spring Internship](https://jobright.ai/jobs/info/6ab2e35278c69ff506c41081?utm_campaign=1052&utm_source=git)** | Melbourne, FL, United States | On Site | Oct 10 |
+| **[Doeren Mayhew](http://doeren.com)** | **[2027 Spring Internship](https://jobright.ai/jobs/info/6ab2e43e326574570a003974?utm_campaign=1052&utm_source=git)** | Melbourne, FL, United States | On Site | Oct 10 |
 | ↳ | **[2027 Spring Internship](https://jobright.ai/jobs/info/6a909cb57c32860d14cfa6a1?utm_campaign=1052&utm_source=git)** | Duluth, GA, United States | On Site | Oct 10 |
+| ↳ | **[2027 Spring Internship](https://jobright.ai/jobs/info/6aba78857220f52e62ae66ec?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 10 |
 | **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Group Risk Control - Raleigh](https://jobright.ai/jobs/info/6ac0fd794ac55253f5d69d11?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 10 |
 | **[Current](https://current.co)** | **[Spring  and Summer 2027 Internships](https://jobright.ai/jobs/info/6a435c2c4461bf091787c283?utm_campaign=1052&utm_source=git)** | Syracuse, NY, United States | On Site | Oct 10 |
 | **[Springline Advisory](https://springlineadvisory.com)** | **[Internship Spring 2028](https://jobright.ai/jobs/info/6a90a843d96ad228f126296c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 10 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH, United States | On Site | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Operations Finance (OFRP) Intern - Summer 2027, Amazon Finance Rotational Program (AFRP)](https://jobright.ai/jobs/info/6ac9664cfcdafb60c6a4c3ea?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 10 |
 | **[Fengate Asset Management](https://fengate.com/businesses/private-equity/)** | **[Intern, Private Equity (Summer 2027)](https://jobright.ai/jobs/info/6aa57e3f930bff471a29ee61?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 10 |
-| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Audit Internship](https://jobright.ai/jobs/info/6a987bd1dd171c7285792797?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Oct 10 |
 | **[LP Building Solutions](http://lpcorp.com)** | **[Pricing and Programs Intern](https://jobright.ai/jobs/info/6aada2d10ebc8fb2313eab53?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Hybrid | Oct 10 |
-| **[Philip Morris International U.S.](https://www.uspmi.com)** | **[Undergraduate Intern - Finance, Data Analytics & Consumer Insight Summer 2027](https://jobright.ai/jobs/info/6aadff562e757fcb5c8baca0?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

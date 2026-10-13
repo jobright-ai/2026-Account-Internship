@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMCU](https://www.lmcu.org/)** | **[Commercial Lending Intern - FL](https://jobright.ai/jobs/info/6acdcca09be8b2e475663972?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Oct 12 |
+| **[Sanford Health](https://www.sanfordhealth.org/locations/sanford-childrens-hospital-fargo)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6acd5677002e496d4bef1d29?utm_campaign=1052&utm_source=git)** | WI, United States | Remote | Oct 12 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern – Procurement Buyer](https://jobright.ai/jobs/info/6acdc6f99be8b2e47566388f?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 12 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Tax Transfer Pricing Graduate Intern, Spring 2027](https://jobright.ai/jobs/info/6acd81baa56e5406e57c19de?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | On Site | Oct 12 |
 | **[Highgate](https://www.highgate.com)** | **[Accounting Internship - Summer 2027](https://jobright.ai/jobs/info/6aa87614930bff471a2a76fe?utm_campaign=1052&utm_source=git)** | Irving, TX, United States | On Site | Oct 12 |
 | ↳ | **[Treasury Internship - Summer 2027](https://jobright.ai/jobs/info/6aa875b282e82a31997c60e0?utm_campaign=1052&utm_source=git)** | Irving, TX, United States | On Site | Oct 12 |
 | ↳ | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6aa875aa654b2a9424cfcef0?utm_campaign=1052&utm_source=git)** | Irving, TX, United States | On Site | Oct 12 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audit Services Internship](https://jobright.ai/jobs/info/6aa8b97beff87f571fc976d2?utm_campaign=1052&utm_source=git)** | Des Moines, IA, United States | Hybrid | Oct 12 |
 | ↳ | **[Financial Planning & Value Analyst Internship](https://jobright.ai/jobs/info/6aa8b8c56d0edc2d91b074ac?utm_campaign=1052&utm_source=git)** | Des Moines, IA, United States | Hybrid | Oct 12 |
 | **[McKesson](http://www.mckesson.com)** | **[Corporate Intern - Summer 2027](https://jobright.ai/jobs/info/6accbe413c831dc4086bf24d?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Oct 12 |
-| **[Brilyon Ventures](brilyonventures.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6acdb3279be8b2e4756634ba?utm_campaign=1052&utm_source=git)** | San Fernando, CA, United States | Remote | Oct 12 |
 | **[Highgate](https://www.highgate.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6aa87ca53a9f0a4fe6f19a45?utm_campaign=1052&utm_source=git)** | Irving, TX, United States | On Site | Oct 12 |
 | ↳ | **[Internal Audit Internship - Summer 2027](https://jobright.ai/jobs/info/6aa87ca2654b2a9424cfd23f?utm_campaign=1052&utm_source=git)** | Irving, TX, United States | On Site | Oct 12 |
 | **[Business-keepers Consulting](https://www.business-keepers.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6acdae667c7bc52e04f5587e?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA, United States | On Site | Oct 12 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[ADT](http://www.adt.com)** | **[Finance & Business Analytics Internship](https://jobright.ai/jobs/info/6acd24413c831dc4086c0d87?utm_campaign=1052&utm_source=git)** | Boca Raton, FL, United States | Hybrid | Oct 12 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Integrated Participant Solutions Analytics](https://jobright.ai/jobs/info/6acd5505002e496d4bef1cb8?utm_campaign=1052&utm_source=git)** | Saint Louis, MO, United States | Remote | Oct 12 |
 | ↳ | **[Strategic Sourcing Analytics Intern](https://jobright.ai/jobs/info/6acd5506ddd23cce28a11e23?utm_campaign=1052&utm_source=git)** | Saint Louis, MO, United States | Remote | Oct 12 |
-| ↳ | **[Intern, Integrated Participant Solutions](https://jobright.ai/jobs/info/6acd55183c831dc4086c1c55?utm_campaign=1052&utm_source=git)** | Saint Louis, MO, United States | Remote | Oct 12 |
 | ↳ | **[Intern, Integrated Participant Solutions](https://jobright.ai/jobs/info/6acce714a56e5406e57be966?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | Remote | Oct 12 |
+| ↳ | **[Intern, Integrated Participant Solutions](https://jobright.ai/jobs/info/6acd55183c831dc4086c1c55?utm_campaign=1052&utm_source=git)** | Saint Louis, MO, United States | Remote | Oct 12 |
 | ↳ | **[Intern, Integrated Participant Solutions Analytics](https://jobright.ai/jobs/info/6accf0973c831dc4086bfaf0?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | Remote | Oct 12 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Accounting & Finance Intern - Multiple Opportunities](https://jobright.ai/jobs/info/6acd8524002e496d4bef29ae?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 12 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[2027 Summer Intern, Actuarial Job Details / Odyssey](https://jobright.ai/jobs/info/6acd84f53c831dc4086c2923?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | Hybrid | Oct 12 |
@@ -121,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[KPMG US](https://kpmguniversityconnection.com)** | **[Intern, Economic Valuation Services - Transfer Pricing / New York Summer 2027](https://jobright.ai/jobs/info/6acd476dddd23cce28a11985?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
 | **[Network Health](https://networkhealth.com)** | **[Actuarial Intern (Summer 2027; Full-Time)](https://jobright.ai/jobs/info/6acd39f8e7a1d93332110a2a?utm_campaign=1052&utm_source=git)** | Brookfield, WI, United States | Hybrid | Oct 12 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Finance - Corporate Internship - Summer 2027](https://jobright.ai/jobs/info/6accfb0da56e5406e57bef32?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Oct 12 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/6acd4a863c831dc4086c1978?utm_campaign=1052&utm_source=git)** | Renton, WA, United States | On Site | Oct 12 |
 | **[Encova Insurance](https://www.encova.com)** | **[Intern, Product Actuarial](https://jobright.ai/jobs/info/6acd48b73c831dc4086c1886?utm_campaign=1052&utm_source=git)** | Charleston, WV, United States | Hybrid | Oct 12 |
 | **[GAF](http://www.gaf.com/)** | **[Financial Planning and Analysis Intern](https://jobright.ai/jobs/info/6acd47c3a56e5406e57c094c?utm_campaign=1052&utm_source=git)** | Parsippany, NJ, United States | On Site | Oct 12 |
 | **[Apex Companies](https://www.apexmhc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6acd49693c831dc4086c18e2?utm_campaign=1052&utm_source=git)** | Oak Brook, IL, United States | Hybrid | Oct 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[Spring 2027 Intern – IT Audit Intern – OIG](https://jobright.ai/jobs/info/6acd314aa56e5406e57c01fc?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Oct 12 |
 | **[StoneX Group Inc.](https://www.stonex.com)** | **[Intern - Commodity Risk Management](https://jobright.ai/jobs/info/6acd18253c831dc4086c079b?utm_campaign=1052&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 12 |
 | **[Faurecia](https://www.forvia.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6acd2c9bd113c967e3c7c901?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 12 |
-| **[SageSure](https://www.sagesure.com)** | **[Underwriting Optimization Analyst Intern](https://jobright.ai/jobs/info/6acd150ae7a1d9333210fe18?utm_campaign=1052&utm_source=git)** | Cheshire, CT, United States | On Site | Oct 12 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Transaction Advisory Services Intern (52184)](https://jobright.ai/jobs/info/6acd2bc0ddd23cce28a1110c?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

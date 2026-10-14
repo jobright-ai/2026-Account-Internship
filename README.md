@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Citadel](https://www.citadel.com)** | **[Finance & Accounting – Intern (US)](https://jobright.ai/jobs/info/6acf01484391691a335af40e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[2027 Eaton Partners Private Capital Advisory Summer Analyst - New York](https://jobright.ai/jobs/info/6acee3afbb78de94580d8555?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
+| **[Brilyon Ventures](brilyonventures.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6acf033cba99f15ef4127822?utm_campaign=1052&utm_source=git)** | Saint Paul, MN, United States | Remote | Oct 13 |
+| **[Citadel](https://www.citadel.com)** | **[Finance & Accounting – Intern (US)](https://jobright.ai/jobs/info/6acf01484391691a335af40e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
 | **[Partners Group](http://www.partnersgroup.com)** | **[2027 Summer Associate Program Job Details / Partners Group AG](https://jobright.ai/jobs/info/6aced20970e50ec1b37f1e8d?utm_campaign=1052&utm_source=git)** | Broomfield, CO, United States | On Site | Oct 13 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6acef9b94391691a335af35f?utm_campaign=1052&utm_source=git)** | Saint Louis, MO, United States | Remote | Oct 13 |
 | **[Piper Sandler](https://pipersandler.com)** | **[Campus Recruiting - 2027 Investment Banking Summer Analyst - Financial Services - Real Estate](https://jobright.ai/jobs/info/6acea7e44f3229123da3d7c1?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6ace8855a0453f9ba62496a0?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 13 |
 | **[HDR](http://www.hdrinc.com)** | **[Project Accounting Co-op (Winter 2027)](https://jobright.ai/jobs/info/6ace43064f3229123da3b009?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 13 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Finance Intern (Summer 2027) - Memphis, TN](https://jobright.ai/jobs/info/6ace87614391691a335ad4b0?utm_campaign=1052&utm_source=git)** | Memphis, TN, United States | On Site | Oct 13 |
-| **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[Summer 2027 Intern – Audit Intern – OIG](https://jobright.ai/jobs/info/6acea0fd680c80c8753bdf4c?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

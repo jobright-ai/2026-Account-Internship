@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cresset](https://cressetcapital.com/)** | **[INTERN, RESEARCH - MONTICELLO ASSOCIATES](https://jobright.ai/jobs/info/6ad2c577810010ec72f59cef?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Oct 16 |
+| **[Bright Machines](https://www.brightmachines.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/6ad27d8e5290d4375c4535a3?utm_campaign=1052&utm_source=git)** | Burlingame, CA, United States | Remote | Oct 16 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 Audit or Tax Intern](https://jobright.ai/jobs/info/6ad297d125289a0b3bf57d84?utm_campaign=1052&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Oct 16 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2027 Summer Intern - Accounting & Business Systems (Morristown, NJ)](https://jobright.ai/jobs/info/6ad2b146c4290cef1412c805?utm_campaign=1052&utm_source=git)** | Morristown, New Jersey, United States | Hybrid | Oct 16 |
 | **[Howden](http://www.howdengroup.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6ad2a5ad83ada13a9da0720c?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 16 |
@@ -76,12 +78,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Accounting Internship](https://jobright.ai/jobs/info/6ad259b1f04335fc70ed5010?utm_campaign=1052&utm_source=git)** | Lehi, UT, United States | Hybrid | Oct 16 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Accounts Receivable](https://jobright.ai/jobs/info/6ad2643cc4290cef1412a9f2?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Oct 16 |
 | **[Olsen Thielen and Co., Ltd.](http://otcpas.com)** | **[2027 Tax Intern](https://jobright.ai/jobs/info/6aa85b6e3a9f0a4fe6f18c25?utm_campaign=1052&utm_source=git)** | Roseville, MN, United States | On Site | Oct 16 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Tax Accounting Year-round Intern](https://jobright.ai/jobs/info/6ad295825290d4375c453d60?utm_campaign=1052&utm_source=git)** | Springdale, AR, United States | On Site | Oct 16 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Tax Accounting Year-round Intern](https://jobright.ai/jobs/info/6ad289b583ada13a9da0662e?utm_campaign=1052&utm_source=git)** | Springdale, AR, United States | On Site | Oct 16 |
 | **[Weiss Asset Management](https://www.weissasset.com)** | **[Summer 2028 Investment Analyst Intern](https://jobright.ai/jobs/info/6ad2928cc4290cef1412bb0a?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Oct 16 |
 | **[FNBO](https://www.fnbo.com)** | **[Corporate Audit Services Intern](https://jobright.ai/jobs/info/6ad27c9f83ada13a9da0628d?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Associate Financial Planning Intern](https://jobright.ai/jobs/info/6ad28e4c5290d4375c453ae5?utm_campaign=1052&utm_source=git)** | Redwood City, CA, United States | Hybrid | Oct 16 |
 | **[Corgan](http://www.corgan.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6ad28e2325289a0b3bf57652?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Oct 16 |
-| **[Bright Machines](https://www.brightmachines.com)** | **[Strategic Finance Intern](https://jobright.ai/jobs/info/6ad27d8e5290d4375c4535a3?utm_campaign=1052&utm_source=git)** | Burlingame, CA, United States | Remote | Oct 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Spring 2027 Payroll and Benefits Internship](https://jobright.ai/jobs/info/6ad28d7bf04335fc70ed62c0?utm_campaign=1052&utm_source=git)** | Jackson, MS, United States | On Site | Oct 16 |
 | **[Duos Technologies, Inc.](http://duostechnologies.com)** | **[Accountability & Administrative Intern](https://jobright.ai/jobs/info/6ad28d7183ada13a9da067c4?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 16 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6ad059d31db1f75ea469fd6c?utm_campaign=1052&utm_source=git)** | Chilliwack, BC, Canada | On Site | Oct 16 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Accounting Intern](https://jobright.ai/jobs/info/6aad498f2e757fcb5c8b7791?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Oct 16 |
 | **[Freestone Capital Management](http://freestonecapital.com)** | **[Public Markets Intern - Summer 2027](https://jobright.ai/jobs/info/6abff4a94ac55253f5d66b23?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Actuarial Intern - Summer 2027 - Surplus & Specialty Lines- Morristown, NJ/Hybrid](https://jobright.ai/jobs/info/6ad25843c4290cef1412a5c9?utm_campaign=1052&utm_source=git)** | Morristown, NJ, United States | Hybrid | Oct 16 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Casualty Underwriting Intern](https://jobright.ai/jobs/info/6ad242035290d4375c45192a?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 16 |
-| ↳ | **[E&S Casualty Underwriting Intern](https://jobright.ai/jobs/info/6ac6914a0e027c0f3b3b31d3?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 16 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[E&S Casualty Underwriting Intern](https://jobright.ai/jobs/info/6ac6914a0e027c0f3b3b31d3?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 16 |
+| ↳ | **[E&S Casualty Underwriting Intern](https://jobright.ai/jobs/info/6ad242035290d4375c45192a?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 16 |
 | **[Fortitude Re](https://fortitude-re.com)** | **[Investments Intern](https://jobright.ai/jobs/info/6aad780e3dbb1f8967ceda96?utm_campaign=1052&utm_source=git)** | Jersey City, NJ, United States | On Site | Oct 16 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Miami)](https://jobright.ai/jobs/info/6ad2690d810010ec72f57d78?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Oct 16 |
 | ↳ | **[Tax Intern, International Tax Services - Summer 2027 (Miami)](https://jobright.ai/jobs/info/6ad25ea0c4290cef1412a8a1?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Winter 2027 - Boise, ID](https://jobright.ai/jobs/info/6a99f1e7ad752e2ad5502ed1?utm_campaign=1052&utm_source=git)** | Boise, ID, United States | On Site | Oct 16 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Assumed Reinsurance Accounting Intern](https://jobright.ai/jobs/info/6ad254885290d4375c452513?utm_campaign=1052&utm_source=git)** | Garden City, NY, United States | On Site | Oct 16 |
 | ↳ | **[Ceded Re Accounting Intern](https://jobright.ai/jobs/info/6ad254755290d4375c452500?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 16 |
-| **[BRG](http://www.thinkbrg.com)** | **[2027 Summer Associate (Intern) - Corporate Finance - Healthcare Transaction Advisory - Nashville, TN](https://jobright.ai/jobs/info/6a9ad68a90a313642c656573?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

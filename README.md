@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City National Bank](http://www.cnb.com)** | **[Intern](https://jobright.ai/jobs/info/6ad5db84b0d1ea25e9f7b158?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 22 |
+| **[Watkins Uiberall, PLLC](http://wucpas.com)** | **[CAS Intern](https://jobright.ai/jobs/info/6adafd54cb58d64fcd3721cb?utm_campaign=1052&utm_source=git)** | Memphis, TN, United States | On Site | Oct 22 |
 | **[Harper & Pearson Company, P.C.](http://harperpearson.com)** | **[Audit Internship - 2028](https://jobright.ai/jobs/info/6adaf39591f93f4b057156fd?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 22 |
 | ↳ | **[Tax Internship - 2028](https://jobright.ai/jobs/info/6adaf39491f93f4b057156fb?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 22 |
 | ↳ | **[Audit Internship - 2027](https://jobright.ai/jobs/info/6adaf39491f93f4b057156fa?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 22 |
@@ -70,16 +72,16 @@ For a complete list, click the following sortable link below:
 | **[Apex Warehouse Systems](https://www.apexwarehousesystems.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6adadb69c5c64fa3d9cac00b?utm_campaign=1052&utm_source=git)** | Oak Brook, IL, United States | Hybrid | Oct 22 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Accounting Intern / Elmont, NY](https://jobright.ai/jobs/info/6a903c820bd89e205d2492bf?utm_campaign=1052&utm_source=git)** | Elmont, NY, United States | On Site | Oct 22 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Tax Research Intern](https://jobright.ai/jobs/info/6ada76ce54bbabbab07168ea?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Oct 22 |
-| **[SingerLewak LLP](http://singerlewak.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6ac413b50e027c0f3b3a92ca?utm_campaign=1052&utm_source=git)** | Bremerton, WA, United States | Hybrid | Oct 22 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6ab479ee7bd0813713317bf2?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 22 |
+| **[SingerLewak LLP](http://singerlewak.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6ab479ee7bd0813713317bf2?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 22 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6ac413b50e027c0f3b3a92ca?utm_campaign=1052&utm_source=git)** | Bremerton, WA, United States | Hybrid | Oct 22 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6ada97b93a69033df225ac2f?utm_campaign=1052&utm_source=git)** | Oxnard, CA, United States | Hybrid | Oct 22 |
 | **[Arup](http://www.arup.com)** | **[Cost Advisory Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac8164444d6e65604a0600e?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 22 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Finance Year-Round Internship (January 2027 Start)](https://jobright.ai/jobs/info/6abe6a514ac55253f5d604b9?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Oct 22 |
 | **[Build in Tulsa](https://www.buildintulsa.com)** | **[GKFF® Investment Intern](https://jobright.ai/jobs/info/6ada25fc54bbabbab0713082?utm_campaign=1052&utm_source=git)** | Tulsa, OK, United States | On Site | Oct 22 |
 | **[Textron](http://textron.com)** | **[Stage hiver 2027 - Comptabilité / 2027 winter Internship - accounting (Mirabel, QC)](https://jobright.ai/jobs/info/6ada57b93a69033df2257f99?utm_campaign=1052&utm_source=git)** | Mirabel, QC, Canada | On Site | Oct 22 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/6ad681bc54bbabbab06f8ff2?utm_campaign=1052&utm_source=git)** | Welland, ON, Canada | On Site | Oct 22 |
-| ↳ | **[Financial Advisor Intern](https://jobright.ai/jobs/info/6ada817454bbabbab0717173?utm_campaign=1052&utm_source=git)** | Hamilton, ON, Canada | On Site | Oct 22 |
 | ↳ | **[Financial Advisor Intern](https://jobright.ai/jobs/info/6ad0c2ee614121de7d947dd1?utm_campaign=1052&utm_source=git)** | Halton Hills, Ontario, Canada | On Site | Oct 22 |
+| ↳ | **[Financial Advisor Intern](https://jobright.ai/jobs/info/6ada817454bbabbab0717173?utm_campaign=1052&utm_source=git)** | Hamilton, ON, Canada | On Site | Oct 22 |
 | **[Wipfli](http://www.wipfli.com)** | **[Audit Internship - Spring 2028](https://jobright.ai/jobs/info/6a90a25c7c32860d14cfa9d4?utm_campaign=1052&utm_source=git)** | Augusta, ME, United States | On Site | Oct 22 |
 | **[ATI](http://www.atimaterials.com)** | **[Summer 2027 Intern - Finance (Accounting)](https://jobright.ai/jobs/info/6ada671b950ef68d51856f0d?utm_campaign=1052&utm_source=git)** | Natrona Heights, PA, United States | On Site | Oct 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Summer Intern - Accounts Payable Job Details / Westinghouse Electric Company, LLC](https://jobright.ai/jobs/info/6adab0d1950ef68d51859cf1?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA, United States | Hybrid | Oct 22 |
@@ -144,17 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Aprio](https://www.aprio.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/6aa3affb959a10d7230d33de?utm_campaign=1052&utm_source=git)** | Rockville, MD, United States | Hybrid | Oct 22 |
 | ↳ | **[Aprio 2027 Internship Application - Tax/Audit - Portland](https://jobright.ai/jobs/info/6aa3cc044233a2201a2b3c4b?utm_campaign=1052&utm_source=git)** | Lake Oswego, OR, United States | Hybrid | Oct 22 |
 | **[Mid-Minnesota Legal Aid](https://mylegalaid.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6ada75f2950ef68d51857c1c?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 22 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9b1bd890a313642c6589fa?utm_campaign=1052&utm_source=git)** | Draper, UT, United States | On Site | Oct 22 |
+| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6aaadf8df6bd9d2d17c1a173?utm_campaign=1052&utm_source=git)** | Lakeland, FL, United States | On Site | Oct 22 |
 | ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6a96c821455eaf6a08c188c3?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 22 |
-| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6ac8e0d3fe8f33a85d50127b?utm_campaign=1052&utm_source=git)** | Lexington, KY, United States | On Site | Oct 22 |
-| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6aaadf8df6bd9d2d17c1a173?utm_campaign=1052&utm_source=git)** | Lakeland, FL, United States | On Site | Oct 22 |
-| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6a908be07c32860d14cfa02c?utm_campaign=1052&utm_source=git)** | Tallahassee, FL, United States | On Site | Oct 22 |
-| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6a908be20bd89e205d24aee8?utm_campaign=1052&utm_source=git)** | Duluth, GA, United States | On Site | Oct 22 |
-| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6aaadf86c85610f4a484230c?utm_campaign=1052&utm_source=git)** | Marion, IN, United States | On Site | Oct 22 |
 | ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9b1b6dd5ff1f3f1c39dae3?utm_campaign=1052&utm_source=git)** | Mesa, AZ, United States | On Site | Oct 22 |
+| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6a908be20bd89e205d24aee8?utm_campaign=1052&utm_source=git)** | Duluth, GA, United States | On Site | Oct 22 |
+| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9b1bd890a313642c6589fa?utm_campaign=1052&utm_source=git)** | Draper, UT, United States | On Site | Oct 22 |
+| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6ac8e0d3fe8f33a85d50127b?utm_campaign=1052&utm_source=git)** | Lexington, KY, United States | On Site | Oct 22 |
+| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6aaadf86c85610f4a484230c?utm_campaign=1052&utm_source=git)** | Marion, IN, United States | On Site | Oct 22 |
+| ↳ | **[Underwriting Internship - Summer 2027](https://jobright.ai/jobs/info/6a907a322e254e06fb9f11ac?utm_campaign=1052&utm_source=git)** | Tallahassee, FL, United States | On Site | Oct 22 |
 | **[Care Initiatives](https://www.careinitiatives.org/)** | **[ISU Healthcare Management Program Intern (Finance)](https://jobright.ai/jobs/info/6ada31fd4c3adc437ceca407?utm_campaign=1052&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 22 |
 | **[Harris County–Houston Sports Authority](https://www.houstonsports.org/)** | **[Accounting Intern - Spring 2027](https://jobright.ai/jobs/info/6ada703b3a69033df2258fa1?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 22 |
 | **[thyssenkrupp Automotive](https://www.thyssenkrupp-automotive-technology.com/en)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6ada6e8f54bbabbab0715ef5?utm_campaign=1052&utm_source=git)** | Troy, MI, United States | On Site | Oct 22 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Summer 2027 (Charleston, SC)](https://jobright.ai/jobs/info/6ada6e0654bbabbab0715e60?utm_campaign=1052&utm_source=git)** | Charleston, SC, United States | On Site | Oct 22 |
-| **[TTX Company](http://www.ttx.com)** | **[Finance Intern - Controls & Governance](https://jobright.ai/jobs/info/6ac7a96c0e573df8adc738b7?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

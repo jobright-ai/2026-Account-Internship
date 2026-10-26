@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2028 (Cleveland/Akron)](https://jobright.ai/jobs/info/6aaab91e4be87a72913a0e12?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 26 |
+| **[CoreVista Strategies](corevistastrategies.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6adf757d5dc7953215a3f07f?utm_campaign=1052&utm_source=git)** | Lake Forest, IL, United States | On Site | Oct 26 |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Financial Reporting Intern](https://jobright.ai/jobs/info/6adf751c0a4cc7090f97f47a?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Oct 26 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2028 (Cleveland/Akron)](https://jobright.ai/jobs/info/6aaaba634be87a72913a0ee7?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 26 |
+| **[Aflac](http://www.aflac.com)** | **[2027 Global Investments (NY) Portfolio Mgmt.](https://jobright.ai/jobs/info/6adbb7955dc7953215a34178?utm_campaign=1052&utm_source=git)** | New York City, NY, United States | Hybrid | Oct 26 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Finance](https://jobright.ai/jobs/info/6adf6d79065c4e77efaf764a?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Oct 26 |
 | **[Bally’s Corporation](https://www.ballys.com)** | **[Fall/Spring Finance Internship](https://jobright.ai/jobs/info/6a6a773419d76667a2abfd71?utm_campaign=1052&utm_source=git)** | Providence, RI, United States | On Site | Oct 26 |
-| **[Ford Motor Company](https://www.ford.com)** | **[Financial/Internal Controls Intern](https://jobright.ai/jobs/info/6adf6be39e3e874dbfbac0a6?utm_campaign=1052&utm_source=git)** | Paris, ON, Canada | On Site | Oct 26 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6adf6be30a4cc7090f97ef90?utm_campaign=1052&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 26 |
+| **[Ford Motor Company](https://www.ford.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6adf6be30a4cc7090f97ef90?utm_campaign=1052&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 26 |
+| ↳ | **[Financial/Internal Controls Intern](https://jobright.ai/jobs/info/6adf6be39e3e874dbfbac0a6?utm_campaign=1052&utm_source=git)** | Paris, ON, Canada | On Site | Oct 26 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/6adf6aed9a8c91d5c35851cb?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 26 |
 | ↳ | **[Corporate Financial Intern](https://jobright.ai/jobs/info/6adf6ae79a8c91d5c35851c8?utm_campaign=1052&utm_source=git)** | San Diego County, California, United States | On Site | Oct 26 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern (Summer 2027) - Northern California](https://jobright.ai/jobs/info/6adf6814065c4e77efaf737d?utm_campaign=1052&utm_source=git)** | Fairfield, CA, United States | On Site | Oct 26 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2027 Finance Internship Program-  Financial Planning](https://jobright.ai/jobs/info/6ab426bb64816213f2d978d8?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
 | ↳ | **[Summer 2027 Finance Internship Program- Post Acute Care](https://jobright.ai/jobs/info/6ab2cbdb78c69ff506c40972?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Finance, Business Planning and Analysis (BP&A), Central costs](https://jobright.ai/jobs/info/6aded2dd9a8c91d5c3582b08?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 26 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern – Procurement Cost Analyst](https://jobright.ai/jobs/info/6adf410a9e3e874dbfbaad73?utm_campaign=1052&utm_source=git)** | Boise, ID, United States | On Site | Oct 26 |
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Student, Business/ Commerce, Accounting, Finance, Calgary (May 2027)](https://jobright.ai/jobs/info/6adf123a065c4e77efaf587a?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 26 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2027 Corebridge Financial Summer Internship Program - Actuary](https://jobright.ai/jobs/info/6a9a002b1388387060591efa?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 26 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Accounting Intern](https://jobright.ai/jobs/info/6a6b3fe1acb0a61f9dbbfc4f?utm_campaign=1052&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 26 |
@@ -123,9 +125,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax and Audit Intern - Winter 2028 - Western Ohio](https://jobright.ai/jobs/info/6aa474d38275e3a2117606c9?utm_campaign=1052&utm_source=git)** | Maumee, OH, United States | On Site | Oct 25 |
 | ↳ | **[Internal Operations Intern - Winter 2027 - Minneapolis, MN](https://jobright.ai/jobs/info/6ad69de5950ef68d5183bbbf?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 25 |
 | **[Resolution Life](http://resolutionlife.com)** | **[Summer Actuarial Intern](https://jobright.ai/jobs/info/6aa15ce73272060a8e3ef74a?utm_campaign=1052&utm_source=git)** | West Chester, PA, United States | On Site | Oct 25 |
-| **[National Life Group](https://www.nationallife.com)** | **[Internal Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6aa42442c1928370a285cba0?utm_campaign=1052&utm_source=git)** | Montpelier, VT, United States | Hybrid | Oct 25 |
-| ↳ | **[Internal Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6ab53b12c6fe0dec8119fe50?utm_campaign=1052&utm_source=git)** | Montpelier, VT, United States | On Site | Oct 25 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2027 Internship: Accounts Payable](https://jobright.ai/jobs/info/6aa41693c1928370a285c704?utm_campaign=1052&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 25 |
+| **[National Life Group](https://www.nationallife.com)** | **[Internal Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6ab53b12c6fe0dec8119fe50?utm_campaign=1052&utm_source=git)** | Montpelier, VT, United States | On Site | Oct 25 |
+| ↳ | **[Internal Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6aa42442c1928370a285cba0?utm_campaign=1052&utm_source=git)** | Montpelier, VT, United States | Hybrid | Oct 25 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2027 Internship: Accounts Payable](https://jobright.ai/jobs/info/6aa9684228e24cb38513a3a2?utm_campaign=1052&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 25 |
 | **[MNP](http://www.mnp.ca)** | **[Co-op Accountant (January-April 2027)](https://jobright.ai/jobs/info/6a88912725fc4e7ae3db1223?utm_campaign=1052&utm_source=git)** | Oshawa, ON, Canada | On Site | Oct 25 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2027 Summer Intern- Accounting](https://jobright.ai/jobs/info/6ac029eb064da25272e0825c?utm_campaign=1052&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 25 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[Quantitative Trading Intern - Summer 2027 (DV Equities)](https://jobright.ai/jobs/info/6aa42e05c1928370a285ce47?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 25 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Wealth Management Intern (Summer 2027, Dallas)](https://jobright.ai/jobs/info/6a909afc8ffa38557e6cde04?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Atlanta)](https://jobright.ai/jobs/info/6a95afe1cabc9f6703e19306?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Chicago)](https://jobright.ai/jobs/info/6a95c3bb3843db015990705b?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 24 |
-| ↳ | **[Wealth Management Intern (Summer 2027, Wayne)](https://jobright.ai/jobs/info/6a909afea19886486676218b?utm_campaign=1052&utm_source=git)** | Wayne, PA, United States | Hybrid | Oct 24 |
+| ↳ | **[Wealth Management Intern (Summer 2027, Cincinnati)](https://jobright.ai/jobs/info/6a95c3c14c22023a07935a16?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Denver)](https://jobright.ai/jobs/info/6a909afbd96ad228f12622fd?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Charlotte)](https://jobright.ai/jobs/info/6a909afda198864866762189?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 24 |
-| ↳ | **[Wealth Management Intern (Summer 2027, Cincinnati)](https://jobright.ai/jobs/info/6a95c3c14c22023a07935a16?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 24 |
-| ↳ | **[Wealth Management Intern (Summer 2027, Houston)](https://jobright.ai/jobs/info/6a909af9d96ad228f12622fc?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 24 |
+| ↳ | **[Wealth Management Intern (Summer 2027, Wayne)](https://jobright.ai/jobs/info/6a909afea19886486676218b?utm_campaign=1052&utm_source=git)** | Wayne, PA, United States | Hybrid | Oct 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Columbus)](https://jobright.ai/jobs/info/6a95c3bf9fcec5442372ef08?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 24 |
+| ↳ | **[Wealth Management Intern (Summer 2027, Houston)](https://jobright.ai/jobs/info/6a909af9d96ad228f12622fc?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Shaker Heights)](https://jobright.ai/jobs/info/6aa0b92cdbc0e60e37e0f649?utm_campaign=1052&utm_source=git)** | Shaker Heights, OH, United States | Hybrid | Oct 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Newport Beach)](https://jobright.ai/jobs/info/6a91cf40d18f75674827a4eb?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Oct 24 |
-| ↳ | **[Portfolio Implementation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5838fa72fe7a7b98dcd7b7?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Oct 24 |
-| ↳ | **[Wealth Management Intern (Summer 2027, St. Petersburg)](https://jobright.ai/jobs/info/6a95afd8c8763a3a87ffb630?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL, United States | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

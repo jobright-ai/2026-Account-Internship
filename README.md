@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6ae04afd9a8c91d5c358cb49?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Oct 26 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Accounting Intern](https://jobright.ai/jobs/info/6abaec23ee0b348be729c3b2?utm_campaign=1052&utm_source=git)** | Las Vegas, NV, United States | On Site | Oct 26 |
 | **[FedEx Freight](https://www.fedexfreight.com)** | **[Intern-Accounting](https://jobright.ai/jobs/info/6ae03f719a8c91d5c358c744?utm_campaign=1052&utm_source=git)** | Memphis, TN, United States | On Site | Oct 26 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2027 Finance Internship Program -  Investments](https://jobright.ai/jobs/info/6abd3963064da25272dfc1b7?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2027 Finance Internship Program- Risk Management & Insurance](https://jobright.ai/jobs/info/6abbf446d6acfd3dd29faf10?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Sioux City, IA Summer 2027)](https://jobright.ai/jobs/info/6adfeec59a8c91d5c358ac0a?utm_campaign=1052&utm_source=git)** | Sioux City, IA, United States | On Site | Oct 26 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6adf7f120a4cc7090f97fa61?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 26 |
-| **[Liberty Tax](https://www.libertytax.com/)** | **[Tax Professional](https://jobright.ai/jobs/info/6adff3e99a8c91d5c358af1d?utm_campaign=1052&utm_source=git)** | Richmond Hill, GA, United States | On Site | Oct 26 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Market Risk Intern](https://jobright.ai/jobs/info/6adfb3db0a4cc7090f9822fa?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 26 |
 | ↳ | **[Credit and Collateral Risk Intern](https://jobright.ai/jobs/info/6adfb3e9c5c64fa3d9cbe975?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 26 |
 | **[Zendesk](https://www.zendesk.com/)** | **[GTM Finance F&S Intern](https://jobright.ai/jobs/info/6aa9c43d3387a3d9b67d6bd4?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 26 |
@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Internship in Finance System Project Support (International Student)](https://jobright.ai/jobs/info/6ae01a459e3e874dbfbb2a2c?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Oct 26 |
 | **[Tennessee Comptroller of the Treasury](https://comptroller.tn.gov/careers.html)** | **[Performance Audit Intern- State Audit - Summer 2027](https://jobright.ai/jobs/info/6aa8528a3a9f0a4fe6f187f2?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Oct 26 |
 | **[Truist](https://www.truist.com)** | **[2027 Fiduciary Internship Program](https://jobright.ai/jobs/info/6adf8d32065c4e77efaf8c56?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 26 |
-| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Internship in Productivity Development (International Student)](https://jobright.ai/jobs/info/6ae018149e3e874dbfbb29d3?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Oct 26 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6ad4cd0183ada13a9da0cdb8?utm_campaign=1052&utm_source=git)** | Warren, NJ, United States | Hybrid | Oct 26 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2027 Commercial Real Estate Summer Intern](https://jobright.ai/jobs/info/6adfaaa49a8c91d5c3587edc?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 26 |
 | **[Bank of China USA](https://www.bocusa.com)** | **[Global Markets Department-Bond Team Intern](https://jobright.ai/jobs/info/6a99c53b8a8b765bc55f5596?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2027 Summer Intern - Commercial Banking and Commercial Real Estate](https://jobright.ai/jobs/info/6aa82270930bff471a2a55c1?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 26 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2027 Finance Internship Program -  PSS](https://jobright.ai/jobs/info/6ab6b416b3db59402d101d79?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
 | **[InterAtlas Chemical Inc.](http://www.interatlaschemical.com)** | **[Accounts Payable Internship](https://jobright.ai/jobs/info/6adf9a73065c4e77efaf967c?utm_campaign=1052&utm_source=git)** | Newark, NJ, United States | On Site | Oct 26 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://jobright.ai/jobs/info/6adf9a0e065c4e77efaf9613?utm_campaign=1052&utm_source=git)** | Troy, MI, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

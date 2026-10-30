@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AeroNex Systems](aeronexsystems.net)** | **[Revenue Accounting Intern](https://jobright.ai/jobs/info/6ae47c41d7424a2a828e6620?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Oct 30 |
+| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[General Accounting Intern](https://jobright.ai/jobs/info/6aabe8123e3ce93970c7aa42?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Oct 30 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Economics (Summer 2027)](https://jobright.ai/jobs/info/6aabfc333dbb1f8967ce8230?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Oct 30 |
+| **[Air Products](https://www.airproducts.com/)** | **[Summer Intern-Finance, Corporate (2027)](https://jobright.ai/jobs/info/6a9092d87c32860d14cfa275?utm_campaign=1052&utm_source=git)** | Allentown, PA, United States | On Site | Oct 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Operations and Innovation Intern](https://jobright.ai/jobs/info/6ac8b4cbfe8f33a85d5008c2?utm_campaign=1052&utm_source=git)** | Southfield, Michigan, United States | On Site | Oct 30 |
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Finance Intern Summer 2027](https://jobright.ai/jobs/info/6ad5c1f754bbabbab06ef175?utm_campaign=1052&utm_source=git)** | New Albany, OH, United States | On Site | Oct 30 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst](https://jobright.ai/jobs/info/6a96ccf2d13b4819f39dd0b3?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | On Site | Oct 30 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Audit or Tax Intern](https://jobright.ai/jobs/info/6a513c56bf63b66c7997a114?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 30 |
 | **[Wipfli](http://www.wipfli.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6ae466f6d7424a2a828e6296?utm_campaign=1052&utm_source=git)** | Eau Claire, WI, United States | On Site | Oct 30 |
 | **[Encova Insurance](https://www.encova.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6ac7ee4344d6e65604a0525c?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Oct 30 |
-| **[Wipfli](http://www.wipfli.com)** | **[Audit Internship - Spring 2028](https://jobright.ai/jobs/info/6ae466e877c09cb3bd4ac4e6?utm_campaign=1052&utm_source=git)** | Eau Claire, WI, United States | On Site | Oct 30 |
-| ↳ | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6ae466e8c3139b475b5b36c7?utm_campaign=1052&utm_source=git)** | Augusta, ME, United States | On Site | Oct 30 |
+| **[Wipfli](http://www.wipfli.com)** | **[Tax Internship - Spring 2028](https://jobright.ai/jobs/info/6ae466e8c3139b475b5b36c7?utm_campaign=1052&utm_source=git)** | Augusta, ME, United States | On Site | Oct 30 |
+| ↳ | **[Audit Internship - Spring 2028](https://jobright.ai/jobs/info/6ae466e877c09cb3bd4ac4e6?utm_campaign=1052&utm_source=git)** | Eau Claire, WI, United States | On Site | Oct 30 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[PRO Services Reporting Intern – Undergrad Internship – Summer 2027 ](https://jobright.ai/jobs/info/6ac992cdd4a5a03707412bc3?utm_campaign=1052&utm_source=git)** | Mooresville, NC, United States | On Site | Oct 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Healthcare Reimbursement Senior Care Intern](https://jobright.ai/jobs/info/6a06d4c833c2ed3770bc9758?utm_campaign=1052&utm_source=git)** | Cleveland, US | Hybrid | Oct 30 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Financial Analyst](https://jobright.ai/jobs/info/6a73054f1ce9647cdbca6247?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 30 |
@@ -94,16 +98,16 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Commercial Banking Intern/Co-op & Associate](https://jobright.ai/jobs/info/6ae408a977c09cb3bd4ab049?utm_campaign=1052&utm_source=git)** | Victoria, BC, Canada | On Site | Oct 29 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[2027 FLDP Finance Intern](https://jobright.ai/jobs/info/6aa03d323b5aa83237b07c2d?utm_campaign=1052&utm_source=git)** | Waltham, MA, United States | On Site | Oct 29 |
 | **[UHY-US](https://uhy-us.com/)** | **[2027 Valuation Summer Internship – NYC](https://jobright.ai/jobs/info/6ae4222ffb2cd420ace5660d?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
-| **[SingerLewak LLP](http://singerlewak.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6ada97b93a69033df225ac2f?utm_campaign=1052&utm_source=git)** | Oxnard, CA, United States | Hybrid | Oct 29 |
-| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6ae3e1c3d7424a2a828e39a8?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Oct 29 |
+| **[SingerLewak LLP](http://singerlewak.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6ae3e1c3d7424a2a828e39a8?utm_campaign=1052&utm_source=git)** | Honolulu, HI, United States | On Site | Oct 29 |
+| ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6ada97b93a69033df225ac2f?utm_campaign=1052&utm_source=git)** | Oxnard, CA, United States | Hybrid | Oct 29 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/6ac413b50e027c0f3b3a92ca?utm_campaign=1052&utm_source=git)** | Bremerton, WA, United States | Hybrid | Oct 29 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 New York Life Direct Summer Internship Program - Finance Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6ae42111c3139b475b5b288d?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | Hybrid | Oct 29 |
 | **[Agentis Capital](https://agentiscapital.com/)** | **[Principal Investments Winter Analyst - Winter 2027](https://jobright.ai/jobs/info/6ae3edb177c09cb3bd4aa141?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 29 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ac81fd351a1b3e4219f0873?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Oct 29 |
-| ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ae27467de23f466ec8c6b72?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Oct 29 |
-| ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ac81fd2fcdafb60c6a47c5a?utm_campaign=1052&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 29 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ae3ce2bfb2cd420ace542e6?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Oct 29 |
+| ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ac81fd351a1b3e4219f0873?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Oct 29 |
 | ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ad7c4f5e4b94611ab848863?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ad7c4f43dc655658d8efdad?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Oct 29 |
+| ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ac81fd2fcdafb60c6a47c5a?utm_campaign=1052&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 29 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6ac00820372c01f6cd72a37b?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Oct 29 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6ae40790fb2cd420ace55f18?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Oct 29 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Accounts Payable Intern- Electronic Invoicing](https://jobright.ai/jobs/info/6ae4169deab1f96730979484?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sikich](http://www.sikich.com)** | **[Spring 2027 Tax Intern](https://jobright.ai/jobs/info/6ae38bc1eab1f96730974fe0?utm_campaign=1052&utm_source=git)** | Richfield, OH, United States | Hybrid | Oct 29 |
 | **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - Bay Area](https://jobright.ai/jobs/info/6ae39120c3139b475b5ae423?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA, United States | Hybrid | Oct 29 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Accounting Intern - New Business Team (Charlotte,NC,  Summer '27, Hybrid)](https://jobright.ai/jobs/info/6ae3e5f8d45dc30fb7d2d62b?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 29 |
-| ↳ | **[Accounting Intern - Contracts Team- Revenue & Reporting (Charlotte, Summer '27, Hybrid)](https://jobright.ai/jobs/info/6ae3e5ebfb2cd420ace54d92?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 29 |
-| **[Ferrovial](http://www.ferrovial.com/en)** | **[Accounting Intern](https://jobright.ai/jobs/info/6ae387fbd45dc30fb7d2a4f9?utm_campaign=1052&utm_source=git)** | The Woodlands, TX, United States | On Site | Oct 29 |
-| **[RSM Canada](https://rsmcanada.com/)** | **[International Tax Transfer Pricing Intern - Winter 2027](https://jobright.ai/jobs/info/6ae40f5ad45dc30fb7d2e9ed?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 29 |
-| **[Novalyft Media](novalyftmedia.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/6ae3c8c8eab1f967309771ce?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Remote | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

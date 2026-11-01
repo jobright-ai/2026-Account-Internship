@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LandIB](https://landib.co)** | **[Investment Banking Intern (Chinese Preferred)](https://jobright.ai/jobs/info/6ae6b087fb2cd420ace61167?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Sensiba LLP](http://www.sensiba.com)** | **[Outsourced Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6a97915cf9a3053e6a308fdd?utm_campaign=1052&utm_source=git)** | United States | Remote | Oct 31 |
 | ↳ | **[Outsourced Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6a97915df9a3053e6a308fe4?utm_campaign=1052&utm_source=git)** | Bend, OR, United States | Hybrid | Oct 31 |
 | ↳ | **[Outsourced Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6a979161a702dd5c7315196c?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 31 |
 | ↳ | **[Tax Intern – Summer 2027](https://jobright.ai/jobs/info/6ae6a5e9d45dc30fb7d39630?utm_campaign=1052&utm_source=git)** | Bend, OR, United States | On Site | Oct 31 |
 | ↳ | **[Tax Intern – Summer 2027](https://jobright.ai/jobs/info/6ae6a5e6fb2cd420ace6105d?utm_campaign=1052&utm_source=git)** | San Ramon, CA, United States | On Site | Oct 31 |
-| ↳ | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6a97916369f1367060354219?utm_campaign=1052&utm_source=git)** | San Ramon, CA, United States | Hybrid | Oct 31 |
-| ↳ | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6a979162a702dd5c7315196e?utm_campaign=1052&utm_source=git)** | Bend, OR, United States | Hybrid | Oct 31 |
 | ↳ | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6a979161a702dd5c7315196d?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 31 |
+| ↳ | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6a979162a702dd5c7315196e?utm_campaign=1052&utm_source=git)** | Bend, OR, United States | Hybrid | Oct 31 |
+| ↳ | **[Audit Intern – Summer 2027](https://jobright.ai/jobs/info/6a97916369f1367060354219?utm_campaign=1052&utm_source=git)** | San Ramon, CA, United States | Hybrid | Oct 31 |
 | ↳ | **[Tax Intern – Summer 2027](https://jobright.ai/jobs/info/6ab2b3e81e4847ddae915f4d?utm_campaign=1052&utm_source=git)** | San Ramon, CA, United States | Hybrid | Oct 31 |
 | ↳ | **[Tax Intern – Summer 2027](https://jobright.ai/jobs/info/6ab2b3ed8254c44790e56d58?utm_campaign=1052&utm_source=git)** | Bend, OR, United States | Hybrid | Oct 31 |
 | ↳ | **[Tax Intern – Summer 2027](https://jobright.ai/jobs/info/6a97915b69f1367060354208?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 31 |
@@ -110,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Summer Internship - Collateral Operations & Safekeeping](https://jobright.ai/jobs/info/6aac4f412e757fcb5c8b4eb5?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Oct 31 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a7395271ce9647cdbca906a?utm_campaign=1052&utm_source=git)** | Oak Brook, IL, United States | Hybrid | Oct 31 |
 | **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, Assurance and Accounting (Winter 2028)](https://jobright.ai/jobs/info/6a73a6c36a034212ea028ed4?utm_campaign=1052&utm_source=git)** | Campbell River, BC, Canada | On Site | Oct 31 |
-| **[Corevanta Labs](corevantalabs.net)** | **[Finance Accounting Intern](https://jobright.ai/jobs/info/6ae61b9277c09cb3bd4b515d?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 31 |
+| **[Novareth](novareth.us)** | **[Tax Intern](https://jobright.ai/jobs/info/6ae61d56fb2cd420ace60002?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 31 |
 | **[Mechronix](mechronix.net)** | **[Audit Intern](https://jobright.ai/jobs/info/6ae617d1eab1f96730982d27?utm_campaign=1052&utm_source=git)** | Rogers, AR, United States | Hybrid | Oct 31 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Analyst Intern](https://jobright.ai/jobs/info/6aca3e11d113c967e3c77873?utm_campaign=1052&utm_source=git)** | Vancouver, BC, Canada | On Site | Oct 31 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Financial Planning & Analysis Internship](https://jobright.ai/jobs/info/6aad6fb03dbb1f8967ced858?utm_campaign=1052&utm_source=git)** | Bedford, NH, United States | On Site | Oct 31 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York](https://jobright.ai/jobs/info/6aa8c45c3387a3d9b67d3075?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
 | **[Mortenson](https://www.mortenson.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6ac8e892d4a5a0370740fbff?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 31 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2027 / Tax Intern / Woodland Hills (50756)](https://jobright.ai/jobs/info/6a91d7ffa27a2d3c9848a5e5?utm_campaign=1052&utm_source=git)** | Woodland Hills, CA, United States | On Site | Oct 31 |
-| **[Guardian](http://www.guardianlife.com/)** | **[2027 Guardian Summer Intern, Corporate Finance & Risk, Expense Management FP&A](https://jobright.ai/jobs/info/6aacc25c3d96632d741abcf3?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
-| ↳ | **[2027 Guardian Summer Intern, Corporate Finance & Risk - Investment Reporting & Data Analytics](https://jobright.ai/jobs/info/6aacc2173d96632d741abce5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
+| **[Guardian](http://www.guardianlife.com/)** | **[2027 Guardian Summer Intern, Corporate Finance & Risk - Investment Reporting & Data Analytics](https://jobright.ai/jobs/info/6aacc2173d96632d741abce5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
+| ↳ | **[2027 Guardian Summer Intern, Corporate Finance & Risk, Expense Management FP&A](https://jobright.ai/jobs/info/6aacc25c3d96632d741abcf3?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
 | ↳ | **[2027 Guardian Summer Intern, Corporate Finance & Risk - FP&A and Management Reporting](https://jobright.ai/jobs/info/6aacc2972e757fcb5c8b656e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[TDS Bus Ops Co-Op](https://jobright.ai/jobs/info/6ae60304c3139b475b5bbc0a?utm_campaign=1052&utm_source=git)** | Malvern, PA, United States | On Site | Oct 31 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Underwriting Intern - Northeast Region (Providence)](https://jobright.ai/jobs/info/6aac3def95c707f49dff05a7?utm_campaign=1052&utm_source=git)** | Cranston, RI, United States | Hybrid | Oct 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2027 Wealth Management Intern - New York, NY](https://jobright.ai/jobs/info/6ac80de451a1b3e4219f0234?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Summer 2027)](https://jobright.ai/jobs/info/6a84b0dde459fa3baa860083?utm_campaign=1052&utm_source=git)** | Findlay, OH, United States | On Site | Oct 31 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Finance Internship, Summer 2027](https://jobright.ai/jobs/info/6aac14fc636cddf7396f216e?utm_campaign=1052&utm_source=git)** | Lowell, Arkansas, United States | On Site | Oct 31 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Systematic Multi-Strategy Intern](https://jobright.ai/jobs/info/6ac9e89d54d2d210b6dd1455?utm_campaign=1052&utm_source=git)** | Madison, Wisconsin, United States | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

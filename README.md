@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Finance Intern](https://jobright.ai/jobs/info/6aeec3ac0fe787d00ed18acb?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Remote | Nov 06 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Co-Op Staff Accountant](https://jobright.ai/jobs/info/6aeebe119f8e479a8bcfa56f?utm_campaign=1052&utm_source=git)** | Victoria, BC, Canada | On Site | Nov 06 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 ARS Research Summer Intern](https://jobright.ai/jobs/info/6aac3513636cddf7396f2e44?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
 | ↳ | **[2027 Fund Accounting Summer Intern](https://jobright.ai/jobs/info/6aee614dc7498922fe0cc4e7?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
@@ -129,13 +130,13 @@ For a complete list, click the following sortable link below:
 | **[Compass Business Solutions, Inc.](https://wearecompass.com)** | **[Accounting (A&A) Intern - Busy Season/Spring 2027](https://jobright.ai/jobs/info/6a755682972ac843c6999abc?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 06 |
 | ↳ | **[Accounting (A&A) Intern - Summer 2027](https://jobright.ai/jobs/info/6a75567fbb6ca93ae560e582?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 06 |
 | ↳ | **[Accounting (Tax) Intern - Spring/Busy Season- 2027](https://jobright.ai/jobs/info/6a75566eb17cba5690359f80?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | Remote | Nov 06 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b28d0d5ff1f3f1c39de3a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
-| ↳ | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b20011388387060596b77?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b1fecfe45b8490f606eef?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
+| ↳ | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b2a7c2cdc5958f53eb1e3?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Winter 2027 - St. Louis, Missouri](https://jobright.ai/jobs/info/6ae8dd12777c336eb6d670a8?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 06 |
 | **[Vialto](https://vialtopartners.com/)** | **[Global Mobility Tax - Intern](https://jobright.ai/jobs/info/6ab4385364816213f2d97e78?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 06 |
 | ↳ | **[Global Mobility Tax - Winter Intern- Atlanta](https://jobright.ai/jobs/info/6ab2a52578c69ff506c3f7d3?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 06 |
-| ↳ | **[Vialto Private Tax - Winter Intern- Chicago](https://jobright.ai/jobs/info/6ab2f08c1508734c1530cb40?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 06 |
 | ↳ | **[Global Mobility Tax - Winter Intern- Stamford](https://jobright.ai/jobs/info/6ab2a5418254c44790e5641f?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | Hybrid | Nov 06 |
+| ↳ | **[Vialto Private Tax - Winter Intern- Chicago](https://jobright.ai/jobs/info/6ab2f08c1508734c1530cb40?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 06 |
 | **[Shure](http://www.shure.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a9962d9ad752e2ad54ff435?utm_campaign=1052&utm_source=git)** | Niles, IL, United States | Remote | Nov 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Funding/Finance Intern (Summer 2027)](https://jobright.ai/jobs/info/6aee21dbe0c9de7b05f8abce?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Nov 06 |
 | **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Central District (Summer 2027)](https://jobright.ai/jobs/info/6ad2ccf0c4290cef1412cca1?utm_campaign=1052&utm_source=git)** | Fort Lupton, CO, United States | On Site | Nov 06 |
@@ -150,10 +151,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Finance Internship Program- Patient Access](https://jobright.ai/jobs/info/6ab2cbeb30340229a322fc7b?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | ↳ | **[Summer 2027 Finance Internship Program- Budget](https://jobright.ai/jobs/info/6ab2cbe48254c44790e57691?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2027 Actuarial Internship / Fully Onsite](https://jobright.ai/jobs/info/6a5e684f050c423c792eefd0?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 06 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[Inventory Analyst Intern – May 2027 (4-Month Term)](https://jobright.ai/jobs/info/6aee18f0bd2f33eea72d7311?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 06 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2027 / Audit Intern / Providence (50749)](https://jobright.ai/jobs/info/6aee18e9d20350c7a50784ce?utm_campaign=1052&utm_source=git)** | Providence, RI, United States | Hybrid | Nov 06 |
 | ↳ | **[Summer Internship 2027 / Audit Intern / Philadelphia (50748)](https://jobright.ai/jobs/info/6aee1889bd2f33eea72d728f?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 06 |
-| **[Shure](http://www.shure.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a98e976def18223c85509cc?utm_campaign=1052&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
+| **[Shure](http://www.shure.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a989df5c8ed473c5c765216?utm_campaign=1052&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
 | **[Renewal by Andersen](https://www.renewalbyandersen.com)** | **[Strategic Pricing Intern](https://jobright.ai/jobs/info/6aee0a9dc7498922fe0c73a5?utm_campaign=1052&utm_source=git)** | Cottage Grove, MN, United States | On Site | Nov 06 |
 | **[Lennox](http://www.lennox.com)** | **[Shared Services Accounting Intern](https://jobright.ai/jobs/info/6ac91807af788e6ad3b59d05?utm_campaign=1052&utm_source=git)** | Richardson, TX, United States | On Site | Nov 06 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Investments Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6aee28d8caf8e660b87dbcf6?utm_campaign=1052&utm_source=git)** | McKinney, TX, United States | On Site | Nov 06 |

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Co-Op Staff Accountant](https://jobright.ai/jobs/info/6aeebe119f8e479a8bcfa56f?utm_campaign=1052&utm_source=git)** | Victoria, BC, Canada | On Site | Nov 06 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 ARS Research Summer Intern](https://jobright.ai/jobs/info/6aac3513636cddf7396f2e44?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
 | ↳ | **[2027 Fund Accounting Summer Intern](https://jobright.ai/jobs/info/6aee614dc7498922fe0cc4e7?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Asset, Inventory and Travel Accounting Intern](https://jobright.ai/jobs/info/6aee8e9acaf8e660b87e06af?utm_campaign=1052&utm_source=git)** | Portland, OR, United States | Hybrid | Nov 06 |
@@ -76,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Core-Mark International](http://www.core-mark.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6aeea2368022f8ddd319b0b3?utm_campaign=1052&utm_source=git)** | Westlake, TX, United States | On Site | Nov 06 |
 | **[SageSure](https://www.sagesure.com)** | **[Carrier Operations Intern (Portfolio Analytics)](https://jobright.ai/jobs/info/6aee3825caf8e660b87dd37b?utm_campaign=1052&utm_source=git)** | Jersey City, NJ, United States | On Site | Nov 06 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Summer 2027 Finance Internship Program- Risk Management & Insurance](https://jobright.ai/jobs/info/6abbf446d6acfd3dd29faf10?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
+| ↳ | **[Summer 2027 Finance Internship Program -  PSS](https://jobright.ai/jobs/info/6ab6b416b3db59402d101d79?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | ↳ | **[Summer 2027 Finance Internship Program -  Investments](https://jobright.ai/jobs/info/6abd3963064da25272dfc1b7?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | ↳ | **[Summer 2027 Finance Internship Program-  Financial Planning](https://jobright.ai/jobs/info/6ab426bb64816213f2d978d8?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
-| ↳ | **[Summer 2027 Finance Internship Program -  PSS](https://jobright.ai/jobs/info/6ab6b416b3db59402d101d79?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6aee7148d20350c7a507d547?utm_campaign=1052&utm_source=git)** | Byron Center, MI, United States | On Site | Nov 06 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Finance Intern](https://jobright.ai/jobs/info/6aea57d4440b469a1c0ad210?utm_campaign=1052&utm_source=git)** | Columbia, SC, United States | Hybrid | Nov 06 |
 | **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Corporate FP&A Finance Intern – Summer 2027 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6aee64a2c7498922fe0cc62e?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Nov 06 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Compass Business Solutions, Inc.](https://wearecompass.com)** | **[Accounting (A&A) Intern - Busy Season/Spring 2027](https://jobright.ai/jobs/info/6a755682972ac843c6999abc?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 06 |
 | ↳ | **[Accounting (A&A) Intern - Summer 2027](https://jobright.ai/jobs/info/6a75567fbb6ca93ae560e582?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 06 |
 | ↳ | **[Accounting (Tax) Intern - Spring/Busy Season- 2027](https://jobright.ai/jobs/info/6a75566eb17cba5690359f80?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | Remote | Nov 06 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b2a7c2cdc5958f53eb1e3?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
-| ↳ | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b1fecfe45b8490f606eef?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b28d0d5ff1f3f1c39de3a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
+| ↳ | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b20011388387060596b77?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Winter 2027 - St. Louis, Missouri](https://jobright.ai/jobs/info/6ae8dd12777c336eb6d670a8?utm_campaign=1052&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 06 |
 | **[Vialto](https://vialtopartners.com/)** | **[Global Mobility Tax - Intern](https://jobright.ai/jobs/info/6ab4385364816213f2d97e78?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 06 |
 | ↳ | **[Global Mobility Tax - Winter Intern- Atlanta](https://jobright.ai/jobs/info/6ab2a52578c69ff506c3f7d3?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen](https://www.renewalbyandersen.com)** | **[Strategic Pricing Intern](https://jobright.ai/jobs/info/6aee0a9dc7498922fe0c73a5?utm_campaign=1052&utm_source=git)** | Cottage Grove, MN, United States | On Site | Nov 06 |
 | **[Lennox](http://www.lennox.com)** | **[Shared Services Accounting Intern](https://jobright.ai/jobs/info/6ac91807af788e6ad3b59d05?utm_campaign=1052&utm_source=git)** | Richardson, TX, United States | On Site | Nov 06 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Investments Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6aee28d8caf8e660b87dbcf6?utm_campaign=1052&utm_source=git)** | McKinney, TX, United States | On Site | Nov 06 |
-| **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Central District (Summer 2027)](https://jobright.ai/jobs/info/6ae5ca2feab1f967309821de?utm_campaign=1052&utm_source=git)** | Lone Tree, CO, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

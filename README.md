@@ -58,8 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst Intern, Hardware FP&A - Summer 2027](https://jobright.ai/jobs/info/6af3acca80020ca3a89785a6?utm_campaign=1052&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 10 |
+| **[LISI AEROSPACE NORTH AMERICA](http://www.lisi-aerospace.com)** | **[FINANCE INTERN](https://jobright.ai/jobs/info/6af3c5485b41d0b65741ff34?utm_campaign=1052&utm_source=git)** | City of Industry, CA, United States | On Site | Nov 10 |
+| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Trading Intern](https://jobright.ai/jobs/info/6af40b1fe229a09f4237a1c9?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 10 |
 | **[CrossCountry Freight Solutions](https://www.shipcc.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6af3bf7d80020ca3a8978d02?utm_campaign=1052&utm_source=git)** | Bismarck, ND, United States | On Site | Nov 10 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6acfc5e6c9f40bec907fe0d1?utm_campaign=1052&utm_source=git)** | Bismarck, ND, United States | On Site | Nov 10 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Accounting (Spring 2027 - Denver, CO))](https://jobright.ai/jobs/info/6af3b3def6053e296fc7f61c?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Nov 10 |
 | **[Wipfli](http://www.wipfli.com)** | **[Audit Internship – Summer 2028](https://jobright.ai/jobs/info/6ad9fbaf3a69033df2254912?utm_campaign=1052&utm_source=git)** | Fort Collins, CO, United States | On Site | Nov 10 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6af397a0769e9374033c7efb?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Nov 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6ababf001acb8fc6f09c14b2?utm_campaign=1052&utm_source=git)** | Folsom, NJ, United States | Hybrid | Nov 10 |
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6ababe56be5f1e93251171e0?utm_campaign=1052&utm_source=git)** | Folsom, NJ, United States | Hybrid | Nov 10 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Tax Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae90b98777c336eb6d6910a?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | Hybrid | Nov 10 |
-| **[South Jersey Industries](https://www.sjindustries.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6ababf057220f52e62ae8003?utm_campaign=1052&utm_source=git)** | Folsom, NJ, United States | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

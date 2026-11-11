@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Everest](https://www.everestglobal.com/)** | **[2027 Underwriter Summer Internship Program](https://jobright.ai/jobs/info/6aa8aac510b1cd4f41603311?utm_campaign=1052&utm_source=git)** | Warren, NJ, United States | Hybrid | Nov 11 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2027 DC/Tysons Summer Intern](https://jobright.ai/jobs/info/6ad79196950ef68d5184148a?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Nov 11 |
+| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Internal Audit & Risk Advisory Services -2](https://jobright.ai/jobs/info/6aea38e4440b469a1c0abd73?utm_campaign=1052&utm_source=git)** | AZ, United States | On Site | Nov 11 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Family Office- Estate Planning Intern](https://jobright.ai/jobs/info/6a9ae73990a313642c656994?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Nov 11 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern - Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6ad77f2e54bbabbab06fefa0?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 11 |
 | **[Newell Brands](https://www.newellbrands.com/)** | **[2027 Newell Brands Intern- Finance](https://jobright.ai/jobs/info/6af433f4942df8dece52c3c9?utm_campaign=1052&utm_source=git)** | Sandy Springs, GA, United States | On Site | Nov 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2028 (Dallas)](https://jobright.ai/jobs/info/6af3847080020ca3a897683b?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Nov 10 |
 | ↳ | **[Tax Intern, Transfer Pricing - Summer 2027 (Orange County)](https://jobright.ai/jobs/info/6af3846e10c7aed77861b4f0?utm_campaign=1052&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 10 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quantitative Investment Internship Program - Summer 2027](https://jobright.ai/jobs/info/6ace7d374391691a335acd76?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 10 |
-| **[Clairvest Group Inc.](http://www.clairvest.com)** | **[Private Equity Senior Associate Intern (2027)](https://jobright.ai/jobs/info/6af37c914ac248020e8d17d6?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 10 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Finance Intern - Summer 2027](https://jobright.ai/jobs/info/6af3777210c7aed77861aad6?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Nov 10 |
-| **[German American Bank](https://germanamerican.com/)** | **[Wealth Advisory Intern](https://jobright.ai/jobs/info/6ae0ee6505a39c3e2c70e2a3?utm_campaign=1052&utm_source=git)** | Evansville, IN, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

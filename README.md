@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lutron Electronics](http://www.lutron.com/)** | **[Summer 2027 - Finance Intern - Lehigh Valley, PA](https://jobright.ai/jobs/info/6acee3b04391691a335aecec?utm_campaign=1052&utm_source=git)** | Coopersburg, PA, United States | On Site | Nov 11 |
+| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Finance System Project Support (International Student)](https://jobright.ai/jobs/info/6af42a3b9aac15a56d824ca8?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Nov 11 |
+| ↳ | **[Internship in Productivity Development (International Student)](https://jobright.ai/jobs/info/6af42a3055dfd18e245c3571?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Nov 11 |
+| ↳ | **[Internship in Purchasing (International Student)](https://jobright.ai/jobs/info/6af42a2f42ec235b83f1332c?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Nov 11 |
+| ↳ | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6af42a2e9aac15a56d824c99?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Nov 11 |
+| ↳ | **[Internship in Central Controlling (International Student)](https://jobright.ai/jobs/info/6af42a2b9aac15a56d824c94?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Nov 11 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst Intern, Hardware FP&A - Summer 2027](https://jobright.ai/jobs/info/6af3acca80020ca3a89785a6?utm_campaign=1052&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 10 |
 | **[LISI AEROSPACE NORTH AMERICA](http://www.lisi-aerospace.com)** | **[FINANCE INTERN](https://jobright.ai/jobs/info/6af3c5485b41d0b65741ff34?utm_campaign=1052&utm_source=git)** | City of Industry, CA, United States | On Site | Nov 10 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Trading Intern](https://jobright.ai/jobs/info/6af40b1fe229a09f4237a1c9?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Related Management Company](http://www.related.com)** | **[2027 Summer Analyst, Financial Planning & Operations](https://jobright.ai/jobs/info/6af3582980020ca3a8974ae6?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6af368297c81de7a524bf0dc?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 10 |
 | **[Prologis](http://www.prologis.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6ad6887e3dc655658d8e73f6?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Nov 10 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2027: Commercial Finance Internship, Americas (May through August)](https://jobright.ai/jobs/info/6af367bdf6053e296fc7c0ba?utm_campaign=1052&utm_source=git)** | Needham, MA, United States | On Site | Nov 10 |
-| ↳ | **[Summer 2027: Category Finance Intern (May through August)](https://jobright.ai/jobs/info/6af367b910c7aed778619f4e?utm_campaign=1052&utm_source=git)** | Needham, MA, United States | On Site | Nov 10 |
-| **[Selective Insurance](https://www.selective.com/)** | **[IT Planning and Management Summer Internship – Short Hills, NJ (Hybrid)](https://jobright.ai/jobs/info/6a9f951568f82b403673d62b?utm_campaign=1052&utm_source=git)** | Short Hills, NJ, United States | Hybrid | Nov 10 |
-| **[South Jersey Industries](https://www.sjindustries.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6ababf001acb8fc6f09c14b2?utm_campaign=1052&utm_source=git)** | Folsom, NJ, United States | Hybrid | Nov 10 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6ababe56be5f1e93251171e0?utm_campaign=1052&utm_source=git)** | Folsom, NJ, United States | Hybrid | Nov 10 |
-| **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Tax Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae90b98777c336eb6d6910a?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

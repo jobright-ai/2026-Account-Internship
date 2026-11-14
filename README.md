@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Accounting Internship Summer 2027](https://jobright.ai/jobs/info/6af80cf44ddfc50167b9590d?utm_campaign=1052&utm_source=git)** | Wisconsin Dells, WI, United States | On Site | Nov 13 |
 | **[TD](https://www.td.com)** | **[Commercial Banking Intern / Co-Op (Winter 2027)](https://jobright.ai/jobs/info/6af7ace83ba46d7b6c168f65?utm_campaign=1052&utm_source=git)** | Victoria, BC, Canada | On Site | Nov 13 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2027 Summer Intern - Audit (Charlotte, NC)](https://jobright.ai/jobs/info/6af74123d0eefb7d11b8a68e?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 13 |
 | **[HUB International](https://www.hubinternational.com)** | **[Technology Business Management Planning Intern](https://jobright.ai/jobs/info/6af78fd9d0eefb7d11b8dd28?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 13 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Frank, Rimerman + Co. LLP](http://www.frankrimerman.com/)** | **[Rotational Accounting Internship - Summer 2027 - San Francisco](https://jobright.ai/jobs/info/6af7932d3ba46d7b6c1685cc?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 13 |
 | **[ArchKey Solutions](https://www.archkey.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6af7785041166cab7564bdfd?utm_campaign=1052&utm_source=git)** | Clinton, MD, United States | On Site | Nov 13 |
 | **[The Hartford](https://www.thehartford.com)** | **[Global Re Underwriting Internship](https://jobright.ai/jobs/info/6af6029879862a378dcefd03?utm_campaign=1052&utm_source=git)** | Coral Gables, FL, United States | On Site | Nov 13 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 13 |
-| ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af2416b905985ccaa40b0de?utm_campaign=1052&utm_source=git)** | La Jolla, CA, United States | On Site | Nov 13 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af2416b905985ccaa40b0de?utm_campaign=1052&utm_source=git)** | La Jolla, CA, United States | On Site | Nov 13 |
+| ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 13 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6af78fb6d0eefb7d11b8dcf2?utm_campaign=1052&utm_source=git)** | Green Bay, WI, United States | Hybrid | Nov 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Long Island (49577)](https://jobright.ai/jobs/info/6af75b9a41166cab7564ab15?utm_campaign=1052&utm_source=git)** | Jericho, NY, United States | Hybrid | Nov 13 |
 | **[Slim Chickens](http://slimchickens.com/)** | **[Finance Intern - Spring 2027](https://jobright.ai/jobs/info/6af7773d8242286400645883?utm_campaign=1052&utm_source=git)** | Fayetteville, AR, United States | On Site | Nov 13 |
@@ -134,9 +135,9 @@ For a complete list, click the following sortable link below:
 | **[ATLAS Navigators, LLC](https://atlasfirms.com/)** | **[2027 Audit Internship](https://jobright.ai/jobs/info/6af75d853ba46d7b6c166011?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 13 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Analyst Intern - Accounting (2027 Start Date)](https://jobright.ai/jobs/info/6af75d35e3d8d612bf422ae9?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Nov 13 |
 | **[Galaxy](https://www.galaxy.com)** | **[2027 Investment Banking Summer Analyst - NYC](https://jobright.ai/jobs/info/6aea8400fc85f3a39433451c?utm_campaign=1052&utm_source=git)** | New York City, NY, United States | On Site | Nov 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Internal Audit - Operational Audit)](https://jobright.ai/jobs/info/6aa16329500b01124c77c6d0?utm_campaign=1052&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Finance)](https://jobright.ai/jobs/info/6aa163252f936e4a53dab77c?utm_campaign=1052&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | ↳ | **[Summer Associate Internship (Internal Audit - Operational Audit)](https://jobright.ai/jobs/info/6aa168bc3272060a8e3ef979?utm_campaign=1052&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
-| ↳ | **[Summer Associate Internship (Finance)](https://jobright.ai/jobs/info/6aa168b0500b01124c77c7b2?utm_campaign=1052&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
+| ↳ | **[Summer Associate Internship (Internal Audit - Operational Audit)](https://jobright.ai/jobs/info/6aa16329500b01124c77c6d0?utm_campaign=1052&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 13 |
 | **[ESCO Automation](http://theescogroup.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6af75ac7e3d8d612bf42295b?utm_campaign=1052&utm_source=git)** | Marion, IA, United States | On Site | Nov 13 |
 | **[Church & Dwight Co., Inc.](http://churchdwight.com)** | **[2027 Undergraduate Summer Corporate Accounting Intern](https://jobright.ai/jobs/info/6aa3c047c5a856ac7e33b704?utm_campaign=1052&utm_source=git)** | Ewing, NJ, United States | Hybrid | Nov 13 |
 | **[Lydian Energy](https://www.lydianenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6af759e88242286400644626?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Tax Intern - Summer 2027](https://jobright.ai/jobs/info/6af72220c7349029d7092777?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
 | ↳ | **[Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6af72222824228640064204c?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
 | ↳ | **[Cash Management Intern - Summer 2027](https://jobright.ai/jobs/info/6af73e80e3d8d612bf42152c?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
-| ↳ | **[Post Closing Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6af73e8541166cab75649501?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
 | ↳ | **[Insurance Risk Intern - Summer 2027](https://jobright.ai/jobs/info/6af72222824228640064204d?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
+| ↳ | **[Post Closing Audit Intern - Summer 2027](https://jobright.ai/jobs/info/6af73e8541166cab75649501?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
 | ↳ | **[Treasury Operations Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6af72230c7349029d7092781?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
 | ↳ | **[Investor Relations Intern - Summer 2027](https://jobright.ai/jobs/info/6af72222d0eefb7d11b89286?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
-| ↳ | **[Financial Planning & Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6af722213ba46d7b6c16372e?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2027 International Tax Intern](https://jobright.ai/jobs/info/6afa376e1465de0d45f85ae0?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 15 |
+| **[Retire with Stocks](retirewithstocks.com)** | **[Investor Relations Intern in Hanover, NH](https://jobright.ai/jobs/info/6afa38da9501ee962016007c?utm_campaign=1052&utm_source=git)** | Hanover, NH, United States | Hybrid | Nov 15 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern – Real Estate Services](https://jobright.ai/jobs/info/6af38d3580020ca3a8976e09?utm_campaign=1052&utm_source=git)** | North Carolina, United States | Remote | Nov 15 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Audit Intern - Winter 2027](https://jobright.ai/jobs/info/6afa0d619501ee962015fa5c?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 15 |
 | **[TTX Company](http://www.ttx.com)** | **[Finance Intern - Controls & Governance](https://jobright.ai/jobs/info/6ac7a96c0e573df8adc738b7?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 15 |
@@ -110,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Intern / Accounting](https://jobright.ai/jobs/info/6aa9677428e24cb38513a34f?utm_campaign=1052&utm_source=git)** | South Sioux City, NE, United States | On Site | Nov 15 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: Finance Transformation & Analytics Intern](https://jobright.ai/jobs/info/6abfe2b4064da25272e066f9?utm_campaign=1052&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 15 |
 | **[MOHELA](https://www.mohela.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6abd9bb8d9621c5b2838d35e?utm_campaign=1052&utm_source=git)** | O'Fallon, MO, United States | On Site | Nov 15 |
-| **[UPS](http://www.ups.com)** | **[Treasury Payment Strategy Office Intern](https://jobright.ai/jobs/info/6aaaac25c85610f4a4840d42?utm_campaign=1052&utm_source=git)** | United States | On Site | Nov 15 |
+| **[UPS](http://www.ups.com)** | **[Treasury Payment Strategy Office Intern](https://jobright.ai/jobs/info/6aaaac158e1bf0f764af5980?utm_campaign=1052&utm_source=git)** | United States | On Site | Nov 15 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Damages & Valuations (Summer 2027)](https://jobright.ai/jobs/info/6aa3bdb74233a2201a2b3461?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Nov 15 |
 | **[Beacon Bank](https://www.beaconbank.com)** | **[Commercial Credit Underwriter Intern](https://jobright.ai/jobs/info/6af7861541166cab7564c712?utm_campaign=1052&utm_source=git)** | Albany, NY, United States | On Site | Nov 15 |
 | ↳ | **[Commercial Credit Underwriter Intern](https://jobright.ai/jobs/info/6af78612c7349029d7096ab5?utm_campaign=1052&utm_source=git)** | Albany, NY, United States | On Site | Nov 15 |
@@ -131,9 +133,9 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Tax Intern - Spring 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/6adc7f2e46a8cabdc1ff7563?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 14 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Clearing Analyst Intern](https://jobright.ai/jobs/info/6adbc32e5dc7953215a34521?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 14 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Interns - Summer 2027 - Albuquerque, NM](https://jobright.ai/jobs/info/6aa37f4a5c11cce3603643fa?utm_campaign=1052&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 14 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Sales and Use Tax](https://jobright.ai/jobs/info/6abc58be2668e0eab35c1bd8?utm_campaign=1052&utm_source=git)** | The Woodlands, TX, United States | On Site | Nov 14 |
-| ↳ | **[Summer 2027 Intern, Sales and Use Tax](https://jobright.ai/jobs/info/6abc50622668e0eab35c1a82?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Nov 14 |
-| ↳ | **[Summer 2027 Intern, Sales and Use Tax](https://jobright.ai/jobs/info/6abc1eda92b2612ef0f8d0c6?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Nov 14 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Sales and Use Tax](https://jobright.ai/jobs/info/6abc5058752643de1e5d7984?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Nov 14 |
+| ↳ | **[Summer 2027 Intern, Sales and Use Tax](https://jobright.ai/jobs/info/6abc505673339662c77237d8?utm_campaign=1052&utm_source=git)** | The Woodlands, TX, United States | On Site | Nov 14 |
+| ↳ | **[Summer 2027 Intern, Sales and Use Tax](https://jobright.ai/jobs/info/6abc17043217d1d13329cfbb?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Nov 14 |
 | ↳ | **[Summer 2027 Intern, Sales and Use Tax](https://jobright.ai/jobs/info/6ae910ce061d6d7ff3d80279?utm_campaign=1052&utm_source=git)** | Mississauga, ON, Canada | On Site | Nov 14 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Risk Analyst)](https://jobright.ai/jobs/info/6aa16324500b01124c77c6c8?utm_campaign=1052&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
 | ↳ | **[Summer Associate Internship (Credit Risk Analyst)](https://jobright.ai/jobs/info/6aa16835500b01124c77c798?utm_campaign=1052&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6af77d09e3d8d612bf42417e?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6af895a84ddfc50167b98887?utm_campaign=1052&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 14 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Middle Market Commercial Underwriting Intern](https://jobright.ai/jobs/info/6af88f4ecb5a5d4a77fcc93e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 14 |
-| **[Constellation](https://www.constellationenergy.com)** | **[2027 Structuring & Portfolio Management Intern - San Diego, CA](https://jobright.ai/jobs/info/6aecc360465e3d237138151e?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 14 |
-| **[National Life Group](https://www.nationallife.com)** | **[Actuarial Intern  - Summer 2027](https://jobright.ai/jobs/info/6a860e234afae74a08342fb3?utm_campaign=1052&utm_source=git)** | Addison, TX, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

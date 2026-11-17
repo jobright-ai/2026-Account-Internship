@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CKH Group](https://www.ckhgroup.com/)** | **[Accounting Internship - Atlanta](https://jobright.ai/jobs/info/6afc07841c71d952627f03dc?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 16 |
+| ↳ | **[Accounting Internship - Hawkinsville](https://jobright.ai/jobs/info/6954cac5f1f8465b79ebff19?utm_campaign=1052&utm_source=git)** | Hawkinsville, GA | On Site | Nov 16 |
+| **[VertoTech](vertotech.net)** | **[Income/ Revenue Accounting Intern](https://jobright.ai/jobs/info/6afc03678074edef8dd61f35?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Remote | Nov 16 |
 | **[Coinbase](https://www.coinbase.com)** | **[Internal Audit Analytics Intern](https://jobright.ai/jobs/info/6ab1dd7cd2a93d5a97ebd13c?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
 | ↳ | **[Tax Information Reporting Intern](https://jobright.ai/jobs/info/6ab1eae0d43eb922ca0c16da?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Revenue Accounting (PCL)](https://jobright.ai/jobs/info/6afb1665484fef921e047708?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
@@ -86,11 +89,11 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Blue Bell, PA Summer 2027)](https://jobright.ai/jobs/info/6afb68227d1820d918c2a1a8?utm_campaign=1052&utm_source=git)** | Blue Bell, PA, United States | On Site | Nov 16 |
 | **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a558abd2084cd792b4791e5?utm_campaign=1052&utm_source=git)** | Flushing, NY, United States | On Site | Nov 16 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Finance (Undergraduate)](https://jobright.ai/jobs/info/6afb9305be8589f0b74bf5ee?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 16 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51cd7d1820d918c28ef7?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
-| ↳ | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51d57f9ead6668ea0e22?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Assurance Summer Intern - Financial Services](https://jobright.ai/jobs/info/6afb61095305ed998d91d361?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
-| ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 16 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51d57f9ead6668ea0e22?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
+| ↳ | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51cd7d1820d918c28ef7?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 16 |
 | ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af2416b905985ccaa40b0de?utm_campaign=1052&utm_source=git)** | La Jolla, CA, United States | On Site | Nov 16 |
+| ↳ | **[2027 Assurance Summer Intern - Financial Services](https://jobright.ai/jobs/info/6afb61095305ed998d91d361?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/6afa9d229331e23f79cdd944?utm_campaign=1052&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 16 |
 | ↳ | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Operations](https://jobright.ai/jobs/info/6afa9d22948d1faa554e05fa?utm_campaign=1052&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 16 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6af22ffc905985ccaa40a5f7?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[QBE North America](https://www.qbe.com/us)** | **[Alternative Risk Transfer Underwriting Intern](https://jobright.ai/jobs/info/6afb4f79484fef921e04a12e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Channel | Your Partner in Funding](http://www.channelpartnerscapital.com/)** | **[Strategic Finance Intern - Part Time](https://jobright.ai/jobs/info/6afb153d5305ed998d919a33?utm_campaign=1052&utm_source=git)** | Minnetonka, MN, United States | On Site | Nov 16 |
 | **[Advantage Capital](http://www.advantagecap.com/)** | **[Investment Summer Analyst (Summer 2027 Start Date)](https://jobright.ai/jobs/info/6af88c4186a9b19681afa4b2?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
-| **[Genuine Parts Company](http://genpt.com)** | **[Finance and Accounting Internship - Summer 2027](https://jobright.ai/jobs/info/6afb1be504af1c9f075c3f70?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 16 |
-| **[Vontier](https://www.vontier.com)** | **[INTERN-Internal Audit & Accounting (Raleigh, NC-Masters Program)](https://jobright.ai/jobs/info/6ae8bc9ba2a252e219428c91?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 16 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Commercial Credit Admin Intern](https://jobright.ai/jobs/info/6afb4c67317abe715a262dc4?utm_campaign=1052&utm_source=git)** | Rockland, MA, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

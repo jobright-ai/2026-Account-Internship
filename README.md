@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corevanta Labs](corevantalabs.net)** | **[Audit Intern](https://jobright.ai/jobs/info/6afc17d41e98d304ea7ef19f?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 17 |
 | **[CKH Group](https://www.ckhgroup.com/)** | **[Accounting Internship - Atlanta](https://jobright.ai/jobs/info/6afc07841c71d952627f03dc?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 16 |
 | ↳ | **[Accounting Internship - Hawkinsville](https://jobright.ai/jobs/info/6954cac5f1f8465b79ebff19?utm_campaign=1052&utm_source=git)** | Hawkinsville, GA | On Site | Nov 16 |
 | **[VertoTech](vertotech.net)** | **[Income/ Revenue Accounting Intern](https://jobright.ai/jobs/info/6afc03678074edef8dd61f35?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Remote | Nov 16 |
@@ -89,13 +90,13 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Blue Bell, PA Summer 2027)](https://jobright.ai/jobs/info/6afb68227d1820d918c2a1a8?utm_campaign=1052&utm_source=git)** | Blue Bell, PA, United States | On Site | Nov 16 |
 | **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a558abd2084cd792b4791e5?utm_campaign=1052&utm_source=git)** | Flushing, NY, United States | On Site | Nov 16 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Finance (Undergraduate)](https://jobright.ai/jobs/info/6afb9305be8589f0b74bf5ee?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 16 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51d57f9ead6668ea0e22?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
-| ↳ | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51cd7d1820d918c28ef7?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51cd7d1820d918c28ef7?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
+| ↳ | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51d57f9ead6668ea0e22?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 16 |
 | ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af2416b905985ccaa40b0de?utm_campaign=1052&utm_source=git)** | La Jolla, CA, United States | On Site | Nov 16 |
 | ↳ | **[2027 Assurance Summer Intern - Financial Services](https://jobright.ai/jobs/info/6afb61095305ed998d91d361?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/6afa9d229331e23f79cdd944?utm_campaign=1052&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 16 |
-| ↳ | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Operations](https://jobright.ai/jobs/info/6afa9d22948d1faa554e05fa?utm_campaign=1052&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 16 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Operations](https://jobright.ai/jobs/info/6afa9d22948d1faa554e05fa?utm_campaign=1052&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 16 |
+| ↳ | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/6afa9d229331e23f79cdd944?utm_campaign=1052&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 16 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6af22ffc905985ccaa40a5f7?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 16 |
 | **[Highgate](https://www.highgate.com)** | **[Intern - Finance (Summer 2027)](https://jobright.ai/jobs/info/6ae91182a2a252e21942c833?utm_campaign=1052&utm_source=git)** | New Orleans, LA, United States | On Site | Nov 16 |
 | **[Kroll](http://www.kroll.com)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/6afb16ce5305ed998d919b57?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Frost](https://www.frostbank.com/)** | **[Frost Summer Internship - Commercial Banking](https://jobright.ai/jobs/info/6afb6f62c5917ce34b5dad78?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 16 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Finance (Graduate)](https://jobright.ai/jobs/info/6afb930706c0aac84dd97318?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 16 |
 | **[KEB](http://kebcpa.com)** | **[Administrative Intern - Tax Services](https://jobright.ai/jobs/info/6af4ab911b2c5dcbbcd63242?utm_campaign=1052&utm_source=git)** | Springfield, IL, United States | On Site | Nov 16 |
-| **[Bask Health](https://www.bask.bio/)** | **[Billing Operations Intern](https://jobright.ai/jobs/info/6afbe18829e5a8844e655d92?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 16 |
-| ↳ | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6afbe18340b855eb290c84af?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 16 |
+| **[Bask Health](https://www.bask.bio/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6afbe18340b855eb290c84af?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 16 |
+| ↳ | **[Billing Operations Intern](https://jobright.ai/jobs/info/6afbe18829e5a8844e655d92?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Finance Intern - Undergrad Summer 2027](https://jobright.ai/jobs/info/6ae91f7efb2cd420ace6c4d4?utm_campaign=1052&utm_source=git)** | Santa Clara, CA, United States | Hybrid | Nov 16 |
 | **[First Guaranty Bank](https://www.fgb.net/)** | **[Internal Audit Internship](https://jobright.ai/jobs/info/6afb95ebb2e06df257975dc7?utm_campaign=1052&utm_source=git)** | Hammond, LA, United States | On Site | Nov 16 |
 | **[EC M&A](http://ec-ma.com/)** | **[2027 Winter Investment Banking Analyst Intern - New York](https://jobright.ai/jobs/info/6af78fc6e3d8d612bf424c15?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Finance Intern](https://jobright.ai/jobs/info/6afb59ef317abe715a2637b0?utm_campaign=1052&utm_source=git)** | Dublin, CA, United States | On Site | Nov 16 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Alternative Risk Transfer Underwriting Intern](https://jobright.ai/jobs/info/6afb4f79484fef921e04a12e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Channel | Your Partner in Funding](http://www.channelpartnerscapital.com/)** | **[Strategic Finance Intern - Part Time](https://jobright.ai/jobs/info/6afb153d5305ed998d919a33?utm_campaign=1052&utm_source=git)** | Minnetonka, MN, United States | On Site | Nov 16 |
-| **[Advantage Capital](http://www.advantagecap.com/)** | **[Investment Summer Analyst (Summer 2027 Start Date)](https://jobright.ai/jobs/info/6af88c4186a9b19681afa4b2?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

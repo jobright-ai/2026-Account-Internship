@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Finance AI & Data Analytics Intern, Undergraduate - LIFT Program](https://jobright.ai/jobs/info/6afbd50f07bef169f5ffe1a7?utm_campaign=1052&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 16 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Financial Risk](https://jobright.ai/jobs/info/6afb685c7d1820d918c2a1ee?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Remote | Nov 16 |
 | **[Commonwealth Financial Network](http://www.commonwealth.com)** | **[Investment Research Intern](https://jobright.ai/jobs/info/6afb2d687f9ead6668e9f0b9?utm_campaign=1052&utm_source=git)** | Waltham, MA, United States | On Site | Nov 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate Billing Solutions Analyst​ (Customer Operations)](https://jobright.ai/jobs/info/6afba30dc96cba79575c0ef9?utm_campaign=1052&utm_source=git)** | Maryland Heights, MO, United States | On Site | Nov 16 |
@@ -73,11 +74,11 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Blue Bell, PA Summer 2027)](https://jobright.ai/jobs/info/6afb68227d1820d918c2a1a8?utm_campaign=1052&utm_source=git)** | Blue Bell, PA, United States | On Site | Nov 16 |
 | **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a558abd2084cd792b4791e5?utm_campaign=1052&utm_source=git)** | Flushing, NY, United States | On Site | Nov 16 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Finance (Undergraduate)](https://jobright.ai/jobs/info/6afb9305be8589f0b74bf5ee?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 16 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51cd7d1820d918c28ef7?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
-| ↳ | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51d57f9ead6668ea0e22?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 16 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51d57f9ead6668ea0e22?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
+| ↳ | **[Intern - Global Audit](https://jobright.ai/jobs/info/6afb51cd7d1820d918c28ef7?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 16 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Assurance Summer Intern - Financial Services](https://jobright.ai/jobs/info/6afb61095305ed998d91d361?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
 | ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af2416b905985ccaa40b0de?utm_campaign=1052&utm_source=git)** | La Jolla, CA, United States | On Site | Nov 16 |
-| ↳ | **[2027 Assurance Summer Intern - Financial Services](https://jobright.ai/jobs/info/6afb61095305ed998d91d361?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
+| ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 16 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Operations](https://jobright.ai/jobs/info/6afa9d22948d1faa554e05fa?utm_campaign=1052&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 16 |
 | ↳ | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/6afa9d229331e23f79cdd944?utm_campaign=1052&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 16 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6af22ffc905985ccaa40a5f7?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2027 Accounting and Finance Intern](https://jobright.ai/jobs/info/6afb22f45305ed998d91a1da?utm_campaign=1052&utm_source=git)** | Davidson, NC, United States | On Site | Nov 16 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Internal Audit Internship](https://jobright.ai/jobs/info/6afb2787317abe715a2610f5?utm_campaign=1052&utm_source=git)** | Livonia, MI, United States | On Site | Nov 16 |
 | **[Centene Corporation](http://centene.com)** | **[Actuarial Summer 2027 Intern (Undergraduate)](https://jobright.ai/jobs/info/6afb26aa04af1c9f075c459a?utm_campaign=1052&utm_source=git)** | Missouri, United States | Remote | Nov 16 |
-| **[General Motors](https://www.gm.com)** | **[2027 Summer Finance Treasury MBA Intern](https://jobright.ai/jobs/info/6afb3361484fef921e048c3d?utm_campaign=1052&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

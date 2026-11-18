@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2027 Summer Intern - IT Internal Audit](https://jobright.ai/jobs/info/6afcf819e0cdcfc911431932?utm_campaign=1052&utm_source=git)** | Wilmington, MA, United States | Hybrid | Nov 17 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[Fiscal College Intern (PN 20036323)](https://jobright.ai/jobs/info/6afd3f7122d5c881bd1c0546?utm_campaign=1052&utm_source=git)** | Cambridge, OH, United States | On Site | Nov 17 |
+| **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Finance and Business Analytics Intern](https://jobright.ai/jobs/info/6afc8a6093c0a36328a8c7ba?utm_campaign=1052&utm_source=git)** | United States | Remote | Nov 17 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Commercial Banking Intern Waco, TX](https://jobright.ai/jobs/info/6afce75094232f5ac42d3204?utm_campaign=1052&utm_source=git)** | Waco, TX, United States | On Site | Nov 17 |
 | **[UPS](http://www.ups.com)** | **[Procurement Summer Internship 2027](https://jobright.ai/jobs/info/6a96f270d13b4819f39ddddf?utm_campaign=1052&utm_source=git)** | United States | On Site | Nov 17 |
 | **[Coinbase](https://www.coinbase.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6aa099dc3b5aa83237b0a223?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[WD](https://www.westerndigital.com)** | **[Summer 2027 Intern - Financial Analyst - Undergraduate & MBA](https://jobright.ai/jobs/info/6aa0998bea127c37946981a2?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Nov 17 |
 | **[Synerga Partners](synergapartners.com)** | **[Audit Intern](https://jobright.ai/jobs/info/6afd2de2af5227454a93c469?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 17 |
 | **[National Basketball Players Association (NBPA)](https://basketball-bros.org/)** | **[BRI Summer Intern](https://jobright.ai/jobs/info/6afd1646e326e9c297f6c6de?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 17 |
-| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2027 Analytics Internship](https://jobright.ai/jobs/info/6a973991e4e60e4b8da5cddc?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 17 |
-| ↳ | **[UPS Global Finance & Accounting Summer 2027 Internship](https://jobright.ai/jobs/info/6a975107b22f636c8141752b?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 17 |
+| **[UPS](http://www.ups.com)** | **[UPS Global Finance & Accounting Summer 2027 Internship](https://jobright.ai/jobs/info/6a975107b22f636c8141752b?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 17 |
+| ↳ | **[UPS Global Finance Summer 2027 Analytics Internship](https://jobright.ai/jobs/info/6a973991e4e60e4b8da5cddc?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 17 |
 | **[Genworth](https://www.genworth.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6afd2a04c287c018be3aa08e?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 17 |
 | **[IMT Insurance](http://imtins.com)** | **[Actuary Intern](https://jobright.ai/jobs/info/6aed808dd20350c7a5073aa9?utm_campaign=1052&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 17 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6af020587bf8e8b9eaf81c4f?utm_campaign=1052&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 17 |
@@ -81,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Phoenix - Tax Seasonal - Seasonal Intern - Winter 2027](https://jobright.ai/jobs/info/6afcaa5ad163750294925719?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 17 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Business Valuation Intern - Summer 2027 - Nashville, TN](https://jobright.ai/jobs/info/6afc89236919d6792ef9ee49?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Nov 17 |
 | **[Rush Street Interactive](https://rushstreetinteractive.com/)** | **[Risk and Payments Internship- Spring 2027](https://jobright.ai/jobs/info/6aa43026f7baf881567cdacf?utm_campaign=1052&utm_source=git)** | Collingswood, NJ, United States | Hybrid | Nov 17 |
-| **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Kiewit Energy Canada](https://jobright.ai/jobs/info/6afccf82e8a9612f4e0dbc90?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 17 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af2416b905985ccaa40b0de?utm_campaign=1052&utm_source=git)** | La Jolla, CA, United States | On Site | Nov 17 |
-| ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 17 |
+| **[Kiewit](http://www.kiewit.com)** | **[Finance Analyst Intern - Kiewit Energy Canada](https://jobright.ai/jobs/info/6afcd4ade8a9612f4e0dbfd4?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 17 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af20b6f1116f6f0a0764a3e?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 17 |
+| ↳ | **[2027 Tax Summer Intern - Private Client Services (PCS)](https://jobright.ai/jobs/info/6af2416b905985ccaa40b0de?utm_campaign=1052&utm_source=git)** | La Jolla, CA, United States | On Site | Nov 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Akron)](https://jobright.ai/jobs/info/6afcca8d94232f5ac42d1e1b?utm_campaign=1052&utm_source=git)** | Akron, OH, United States | On Site | Nov 17 |
 | ↳ | **[Assurance Intern - Winter 2027 (Salt Lake City)](https://jobright.ai/jobs/info/6afcca8bd86c15318a38e488?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 17 |
 | **[Kroll](http://www.kroll.com)** | **[Intern, Transaction Opinions](https://jobright.ai/jobs/info/6afc90576919d6792ef9f2f3?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[State Street Investment Management - Investment Solutions Group - 2027 Summer Internship](https://jobright.ai/jobs/info/6afc6d5a755d7cdf658006ac?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Nov 17 |
 | **[Corient](https://corient.com)** | **[Wealth Management Intern (Summer 2027, Denver)](https://jobright.ai/jobs/info/6a909afbd96ad228f12622fd?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 17 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Financial Services - Winter 2027 (NYC)](https://jobright.ai/jobs/info/6afc907393c0a36328a8cad7?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
-| **[Triada Tax Services LLC](https://www.facebook.com/Triada-Tax-Services-LLC-2177096215885929/)** | **[Tax Internship](https://jobright.ai/jobs/info/6afc93c3e4190296fd33dc24?utm_campaign=1052&utm_source=git)** | Columbia, IL, United States | On Site | Nov 17 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Accounting Intern (January 2027 Start Date)](https://jobright.ai/jobs/info/6afc5cff07bef169f5000a6d?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

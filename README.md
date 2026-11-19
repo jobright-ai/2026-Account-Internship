@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson Block & Company, Inc.](http://johnsonblock.com)** | **[Spring 2028 Tax Intern](https://jobright.ai/jobs/info/6afe9cc194233208f6594d72?utm_campaign=1052&utm_source=git)** | Mineral Point, WI 53565, United States | On Site | Nov 18 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern-Property and Casualty Underwriting-Underwriter](https://jobright.ai/jobs/info/6afe813121364a3788bced01?utm_campaign=1052&utm_source=git)** | Bloomington, IL, United States | Hybrid | Nov 18 |
 | ↳ | **[Summer 2027 Intern-Property and Casualty Underwriting-Underwriter](https://jobright.ai/jobs/info/6afe812d94233208f65948c4?utm_campaign=1052&utm_source=git)** | Richardson, TX, United States | Hybrid | Nov 18 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Finance &amp; Accounting Internship](https://jobright.ai/jobs/info/6afdf3978cffea7c97c8eb6f?utm_campaign=1052&utm_source=git)** | Glendale, AZ, United States | On Site | Nov 18 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6ac5a44e4ac55253f5d777b3?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6ae274621f9d9308370b23de?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6ac858ea6355f8776ff14f84?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | On Site | Nov 18 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6afe48158cffea7c97c91d7d?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6ac008230e027c0f3b39f6bc?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6ac858ea6355f8776ff14f84?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | On Site | Nov 18 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Student Intern, Fin Acct & Lgl](https://jobright.ai/jobs/info/6afe69ac758942b6422b9a6d?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Nov 18 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Student Intern, Fin Acct & Lgl](https://jobright.ai/jobs/info/6afe65c3f170d82b39673a1c?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Nov 18 |
 | **[Wipfli](http://www.wipfli.com)** | **[Audit Internship - Spring 2028](https://jobright.ai/jobs/info/6aebd314765815f7d746403f?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 18 |
@@ -94,11 +95,14 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2027 Rotational Finance Intern](https://jobright.ai/jobs/info/6afe20620324c008a17e47ea?utm_campaign=1052&utm_source=git)** | Kansas City, KS, United States | On Site | Nov 18 |
 | **[Sony Electronics](http://www.sony.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/6afe02c10cde47528ec10e69?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Nov 18 |
 | **[iCapital](https://icapital.com)** | **[Corporate Finance - Summer 2027 Intern](https://jobright.ai/jobs/info/6afdfd928cffea7c97c8f16e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 18 |
+| **[UPS](http://www.ups.com)** | **[Procurement Summer Internship 2027](https://jobright.ai/jobs/info/6a96f270d13b4819f39ddddf?utm_campaign=1052&utm_source=git)** | United States | On Site | Nov 18 |
+| ↳ | **[UPS Global Finance & Accounting Summer 2027 Internship](https://jobright.ai/jobs/info/6a975107b22f636c8141752b?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 18 |
+| ↳ | **[UPS Global Finance Summer 2027 Analytics Internship](https://jobright.ai/jobs/info/6a973991e4e60e4b8da5cddc?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 18 |
 | **[ICAP](http://www.icap.com)** | **[TP ICAP Global Broking Summer 2027 Intern Program](https://jobright.ai/jobs/info/6afe05278cffea7c97c8f5e5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 18 |
 | **[AMH](https://www.amh.com)** | **[Acquisitions and Dispositions Intern](https://jobright.ai/jobs/info/6afe3559758942b6422b881a?utm_campaign=1052&utm_source=git)** | Las Vegas, NV, United States | On Site | Nov 18 |
 | **[STAR Financial Bank](https://www.starfinancial.com)** | **[PERSONAL BANKER INTERN - ZIONSVILLE HIGH SCHOOL STUDENT INTERN (SPRING 2027)](https://jobright.ai/jobs/info/6afdfaedf170d82b39670242?utm_campaign=1052&utm_source=git)** | Zionsville, Indiana, United States | On Site | Nov 18 |
-| **[Sotera Health Company](https://soterahealth.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6acfe96f12303667b98a1019?utm_campaign=1052&utm_source=git)** | Broadview Heights, OH, United States | Hybrid | Nov 18 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6acfe98b2cc4e9d17e90b28e?utm_campaign=1052&utm_source=git)** | Broadview Heights, OH, United States | Hybrid | Nov 18 |
+| **[Sotera Health Company](https://soterahealth.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6acfe98b2cc4e9d17e90b28e?utm_campaign=1052&utm_source=git)** | Broadview Heights, OH, United States | Hybrid | Nov 18 |
+| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6acfe96f12303667b98a1019?utm_campaign=1052&utm_source=git)** | Broadview Heights, OH, United States | Hybrid | Nov 18 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Intern, Financial Planning and Analysis (Summer 2027)](https://jobright.ai/jobs/info/6afe01ac0cde47528ec10e14?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 18 |
 | **[Ames Construction](https://www.amesconstruction.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6afe03f78cffea7c97c8f514?utm_campaign=1052&utm_source=git)** | Burnsville, MN, United States | On Site | Nov 18 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Portfolio Strategy Intern (MBA)](https://jobright.ai/jobs/info/6afe0d300324c008a17e3d72?utm_campaign=1052&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 18 |
@@ -114,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Ag Appraisal Intern](https://jobright.ai/jobs/info/6afdda9e8cffea7c97c8d914?utm_campaign=1052&utm_source=git)** | Pasco, WA, United States | On Site | Nov 18 |
 | **[CSM Corporation](https://csmcorp.net/)** | **[Financial Planning & Analysis Intern / Summer 2027](https://jobright.ai/jobs/info/6afe06b4758942b6422b6a01?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 18 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Tax Accounting Intern - Spring 2027](https://jobright.ai/jobs/info/6afe216af170d82b39671915?utm_campaign=1052&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 18 |
-| **[COLSA](http://www.colsa.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/6afdf366f170d82b3966fda6?utm_campaign=1052&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 18 |
+| **[COLSA](http://www.colsa.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/6afdf3920324c008a17e2ed0?utm_campaign=1052&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 18 |
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/6afe1e9b0324c008a17e4720?utm_campaign=1052&utm_source=git)** | 12500 West Creek Pkwy | On Site | Nov 18 |
 | **[Hungerford](http://hungerfordnichols.com)** | **[2028 Tax Intern - Muskegon](https://jobright.ai/jobs/info/6aaa95338e1bf0f764af53f6?utm_campaign=1052&utm_source=git)** | Muskegon, MI, United States | On Site | Nov 18 |
 | **[Doeren Mayhew](http://doeren.com)** | **[Financial Institutions Audit Intern](https://jobright.ai/jobs/info/6afe1d59758942b6422b76f1?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Nov 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management - US Wealth - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae9f85e32411b3e5a2e329e?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Nov 18 |
 | **[Wipfli](http://www.wipfli.com)** | **[Tax Internship – Spring 2028](https://jobright.ai/jobs/info/6aeb602ca0b134121d999efd?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Nov 18 |
 | **[The First National Bank in Sioux Falls](http://fnbsf.com)** | **[Ag Banking Intern - Summer 2027](https://jobright.ai/jobs/info/6afded55f3e7976cc610a3b4?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 18 |
-| **[JLL](http://www.jll.com/)** | **[Accounting Summer 2027 Internship - Westmont, IL](https://jobright.ai/jobs/info/6afdea6e758942b6422b5844?utm_campaign=1052&utm_source=git)** | Westmont, IL, United States | On Site | Nov 18 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Boston)](https://jobright.ai/jobs/info/6afdc072758942b6422b3905?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Nov 18 |
-| **[Lennox](http://www.lennox.com)** | **[Finance/Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6afde591758942b6422b5458?utm_campaign=1052&utm_source=git)** | West Columbia, SC, United States | On Site | Nov 18 |
-| **[Hasbro](https://shop.hasbro.com)** | **[2027 Summer Finance Internships](https://jobright.ai/jobs/info/6ae179aa829a3bada15fd7f2?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

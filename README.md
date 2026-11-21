@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a9076b37c32860d14cf98b6?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 21 |
+| **[Rehlko](https://www.kohlerpower.in)** | **[Finance & Accounting Intern 2027](https://jobright.ai/jobs/info/6aab1fd98e1bf0f764af8a4c?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 21 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Economics (Summer 2027)](https://jobright.ai/jobs/info/6aabfc333dbb1f8967ce8230?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Nov 21 |
+| **[Aegon Asset Management](https://www.aegonam.com)** | **[Internship - Real Assets - Aegon AM (Jan. - Aug. 2027)](https://jobright.ai/jobs/info/6adbe27c46a8cabdc1ff5901?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA, United States | Hybrid | Nov 21 |
+| **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[General Accounting Intern](https://jobright.ai/jobs/info/6aabe8123e3ce93970c7aa42?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Nov 21 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Operations and Innovation Intern](https://jobright.ai/jobs/info/6ac8b4cbfe8f33a85d5008c2?utm_campaign=1052&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 21 |
+| ↳ | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a9076b37c32860d14cf98b6?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 21 |
 | ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a52e509d007ee02d95f97f1?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 21 |
 | ↳ | **[2028 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6a8f14c7d7c91d0cf446d6c2?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 21 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 MBA Internship Program - Investments - Direct Private Opportunities - Portfolio Management - New York](https://jobright.ai/jobs/info/6aff79cfb47661ae4a62d046?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Operations and Innovation Intern](https://jobright.ai/jobs/info/6ac8b4cbfe8f33a85d5008c2?utm_campaign=1052&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 21 |
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Finance Intern Summer 2027](https://jobright.ai/jobs/info/6ad5c1f754bbabbab06ef175?utm_campaign=1052&utm_source=git)** | New Albany, OH, United States | On Site | Nov 21 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit or Tax Japanese Business Services Intern](https://jobright.ai/jobs/info/6a909b0bd96ad228f1262306?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Nov 21 |
 | **[Badger Meter](http://badgermeter.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6ac7bc0851a1b3e4219ee254?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 21 |
@@ -92,11 +96,11 @@ For a complete list, click the following sortable link below:
 | **[Santander](https://www.santander.com)** | **[2027 Market Risk Summer Intern](https://jobright.ai/jobs/info/6b00d7462ad6cde5ef24f7bd?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Fortress OS](https://www.fortresstech.io)** | **[EAFF Summer Intern - Accounting](https://jobright.ai/jobs/info/6aee59e4d20350c7a507c80f?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Nov 20 |
 | **[Northstar Aerospace](https://www.nsaero.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6b00ea6b2ad6cde5ef25009a?utm_campaign=1052&utm_source=git)** | Bedford Park, IL, United States | On Site | Nov 20 |
-| **[Wilshire](http://wilshire.com/)** | **[Internship: Investment Solutions (Summer 2027)](https://jobright.ai/jobs/info/6b00e51fdf73191d2e6af6ea?utm_campaign=1052&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
+| **[Wilshire](http://wilshire.com/)** | **[Internship: Investment Solutions (Summer 2027)](https://jobright.ai/jobs/info/6b00e51df6ef85c61a50d71f?utm_campaign=1052&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Internal Operations Intern - Winter 2027 - North Texas](https://jobright.ai/jobs/info/6b00a016d1fe3bc162e3d5b9?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Nov 20 |
 | **[Adient](https://www.adient.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6af238281aaffa49f7382d1c?utm_campaign=1052&utm_source=git)** | Plymouth, MI, United States | On Site | Nov 20 |
-| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[Treasury Intern](https://jobright.ai/jobs/info/6b00a43f89d8ca1e849580e8?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 20 |
-| ↳ | **[Store Operations Finance Intern](https://jobright.ai/jobs/info/6b00a4400f536e0ba7275c4d?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 20 |
+| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[Store Operations Finance Intern](https://jobright.ai/jobs/info/6b00a4400f536e0ba7275c4d?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 20 |
+| ↳ | **[Treasury Intern](https://jobright.ai/jobs/info/6b00a43f89d8ca1e849580e8?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 20 |
 | ↳ | **[General Accounting Intern](https://jobright.ai/jobs/info/6b00a444dfa58e4c244dd10e?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 20 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Financial Planning Analyst Intern - Store Operations —Summer 2027](https://jobright.ai/jobs/info/6b00b07a3a9a0230ab029a79?utm_campaign=1052&utm_source=git)** | Burlington, Vermont, United States | Hybrid | Nov 20 |
 | **[CERATIZIT](http://www.ceratizit.com/)** | **[Finance Co-op/Intern](https://jobright.ai/jobs/info/6b00e2b5df73191d2e6af5e3?utm_campaign=1052&utm_source=git)** | Towanda, Pennsylvania, United States | On Site | Nov 20 |
@@ -109,16 +113,16 @@ For a complete list, click the following sortable link below:
 | **[iCapital](https://icapital.com)** | **[Portfolio Management - Summer 2027 Intern](https://jobright.ai/jobs/info/6b009f2b3a9a0230ab029092?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Framatome North America](http://www.framatome.com)** | **[Intern - Univ Non-Tech (Finance Intern-Project Controls & Invoicing)](https://jobright.ai/jobs/info/6b00d5d8a512f514bbde0dee?utm_campaign=1052&utm_source=git)** | Lynchburg, VA, United States | On Site | Nov 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Accounting Coordinator](https://jobright.ai/jobs/info/6b0083de3a9a0230ab027f01?utm_campaign=1052&utm_source=git)** | Brandon, MB, Canada | On Site | Nov 20 |
-| **[EP Wealth Advisors](https://www.epwealth.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976389d8ca1e84957924?utm_campaign=1052&utm_source=git)** | Vancouver, WA, United States | On Site | Nov 20 |
-| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b0097640f536e0ba7275572?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | On Site | Nov 20 |
+| **[EP Wealth Advisors](https://www.epwealth.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976fe0dc96195928256a?utm_campaign=1052&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
+| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976289d8ca1e84957921?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
+| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976389d8ca1e84957924?utm_campaign=1052&utm_source=git)** | Vancouver, WA, United States | On Site | Nov 20 |
+| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976289d8ca1e84957923?utm_campaign=1052&utm_source=git)** | Brighton, Michigan, United States | On Site | Nov 20 |
 | ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b0097680f536e0ba7275576?utm_campaign=1052&utm_source=git)** | Santa Fe, NM, United States | On Site | Nov 20 |
-| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b009776e0dc96195928256f?utm_campaign=1052&utm_source=git)** | Skokie, IL, United States | On Site | Nov 20 |
 | ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976c0f536e0ba727557a?utm_campaign=1052&utm_source=git)** | Norwood, MA, United States | On Site | Nov 20 |
 | ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b0097653a9a0230ab028b77?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 20 |
-| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976289d8ca1e84957923?utm_campaign=1052&utm_source=git)** | Brighton, Michigan, United States | On Site | Nov 20 |
-| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976289d8ca1e84957921?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
+| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b009776e0dc96195928256f?utm_campaign=1052&utm_source=git)** | Skokie, IL, United States | On Site | Nov 20 |
 | ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b009760d1fe3bc162e3d0be?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA, United States | On Site | Nov 20 |
-| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b00976fe0dc96195928256a?utm_campaign=1052&utm_source=git)** | Torrance, CA, United States | On Site | Nov 20 |
+| ↳ | **[Wealth Management Intern](https://jobright.ai/jobs/info/6b0097640f536e0ba7275572?utm_campaign=1052&utm_source=git)** | Irvine, CA, United States | On Site | Nov 20 |
 | **[Nova-Tech Engineering](https://nteglobal.com/)** | **[Accounting Specialist Internship](https://jobright.ai/jobs/info/6b00d2a4a512f514bbde0d40?utm_campaign=1052&utm_source=git)** | Willmar, MN, United States | On Site | Nov 20 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Risk Services Internship](https://jobright.ai/jobs/info/6b00baf8e0dc961959283bf3?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 20 |
 | **[GlassRatner](http://glassratner.com)** | **[Intern](https://jobright.ai/jobs/info/6b00d0d60ae14188d58c1b74?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Nov 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Accounting/Finance (Full-Time)](https://jobright.ai/jobs/info/6b00956189d8ca1e849577ce?utm_campaign=1052&utm_source=git)** | Ronks, PA, United States | On Site | Nov 20 |
 | **[The LPX Group](http://www.loupaving.com/)** | **[2027 Internship, Accounting Data Analytics](https://jobright.ai/jobs/info/6b0095160f536e0ba72753c0?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Nov 20 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6aeb4f9af40efa43f4a15db9?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Nov 20 |
-| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6aff1de672b9be368528e7d7?utm_campaign=1052&utm_source=git)** | Clifton, NJ, United States | On Site | Nov 20 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship](https://jobright.ai/jobs/info/6b00589fd1fe3bc162e3ae62?utm_campaign=1052&utm_source=git)** | Clifton, NJ, United States | On Site | Nov 20 |
-| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 Credit Summer Intern](https://jobright.ai/jobs/info/6b00740f3a9a0230ab027501?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Nov 20 |
-| **[Chesapeake Bank](https://ches.bank)** | **[Banking Intern](https://jobright.ai/jobs/info/6b008e02d1fe3bc162e3cb30?utm_campaign=1052&utm_source=git)** | Kilmarnock, Virginia, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

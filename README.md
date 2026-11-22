@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soman Forensic & Valuation CPAs](https://somanforensics.com)** | **[Forensic Accounting Spring Semester Intern](https://jobright.ai/jobs/info/6b022349bf981a0458227be6?utm_campaign=1052&utm_source=git)** | Boca Raton, FL, United States | On Site | Nov 21 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Tax Operations](https://jobright.ai/jobs/info/6ae51185c3139b475b5b8901?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Nov 21 |
 | **[Brilyon Ventures](brilyonventures.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6b01f581fbf556e62aa2ac24?utm_campaign=1052&utm_source=git)** | San Fernando, CA, United States | On Site | Nov 21 |
 | **[Stratagem One](stratagemone.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/6b01e9fbf6ef85c61a510268?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Nov 21 |
@@ -78,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Commercial Banking Intern Raleigh, NC](https://jobright.ai/jobs/info/6ad170b0256e49282e65536c?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Greenville, SC](https://jobright.ai/jobs/info/6ad260a7f04335fc70ed52b9?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Nov 21 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Accounting Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6aac1df7636cddf7396f2544?utm_campaign=1052&utm_source=git)** | Bedford, NH, United States | On Site | Nov 21 |
-| ↳ | **[Financial Planning & Analysis Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6aafa030de327d3e210d6d66?utm_campaign=1052&utm_source=git)** | Bedford, NH, United States | On Site | Nov 21 |
+| ↳ | **[Financial Planning & Analysis Internship Job Details / Safran DSI](https://jobright.ai/jobs/info/6aad6fb03dbb1f8967ced858?utm_campaign=1052&utm_source=git)** | Bedford, NH, United States | On Site | Nov 21 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York](https://jobright.ai/jobs/info/6aa8c45c3387a3d9b67d3075?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Summer Intern - Market Risk](https://jobright.ai/jobs/info/6ac7f2330e573df8adc75408?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Mortenson](https://www.mortenson.com)** | **[Risk Management Intern](https://jobright.ai/jobs/info/6ac8e892d4a5a0370740fbff?utm_campaign=1052&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 21 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Internship - Real Assets - Aegon AM (Jan. - Aug. 2027)](https://jobright.ai/jobs/info/6adbe27c46a8cabdc1ff5901?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA, United States | Hybrid | Nov 21 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[General Accounting Intern](https://jobright.ai/jobs/info/6aabe8123e3ce93970c7aa42?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Nov 21 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 Tax Operations and Innovation Intern](https://jobright.ai/jobs/info/6ac8b4cbfe8f33a85d5008c2?utm_campaign=1052&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 21 |
-| ↳ | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a9076b37c32860d14cf98b6?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 21 |
 | ↳ | **[2027 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a52e509d007ee02d95f97f1?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 21 |
+| ↳ | **[2028 Tax Solutions Group Intern](https://jobright.ai/jobs/info/6a9076b37c32860d14cf98b6?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 21 |
 | ↳ | **[2028 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6a8f14c7d7c91d0cf446d6c2?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 21 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 MBA Internship Program - Investments - Direct Private Opportunities - Portfolio Management - New York](https://jobright.ai/jobs/info/6aff79cfb47661ae4a62d046?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Finance Intern Summer 2027](https://jobright.ai/jobs/info/6ad5c1f754bbabbab06ef175?utm_campaign=1052&utm_source=git)** | New Albany, OH, United States | On Site | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2028 (Cleveland)](https://jobright.ai/jobs/info/6aaaba95f6bd9d2d17c190f2?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 21 |
 | ↳ | **[Assurance Intern - Summer 2027 (Omaha)](https://jobright.ai/jobs/info/6ae4f7c7d45dc30fb7d34096?utm_campaign=1052&utm_source=git)** | Omaha, NE, United States | On Site | Nov 21 |
 | **[TMX Group](http://www.tmx.com)** | **[Cash Management Officer - Tax Intern](https://jobright.ai/jobs/info/6adbf2d946a8cabdc1ff5c87?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 21 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2028 (Charlotte)](https://jobright.ai/jobs/info/6aabc87e636cddf7396f0e5c?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

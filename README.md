@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of Rock Hill, SC](https://cityofrockhill.com)** | **[2027 Summer Collegiate Internship Program (Finance Department) (50259)](https://jobright.ai/jobs/info/6b06849939133b8734a9e830?utm_campaign=1052&utm_source=git)** | Rock Hill, SC, United States | On Site | Nov 24 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Finance Intern (Year-Round)](https://jobright.ai/jobs/info/6b05e74f460ce5352ae3c6e8?utm_campaign=1052&utm_source=git)** | Reno, NV, United States | On Site | Nov 24 |
 | **[Related Companies](http://www.related.com/)** | **[2027 Summer Analyst, Real Estate Development (Related Ross)](https://jobright.ai/jobs/info/6ab3ac99561f49270c07113e?utm_campaign=1052&utm_source=git)** | West Palm Beach, FL, United States | On Site | Nov 24 |
 | **[Cascade Management, Inc.](http://cascade-management.com)** | **[Portfolio Manager Specialist](https://jobright.ai/jobs/info/6a9720f5e4e60e4b8da5c3f2?utm_campaign=1052&utm_source=git)** | Tigard, OR, United States | Hybrid | Nov 24 |
 | **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Treasury Services Intern](https://jobright.ai/jobs/info/6b06769e780d96a5ccba5934?utm_campaign=1052&utm_source=git)** | Orem, UT, United States | On Site | Nov 24 |
@@ -73,12 +74,12 @@ For a complete list, click the following sortable link below:
 | **[Central Bank](https://www.centralbank.net)** | **[Loan Review & Comm Lending Intern - Summer 2027](https://jobright.ai/jobs/info/6b0614100e7eacd1ea645dac?utm_campaign=1052&utm_source=git)** | Lee's Summit, MO, United States | On Site | Nov 24 |
 | ↳ | **[Wealth Management Intern - Summer 2027](https://jobright.ai/jobs/info/6b0614103e56157448ed3426?utm_campaign=1052&utm_source=git)** | Lee's Summit, MO, United States | On Site | Nov 24 |
 | **[State Group Automation (formerly Fletcher Group Automation)](https://www.fletchergroupautomation.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6b0662fade976ed75330696e?utm_campaign=1052&utm_source=git)** | Franklin, TN, United States | On Site | Nov 24 |
-| **[Univest](http://www.univest.net/)** | **[SBA Credit Intern](https://jobright.ai/jobs/info/6b05a57363d280053ef839c6?utm_campaign=1052&utm_source=git)** | West Lawn, PA, United States | On Site | Nov 24 |
+| **[Univest](http://www.univest.net/)** | **[SBA Credit Intern](https://jobright.ai/jobs/info/6b05a93cd43f730eab594f09?utm_campaign=1052&utm_source=git)** | West Lawn, PA, United States | On Site | Nov 24 |
 | **[KKR](http://www.kkr.com)** | **[Infrastructure – 2027 MBA Internship Program](https://jobright.ai/jobs/info/6ae0b4ba1f9d9308370a3174?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
-| **[Corient](https://corient.com)** | **[Wealth Management Intern (Summer 2027, Newport Beach)](https://jobright.ai/jobs/info/6a91cf40d18f75674827a4eb?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Nov 24 |
-| ↳ | **[Wealth Management Intern (Summer 2027, Seattle)](https://jobright.ai/jobs/info/6a909b14d96ad228f1262308?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 24 |
+| **[Corient](https://corient.com)** | **[Wealth Management Intern (Summer 2027, Shaker Heights)](https://jobright.ai/jobs/info/6aa0b92cdbc0e60e37e0f649?utm_campaign=1052&utm_source=git)** | Shaker Heights, OH, United States | Hybrid | Nov 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Cincinnati)](https://jobright.ai/jobs/info/6a95c3c14c22023a07935a16?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 24 |
-| ↳ | **[Wealth Management Intern (Summer 2027, Shaker Heights)](https://jobright.ai/jobs/info/6aa0b92cdbc0e60e37e0f649?utm_campaign=1052&utm_source=git)** | Shaker Heights, OH, United States | Hybrid | Nov 24 |
+| ↳ | **[Wealth Management Intern (Summer 2027, Newport Beach)](https://jobright.ai/jobs/info/6a91cf40d18f75674827a4eb?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | Hybrid | Nov 24 |
+| ↳ | **[Wealth Management Intern (Summer 2027, Seattle)](https://jobright.ai/jobs/info/6a909b14d96ad228f1262308?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, St. Petersburg)](https://jobright.ai/jobs/info/6a95afd8c8763a3a87ffb630?utm_campaign=1052&utm_source=git)** | St. Petersburg, FL, United States | Hybrid | Nov 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, San Diego)](https://jobright.ai/jobs/info/6a95afda3843db0159906876?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 24 |
 | ↳ | **[Wealth Management Intern (Summer 2027, Portland, ME)](https://jobright.ai/jobs/info/6ad7bf19e4b94611ab84852e?utm_campaign=1052&utm_source=git)** | Portland, ME, United States | Hybrid | Nov 24 |
@@ -91,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[Allianz](https://www.allianz.com)** | **[Actuarial Analyst Intern](https://jobright.ai/jobs/info/6b05e98f3e56157448ed1c3e?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 24 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management (Abilene, TX Summer 2027)](https://jobright.ai/jobs/info/6b06254271c8f4e3660ebe73?utm_campaign=1052&utm_source=git)** | Abilene, TX, United States | On Site | Nov 24 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Financial Accounting](https://jobright.ai/jobs/info/6b05ded3d43f730eab596e8f?utm_campaign=1052&utm_source=git)** | Fargo, ND, United States | On Site | Nov 24 |
-| **[Kroll](http://www.kroll.com)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b2a7c2cdc5958f53eb1e3?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
-| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2027](https://jobright.ai/jobs/info/6b060b0bdbad4c4bd2503b82?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ, United States | On Site | Nov 24 |
-| ↳ | **[Business Controlling Intern – Summer 2027](https://jobright.ai/jobs/info/6b060adcdbad4c4bd2503b6c?utm_campaign=1052&utm_source=git)** | Madison Heights, MI, United States | On Site | Nov 24 |
+| **[Kroll](http://www.kroll.com)** | **[Intern, Transfer Pricing](https://jobright.ai/jobs/info/6a9b28cb9c24314c35f98037?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
+| **[Henkel](http://www.henkel.com)** | **[Business Controlling Intern – Summer 2027](https://jobright.ai/jobs/info/6b060ac30e7eacd1ea6457df?utm_campaign=1052&utm_source=git)** | Madison Heights, MI, United States | On Site | Nov 24 |
 | ↳ | **[Business Controlling Intern – Summer 2027](https://jobright.ai/jobs/info/6b060b29460ce5352ae3dad5?utm_campaign=1052&utm_source=git)** | Rocky Hill, CT, United States | On Site | Nov 24 |
+| ↳ | **[Business Controlling Intern – Summer 2027](https://jobright.ai/jobs/info/6b060b1e45a65b5da366dba7?utm_campaign=1052&utm_source=git)** | Bridgewater, NJ, United States | On Site | Nov 24 |
 | ↳ | **[Financial Reporting & Advanced Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6b060ad671c8f4e3660eaecd?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | On Site | Nov 24 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Accounting](https://jobright.ai/jobs/info/6a62f35a7c70964cbb054e23?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 24 |
 | **[Koch](https://www.kochinc.com)** | **[Natural Gas Analyst Intern](https://jobright.ai/jobs/info/6b0621bf460ce5352ae3e8b4?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Nov 24 |
@@ -116,10 +117,10 @@ For a complete list, click the following sortable link below:
 | **[RJ Young](http://www.rjyoung.com/)** | **[Accounting Administrative Internship](https://jobright.ai/jobs/info/6b06014d3e56157448ed2a3f?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | On Site | Nov 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Public Investments Quantitative Analyst Intern, Summer 2027](https://jobright.ai/jobs/info/6b05fb93dbad4c4bd250340d?utm_campaign=1052&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 24 |
 | **[Wipfli](http://www.wipfli.com)** | **[Audit Internship, Summer 2028](https://jobright.ai/jobs/info/6b05b47e2835ccc63ff53e6f?utm_campaign=1052&utm_source=git)** | Missoula, MT, United States | On Site | Nov 24 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6b05fb6b45a65b5da366d460?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 24 |
-| ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ad7c4f5e4b94611ab848863?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
-| ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ac81fd2fcdafb60c6a47c5a?utm_campaign=1052&utm_source=git)** | Menlo Park, CA, United States | On Site | Nov 24 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ad7c4f5e4b94611ab848863?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
+| ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ac81fd351a1b3e4219f0873?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 24 |
 | ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ae3ce2bfb2cd420ace542e6?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Nov 24 |
+| ↳ | **[Commercial Lending Intern](https://jobright.ai/jobs/info/6ac81fd2fcdafb60c6a47c5a?utm_campaign=1052&utm_source=git)** | Menlo Park, CA, United States | On Site | Nov 24 |
 | **[Teachers Federal Credit Union](http://www.teachersfcu.org)** | **[Consumer Underwriting Intern](https://jobright.ai/jobs/info/6b05de1d0a025d0ca4ff6351?utm_campaign=1052&utm_source=git)** | Hauppauge, NY, United States | On Site | Nov 24 |
 | ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/6b05de4863d280053ef85bee?utm_campaign=1052&utm_source=git)** | Hauppauge, NY, United States | On Site | Nov 24 |
 | **[Comcast](https://corporate.comcast.com)** | **[Spring 2027 Accounting Intern](https://jobright.ai/jobs/info/6b05bde2707ad7f35053a1cc?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Corporate Performance & Audit](https://jobright.ai/jobs/info/6b05d6cc2835ccc63ff5538a?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, United States | Hybrid | Nov 24 |
 | ↳ | **[Intern-Underwriting, Large Group](https://jobright.ai/jobs/info/6b05d6c9707ad7f35053b0e6?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, United States | Hybrid | Nov 24 |
 | ↳ | **[Intern-Financial Planning & Analysis](https://jobright.ai/jobs/info/6b05d6c12cb8a4d8561c728a?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, United States | Hybrid | Nov 24 |
-| **[Reliance Matrix](https://reliancematrix.com)** | **[Underwriting & Risk Summer Internship](https://jobright.ai/jobs/info/6ace48e6ba99f15ef4123f04?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
